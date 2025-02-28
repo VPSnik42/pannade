@@ -1,0 +1,25 @@
+{
+    "name": "Amy Sexton",
+    "age": 10,
+    "address": {
+        "street": "Joshua Stravenue",
+        "city": "Andrewbury",
+        "state": "Hawaii",
+        "zip": "80454"
+    },
+    "contact": {
+        "phone": "493.336.9006",
+        "servicePhone": "800702520"
+    },
+    "birthday": "2015-10-04",
+    "ip": "183.62.136.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Seven what week store deep task. Go successful guess natural.\nLawyer bank should ground their direction produce seven. Open glass me officer together available. Federal real always project late.",
+        "bio": "Whether politics well remain early sell college. Rate Congress performance consider keep none nature.\nModern unit rise body. Look international official church."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
