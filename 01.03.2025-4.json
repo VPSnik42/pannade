@@ -1,0 +1,25 @@
+{
+    "name": "Debbie Alexander",
+    "age": 33,
+    "address": {
+        "street": "Blake Burg",
+        "city": "New Linda",
+        "state": "Montana",
+        "zip": "73600"
+    },
+    "contact": {
+        "phone": "+1-737-649-1291x159",
+        "servicePhone": "800145735"
+    },
+    "birthday": "1992-05-11",
+    "ip": "106.63.236.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Investment prepare again idea idea cold just. Least idea manage if major only.\nRun point can hour message ever describe conference. Best ball vote third hand six.",
+        "bio": "Treatment though audience very fast various administration. Rise stock Democrat popular young system.\nMeeting catch PM rock card. Even understand technology find."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
