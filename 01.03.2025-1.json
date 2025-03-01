@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Holden",
+    "age": 104,
+    "address": {
+        "street": "Justin Summit",
+        "city": "Josephton",
+        "state": "North Carolina",
+        "zip": "28054"
+    },
+    "contact": {
+        "phone": "728.988.9768x3689",
+        "servicePhone": "800294628"
+    },
+    "birthday": "1921-03-06",
+    "ip": "79.233.91.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder information full talk. Subject great culture TV. Like value fill world team whatever. Keep debate save ask black.",
+        "bio": "Move develop guess approach.\nReady much near sell election hold bring adult. Girl major time hot interview arm write. Rule same north former wide. Power agreement base doctor night."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
