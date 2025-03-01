@@ -1,0 +1,25 @@
+{
+    "name": "Paul Trevino",
+    "age": 115,
+    "address": {
+        "street": "Charles Ridge",
+        "city": "West Raymondview",
+        "state": "Illinois",
+        "zip": "73668"
+    },
+    "contact": {
+        "phone": "001-633-459-1748x191",
+        "servicePhone": "800483408"
+    },
+    "birthday": "1910-23-08",
+    "ip": "64.45.163.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Several color pull board bank standard president industry. Assume wife catch teacher prepare marriage thank.\nEither hour usually spring. Security go girl television rate try true.",
+        "bio": "Discussion usually option view project.\nBusiness move act senior. Able identify near skin.\nBlood seek meet allow cell describe ready. Hair three shake group process. Agree quite street statement."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
