@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Charles Brown",
+    "age": 37,
+    "address": {
+        "street": "Hernandez Heights",
+        "city": "West Sheenaside",
+        "state": "Arizona",
+        "zip": "31163"
+    },
+    "contact": {
+        "phone": "+1-253-680-1357x23757",
+        "servicePhone": "800999321"
+    },
+    "birthday": "1988-07-02",
+    "ip": "52.132.5.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Tv east gas other black prepare. Miss money doctor base difficult.\nGround remember report bag movement. Land religious audience current prepare speak health.",
+        "bio": "Them miss in help huge office.\nMyself moment Republican young.\nReduce blue hundred natural middle treatment. Task moment guy and shake billion near."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
