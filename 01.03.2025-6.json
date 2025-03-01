@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Corey Hawkins",
+    "age": 33,
+    "address": {
+        "street": "Lindsay Square",
+        "city": "Suarezfort",
+        "state": "Florida",
+        "zip": "61144"
+    },
+    "contact": {
+        "phone": "(841)716-0664",
+        "servicePhone": "800259728"
+    },
+    "birthday": "1992-17-02",
+    "ip": "137.235.226.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen base son west else approach. Dinner bring special everything safe well. Begin reach American business recently value girl.",
+        "bio": "Past must man indeed office trade stay leave. According chair yet capital example help."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
