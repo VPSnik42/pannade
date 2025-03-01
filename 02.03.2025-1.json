@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Hamilton",
+    "age": 44,
+    "address": {
+        "street": "Andersen Mills",
+        "city": "Stricklandchester",
+        "state": "Nebraska",
+        "zip": "93407"
+    },
+    "contact": {
+        "phone": "560.265.5391",
+        "servicePhone": "800446405"
+    },
+    "birthday": "1981-17-01",
+    "ip": "137.5.65.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Traditional school either fact evening suffer your themselves. Important claim hospital stock. Mouth set marriage later.\nYour subject send mouth hold black. Man bring great.",
+        "bio": "Mind information all trip song water military education. Project hard sit good.\nProtect wide candidate idea hair seat what example. Lead this politics owner look interest."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
