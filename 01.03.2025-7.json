@@ -1,0 +1,25 @@
+{
+    "name": "John Guerrero",
+    "age": 48,
+    "address": {
+        "street": "Gina Corners",
+        "city": "South Jason",
+        "state": "Maine",
+        "zip": "18016"
+    },
+    "contact": {
+        "phone": "(704)625-9630x23688",
+        "servicePhone": "800419685"
+    },
+    "birthday": "1977-01-08",
+    "ip": "96.203.29.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Wish unit couple wrong term total rise. Around agreement over another something technology. Year course detail worker.",
+        "bio": "Article realize she personal. That which movement. Finish available sit you summer. Yeah either determine detail record.\nDecade light accept. Shoulder technology suffer place draw water step."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
