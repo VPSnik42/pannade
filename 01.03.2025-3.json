@@ -1,0 +1,25 @@
+{
+    "name": "Monica Hunter",
+    "age": 64,
+    "address": {
+        "street": "Diane Walk",
+        "city": "Port Henry",
+        "state": "Missouri",
+        "zip": "92344"
+    },
+    "contact": {
+        "phone": "(433)592-2166",
+        "servicePhone": "800828131"
+    },
+    "birthday": "1961-25-08",
+    "ip": "189.233.142.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Data research minute yeah. Stand second religious concern American. Notice the standard believe own debate. Your store minute job race standard course.",
+        "bio": "Scientist staff book candidate say. Area growth office budget child.\nCollection whom Mr front respond responsibility quality throughout. Great compare up oil record."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
