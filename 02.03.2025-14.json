@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Arnold",
+    "age": 97,
+    "address": {
+        "street": "Miller Causeway",
+        "city": "Krauseport",
+        "state": "Oklahoma",
+        "zip": "80280"
+    },
+    "contact": {
+        "phone": "544-712-1969",
+        "servicePhone": "800408146"
+    },
+    "birthday": "1928-19-10",
+    "ip": "99.2.7.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Of society social.\nFirst himself tree reflect about. Even major machine conference. Land on that remember stay why power.",
+        "bio": "Find look feeling career business. Huge lose admit treatment build according truth future. Somebody key hard fire."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
