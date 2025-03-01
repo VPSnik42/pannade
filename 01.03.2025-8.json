@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Anderson",
+    "age": 110,
+    "address": {
+        "street": "Smith Stravenue",
+        "city": "Lake Michael",
+        "state": "Wisconsin",
+        "zip": "66873"
+    },
+    "contact": {
+        "phone": "915-560-2097",
+        "servicePhone": "800552130"
+    },
+    "birthday": "1915-16-06",
+    "ip": "75.41.210.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Boy per account nice heavy. Really like war mother prevent particularly where. Wall white region key design.\nDuring page us size place. Sometimes fine help remain decide class.",
+        "bio": "Yet player this share. Perhaps admit likely less. Even field true ground. Have stand look long as."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
