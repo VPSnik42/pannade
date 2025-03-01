@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Baker",
+    "age": 56,
+    "address": {
+        "street": "Banks Neck",
+        "city": "North Erin",
+        "state": "Illinois",
+        "zip": "66125"
+    },
+    "contact": {
+        "phone": "326.316.4786x770",
+        "servicePhone": "800945856"
+    },
+    "birthday": "1969-25-11",
+    "ip": "91.215.29.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago thing financial if. Interview discover state hotel make baby push. Model it up magazine point science work.",
+        "bio": "Eight line against gun resource kitchen place civil. Probably movie just sure some successful. Box why commercial pressure. Cultural report better physical few."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
