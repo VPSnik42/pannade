@@ -1,0 +1,25 @@
+{
+    "name": "Linda Morgan",
+    "age": 86,
+    "address": {
+        "street": "Arroyo Stravenue",
+        "city": "Kathleenchester",
+        "state": "New Mexico",
+        "zip": "99854"
+    },
+    "contact": {
+        "phone": "+1-730-560-9530x67040",
+        "servicePhone": "800099378"
+    },
+    "birthday": "1939-19-08",
+    "ip": "114.188.224.136",
+    "foo": "bar",
+    "profile": {
+        "about": "As capital seven million. Identify quite suddenly somebody make behavior. Day ago executive base result beautiful. Material room reduce look.",
+        "bio": "Rich whether relate four kind serious down. Enjoy community far white five read operation none. Nation option source yourself."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
