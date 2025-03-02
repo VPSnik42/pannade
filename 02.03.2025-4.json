@@ -1,0 +1,25 @@
+{
+    "name": "Eric Perry",
+    "age": 35,
+    "address": {
+        "street": "James Stravenue",
+        "city": "New Dana",
+        "state": "Delaware",
+        "zip": "47937"
+    },
+    "contact": {
+        "phone": "+1-249-243-6539x89491",
+        "servicePhone": "800209037"
+    },
+    "birthday": "1990-30-07",
+    "ip": "55.179.76.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Special sell begin measure good step. Foot letter teacher six strategy listen sign. Draw parent forward teacher.",
+        "bio": "Director quite expert PM fund. End address form various individual.\nEvent bad finally force expect off ago. Authority experience entire."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
