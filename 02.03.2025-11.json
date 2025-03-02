@@ -1,0 +1,25 @@
+{
+    "name": "Caroline Harris",
+    "age": 22,
+    "address": {
+        "street": "Griffin Crossroad",
+        "city": "Beckerbury",
+        "state": "Delaware",
+        "zip": "61701"
+    },
+    "contact": {
+        "phone": "777-344-4530x46463",
+        "servicePhone": "800187182"
+    },
+    "birthday": "2003-09-10",
+    "ip": "51.246.37.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair blood area decide among. Quality out material. Yourself later than message behavior. Weight discover alone pick.",
+        "bio": "Cause seat concern newspaper government I raise. Such standard simple little.\nModern commercial then national involve cell situation."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
