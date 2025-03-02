@@ -1,0 +1,25 @@
+{
+    "name": "Mary Stevenson",
+    "age": 63,
+    "address": {
+        "street": "Charles Lights",
+        "city": "Nelsonmouth",
+        "state": "Montana",
+        "zip": "20728"
+    },
+    "contact": {
+        "phone": "218.444.9057",
+        "servicePhone": "800532831"
+    },
+    "birthday": "1962-12-02",
+    "ip": "87.26.85.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Together minute information stage. Mrs service paper clearly great.\nWell example hit senior. Probably tough act end career. Reveal accept sing left generation per explain.",
+        "bio": "Beat tonight television call onto dark.\nTv character policy. Reveal choose capital material those hair. Factor thank then lead."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
