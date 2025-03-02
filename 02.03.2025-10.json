@@ -1,0 +1,25 @@
+{
+    "name": "Robin Garcia",
+    "age": 114,
+    "address": {
+        "street": "Misty Run",
+        "city": "Lake Rose",
+        "state": "Delaware",
+        "zip": "99340"
+    },
+    "contact": {
+        "phone": "+1-624-707-2700x901",
+        "servicePhone": "800376768"
+    },
+    "birthday": "1911-04-04",
+    "ip": "32.8.156.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Security same available visit painting enough month. Set hit itself race store use. Traditional people play marriage security.\nCell me sure rise other hit hit.",
+        "bio": "Very travel you. Station force project much total teach. However film anything them why rise.\nTruth prevent much service world your industry. Bring production red rise."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
