@@ -1,0 +1,25 @@
+{
+    "name": "Patty Chen",
+    "age": 9,
+    "address": {
+        "street": "Danielle Common",
+        "city": "South Alexander",
+        "state": "West Virginia",
+        "zip": "34326"
+    },
+    "contact": {
+        "phone": "897-665-1424",
+        "servicePhone": "800243477"
+    },
+    "birthday": "2016-23-05",
+    "ip": "89.228.55.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid next represent industry play soldier happen. Wish expert protect home budget take.\nIndeed today project visit push change third. Do after collection thank could. Hope security town five.",
+        "bio": "Enter point why avoid art open be. Tell term expert brother.\nCentury without seat part something full fact. Activity certain ahead here coach.\nGoal woman step."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
