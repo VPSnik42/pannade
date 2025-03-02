@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Day",
+    "age": 91,
+    "address": {
+        "street": "Gerald Landing",
+        "city": "Roseview",
+        "state": "Hawaii",
+        "zip": "56971"
+    },
+    "contact": {
+        "phone": "(409)331-7742x450",
+        "servicePhone": "800091359"
+    },
+    "birthday": "1934-24-08",
+    "ip": "58.188.100.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Sport view cup religious industry medical field argue. Bit interview close agency care record.",
+        "bio": "Type article piece in clear. Occur time strong recent drive keep. Image book week politics prevent large father doctor.\nLanguage great individual mean. Owner career piece ball table show."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
