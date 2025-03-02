@@ -1,0 +1,25 @@
+{
+    "name": "Michael Johnson",
+    "age": 59,
+    "address": {
+        "street": "Daniel Place",
+        "city": "Lewistown",
+        "state": "California",
+        "zip": "78828"
+    },
+    "contact": {
+        "phone": "(303)422-0290",
+        "servicePhone": "800716360"
+    },
+    "birthday": "1966-03-02",
+    "ip": "134.124.151.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Or fall reason almost suffer western window letter. Different war writer among.\nArticle trade population democratic least meet agent science. New consider our method.",
+        "bio": "Garden its six name. From improve heart figure water respond us. Experience beyond between arm.\nEvening kind almost science son skin.\nThat word nice bank set name."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
