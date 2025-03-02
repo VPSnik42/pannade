@@ -1,0 +1,25 @@
+{
+    "name": "Jeanette Boyd",
+    "age": 38,
+    "address": {
+        "street": "Lloyd Crossroad",
+        "city": "East Lauren",
+        "state": "Georgia",
+        "zip": "03879"
+    },
+    "contact": {
+        "phone": "(598)602-0481",
+        "servicePhone": "800839812"
+    },
+    "birthday": "1987-26-10",
+    "ip": "84.198.235.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Everybody vote throughout nature. Maybe quickly state financial low still. Friend space three new really character put.",
+        "bio": "Out parent realize shake. Home himself be organization. Off offer area guess around entire mind.\nUnderstand blue treatment speech center most. Phone whom return wrong next usually."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
