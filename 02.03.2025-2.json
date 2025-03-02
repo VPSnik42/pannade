@@ -1,0 +1,25 @@
+{
+    "name": "Scott Myers",
+    "age": 59,
+    "address": {
+        "street": "Andrew Oval",
+        "city": "West Arieltown",
+        "state": "Idaho",
+        "zip": "36114"
+    },
+    "contact": {
+        "phone": "295-604-4349x195",
+        "servicePhone": "800960804"
+    },
+    "birthday": "1966-08-06",
+    "ip": "68.144.253.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Across national thing. Democrat pull live mother memory lose information. During to big property hand. Feeling camera market fly.\nPositive team fast white thing receive.",
+        "bio": "Identify billion artist east.\nChallenge prevent season office create show. Maybe dinner recently type.\nAbout break major include. Parent usually black realize buy kind century."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
