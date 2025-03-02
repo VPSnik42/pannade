@@ -1,0 +1,25 @@
+{
+    "name": "Chris Juarez",
+    "age": 18,
+    "address": {
+        "street": "Smith Villages",
+        "city": "Curtisside",
+        "state": "Minnesota",
+        "zip": "06329"
+    },
+    "contact": {
+        "phone": "001-805-874-6563x500",
+        "servicePhone": "800227752"
+    },
+    "birthday": "2007-25-01",
+    "ip": "72.129.1.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Boy issue simply western recently course successful. Light daughter if no cell five man hard.",
+        "bio": "Particular idea question save investment strong organization. Entire whole sit process land continue."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
