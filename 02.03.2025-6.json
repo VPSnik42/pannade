@@ -1,0 +1,25 @@
+{
+    "name": "Justin Mcgee",
+    "age": 114,
+    "address": {
+        "street": "Woodard Lake",
+        "city": "Kathybury",
+        "state": "Washington",
+        "zip": "53298"
+    },
+    "contact": {
+        "phone": "689-760-0791",
+        "servicePhone": "800921178"
+    },
+    "birthday": "1911-11-02",
+    "ip": "135.62.91.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Card model investment goal talk boy. Coach about work establish beat beautiful claim.\nMiddle do suddenly security. Perhaps vote country spring response.",
+        "bio": "Raise particularly lay build. Serious current today allow state story development. Next us party song admit floor value agency."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
