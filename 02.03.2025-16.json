@@ -1,0 +1,25 @@
+{
+    "name": "Devin Lee",
+    "age": 54,
+    "address": {
+        "street": "Bailey Station",
+        "city": "Michaelmouth",
+        "state": "Utah",
+        "zip": "99246"
+    },
+    "contact": {
+        "phone": "(561)300-7561",
+        "servicePhone": "800163925"
+    },
+    "birthday": "1971-30-09",
+    "ip": "178.150.33.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Station away put rule. Which gun represent site soon method ability your.\nSure maybe establish employee decide. Much unit drop trial natural reveal free.",
+        "bio": "Soldier environment president community. Draw American have quality give. Camera almost book southern.\nSafe election mind arm join. Place necessary rest.\nSeries home war policy."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
