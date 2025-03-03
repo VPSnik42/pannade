@@ -1,0 +1,25 @@
+{
+    "name": "Gabriela Andrews",
+    "age": 28,
+    "address": {
+        "street": "Sanders Road",
+        "city": "Lake Jeffreyport",
+        "state": "Arizona",
+        "zip": "83763"
+    },
+    "contact": {
+        "phone": "001-563-315-5247x452",
+        "servicePhone": "800090375"
+    },
+    "birthday": "1997-25-05",
+    "ip": "106.27.72.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Use actually too who three bank difficult. Five ever who forward watch trip. Plant find identify.\nStudent evidence someone add speech me huge.",
+        "bio": "Per senior sing. Woman summer beautiful over some provide finally. Doctor piece argue financial.\nResponse sign discover policy act chance. Address skill own those read short."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
