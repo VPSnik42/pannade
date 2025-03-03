@@ -1,0 +1,25 @@
+{
+    "name": "Michael Klein",
+    "age": 49,
+    "address": {
+        "street": "Shawn Coves",
+        "city": "Port Dianahaven",
+        "state": "Oregon",
+        "zip": "74515"
+    },
+    "contact": {
+        "phone": "859-372-5115x633",
+        "servicePhone": "800568679"
+    },
+    "birthday": "1976-16-09",
+    "ip": "175.48.63.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Know three democratic would. Nor specific now movie available continue PM already.\nSimply effect action.",
+        "bio": "Truth serious between exactly support. Specific out soldier away want drive these. Source list PM none beautiful."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
