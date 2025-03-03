@@ -1,0 +1,25 @@
+{
+    "name": "Billy Parker",
+    "age": 12,
+    "address": {
+        "street": "Karen Station",
+        "city": "North Whitneyborough",
+        "state": "Rhode Island",
+        "zip": "31728"
+    },
+    "contact": {
+        "phone": "+1-246-817-0061x94958",
+        "servicePhone": "800310953"
+    },
+    "birthday": "2013-22-10",
+    "ip": "175.24.150.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Opportunity language glass beautiful. Term enough their science.",
+        "bio": "Put you amount plan water southern. Miss evening cell matter miss write. Tell out keep sign art.\nReason behind save real. Three bill medical become public."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
