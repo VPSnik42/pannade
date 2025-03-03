@@ -1,0 +1,25 @@
+{
+    "name": "Kristy Neal DDS",
+    "age": 49,
+    "address": {
+        "street": "Finley Key",
+        "city": "Danielport",
+        "state": "Vermont",
+        "zip": "11576"
+    },
+    "contact": {
+        "phone": "+1-351-882-9133x33887",
+        "servicePhone": "800545563"
+    },
+    "birthday": "1976-07-03",
+    "ip": "110.55.143.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Surface government continue computer like dinner yes.\nCollection mission picture have water former. Small audience including painting.",
+        "bio": "Image do history we land five ability. Already season population we glass. Believe young campaign possible."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
