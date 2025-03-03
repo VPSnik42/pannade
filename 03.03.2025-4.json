@@ -1,0 +1,25 @@
+{
+    "name": "Robert Galvan",
+    "age": 3,
+    "address": {
+        "street": "John Estate",
+        "city": "Gallagherborough",
+        "state": "Texas",
+        "zip": "92816"
+    },
+    "contact": {
+        "phone": "(441)967-6189x3307",
+        "servicePhone": "800653422"
+    },
+    "birthday": "2022-10-02",
+    "ip": "162.210.255.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Herself water federal itself spring practice. Else human open accept soon. About edge finish nation.\nName provide case goal face door factor law. Miss week discuss five fire chair.",
+        "bio": "Raise fish sure leave. Oil voice provide TV. Hold check detail available article.\nSince by close range concern dark every. None open the place mother call hundred."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
