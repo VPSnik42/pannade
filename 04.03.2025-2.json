@@ -1,0 +1,25 @@
+{
+    "name": "Scott Wright",
+    "age": 82,
+    "address": {
+        "street": "Kevin Mission",
+        "city": "Ryanton",
+        "state": "Indiana",
+        "zip": "09292"
+    },
+    "contact": {
+        "phone": "(435)590-1131",
+        "servicePhone": "800886783"
+    },
+    "birthday": "1943-28-11",
+    "ip": "145.123.19.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Something study dream project by argue. Quickly film vote travel give range. Capital idea together.",
+        "bio": "Society him indicate science charge loss main interesting. With day rich. Wear attention president feeling view home prove. Star civil why heavy owner field."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
