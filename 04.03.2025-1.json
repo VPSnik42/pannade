@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Stone",
+    "age": 94,
+    "address": {
+        "street": "Lee Burg",
+        "city": "Amystad",
+        "state": "Florida",
+        "zip": "36410"
+    },
+    "contact": {
+        "phone": "396.988.0825x129",
+        "servicePhone": "800151128"
+    },
+    "birthday": "1931-24-11",
+    "ip": "200.240.36.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Report find agent away plan left so. Trade attack west top job little side.\nSome land necessary generation traditional fund.",
+        "bio": "Same local loss suffer race vote certain me. Past light because catch especially science model."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
