@@ -1,0 +1,25 @@
+{
+    "name": "Cassidy Miranda",
+    "age": 26,
+    "address": {
+        "street": "Farley Islands",
+        "city": "Jamesberg",
+        "state": "Wisconsin",
+        "zip": "17296"
+    },
+    "contact": {
+        "phone": "+1-941-480-3341",
+        "servicePhone": "800061544"
+    },
+    "birthday": "1999-10-08",
+    "ip": "68.249.51.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Move these season first rock. Like sea middle per order clearly. Service final party analysis attack act hair beyond.\nProfessor me summer personal nice. Law for expect specific.",
+        "bio": "Discuss recognize attorney. Safe college order ago ask small about.\nMorning crime despite down past member he. Military arrive hair get. Image author leader window."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
