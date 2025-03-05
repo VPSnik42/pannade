@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Ray",
+    "age": 21,
+    "address": {
+        "street": "Harris Heights",
+        "city": "South Josephport",
+        "state": "Mississippi",
+        "zip": "41932"
+    },
+    "contact": {
+        "phone": "910.711.2528x19564",
+        "servicePhone": "800813476"
+    },
+    "birthday": "2004-26-07",
+    "ip": "84.9.99.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Away current according serve toward eye. Management teach seven. Several couple professor send beat computer.",
+        "bio": "Almost investment rather else western. Natural film think paper ground parent main. Despite former far serve mean."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
