@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Boone",
+    "age": 83,
+    "address": {
+        "street": "Jordan Harbors",
+        "city": "New Annland",
+        "state": "Illinois",
+        "zip": "95551"
+    },
+    "contact": {
+        "phone": "001-284-520-1878x1130",
+        "servicePhone": "800290219"
+    },
+    "birthday": "1942-26-09",
+    "ip": "79.13.47.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Country likely guess reduce the kid. Fight within discuss.\nLive also rate probably red. Eat bill other us coach.\nFew money church behavior. Office arrive our weight.",
+        "bio": "Instead hospital deep hair light same. Toward nor if body when Democrat.\nAt fly couple. Across let investment break news.\nThat step pay hour direction. Class cultural remain above."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
