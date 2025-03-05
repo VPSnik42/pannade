@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Perez",
+    "age": 112,
+    "address": {
+        "street": "Dustin Canyon",
+        "city": "Josephton",
+        "state": "Virginia",
+        "zip": "05263"
+    },
+    "contact": {
+        "phone": "377-608-8441x855",
+        "servicePhone": "800511035"
+    },
+    "birthday": "1913-18-03",
+    "ip": "131.188.41.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Organization as onto road look. Win generation major onto.\nBit notice social guess measure record matter way. Listen one decade.\nAgree remain probably environmental. Person matter test area.",
+        "bio": "Support how government decide. Thought bar likely while focus. Great future course professional power put.\nNational lay environment just size use north. Throughout finish next gas window."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
