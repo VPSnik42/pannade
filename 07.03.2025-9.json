@@ -1,0 +1,25 @@
+{
+    "name": "Miguel Sanchez",
+    "age": 57,
+    "address": {
+        "street": "Hernandez Divide",
+        "city": "Hubbardburgh",
+        "state": "Vermont",
+        "zip": "88444"
+    },
+    "contact": {
+        "phone": "(350)580-5352x45856",
+        "servicePhone": "800168614"
+    },
+    "birthday": "1968-20-06",
+    "ip": "49.240.56.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Feeling though during serve. Increase suggest friend network several.\nWrite trouble us. Analysis call man account resource. Nor few out rule television need.",
+        "bio": "Clearly entire wind work name discover again. Congress believe peace traditional young small. Rest statement box follow."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
