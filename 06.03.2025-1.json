@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Briggs",
+    "age": 113,
+    "address": {
+        "street": "Roach Bypass",
+        "city": "Port Brenda",
+        "state": "California",
+        "zip": "82230"
+    },
+    "contact": {
+        "phone": "(899)846-5573",
+        "servicePhone": "800122981"
+    },
+    "birthday": "1912-09-10",
+    "ip": "157.84.102.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital station official sister page. Cost determine trial.\nBeautiful some indeed us however study per. Cover responsibility person recent each.",
+        "bio": "Weight model deep affect. However third truth."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
