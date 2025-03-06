@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Bonilla",
+    "age": 41,
+    "address": {
+        "street": "Todd Divide",
+        "city": "Jessicaland",
+        "state": "Connecticut",
+        "zip": "40729"
+    },
+    "contact": {
+        "phone": "712.794.9470",
+        "servicePhone": "800994169"
+    },
+    "birthday": "1984-04-12",
+    "ip": "105.213.184.243",
+    "foo": "bar",
+    "profile": {
+        "about": "All plant drug rest include. West southern seven west arrive.\nEven whose student business else fund feel. Activity run point different between small floor. Season talk receive what pick.",
+        "bio": "Keep through crime friend than democratic market.\nThousand return learn form old option discover about. Factor none space physical drive individual. Huge great seem key Mr chair."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
