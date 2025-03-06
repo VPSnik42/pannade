@@ -1,0 +1,25 @@
+{
+    "name": "Shannon French",
+    "age": 89,
+    "address": {
+        "street": "Charles Garden",
+        "city": "Keithview",
+        "state": "Oklahoma",
+        "zip": "98627"
+    },
+    "contact": {
+        "phone": "001-822-608-0383",
+        "servicePhone": "800700659"
+    },
+    "birthday": "1936-19-06",
+    "ip": "17.40.250.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Financial itself seek budget firm scientist degree current. Watch report or now better.\nSure his cost miss. Cell too area reach then interesting. Tell pattern baby high create woman party.",
+        "bio": "Book doctor free commercial. Magazine one listen. He hundred act control true eight.\nSort main foot. Art party live party reflect idea thought. Religious money view remain."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
