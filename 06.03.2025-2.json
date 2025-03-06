@@ -1,0 +1,25 @@
+{
+    "name": "Suzanne Leach",
+    "age": 99,
+    "address": {
+        "street": "Glenn Place",
+        "city": "Riveraborough",
+        "state": "Maine",
+        "zip": "82360"
+    },
+    "contact": {
+        "phone": "301-568-3857x270",
+        "servicePhone": "800014143"
+    },
+    "birthday": "1926-16-01",
+    "ip": "149.107.35.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Decide available hospital determine interest region teach glass. Wall grow commercial early agree everyone.\nStay student recently chair community where church. West third play food bill better well.",
+        "bio": "Century dark science glass. Difference want available west should opportunity possible later. Bank although others one measure senior but.\nIndeed another until day."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
