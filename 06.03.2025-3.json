@@ -1,0 +1,25 @@
+{
+    "name": "William Olsen",
+    "age": 79,
+    "address": {
+        "street": "Andre Route",
+        "city": "Briantown",
+        "state": "Oregon",
+        "zip": "94475"
+    },
+    "contact": {
+        "phone": "331-306-5326",
+        "servicePhone": "800074143"
+    },
+    "birthday": "1946-21-08",
+    "ip": "66.3.186.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Executive project rich article mind positive however. History administration kitchen the machine.",
+        "bio": "Wind trade citizen cold. International hospital low century actually personal nothing author."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
