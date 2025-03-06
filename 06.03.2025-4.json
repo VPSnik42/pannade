@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Nguyen",
+    "age": 62,
+    "address": {
+        "street": "Lang Radial",
+        "city": "Michaeltown",
+        "state": "Iowa",
+        "zip": "05457"
+    },
+    "contact": {
+        "phone": "(272)973-7786",
+        "servicePhone": "800360573"
+    },
+    "birthday": "1963-12-11",
+    "ip": "14.61.98.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Why purpose pretty school team second trouble. Foot meeting like item throw where church thought.",
+        "bio": "And relate beat somebody point about and. Out hit serious young inside several. Simply easy western while someone might myself."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
