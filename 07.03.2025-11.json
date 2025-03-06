@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Todd",
+    "age": 112,
+    "address": {
+        "street": "Hernandez Overpass",
+        "city": "North Dawnchester",
+        "state": "Nevada",
+        "zip": "61222"
+    },
+    "contact": {
+        "phone": "(779)827-3506x4287",
+        "servicePhone": "800975072"
+    },
+    "birthday": "1913-30-06",
+    "ip": "22.4.33.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital cover realize money part church year. Sell good offer wind face.\nBehind identify state him perform. Individual grow change product.",
+        "bio": "There offer once series chair against. South begin green agent.\nOften travel answer court much. Its ready service much. Save field interview forward."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
