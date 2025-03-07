@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Coleman",
+    "age": 75,
+    "address": {
+        "street": "Edwards Highway",
+        "city": "Fergusonmouth",
+        "state": "Nebraska",
+        "zip": "71742"
+    },
+    "contact": {
+        "phone": "(205)493-6307x424",
+        "servicePhone": "800114879"
+    },
+    "birthday": "1950-25-01",
+    "ip": "69.123.248.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Why interesting show contain apply. Wrong put size close collection begin. Back create include significant establish president. Finally like grow pass seek manager contain.",
+        "bio": "Stock why move treatment defense energy. Character always compare close. Probably character painting. May change along ground move inside strategy."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
