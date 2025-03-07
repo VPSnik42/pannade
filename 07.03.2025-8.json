@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Prince",
+    "age": 64,
+    "address": {
+        "street": "Cole River",
+        "city": "North Crystalmouth",
+        "state": "Ohio",
+        "zip": "74946"
+    },
+    "contact": {
+        "phone": "(674)226-0904x1801",
+        "servicePhone": "800026714"
+    },
+    "birthday": "1961-03-07",
+    "ip": "200.237.20.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Run suggest billion phone hair. Material stop national follow million same professor thus. Admit institution personal degree design always allow west.",
+        "bio": "Only edge house if single. Through learn window. Style deal score finally think.\nOnto pull news. Walk really exist may article. Partner commercial yourself just marriage."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
