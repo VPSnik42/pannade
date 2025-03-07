@@ -1,0 +1,25 @@
+{
+    "name": "Angela Lester",
+    "age": 92,
+    "address": {
+        "street": "Soto Parkways",
+        "city": "North Bryan",
+        "state": "Kansas",
+        "zip": "58112"
+    },
+    "contact": {
+        "phone": "+1-266-524-0024x9435",
+        "servicePhone": "800537911"
+    },
+    "birthday": "1933-05-07",
+    "ip": "40.213.148.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention practice receive long large stay. Herself enjoy where easy. Above new relationship history speak.",
+        "bio": "Laugh red money responsibility like.\nCongress improve opportunity news government chance plant. News major others. Both whatever success me them animal."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
