@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Thompson",
+    "age": 83,
+    "address": {
+        "street": "Jessica Forges",
+        "city": "West Ronaldborough",
+        "state": "Ohio",
+        "zip": "80314"
+    },
+    "contact": {
+        "phone": "+1-640-984-6772",
+        "servicePhone": "800708851"
+    },
+    "birthday": "1942-11-11",
+    "ip": "92.69.123.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Beyond certainly computer various. North will worry operation couple boy stuff.\nList might product natural rich. Compare business break.",
+        "bio": "Nor hair deep them nation another. Fast rule name human drug attorney."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
