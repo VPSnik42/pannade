@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Coffey",
+    "age": 65,
+    "address": {
+        "street": "Cheryl Wells",
+        "city": "North Charlesport",
+        "state": "Minnesota",
+        "zip": "92803"
+    },
+    "contact": {
+        "phone": "+1-574-385-5970",
+        "servicePhone": "800839174"
+    },
+    "birthday": "1960-21-06",
+    "ip": "51.151.189.212",
+    "foo": "bar",
+    "profile": {
+        "about": "So issue quality say than series. Him food court lose. Watch west him list camera billion save.",
+        "bio": "Position data fact skin care off own. Executive store discussion future. Ten study wife board.\nHere teach interest could. National chair rather."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
