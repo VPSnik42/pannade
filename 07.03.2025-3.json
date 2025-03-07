@@ -1,0 +1,25 @@
+{
+    "name": "Grace Hubbard",
+    "age": 46,
+    "address": {
+        "street": "Denise Freeway",
+        "city": "Port Melissa",
+        "state": "New Jersey",
+        "zip": "00933"
+    },
+    "contact": {
+        "phone": "975.952.5821x0234",
+        "servicePhone": "800435645"
+    },
+    "birthday": "1979-26-07",
+    "ip": "103.229.243.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Father force stand these reflect. North push technology civil. Court guess worker nation eat environmental.",
+        "bio": "Citizen next room successful live resource big. Fire decision mission behind owner buy family staff. Without they worry arrive marriage. Its project oil call task single ground."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
