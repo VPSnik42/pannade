@@ -1,0 +1,25 @@
+{
+    "name": "Donna Matthews",
+    "age": 83,
+    "address": {
+        "street": "Melissa Ports",
+        "city": "West Ryanfurt",
+        "state": "Wyoming",
+        "zip": "58647"
+    },
+    "contact": {
+        "phone": "(857)356-4276x176",
+        "servicePhone": "800420133"
+    },
+    "birthday": "1942-21-01",
+    "ip": "153.57.208.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Pull think may figure fish. Leader chance huge talk message vote. Choice purpose control fast people financial stay.",
+        "bio": "Early everybody read father. Actually behind child last protect. Pick model push human size nice middle.\nFilm nature letter officer. Fast late fact."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
