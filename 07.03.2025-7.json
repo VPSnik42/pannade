@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Koch",
+    "age": 32,
+    "address": {
+        "street": "Fitzgerald Mountains",
+        "city": "Lake Corey",
+        "state": "Louisiana",
+        "zip": "81491"
+    },
+    "contact": {
+        "phone": "645.601.4454x773",
+        "servicePhone": "800287035"
+    },
+    "birthday": "1993-18-05",
+    "ip": "196.88.56.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone feeling between study. Onto outside consider safe enjoy condition sport learn.\nLarge wait president point assume threat. Wall surface catch big.",
+        "bio": "Minute result woman room. Three man war strategy. Per value event in no nice.\nWest toward present good a. About themselves coach suffer word. Nor believe response peace wish."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
