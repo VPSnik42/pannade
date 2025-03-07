@@ -1,0 +1,25 @@
+{
+    "name": "George Crane",
+    "age": 1,
+    "address": {
+        "street": "Delgado Manor",
+        "city": "East Laurabury",
+        "state": "Maine",
+        "zip": "08640"
+    },
+    "contact": {
+        "phone": "492.937.1275x3143",
+        "servicePhone": "800430635"
+    },
+    "birthday": "2024-21-09",
+    "ip": "85.96.52.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Brother century assume ground laugh. Once prepare especially another administration picture sign.\nUs special hold senior. Student yeah hand clearly look. Act scientist any another.",
+        "bio": "At more reason. Clear charge dream theory.\nCard husband administration return. Computer store first rest chance. Set ago maintain toward cell main. Hope production born produce local wear."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
