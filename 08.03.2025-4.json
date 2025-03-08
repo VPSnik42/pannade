@@ -1,0 +1,25 @@
+{
+    "name": "Joel Wood",
+    "age": 85,
+    "address": {
+        "street": "Brian Meadow",
+        "city": "Port Markbury",
+        "state": "Michigan",
+        "zip": "72927"
+    },
+    "contact": {
+        "phone": "965-582-2262",
+        "servicePhone": "800569596"
+    },
+    "birthday": "1940-02-09",
+    "ip": "11.48.119.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Night treat traditional. Move stop eye. Just camera any education interview.\nArt better it spring consider player. Mrs court allow design far.",
+        "bio": "Direction ago drive ok. Upon dog we today. Late serious situation.\nHistory do firm everything usually stay answer.\nDevelop thus investment. Less magazine bar bag interview four both."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
