@@ -1,0 +1,25 @@
+{
+    "name": "David Collins",
+    "age": 26,
+    "address": {
+        "street": "Carr Street",
+        "city": "Lake Benjaminberg",
+        "state": "Utah",
+        "zip": "81036"
+    },
+    "contact": {
+        "phone": "001-987-937-2008x4091",
+        "servicePhone": "800702701"
+    },
+    "birthday": "1999-31-10",
+    "ip": "152.50.49.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Democrat think international learn course. Final throughout message him.\nSeason through per nor. These seem claim. Toward huge argue beautiful movement structure. Lead cause find decision.",
+        "bio": "Soldier prevent school fear food reason. Which market fear such.\nTwo husband stand. Provide within myself thus. Care particularly law mind."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
