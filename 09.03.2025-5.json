@@ -1,0 +1,25 @@
+{
+    "name": "Richard Smith",
+    "age": 17,
+    "address": {
+        "street": "Scott Forge",
+        "city": "North Catherineland",
+        "state": "New Mexico",
+        "zip": "67079"
+    },
+    "contact": {
+        "phone": "001-819-658-7760x4426",
+        "servicePhone": "800902104"
+    },
+    "birthday": "2008-31-12",
+    "ip": "207.196.28.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Style involve such when down. Want rate democratic or success.\nWhether authority look. Work black cup along.",
+        "bio": "Act accept color more.\nStill media everything page key. Church Democrat listen three end. Be still evening day."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
