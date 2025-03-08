@@ -1,0 +1,25 @@
+{
+    "name": "Briana Wilson",
+    "age": 26,
+    "address": {
+        "street": "Joseph Cliffs",
+        "city": "North Sarahfort",
+        "state": "Ohio",
+        "zip": "11738"
+    },
+    "contact": {
+        "phone": "(362)234-1008x086",
+        "servicePhone": "800249174"
+    },
+    "birthday": "1999-25-09",
+    "ip": "93.180.97.27",
+    "foo": "bar",
+    "profile": {
+        "about": "On goal question player. Beyond pull whatever dark. Others hand dog probably.",
+        "bio": "Prevent make do recently idea. Figure professional employee talk carry common. Girl here particular meet what modern although five.\nAt foreign why draw much."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
