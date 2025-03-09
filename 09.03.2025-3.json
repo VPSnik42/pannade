@@ -1,0 +1,25 @@
+{
+    "name": "Charlotte Glass",
+    "age": 1,
+    "address": {
+        "street": "Debbie Shore",
+        "city": "East Davidberg",
+        "state": "Alabama",
+        "zip": "86696"
+    },
+    "contact": {
+        "phone": "001-508-376-1469",
+        "servicePhone": "800333429"
+    },
+    "birthday": "2024-26-05",
+    "ip": "83.116.111.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Control certain arrive. Him news eight marriage memory current.",
+        "bio": "Seek figure laugh after friend guess to. Say create set investment data attention.\nReality or ago individual. Remain about off herself team hot. Arm without majority program spring."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
