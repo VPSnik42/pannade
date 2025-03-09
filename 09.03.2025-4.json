@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Valdez",
+    "age": 94,
+    "address": {
+        "street": "Jamie Drive",
+        "city": "South Elizabethfort",
+        "state": "Texas",
+        "zip": "54290"
+    },
+    "contact": {
+        "phone": "4078848662",
+        "servicePhone": "800106218"
+    },
+    "birthday": "1931-11-07",
+    "ip": "141.201.96.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Pass parent kind certainly fear. American over care let either guy. Conference fire its win live. Bit left hold general politics.",
+        "bio": "Today same dream choose least. Strong against usually difficult board girl. Town oil popular form up. Through pay star begin color."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
