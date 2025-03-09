@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Hunter",
+    "age": 113,
+    "address": {
+        "street": "Craig Lodge",
+        "city": "Rachelchester",
+        "state": "Massachusetts",
+        "zip": "58719"
+    },
+    "contact": {
+        "phone": "+1-246-280-2831",
+        "servicePhone": "800187516"
+    },
+    "birthday": "1912-14-10",
+    "ip": "12.86.198.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Million condition girl. Specific do walk collection. History hotel situation fast activity finally lay concern. Moment present place try pattern.\nNumber once good become station add radio.",
+        "bio": "Cut recent daughter sit. Myself serve beyond program happy rich."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
