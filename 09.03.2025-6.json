@@ -1,0 +1,25 @@
+{
+    "name": "Eric Harris",
+    "age": 49,
+    "address": {
+        "street": "Phillips Manors",
+        "city": "Austinchester",
+        "state": "Wisconsin",
+        "zip": "91966"
+    },
+    "contact": {
+        "phone": "909-549-1095x752",
+        "servicePhone": "800281747"
+    },
+    "birthday": "1976-04-10",
+    "ip": "7.179.236.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Wish full near right occur difficult. Event reduce everything board hard evening. Generation let yet hotel story choose four. Risk get for notice gun.",
+        "bio": "Certain sister know rate those however local. Protect support but physical. True face total class indicate.\nRich day party that."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
