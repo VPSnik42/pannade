@@ -1,0 +1,25 @@
+{
+    "name": "Angela Farrell",
+    "age": 17,
+    "address": {
+        "street": "Kristy View",
+        "city": "Lake Katie",
+        "state": "Connecticut",
+        "zip": "28348"
+    },
+    "contact": {
+        "phone": "+1-265-639-6782x893",
+        "servicePhone": "800171321"
+    },
+    "birthday": "2008-22-01",
+    "ip": "122.154.231.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer painting improve save. Strategy present party daughter when consider. Ok national his check specific. Security space stay because operation artist.",
+        "bio": "Whose purpose can identify rise. Picture radio them window statement.\nBenefit cup get answer not can."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
