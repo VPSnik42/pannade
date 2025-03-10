@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Chavez",
+    "age": 11,
+    "address": {
+        "street": "Alejandro Lakes",
+        "city": "Port Katie",
+        "state": "Alaska",
+        "zip": "43867"
+    },
+    "contact": {
+        "phone": "+1-599-915-2390x733",
+        "servicePhone": "800700818"
+    },
+    "birthday": "2014-11-12",
+    "ip": "138.36.6.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Management late watch street skill way. City on stock play oil. Prove into he position choice star according.",
+        "bio": "Question throw line before along again exist product. Music dark until issue. Perhaps born listen process success. Research not across me receive artist."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
