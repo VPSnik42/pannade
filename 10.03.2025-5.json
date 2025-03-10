@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Smith",
+    "age": 34,
+    "address": {
+        "street": "Ayala Glen",
+        "city": "Rachelberg",
+        "state": "Tennessee",
+        "zip": "20172"
+    },
+    "contact": {
+        "phone": "202-215-7411",
+        "servicePhone": "800938399"
+    },
+    "birthday": "1991-27-05",
+    "ip": "93.143.106.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Various return source agency girl challenge. Any focus fund style be line realize whom. Production poor let peace.",
+        "bio": "Door somebody arrive can. Sign point yes class against. Writer report just anyone."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
