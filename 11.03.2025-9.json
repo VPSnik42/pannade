@@ -1,0 +1,25 @@
+{
+    "name": "David Frazier",
+    "age": 80,
+    "address": {
+        "street": "Lopez Greens",
+        "city": "Wiseside",
+        "state": "Arkansas",
+        "zip": "64128"
+    },
+    "contact": {
+        "phone": "315-396-0888",
+        "servicePhone": "800199155"
+    },
+    "birthday": "1945-27-01",
+    "ip": "6.130.235.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Let international suggest room discuss. Many produce husband pass black claim ahead. Already add involve size east task project. Tv marriage interesting amount purpose capital.",
+        "bio": "Laugh bad every middle radio huge yard effort. Since every we figure.\nEvidence on project manage line whole on. Thus former happen deep outside Mr himself."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
