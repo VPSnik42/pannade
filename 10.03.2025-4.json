@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Cummings",
+    "age": 19,
+    "address": {
+        "street": "Devin Coves",
+        "city": "New Tammy",
+        "state": "North Carolina",
+        "zip": "43431"
+    },
+    "contact": {
+        "phone": "368.675.5126x624",
+        "servicePhone": "800731459"
+    },
+    "birthday": "2006-24-07",
+    "ip": "98.111.132.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed easy baby base avoid similar standard this. Nature behavior face event. Himself leave change owner.",
+        "bio": "Article grow right black. Name each teach either authority. Peace purpose yourself whether.\nMaintain development store. During your thing area. Rest door affect girl ball seek success building."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
