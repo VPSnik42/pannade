@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Barker",
+    "age": 33,
+    "address": {
+        "street": "Martha Path",
+        "city": "North Alanstad",
+        "state": "Ohio",
+        "zip": "89404"
+    },
+    "contact": {
+        "phone": "539.348.1703x86414",
+        "servicePhone": "800646464"
+    },
+    "birthday": "1992-09-05",
+    "ip": "85.171.197.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Organization end war modern. Task bring contain offer age way.\nAction three reveal thought food that. Course buy center catch director very foreign.",
+        "bio": "Send father heavy those onto reach science stuff. Most some discover one house party something. Task fund since after first current yet. Question seat after feeling water."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
