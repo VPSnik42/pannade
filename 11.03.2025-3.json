@@ -1,0 +1,25 @@
+{
+    "name": "Tonya Lopez",
+    "age": 70,
+    "address": {
+        "street": "Bailey Orchard",
+        "city": "Port Maxshire",
+        "state": "North Dakota",
+        "zip": "46970"
+    },
+    "contact": {
+        "phone": "611.318.3171",
+        "servicePhone": "800138850"
+    },
+    "birthday": "1955-26-07",
+    "ip": "143.225.41.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Follow name issue activity popular. Employee adult together activity success. Finally lot section carry become newspaper college.",
+        "bio": "Maintain white think trial history claim recognize. Speech them expect stop threat their. Behavior Republican tax religious go room business."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
