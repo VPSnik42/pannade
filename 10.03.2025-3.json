@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Rodriguez",
+    "age": 20,
+    "address": {
+        "street": "Whitaker Course",
+        "city": "South Jamiehaven",
+        "state": "Iowa",
+        "zip": "98942"
+    },
+    "contact": {
+        "phone": "+1-471-761-1136",
+        "servicePhone": "800887637"
+    },
+    "birthday": "2005-26-09",
+    "ip": "214.236.151.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Modern page allow for term book situation modern. Record amount detail expert drop question. Never front court control agree.\nFormer here list present. Choice still organization more.",
+        "bio": "Cut benefit prepare somebody soon. Run wall off produce recent. About card call memory."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
