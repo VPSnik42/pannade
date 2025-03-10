@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Sanchez",
+    "age": 9,
+    "address": {
+        "street": "Jack Isle",
+        "city": "Taylorhaven",
+        "state": "Iowa",
+        "zip": "45323"
+    },
+    "contact": {
+        "phone": "+1-631-501-6011x1893",
+        "servicePhone": "800178105"
+    },
+    "birthday": "2016-01-12",
+    "ip": "178.162.227.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Speech prepare watch discuss already lot. Current building ever year democratic professor.",
+        "bio": "Support weight three word. Yard tonight if budget respond blood newspaper."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
