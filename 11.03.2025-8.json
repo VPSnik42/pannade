@@ -1,0 +1,25 @@
+{
+    "name": "Justin Lowe",
+    "age": 62,
+    "address": {
+        "street": "Steven Ranch",
+        "city": "Torresview",
+        "state": "Oklahoma",
+        "zip": "75181"
+    },
+    "contact": {
+        "phone": "(310)384-7012",
+        "servicePhone": "800010992"
+    },
+    "birthday": "1963-13-10",
+    "ip": "44.170.126.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Hundred world animal detail. Stay rest war him.\nSeason audience much want test group. Word worry push executive anyone.",
+        "bio": "Put safe rate behavior couple act task maintain. Her he subject so approach suggest."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
