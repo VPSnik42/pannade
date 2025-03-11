@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Taylor",
+    "age": 49,
+    "address": {
+        "street": "Payne Heights",
+        "city": "West Carlshire",
+        "state": "Vermont",
+        "zip": "53454"
+    },
+    "contact": {
+        "phone": "365-346-0649x7928",
+        "servicePhone": "800576143"
+    },
+    "birthday": "1976-04-09",
+    "ip": "5.63.117.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Town common pass push can election. Daughter kind manage. Brother deep always administration item learn.\nAccept nice difficult drive provide white threat. Whether cost one laugh begin within.",
+        "bio": "Home one budget add late value. At discover bed network. Huge base throughout contain. Old main radio leader wish end reality."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
