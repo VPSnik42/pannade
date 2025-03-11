@@ -1,0 +1,25 @@
+{
+    "name": "Brian Harvey",
+    "age": 50,
+    "address": {
+        "street": "Hobbs Freeway",
+        "city": "North Dustin",
+        "state": "Connecticut",
+        "zip": "30585"
+    },
+    "contact": {
+        "phone": "001-624-399-4744x2731",
+        "servicePhone": "800375486"
+    },
+    "birthday": "1975-16-12",
+    "ip": "59.66.199.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Performance it perform him including maybe. Next little vote prove wide.\nNext remember student daughter manager. Human to far short support radio together fine. Visit ground agency happy mother.",
+        "bio": "Front different material significant born much rock. Act whose rather bill house interest require woman. Second blue herself pressure situation safe above issue.\nWhy myself human property."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
