@@ -1,0 +1,25 @@
+{
+    "name": "Debra Johnson",
+    "age": 27,
+    "address": {
+        "street": "Smith Mills",
+        "city": "Craigmouth",
+        "state": "Michigan",
+        "zip": "49162"
+    },
+    "contact": {
+        "phone": "825-474-2169",
+        "servicePhone": "800157315"
+    },
+    "birthday": "1998-26-07",
+    "ip": "198.104.89.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Whose prove hand spend. Crime pass in blood. Management once note describe back their.\nEvery those water fill lot. Good beautiful maintain oil others. Religious small night good community mind.",
+        "bio": "Argue yourself protect. Chair positive fast future.\nLeg tree down mother. Method woman way product family actually. Himself security upon down arrive happen."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
