@@ -1,0 +1,25 @@
+{
+    "name": "Austin Mitchell",
+    "age": 88,
+    "address": {
+        "street": "Alan Center",
+        "city": "Angelaville",
+        "state": "Massachusetts",
+        "zip": "74908"
+    },
+    "contact": {
+        "phone": "327-562-4506",
+        "servicePhone": "800073693"
+    },
+    "birthday": "1937-18-09",
+    "ip": "198.78.94.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Fly guess size force.\nLet conference sing realize.\nSection check task admit deep budget.\nCongress top include add figure nearly data. Institution law certain chair positive they. Lot goal contain.",
+        "bio": "Reach audience form help. A cell black perhaps meeting.\nOthers standard bag similar reveal thank list. Interest assume music film fish."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
