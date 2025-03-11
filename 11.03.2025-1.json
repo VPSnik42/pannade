@@ -1,0 +1,25 @@
+{
+    "name": "Brian Perez",
+    "age": 43,
+    "address": {
+        "street": "Christopher Springs",
+        "city": "Danielton",
+        "state": "Connecticut",
+        "zip": "96230"
+    },
+    "contact": {
+        "phone": "2468680954",
+        "servicePhone": "800298046"
+    },
+    "birthday": "1982-01-02",
+    "ip": "130.222.246.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Game and mother idea itself event. Wish become only wonder ready without company. Form chance degree allow outside what. Provide yourself order image free tree.",
+        "bio": "So president risk huge. At consumer paper interesting agree PM.\nPublic fact offer blood pressure. Yard shoulder training social in our."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
