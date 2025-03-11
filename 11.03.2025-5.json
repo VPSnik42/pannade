@@ -1,0 +1,25 @@
+{
+    "name": "Angela Johnson",
+    "age": 109,
+    "address": {
+        "street": "Hayes Corners",
+        "city": "Carmenshire",
+        "state": "New Jersey",
+        "zip": "78562"
+    },
+    "contact": {
+        "phone": "982-953-6712x17497",
+        "servicePhone": "800836801"
+    },
+    "birthday": "1916-22-11",
+    "ip": "54.162.153.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Record adult share best raise. Why offer with able inside.\nType myself school west air expert long. Cold Democrat site.",
+        "bio": "Reveal include drug respond source play. Cut range machine once sense first happen. Face car toward.\nLeg war work this effect."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
