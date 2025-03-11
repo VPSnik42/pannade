@@ -1,0 +1,25 @@
+{
+    "name": "Randy Leblanc",
+    "age": 34,
+    "address": {
+        "street": "Renee Divide",
+        "city": "Garciaborough",
+        "state": "Mississippi",
+        "zip": "15393"
+    },
+    "contact": {
+        "phone": "314.863.9587x077",
+        "servicePhone": "800085687"
+    },
+    "birthday": "1991-16-01",
+    "ip": "102.255.135.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Per country hand matter. Candidate newspaper science ok hundred society. Word report affect notice system clearly board.\nProperty safe protect know consumer.",
+        "bio": "Service know wall magazine represent operation little some. Book once herself color. Grow method defense page quality thought hold."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
