@@ -1,0 +1,25 @@
+{
+    "name": "Robert Lewis",
+    "age": 100,
+    "address": {
+        "street": "Bryant Turnpike",
+        "city": "New Robintown",
+        "state": "Vermont",
+        "zip": "50100"
+    },
+    "contact": {
+        "phone": "(761)740-6215x15314",
+        "servicePhone": "800639717"
+    },
+    "birthday": "1925-20-07",
+    "ip": "189.193.230.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Significant body describe arrive fall. Teacher five see again call you.\nListen present follow follow time artist. Policy point staff field opportunity.",
+        "bio": "Health this different economy. Whether much imagine arm understand. Score city improve individual full.\nExample production shoulder. Happy sell cut watch final practice drive key."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
