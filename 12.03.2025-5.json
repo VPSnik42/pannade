@@ -1,0 +1,25 @@
+{
+    "name": "Derrick Miller",
+    "age": 18,
+    "address": {
+        "street": "Victoria Throughway",
+        "city": "South Kimberly",
+        "state": "Michigan",
+        "zip": "22120"
+    },
+    "contact": {
+        "phone": "(590)512-6225x44555",
+        "servicePhone": "800803883"
+    },
+    "birthday": "2007-24-09",
+    "ip": "71.179.54.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Read fact both mouth manage for. Its discuss entire own subject central point. Quite money upon newspaper specific tend.\nAhead say significant evening. Bill participant customer growth.",
+        "bio": "Fill building buy local. Guy example ahead social. Special dark send draw source interview. Guess treatment plant work third."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
