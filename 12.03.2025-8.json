@@ -1,0 +1,25 @@
+{
+    "name": "Scott Pierce",
+    "age": 71,
+    "address": {
+        "street": "Yates Mill",
+        "city": "Port Annaport",
+        "state": "Alaska",
+        "zip": "83558"
+    },
+    "contact": {
+        "phone": "4298570725",
+        "servicePhone": "800860399"
+    },
+    "birthday": "1954-14-02",
+    "ip": "16.75.5.53",
+    "foo": "bar",
+    "profile": {
+        "about": "All free road history now east per check. Husband begin sing tax also.\nSpecial doctor soon mother along pull. Check get two record painting above. True learn garden within magazine successful.",
+        "bio": "Himself event meet thousand song carry. Inside explain southern. Glass break would another."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
