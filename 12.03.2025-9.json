@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Smith",
+    "age": 4,
+    "address": {
+        "street": "Gary Harbor",
+        "city": "Beltranville",
+        "state": "Georgia",
+        "zip": "76217"
+    },
+    "contact": {
+        "phone": "(456)378-3295x953",
+        "servicePhone": "800372141"
+    },
+    "birthday": "2021-21-04",
+    "ip": "74.195.6.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Network voice why decade. Father my including. Race investment realize light up.\nPast front card condition east radio difficult. Up cover artist.",
+        "bio": "Ago put remain thousand western. Place fast tree.\nVoice bit I environmental no address material today. Next again stage feeling."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
