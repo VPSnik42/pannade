@@ -1,0 +1,25 @@
+{
+    "name": "Dana Hughes",
+    "age": 95,
+    "address": {
+        "street": "Mora Turnpike",
+        "city": "Laurenville",
+        "state": "Nebraska",
+        "zip": "52424"
+    },
+    "contact": {
+        "phone": "7674128497",
+        "servicePhone": "800587588"
+    },
+    "birthday": "1930-03-10",
+    "ip": "218.137.237.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Necessary team pass eye. Pick difference sign its none get. Answer bag this third city.\nShould visit however now.\nSuccessful determine north down.",
+        "bio": "Next industry from mouth. Bit stop recognize third weight message. To set safe describe experience."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
