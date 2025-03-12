@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Ford",
+    "age": 33,
+    "address": {
+        "street": "Matthew Gateway",
+        "city": "Gomezton",
+        "state": "Delaware",
+        "zip": "03306"
+    },
+    "contact": {
+        "phone": "219-707-5188x5873",
+        "servicePhone": "800675842"
+    },
+    "birthday": "1992-23-04",
+    "ip": "168.30.174.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Production off teach. Event evidence environment plant. Up letter follow cover pay specific.\nAccept back resource home past let onto. Hair act cost we into.",
+        "bio": "Try affect whatever free. Positive both establish especially. Picture change listen would market central.\nFill glass which first somebody be visit. Meet onto night month whether town her."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
