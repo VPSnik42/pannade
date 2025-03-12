@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Smith",
+    "age": 62,
+    "address": {
+        "street": "Taylor Plain",
+        "city": "Rodneyland",
+        "state": "New Jersey",
+        "zip": "74476"
+    },
+    "contact": {
+        "phone": "396-700-9225x903",
+        "servicePhone": "800302579"
+    },
+    "birthday": "1963-27-04",
+    "ip": "162.24.240.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Think generation seven successful.\nEspecially stand kitchen consider court class. Page city smile social. Such law activity claim buy suffer. Company author guess ago.",
+        "bio": "Usually job air hospital. Ahead raise manager job beautiful game. Seek article consumer affect clearly would.\nDream student central million sell run home. Myself enjoy behavior think."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
