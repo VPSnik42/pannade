@@ -1,0 +1,25 @@
+{
+    "name": "John Jones",
+    "age": 112,
+    "address": {
+        "street": "Micheal Mountain",
+        "city": "North Christina",
+        "state": "Indiana",
+        "zip": "19005"
+    },
+    "contact": {
+        "phone": "735-242-1603",
+        "servicePhone": "800609928"
+    },
+    "birthday": "1913-12-07",
+    "ip": "167.237.27.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Environmental help recently economy. Dark see not recently. Success air table heart professional which decide.",
+        "bio": "Few policy somebody. Bag important employee win agree.\nUnit day usually real check inside kid. Final with leave TV adult above. Nor meet with.\nFish keep house miss pick. Chair attack husband."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
