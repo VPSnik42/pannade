@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Mcpherson",
+    "age": 74,
+    "address": {
+        "street": "Latasha Key",
+        "city": "Port Antonio",
+        "state": "New York",
+        "zip": "11499"
+    },
+    "contact": {
+        "phone": "(638)975-6388",
+        "servicePhone": "800372487"
+    },
+    "birthday": "1951-26-09",
+    "ip": "119.47.239.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Much how realize once television. But general month manager face type artist. Above read edge finish market political.\nDetermine while special sign. East dinner author. Little billion arm.",
+        "bio": "Someone theory hair kind view consider remember. Do man hair movie ago entire represent.\nEconomy however good itself. Better station yourself friend receive almost pattern five."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
