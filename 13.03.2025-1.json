@@ -1,0 +1,25 @@
+{
+    "name": "Maria Rowland",
+    "age": 100,
+    "address": {
+        "street": "May Creek",
+        "city": "Mendezville",
+        "state": "South Dakota",
+        "zip": "06401"
+    },
+    "contact": {
+        "phone": "+1-567-911-6355x944",
+        "servicePhone": "800777852"
+    },
+    "birthday": "1925-15-05",
+    "ip": "13.12.37.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Brother rock necessary ok nice part result use. Field find employee deal their administration soldier. See business land kid agency writer three.",
+        "bio": "Determine sell design for its western treat. Over finally station certain. Per point try gun PM.\nCase say second boy. By ok music her. Executive provide standard yes event kind population."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
