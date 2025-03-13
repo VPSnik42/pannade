@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Watson",
+    "age": 60,
+    "address": {
+        "street": "Molly Tunnel",
+        "city": "North Christopherville",
+        "state": "Nebraska",
+        "zip": "73277"
+    },
+    "contact": {
+        "phone": "511.432.4986x50087",
+        "servicePhone": "800505646"
+    },
+    "birthday": "1965-16-03",
+    "ip": "47.4.52.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Garden Mrs guess peace simple. Nothing range safe both spring. Range must when energy evening.\nWhole follow Republican later house. Individual give determine hour.",
+        "bio": "Edge home hospital the someone. History suffer Democrat know win friend.\nAllow have important professional. Girl about thing model stand decide wall."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
