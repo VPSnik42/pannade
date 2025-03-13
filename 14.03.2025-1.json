@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Skinner",
+    "age": 14,
+    "address": {
+        "street": "Phillips Lodge",
+        "city": "Nguyenchester",
+        "state": "Idaho",
+        "zip": "84789"
+    },
+    "contact": {
+        "phone": "001-691-426-4190x341",
+        "servicePhone": "800730424"
+    },
+    "birthday": "2011-18-05",
+    "ip": "181.33.26.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Improve pay voice base chance. Fact American room everyone. Crime avoid particular conference mention sit teach avoid.",
+        "bio": "Town can garden agent example very.\nAction able themselves. Street mind newspaper relationship appear dream case challenge."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
