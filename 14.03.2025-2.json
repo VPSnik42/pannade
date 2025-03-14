@@ -1,0 +1,25 @@
+{
+    "name": "Mr. James Doyle DDS",
+    "age": 19,
+    "address": {
+        "street": "Maria Crossroad",
+        "city": "New Jonathan",
+        "state": "Iowa",
+        "zip": "67909"
+    },
+    "contact": {
+        "phone": "793-328-6045",
+        "servicePhone": "800757382"
+    },
+    "birthday": "2006-16-10",
+    "ip": "187.97.138.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee continue we unit. Choose special card rule area. Time hold board movement.\nMovement finally computer month deep.\nGrow clear effort various common. Anything such push new risk.",
+        "bio": "Picture book trouble. Better bill tell go.\nState order star join. Something pretty for already personal."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
