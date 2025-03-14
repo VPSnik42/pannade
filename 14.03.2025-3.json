@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Smith",
+    "age": 4,
+    "address": {
+        "street": "Arnold Ferry",
+        "city": "North Williebury",
+        "state": "Montana",
+        "zip": "85163"
+    },
+    "contact": {
+        "phone": "(355)801-4768x0940",
+        "servicePhone": "800569471"
+    },
+    "birthday": "2021-12-10",
+    "ip": "53.242.11.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Late oil them often impact story eight. Together fund about imagine themselves.",
+        "bio": "Worker ready from. You get officer. Point imagine this south of give dinner.\nBehind fight statement face. Two middle himself speak physical return mind. Thousand city we. Tv may meet morning."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
