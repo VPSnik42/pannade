@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Cain",
+    "age": 103,
+    "address": {
+        "street": "Taylor Haven",
+        "city": "Lake Courtney",
+        "state": "Alaska",
+        "zip": "03522"
+    },
+    "contact": {
+        "phone": "001-810-534-3386x44133",
+        "servicePhone": "800785811"
+    },
+    "birthday": "1922-07-04",
+    "ip": "86.235.118.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Pass indicate song hair suddenly system area owner. Green more generation science question write treat. Serious fly page hope.\nFinally million gas anyone.",
+        "bio": "Really turn financial above. Could third remember.\nYear education police expert reduce case name become. At name section hand particular water tree."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
