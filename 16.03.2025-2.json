@@ -1,0 +1,25 @@
+{
+    "name": "Lee Lambert PhD",
+    "age": 40,
+    "address": {
+        "street": "Shelia Locks",
+        "city": "Port Heidiport",
+        "state": "Kansas",
+        "zip": "60519"
+    },
+    "contact": {
+        "phone": "778-879-9401",
+        "servicePhone": "800021572"
+    },
+    "birthday": "1985-14-04",
+    "ip": "36.153.165.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Fly only deal fast. Blood test single race. Ago mention but kid.\nPlan woman night within commercial purpose choice. Great laugh rise here try nearly another.",
+        "bio": "Father ground student.\nHis quality condition teach race. Relate leader image happy."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
