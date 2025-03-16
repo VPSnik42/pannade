@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Taylor",
+    "age": 21,
+    "address": {
+        "street": "Villegas Burgs",
+        "city": "New Ana",
+        "state": "South Carolina",
+        "zip": "09047"
+    },
+    "contact": {
+        "phone": "+1-931-687-2933x846",
+        "servicePhone": "800102099"
+    },
+    "birthday": "2004-13-01",
+    "ip": "206.25.213.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Executive answer small oil trial but most. Writer why out laugh different budget provide address.\nShare wait paper much. Live hotel growth cup serve.",
+        "bio": "Radio third minute. Surface gas now class end center more. Task respond must.\nFinally add describe range. Return effect base drug us. Film reduce religious west state if money."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
