@@ -1,0 +1,25 @@
+{
+    "name": "Christine Price",
+    "age": 37,
+    "address": {
+        "street": "Mccarty Lodge",
+        "city": "East Elizabethland",
+        "state": "Nevada",
+        "zip": "75721"
+    },
+    "contact": {
+        "phone": "+1-698-483-3931x295",
+        "servicePhone": "800990821"
+    },
+    "birthday": "1988-11-10",
+    "ip": "136.181.252.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Identify speech budget idea like peace. Feeling traditional well nation course section. Every image wide federal. Save young behind own can far we.",
+        "bio": "Model work or writer usually public exactly over. Prepare carry land exactly wind picture.\nAuthor shoulder her knowledge. Beyond actually series expect rock this."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
