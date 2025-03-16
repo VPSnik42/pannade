@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Adams",
+    "age": 100,
+    "address": {
+        "street": "Justin Falls",
+        "city": "Lake Johnfort",
+        "state": "Michigan",
+        "zip": "37905"
+    },
+    "contact": {
+        "phone": "001-481-879-8054",
+        "servicePhone": "800135211"
+    },
+    "birthday": "1925-27-07",
+    "ip": "129.246.250.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Visit include though accept authority executive.\nBecome other choose lead table. Lead project seven summer group national role. Way kind market tax stop.",
+        "bio": "Language this commercial owner. Investment face speech operation ahead every.\nWait safe mouth. Far two officer feel several national bring. Skin type type democratic."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
