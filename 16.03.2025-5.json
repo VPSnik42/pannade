@@ -1,0 +1,25 @@
+{
+    "name": "Dana Morris",
+    "age": 10,
+    "address": {
+        "street": "Derek Manors",
+        "city": "Cunninghamview",
+        "state": "Louisiana",
+        "zip": "03651"
+    },
+    "contact": {
+        "phone": "(960)552-3992",
+        "servicePhone": "800380060"
+    },
+    "birthday": "2015-22-12",
+    "ip": "8.120.210.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Teacher doctor well industry able hour. Yes attention especially meeting perform compare hair.\nDiscussion could on make indicate onto off. Of machine I that million.",
+        "bio": "Five nature of professional bed. Soldier produce upon performance.\nCourt book Mrs his various. Toward station finish question even chance."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
