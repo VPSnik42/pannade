@@ -1,0 +1,25 @@
+{
+    "name": "Carla Salazar",
+    "age": 82,
+    "address": {
+        "street": "Hudson Crescent",
+        "city": "Petersonton",
+        "state": "Florida",
+        "zip": "40949"
+    },
+    "contact": {
+        "phone": "(592)931-4808x8770",
+        "servicePhone": "800772138"
+    },
+    "birthday": "1943-20-08",
+    "ip": "10.17.224.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Sign there decide. Three reason push ago appear.\nThreat travel table exist prepare significant theory. Government tonight its like concern. Summer usually forget fight bed shoulder also.",
+        "bio": "Everybody career type success. Director also consumer near store.\nOil under former television hit painting. Take at everyone dark."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
