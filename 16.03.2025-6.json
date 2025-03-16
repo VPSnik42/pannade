@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Ali",
+    "age": 77,
+    "address": {
+        "street": "David Corners",
+        "city": "Wheelermouth",
+        "state": "West Virginia",
+        "zip": "02474"
+    },
+    "contact": {
+        "phone": "(802)255-0977x51167",
+        "servicePhone": "800570969"
+    },
+    "birthday": "1948-08-11",
+    "ip": "144.34.237.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Heavy suddenly whom middle point drive husband less. Identify behind matter story represent movie.",
+        "bio": "Among walk energy. Success prepare enjoy understand relationship. Me individual would.\nKid wall herself themselves she. Music hundred to color. Air through state list official."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
