@@ -1,0 +1,25 @@
+{
+    "name": "Michele Hall",
+    "age": 44,
+    "address": {
+        "street": "Roy Loop",
+        "city": "Lake Stevenmouth",
+        "state": "Louisiana",
+        "zip": "55094"
+    },
+    "contact": {
+        "phone": "486.321.6056",
+        "servicePhone": "800885734"
+    },
+    "birthday": "1981-25-12",
+    "ip": "121.231.226.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Back feeling hard stock lot reflect system. Response second technology form.\nYou effect within group lawyer. Property part whose although TV theory form all.",
+        "bio": "Enough class education sort. Provide south that because test then party. Drug condition hard weight manage ten visit."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
