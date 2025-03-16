@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Moreno",
+    "age": 8,
+    "address": {
+        "street": "Conley Plains",
+        "city": "Brownfurt",
+        "state": "Hawaii",
+        "zip": "88950"
+    },
+    "contact": {
+        "phone": "001-535-656-6966",
+        "servicePhone": "800884239"
+    },
+    "birthday": "2017-19-02",
+    "ip": "201.115.131.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Lose remain through to explain wish southern. Color believe worry ten and follow. Same again reach ground city.",
+        "bio": "White result direction. Floor statement design who program."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
