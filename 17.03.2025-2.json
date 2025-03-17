@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Nash",
+    "age": 27,
+    "address": {
+        "street": "Sierra Squares",
+        "city": "Hortonshire",
+        "state": "New Hampshire",
+        "zip": "67871"
+    },
+    "contact": {
+        "phone": "(618)361-5515x1448",
+        "servicePhone": "800336528"
+    },
+    "birthday": "1998-27-10",
+    "ip": "167.123.151.79",
+    "foo": "bar",
+    "profile": {
+        "about": "International movement maybe assume current style decide. Clear building herself next control protect enough. Team develop present forward whose we.\nAll few hope peace who day. Church end but finish.",
+        "bio": "Player at conference make. Economic call issue collection successful its event. From blue each put point charge."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
