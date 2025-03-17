@@ -1,0 +1,25 @@
+{
+    "name": "Peter Rogers",
+    "age": 5,
+    "address": {
+        "street": "Elizabeth Street",
+        "city": "Port Samuel",
+        "state": "Wisconsin",
+        "zip": "57446"
+    },
+    "contact": {
+        "phone": "+1-426-689-3191x71809",
+        "servicePhone": "800944018"
+    },
+    "birthday": "2020-15-12",
+    "ip": "33.8.8.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Theory ready apply southern walk green sea writer. Feel just nor hard.",
+        "bio": "People character start environment main baby. Performance mind military power hospital. American provide late leave name."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
