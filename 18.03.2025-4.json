@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Buckley",
+    "age": 5,
+    "address": {
+        "street": "Anderson Greens",
+        "city": "Normanmouth",
+        "state": "Michigan",
+        "zip": "16019"
+    },
+    "contact": {
+        "phone": "739.526.2281x385",
+        "servicePhone": "800432897"
+    },
+    "birthday": "2020-18-08",
+    "ip": "32.240.158.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Respond outside sometimes week design easy pull. Memory ground where.\nAbility leg time. Alone cost fear certainly represent.\nShould certainly Democrat oil. Those your team agreement.",
+        "bio": "Mind concern model. Industry than whether far something agency father.\nIdentify reality behind. Across sense among write business institution. Public or light already."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
