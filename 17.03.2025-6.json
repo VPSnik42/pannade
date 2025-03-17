@@ -1,0 +1,25 @@
+{
+    "name": "Steven Reed",
+    "age": 84,
+    "address": {
+        "street": "Lang Court",
+        "city": "Codystad",
+        "state": "Oklahoma",
+        "zip": "85359"
+    },
+    "contact": {
+        "phone": "(893)890-4544x56856",
+        "servicePhone": "800751583"
+    },
+    "birthday": "1941-04-11",
+    "ip": "8.32.66.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Citizen agency suffer activity alone. Somebody behavior spend analysis approach. Generation line none sport rest we tonight environment.",
+        "bio": "Whose arm improve billion attorney. Task space rock style pattern lay.\nEasy early street throughout. Scene time bed common statement add hit. Loss total tree contain suffer bit support."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
