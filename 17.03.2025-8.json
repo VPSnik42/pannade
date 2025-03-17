@@ -1,0 +1,25 @@
+{
+    "name": "Roberto Larsen",
+    "age": 43,
+    "address": {
+        "street": "Martin Crescent",
+        "city": "Stevensonchester",
+        "state": "New Mexico",
+        "zip": "69942"
+    },
+    "contact": {
+        "phone": "297.574.3660",
+        "servicePhone": "800555847"
+    },
+    "birthday": "1982-11-12",
+    "ip": "171.46.114.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Deep foreign new simple reveal we else. Second company leave. Student hour degree up sort determine research. Fear technology until almost city space poor.",
+        "bio": "Strategy hair significant region happen option great. Allow least economy would price increase.\nSay sell actually almost news. Senior up his Mr career become about."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
