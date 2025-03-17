@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Tucker",
+    "age": 60,
+    "address": {
+        "street": "Murray Village",
+        "city": "Port Michaelmouth",
+        "state": "Arkansas",
+        "zip": "21905"
+    },
+    "contact": {
+        "phone": "001-786-314-9403",
+        "servicePhone": "800780128"
+    },
+    "birthday": "1965-31-03",
+    "ip": "172.245.250.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Ability store kitchen quality. Both itself nor whether.\nThree tax certainly way memory factor easy eight. Clearly yard thank office paper. Writer area large.",
+        "bio": "Good fly majority floor big. Mouth than floor mean sort system both. Total brother someone pick tax increase real."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
