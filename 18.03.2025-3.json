@@ -1,0 +1,25 @@
+{
+    "name": "Philip Brown",
+    "age": 33,
+    "address": {
+        "street": "Douglas Place",
+        "city": "Turnerville",
+        "state": "South Dakota",
+        "zip": "08676"
+    },
+    "contact": {
+        "phone": "+1-265-213-9771x5076",
+        "servicePhone": "800986229"
+    },
+    "birthday": "1992-23-12",
+    "ip": "172.88.180.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Than any what perform wrong movie. Look run boy speech floor finally television. Mention only age.\nPrevent far among human think. Young eat across left majority.",
+        "bio": "Glass lead minute. Those final house ground husband tend.\nStructure pressure bit really who open grow. Final example political. Thought benefit degree choice fear industry difference."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
