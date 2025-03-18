@@ -1,0 +1,25 @@
+{
+    "name": "Melinda Drake",
+    "age": 66,
+    "address": {
+        "street": "Harper Spurs",
+        "city": "Pageview",
+        "state": "Oklahoma",
+        "zip": "96875"
+    },
+    "contact": {
+        "phone": "487.784.7893x71696",
+        "servicePhone": "800283781"
+    },
+    "birthday": "1959-28-11",
+    "ip": "99.73.130.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Debate bill like concern weight network. Far improve pull instead couple ability area fine. Movie authority doctor room thing activity. Message policy southern employee keep.",
+        "bio": "Art compare bank line. Great mention care impact. Small image side different field type feel decide."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
