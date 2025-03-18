@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Adams",
+    "age": 69,
+    "address": {
+        "street": "Weiss Crossing",
+        "city": "West Donna",
+        "state": "Kansas",
+        "zip": "07117"
+    },
+    "contact": {
+        "phone": "(305)469-3606x7396",
+        "servicePhone": "800674630"
+    },
+    "birthday": "1956-10-04",
+    "ip": "55.16.139.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Bed himself color between. Affect dog just require simple send. Dog nation scene nation figure human occur.\nFigure exist college quickly bit. But east this fine example.",
+        "bio": "Computer wonder third account health author receive player. Old space ever not notice my then."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
