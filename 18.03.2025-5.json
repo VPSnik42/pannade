@@ -1,0 +1,25 @@
+{
+    "name": "Isaiah Keller",
+    "age": 47,
+    "address": {
+        "street": "Dominguez Extension",
+        "city": "Newtonview",
+        "state": "Hawaii",
+        "zip": "31360"
+    },
+    "contact": {
+        "phone": "(658)979-7906",
+        "servicePhone": "800030777"
+    },
+    "birthday": "1978-14-09",
+    "ip": "72.18.97.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Number increase against show measure conference serve. Better stand interest but thousand respond when. Step artist blood region day activity hand.",
+        "bio": "Name claim once opportunity. Foreign international my offer leave. Candidate pass brother expert second much general."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
