@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Mcneil",
+    "age": 35,
+    "address": {
+        "street": "Sweeney Pines",
+        "city": "Karenshire",
+        "state": "Kansas",
+        "zip": "64411"
+    },
+    "contact": {
+        "phone": "(391)310-1974",
+        "servicePhone": "800964113"
+    },
+    "birthday": "1990-09-05",
+    "ip": "175.21.245.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Admit security foot national. Military modern land drive live pattern. Debate shoulder none couple.\nState mind find top can. Push what walk indeed cover who them. Time affect other notice chair.",
+        "bio": "Morning even senior chair customer box. Always building successful couple whom speech. Program expect material daughter responsibility blood add."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
