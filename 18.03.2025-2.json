@@ -1,0 +1,25 @@
+{
+    "name": "George Brown",
+    "age": 41,
+    "address": {
+        "street": "Nicole Flats",
+        "city": "South Michelle",
+        "state": "Minnesota",
+        "zip": "46035"
+    },
+    "contact": {
+        "phone": "976-558-0389",
+        "servicePhone": "800243930"
+    },
+    "birthday": "1984-10-11",
+    "ip": "168.136.73.94",
+    "foo": "bar",
+    "profile": {
+        "about": "About decide career reduce three. General church save mean score.\nAway event cup bit. Only bit risk.\nMention man despite someone unit. Peace its million eye scientist.",
+        "bio": "Language voice first somebody check dinner. Rule return whom behavior. Up once receive ask nice stop away."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
