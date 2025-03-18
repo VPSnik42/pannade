@@ -1,0 +1,25 @@
+{
+    "name": "Michael Martin",
+    "age": 43,
+    "address": {
+        "street": "Torres Plaza",
+        "city": "Elizabethstad",
+        "state": "Mississippi",
+        "zip": "81343"
+    },
+    "contact": {
+        "phone": "001-256-665-8208",
+        "servicePhone": "800011560"
+    },
+    "birthday": "1982-27-09",
+    "ip": "123.62.232.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Too challenge read early. Together speech watch.\nRisk scene maintain executive. Bill national could most. Important behavior approach teacher heart land.",
+        "bio": "Make image policy Mrs boy degree skill plant. Try religious military great something."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
