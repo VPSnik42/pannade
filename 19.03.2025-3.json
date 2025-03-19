@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Fuller",
+    "age": 63,
+    "address": {
+        "street": "Jenna Summit",
+        "city": "New Briannaborough",
+        "state": "Hawaii",
+        "zip": "75445"
+    },
+    "contact": {
+        "phone": "685-284-9618",
+        "servicePhone": "800189720"
+    },
+    "birthday": "1962-26-02",
+    "ip": "15.14.15.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear my trade need experience brother way.\nMy include and walk mission. Moment local west there.\nBreak man she such and. Sit specific another goal course. Material ability analysis.",
+        "bio": "Citizen attack benefit various reason agree. Attack give stage then red."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
