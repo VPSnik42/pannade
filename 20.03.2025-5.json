@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Haynes",
+    "age": 95,
+    "address": {
+        "street": "Sanders Crossroad",
+        "city": "Lake Nicole",
+        "state": "Virginia",
+        "zip": "65698"
+    },
+    "contact": {
+        "phone": "(539)315-1675x7286",
+        "servicePhone": "800864871"
+    },
+    "birthday": "1930-25-10",
+    "ip": "147.197.203.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Activity hope remain check have base. Result perhaps sea leader store.\nWorker tonight soon Democrat. Later leg hear teach feel religious. Company middle hospital bill hope.",
+        "bio": "Some article pick threat Republican. Outside position late task sense wear.\nCamera executive event street. Will street we everybody technology and."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
