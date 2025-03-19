@@ -1,0 +1,25 @@
+{
+    "name": "Michael Taylor",
+    "age": 41,
+    "address": {
+        "street": "Valdez Ramp",
+        "city": "Michaelfort",
+        "state": "Connecticut",
+        "zip": "87220"
+    },
+    "contact": {
+        "phone": "001-393-629-5616x235",
+        "servicePhone": "800024530"
+    },
+    "birthday": "1984-21-09",
+    "ip": "212.15.237.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Between second rate idea give water successful. Down recognize full value and care. Ahead else return form.",
+        "bio": "West edge summer hand. Make his effort deep author.\nExpect start rock news she summer. You rise live even.\nProduce city personal deal. Improve itself throw Congress dream factor."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
