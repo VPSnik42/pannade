@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Clark",
+    "age": 62,
+    "address": {
+        "street": "Moses Inlet",
+        "city": "West James",
+        "state": "Utah",
+        "zip": "95988"
+    },
+    "contact": {
+        "phone": "+1-917-399-7311",
+        "servicePhone": "800231131"
+    },
+    "birthday": "1963-11-03",
+    "ip": "67.92.230.202",
+    "foo": "bar",
+    "profile": {
+        "about": "White material politics detail return little offer Mrs. Show teach under line remain a audience. Test also require step sound person.",
+        "bio": "Fight scientist computer discussion. Expect recent story alone join answer low. Choose north trouble matter white.\nCourse of east threat than would million three. Always whether society economic nor."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
