@@ -1,0 +1,25 @@
+{
+    "name": "Jeanette Blake",
+    "age": 27,
+    "address": {
+        "street": "Johnson Street",
+        "city": "Fergusonburgh",
+        "state": "Pennsylvania",
+        "zip": "47040"
+    },
+    "contact": {
+        "phone": "831-509-6616x090",
+        "servicePhone": "800828836"
+    },
+    "birthday": "1998-15-09",
+    "ip": "198.65.166.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Seem affect budget Democrat age tax hold turn. Billion base product large. Call discover a accept exactly baby risk.\nSix as eat tend central service.",
+        "bio": "Fish seem player election analysis fill. Bar ever none a above best maintain. Recently project ahead according far.\nEmployee remember available such civil miss."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
