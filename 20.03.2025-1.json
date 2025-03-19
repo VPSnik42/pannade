@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Green",
+    "age": 91,
+    "address": {
+        "street": "Oconnell Centers",
+        "city": "Reyesfurt",
+        "state": "New Jersey",
+        "zip": "88420"
+    },
+    "contact": {
+        "phone": "5819355441",
+        "servicePhone": "800960073"
+    },
+    "birthday": "1934-04-02",
+    "ip": "93.164.39.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Fall I hospital establish. Information second account still fire fish. Believe body break morning through garden car political.",
+        "bio": "Social far check inside safe water.\nOfficer cold nation wonder protect thing simply. There hotel material nature movie.\nInternational key decision not available test. Scene free would kitchen cover."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
