@@ -1,0 +1,25 @@
+{
+    "name": "Emily Holland",
+    "age": 63,
+    "address": {
+        "street": "Mandy Lakes",
+        "city": "Lake Darren",
+        "state": "South Dakota",
+        "zip": "62155"
+    },
+    "contact": {
+        "phone": "(364)397-9117",
+        "servicePhone": "800765784"
+    },
+    "birthday": "1962-08-09",
+    "ip": "161.32.212.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Both camera or indeed language stand. Economic last key.\nMust here late wish.\nTree drug keep. Box security once water stay.\nLow finish along training. Push assume four table.",
+        "bio": "Follow natural Republican boy. Still continue wonder million rise. Glass board sign right."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
