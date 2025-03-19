@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Gonzalez",
+    "age": 70,
+    "address": {
+        "street": "Victor Mews",
+        "city": "Jeremyburgh",
+        "state": "Kansas",
+        "zip": "81911"
+    },
+    "contact": {
+        "phone": "+1-274-941-5983x676",
+        "servicePhone": "800951222"
+    },
+    "birthday": "1955-06-03",
+    "ip": "119.18.177.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Mention continue wrong dog. Me chance position word garden everyone student. Including test practice smile bag information.\nSafe stand current available identify hold party.",
+        "bio": "Kid everybody much medical. List voice body million box woman ahead.\nBag between within indicate. Democratic believe coach mission agent up similar foot. Piece expect cold college standard."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
