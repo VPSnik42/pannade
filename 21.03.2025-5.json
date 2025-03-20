@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Trevor Davis DDS",
+    "age": 100,
+    "address": {
+        "street": "Felicia Keys",
+        "city": "Port Donnafurt",
+        "state": "Utah",
+        "zip": "35006"
+    },
+    "contact": {
+        "phone": "815-408-2874",
+        "servicePhone": "800837511"
+    },
+    "birthday": "1925-30-06",
+    "ip": "5.194.166.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Speech better skill leave effect nothing. Reveal weight story particular because.\nFund let under particular quite trade. Medical power law pretty natural. Little senior may theory those wind dark.",
+        "bio": "Wonder enter health market second career. Health step here race mother forward.\nAlso remain pretty who. Explain information suffer paper.\nSystem seem week determine fish always man."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
