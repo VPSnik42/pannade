@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Smith",
+    "age": 31,
+    "address": {
+        "street": "Hall Ridge",
+        "city": "Amandaland",
+        "state": "Kansas",
+        "zip": "45487"
+    },
+    "contact": {
+        "phone": "(632)635-1246x740",
+        "servicePhone": "800756867"
+    },
+    "birthday": "1994-20-07",
+    "ip": "111.204.21.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Several cold when assume investment which effort these. Huge approach his nature. Recently political across him force cut while let.",
+        "bio": "Almost special matter father. Source individual most job. Center name everything.\nStyle contain last big. Note bag participant rule often. Former major in education name serve contain."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
