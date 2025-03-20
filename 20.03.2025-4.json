@@ -1,0 +1,25 @@
+{
+    "name": "Gabriel Brooks",
+    "age": 102,
+    "address": {
+        "street": "Bryan Groves",
+        "city": "Blakebury",
+        "state": "Georgia",
+        "zip": "94871"
+    },
+    "contact": {
+        "phone": "512-828-6132",
+        "servicePhone": "800608942"
+    },
+    "birthday": "1923-16-12",
+    "ip": "57.132.8.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Year care long recognize those set sport than. Successful popular natural.\nSoon they statement cultural this fish. Course site argue ask. Often issue ask stand including.",
+        "bio": "Family together most choice. Crime attention also woman reflect attack too. Congress it suddenly one. Improve police college forward again spring word.\nSit peace leave. Thus still fight."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
