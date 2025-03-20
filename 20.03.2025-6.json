@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Nelson",
+    "age": 52,
+    "address": {
+        "street": "Leblanc Burgs",
+        "city": "East Katherineland",
+        "state": "Oklahoma",
+        "zip": "75469"
+    },
+    "contact": {
+        "phone": "513-941-4597x1444",
+        "servicePhone": "800985988"
+    },
+    "birthday": "1973-25-12",
+    "ip": "74.152.45.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Effect I example traditional road writer husband. Him factor boy respond budget back. Easy condition majority list many ever health.",
+        "bio": "Plan worker hear paper everything. Operation professional city price financial stuff ready laugh.\nUs floor but. Find growth skill in cut stand head."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
