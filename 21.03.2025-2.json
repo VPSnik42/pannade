@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Cooley",
+    "age": 15,
+    "address": {
+        "street": "Christina Place",
+        "city": "Bateschester",
+        "state": "Colorado",
+        "zip": "51150"
+    },
+    "contact": {
+        "phone": "(434)532-7551",
+        "servicePhone": "800892943"
+    },
+    "birthday": "2010-07-07",
+    "ip": "66.73.221.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Draw ask stay too authority.\nCongress or interview account million. Who rest pick more sing wind too.",
+        "bio": "Voice ten like if husband determine.\nDiscussion sit how stand price senior. Writer pressure able season peace way."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
