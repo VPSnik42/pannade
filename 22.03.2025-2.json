@@ -1,0 +1,25 @@
+{
+    "name": "James Case",
+    "age": 109,
+    "address": {
+        "street": "Shawn Crossroad",
+        "city": "North Jeffrey",
+        "state": "Pennsylvania",
+        "zip": "06650"
+    },
+    "contact": {
+        "phone": "+1-393-420-8394x78264",
+        "servicePhone": "800925114"
+    },
+    "birthday": "1916-02-03",
+    "ip": "129.163.64.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Door subject listen drop create talk goal. Big experience dog see. Long decide need outside have although. Only sort financial knowledge watch.",
+        "bio": "Because report consider several admit. Whom sell law treatment southern campaign. Teach operation summer show interesting in.\nResult measure writer they. Network how plan simply case wish."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
