@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Warren",
+    "age": 7,
+    "address": {
+        "street": "Michael Plaza",
+        "city": "Jordanton",
+        "state": "Ohio",
+        "zip": "37261"
+    },
+    "contact": {
+        "phone": "8563506645",
+        "servicePhone": "800573485"
+    },
+    "birthday": "2018-05-03",
+    "ip": "201.116.183.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Consider me law apply enjoy. Simple thank arm south throughout physical ball choice. Town three price.",
+        "bio": "Physical young produce imagine require assume ability. Order security describe whom."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
