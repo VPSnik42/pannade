@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Watson",
+    "age": 30,
+    "address": {
+        "street": "Matthew Hollow",
+        "city": "Thompsonburgh",
+        "state": "Michigan",
+        "zip": "80491"
+    },
+    "contact": {
+        "phone": "321-717-8683",
+        "servicePhone": "800231067"
+    },
+    "birthday": "1995-26-06",
+    "ip": "17.86.203.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Per investment sing without establish. Many we decision member probably sing next. Turn seek cup red along court remember. Response account two.",
+        "bio": "Soon put moment upon. Which through skin my able various this. Yard now agree.\nHeart at laugh. These pattern improve hope some record left. The story audience article cut."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
