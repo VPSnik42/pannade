@@ -1,0 +1,25 @@
+{
+    "name": "Christina Stanton",
+    "age": 87,
+    "address": {
+        "street": "Debra Causeway",
+        "city": "East Cody",
+        "state": "Utah",
+        "zip": "73719"
+    },
+    "contact": {
+        "phone": "859.548.4738x142",
+        "servicePhone": "800352184"
+    },
+    "birthday": "1938-12-03",
+    "ip": "34.94.128.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean week thousand role way possible second. Weight many difference center writer actually.\nAlone arrive contain pull outside board beat. Mrs among economic. Hope develop dog later quality.",
+        "bio": "Size none expert admit sign because least. Responsibility throughout air threat remember. Between under within difference computer crime.\nUp develop business never into."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
