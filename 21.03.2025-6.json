@@ -1,0 +1,25 @@
+{
+    "name": "Gabriel Howard",
+    "age": 77,
+    "address": {
+        "street": "Smith Burg",
+        "city": "North Jasonton",
+        "state": "Virginia",
+        "zip": "02251"
+    },
+    "contact": {
+        "phone": "209-639-4022x869",
+        "servicePhone": "800933676"
+    },
+    "birthday": "1948-15-06",
+    "ip": "96.126.233.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Sense body along we movement seat teacher. Have parent industry box contain participant. Half team push carry.",
+        "bio": "Stage among ago role war kitchen economy. Firm huge or them minute character local him.\nNothing decade record away send. Yourself none window she will laugh. Bed model best Congress."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
