@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Day",
+    "age": 63,
+    "address": {
+        "street": "Rodriguez Place",
+        "city": "West Karen",
+        "state": "Georgia",
+        "zip": "32391"
+    },
+    "contact": {
+        "phone": "(342)885-2394x70563",
+        "servicePhone": "800336714"
+    },
+    "birthday": "1962-05-10",
+    "ip": "172.210.195.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Building impact toward model computer. Maybe best tough property professor. Ball wonder tell already size.",
+        "bio": "Boy every public especially then owner party person. Energy population suddenly president five something none. Much him available all detail simple. Begin hundred main cell."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
