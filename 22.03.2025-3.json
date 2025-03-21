@@ -1,0 +1,25 @@
+{
+    "name": "Jon Miranda MD",
+    "age": 78,
+    "address": {
+        "street": "Dunlap Radial",
+        "city": "South Robertmouth",
+        "state": "Iowa",
+        "zip": "77398"
+    },
+    "contact": {
+        "phone": "(341)850-4655x09732",
+        "servicePhone": "800977518"
+    },
+    "birthday": "1947-23-05",
+    "ip": "130.134.107.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Image already one. Hair enjoy between political guess clearly I.\nOfficer police talk firm. Teach surface small. Personal born last pretty memory.",
+        "bio": "Miss seat off community would shoulder.\nFeeling own why meet owner. Series animal yeah a explain. Trial keep suggest pass officer both outside."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
