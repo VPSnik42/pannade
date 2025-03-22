@@ -1,0 +1,25 @@
+{
+    "name": "Justin West",
+    "age": 109,
+    "address": {
+        "street": "Rebecca Mall",
+        "city": "Port Mariastad",
+        "state": "Alaska",
+        "zip": "31785"
+    },
+    "contact": {
+        "phone": "226.583.4752x6855",
+        "servicePhone": "800306328"
+    },
+    "birthday": "1916-13-01",
+    "ip": "52.247.107.250",
+    "foo": "bar",
+    "profile": {
+        "about": "North positive quickly worry. Sometimes whom plant heavy catch.",
+        "bio": "Note article see these set attack event. Develop hard control president onto leave service.\nBook again want consider somebody stand. Thought record but though student."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
