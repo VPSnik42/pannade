@@ -1,0 +1,25 @@
+{
+    "name": "Paul Wells",
+    "age": 44,
+    "address": {
+        "street": "Brooks Shores",
+        "city": "Port Scottside",
+        "state": "Texas",
+        "zip": "81823"
+    },
+    "contact": {
+        "phone": "436-422-0801x85113",
+        "servicePhone": "800093751"
+    },
+    "birthday": "1981-27-07",
+    "ip": "52.16.133.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection forward maintain thousand inside though meet. I doctor city often.",
+        "bio": "Coach family week area situation glass. Mouth history help about. Ever discussion collection quickly second sure where consider.\nNow woman seat third when entire list. Offer make charge answer."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
