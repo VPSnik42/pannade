@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Stewart",
+    "age": 111,
+    "address": {
+        "street": "Burton Islands",
+        "city": "Torresview",
+        "state": "Georgia",
+        "zip": "62580"
+    },
+    "contact": {
+        "phone": "(223)985-7011",
+        "servicePhone": "800563485"
+    },
+    "birthday": "1914-23-04",
+    "ip": "125.101.193.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean history remain identify seem. Offer stage practice hear pull before.\nLearn it way three grow nature. Music receive sit bring book deal. National end good daughter recent agent pressure.",
+        "bio": "Risk certain tend grow. Ability son less teacher. Walk player pick necessary we prevent.\nLot off into east also school debate. Factor exist soldier daughter pass control."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
