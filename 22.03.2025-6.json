@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Navarro",
+    "age": 41,
+    "address": {
+        "street": "Tristan Lodge",
+        "city": "West Greg",
+        "state": "Kentucky",
+        "zip": "83255"
+    },
+    "contact": {
+        "phone": "250-608-0624x444",
+        "servicePhone": "800295309"
+    },
+    "birthday": "1984-04-09",
+    "ip": "72.157.7.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Until plant eat provide road individual through. Build medical system quickly.",
+        "bio": "Agency city feel small work. Why fish security within. Environmental evidence especially."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
