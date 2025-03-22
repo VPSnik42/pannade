@@ -1,0 +1,25 @@
+{
+    "name": "Helen Lewis",
+    "age": 60,
+    "address": {
+        "street": "Williams Street",
+        "city": "Maldonadoborough",
+        "state": "West Virginia",
+        "zip": "50667"
+    },
+    "contact": {
+        "phone": "3895495484",
+        "servicePhone": "800707861"
+    },
+    "birthday": "1965-30-05",
+    "ip": "153.109.4.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Very near west generation wait major animal. Our evening us ask team reduce.\nMeet arm little administration age economy probably whatever. Seem anything get behind beautiful health case.",
+        "bio": "Phone for old old land nation score. Big sit beyond anything issue fight why."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
