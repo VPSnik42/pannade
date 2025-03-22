@@ -1,0 +1,25 @@
+{
+    "name": "Richard Robinson",
+    "age": 72,
+    "address": {
+        "street": "Martinez Square",
+        "city": "West Johntown",
+        "state": "Louisiana",
+        "zip": "41701"
+    },
+    "contact": {
+        "phone": "+1-770-465-0555x166",
+        "servicePhone": "800201391"
+    },
+    "birthday": "1953-09-05",
+    "ip": "5.43.44.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound challenge send here. Situation poor hard debate.\nFilm factor board unit these. Prevent fact leave threat travel science.",
+        "bio": "Travel law type method. Many according all hand. Bad information morning not wind sound.\nInto pretty partner free."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
