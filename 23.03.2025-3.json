@@ -1,0 +1,25 @@
+{
+    "name": "Andres Hall",
+    "age": 0,
+    "address": {
+        "street": "Christine Stream",
+        "city": "South Jimmyport",
+        "state": "Montana",
+        "zip": "55871"
+    },
+    "contact": {
+        "phone": "+1-239-330-7428x1140",
+        "servicePhone": "800612492"
+    },
+    "birthday": "2025-20-06",
+    "ip": "49.27.60.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Less situation article quickly can. Must television might billion. Yes maintain box back bed anything bed.",
+        "bio": "Well both environment those. Sister data question economy among. Though serve politics century.\nImage out listen trial behavior. Cost stock high about debate recent."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
