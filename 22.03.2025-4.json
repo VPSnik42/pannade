@@ -1,0 +1,25 @@
+{
+    "name": "Juan Rodriguez",
+    "age": 71,
+    "address": {
+        "street": "Ruth Stravenue",
+        "city": "Sherritown",
+        "state": "Arkansas",
+        "zip": "47300"
+    },
+    "contact": {
+        "phone": "+1-816-510-3589",
+        "servicePhone": "800924473"
+    },
+    "birthday": "1954-21-07",
+    "ip": "165.150.211.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Social apply physical dog policy describe. Young effect him also. Man according off wide including artist.\nSense add material.\nCourt response down group quality. Group inside per perform per three.",
+        "bio": "Enough civil strong box be professor. Live gas Congress name industry agree. Tax eye he writer determine."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
