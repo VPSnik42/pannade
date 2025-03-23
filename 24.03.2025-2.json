@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Armstrong",
+    "age": 54,
+    "address": {
+        "street": "Mcclain Port",
+        "city": "New Kyle",
+        "state": "South Carolina",
+        "zip": "88456"
+    },
+    "contact": {
+        "phone": "663-970-5571",
+        "servicePhone": "800832135"
+    },
+    "birthday": "1971-09-04",
+    "ip": "177.33.52.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Performance could voice relate between. Character guess yeah financial. Over buy list Congress fall reveal.\nEdge agree interest. Account land or kid certainly different role.",
+        "bio": "Song exactly good better eat. Find whether than team lot every. Evening minute guess continue mission. Head sure seem drop your available item."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
