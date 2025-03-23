@@ -1,0 +1,25 @@
+{
+    "name": "Kari Lloyd",
+    "age": 51,
+    "address": {
+        "street": "Garcia Brooks",
+        "city": "New Samanthafurt",
+        "state": "Hawaii",
+        "zip": "82262"
+    },
+    "contact": {
+        "phone": "(477)842-9158",
+        "servicePhone": "800698209"
+    },
+    "birthday": "1974-16-07",
+    "ip": "31.37.213.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Take reach son. Word short hand happy stop big campaign.\nLevel heart physical history college. Relationship floor present seek onto.\nFactor push much thing mean. Fast office race we someone.",
+        "bio": "Western yard require check. Have bag seem ever around number. Source scene situation whether six everyone. Increase others lawyer material physical network."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
