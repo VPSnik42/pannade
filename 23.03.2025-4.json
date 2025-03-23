@@ -1,0 +1,25 @@
+{
+    "name": "Leah Campbell",
+    "age": 23,
+    "address": {
+        "street": "Mitchell Forge",
+        "city": "Lake Elizabeth",
+        "state": "New York",
+        "zip": "43881"
+    },
+    "contact": {
+        "phone": "(769)308-4444",
+        "servicePhone": "800218158"
+    },
+    "birthday": "2002-26-11",
+    "ip": "199.30.72.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Minute small reveal admit yes involve. State exist trial enter. Parent affect that do drop office.\nPm moment sense street southern morning man.",
+        "bio": "Great expert reason card. World green son environmental director agency. Energy structure weight thousand part for organization."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
