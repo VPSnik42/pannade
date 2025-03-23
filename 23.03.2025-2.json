@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Reed",
+    "age": 48,
+    "address": {
+        "street": "Melton Creek",
+        "city": "Jamesland",
+        "state": "Arizona",
+        "zip": "85156"
+    },
+    "contact": {
+        "phone": "+1-273-494-8639x561",
+        "servicePhone": "800140610"
+    },
+    "birthday": "1977-26-12",
+    "ip": "189.188.199.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Imagine exist them point imagine these catch. Change wait four building rest drive large. Particularly need try next attack. Management pretty likely wonder watch company.",
+        "bio": "Raise close suffer nearly PM. North million add policy. Sense event popular down cup summer.\nBusiness major their. Perform gun person his."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
