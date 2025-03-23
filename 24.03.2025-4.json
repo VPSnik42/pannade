@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Jeremy Johnson",
+    "age": 2,
+    "address": {
+        "street": "Foster Fort",
+        "city": "West Kenneth",
+        "state": "Texas",
+        "zip": "60280"
+    },
+    "contact": {
+        "phone": "204.775.4486",
+        "servicePhone": "800145177"
+    },
+    "birthday": "2023-18-07",
+    "ip": "199.15.214.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Ok work activity then rock key college. Name exist talk occur top investment others identify. Bank job decision number game off TV.",
+        "bio": "Bag argue couple medical. Ability letter college dark interest. Past audience parent herself. Four collection investment box station."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
