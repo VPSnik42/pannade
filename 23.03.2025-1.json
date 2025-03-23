@@ -1,0 +1,25 @@
+{
+    "name": "Angela Pearson",
+    "age": 12,
+    "address": {
+        "street": "Kenneth Stravenue",
+        "city": "Port Jasonmouth",
+        "state": "Indiana",
+        "zip": "75317"
+    },
+    "contact": {
+        "phone": "585.778.5240x42530",
+        "servicePhone": "800310922"
+    },
+    "birthday": "2013-01-06",
+    "ip": "219.197.170.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Former cup performance particular east fall moment.\nTest audience early condition big hotel. Culture charge man door war.",
+        "bio": "Stock receive himself. Seat including defense price many.\nEnvironmental station poor real approach quickly. Physical PM religious whose mean move dog. Single politics hear catch discussion can."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
