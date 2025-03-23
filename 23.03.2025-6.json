@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Brown",
+    "age": 97,
+    "address": {
+        "street": "Bates Garden",
+        "city": "West Melissa",
+        "state": "Tennessee",
+        "zip": "22220"
+    },
+    "contact": {
+        "phone": "497.918.8576x944",
+        "servicePhone": "800654554"
+    },
+    "birthday": "1928-15-05",
+    "ip": "107.92.103.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Another provide health cultural consumer large financial. Wear moment maybe here within executive. Letter yeah today lose.",
+        "bio": "Although tend sea maintain material plan music stand. Turn nothing expect. Large else generation none their.\nEach police result deep land exist unit. Employee tree audience."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
