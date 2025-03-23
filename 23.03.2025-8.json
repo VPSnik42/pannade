@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Reynolds",
+    "age": 42,
+    "address": {
+        "street": "Jeremy Locks",
+        "city": "East Vickie",
+        "state": "North Carolina",
+        "zip": "65754"
+    },
+    "contact": {
+        "phone": "657.972.4710x0912",
+        "servicePhone": "800459549"
+    },
+    "birthday": "1983-21-05",
+    "ip": "58.145.144.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad business either water age. Citizen by care account professional after suggest. Quickly interest ball gas bill message.",
+        "bio": "Technology government center whether. Top realize win shake treatment. Enjoy hospital plan method its reach."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
