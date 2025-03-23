@@ -1,0 +1,25 @@
+{
+    "name": "Scott Kennedy",
+    "age": 82,
+    "address": {
+        "street": "Cook Land",
+        "city": "Marieshire",
+        "state": "New Mexico",
+        "zip": "40227"
+    },
+    "contact": {
+        "phone": "746-641-8292x6968",
+        "servicePhone": "800314510"
+    },
+    "birthday": "1943-27-09",
+    "ip": "82.215.178.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Share cost improve visit hear care. Especially full yeah analysis country often meeting.\nEvery them north computer. School too at daughter himself company.",
+        "bio": "Threat way deep alone already rather pattern through. Dream yet read better take. Remain mean though he sometimes reduce."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
