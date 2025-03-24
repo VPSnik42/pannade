@@ -1,0 +1,25 @@
+{
+    "name": "Jason Leon",
+    "age": 77,
+    "address": {
+        "street": "Elizabeth Port",
+        "city": "Hannahside",
+        "state": "Connecticut",
+        "zip": "40597"
+    },
+    "contact": {
+        "phone": "(248)456-9364",
+        "servicePhone": "800905586"
+    },
+    "birthday": "1948-20-09",
+    "ip": "93.162.198.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Institution blood guess tree. Impact half travel rich. Available themselves sort office candidate discover state list.",
+        "bio": "Industry wish adult old. Letter product effort me probably apply case two.\nIndicate site few set. Coach their next capital better. Dinner book television moment out everyone."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
