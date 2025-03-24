@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Fritz",
+    "age": 4,
+    "address": {
+        "street": "Meyer Lock",
+        "city": "Jamesfurt",
+        "state": "South Carolina",
+        "zip": "43462"
+    },
+    "contact": {
+        "phone": "(211)882-9233",
+        "servicePhone": "800313047"
+    },
+    "birthday": "2021-14-08",
+    "ip": "223.191.184.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Letter phone couple institution their week card. Talk song respond western wait cultural. Management capital what bag movie shoulder.",
+        "bio": "Number manage computer role really seven commercial. Individual true yet responsibility prepare.\nNow about show."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
