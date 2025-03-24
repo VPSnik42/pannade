@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Lindsay Walter",
+    "age": 42,
+    "address": {
+        "street": "Dodson Mountain",
+        "city": "Christophermouth",
+        "state": "Missouri",
+        "zip": "40475"
+    },
+    "contact": {
+        "phone": "9767029846",
+        "servicePhone": "800613441"
+    },
+    "birthday": "1983-07-04",
+    "ip": "90.117.115.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Model people discuss campaign window. First worry hold best be. Describe education break interview big.",
+        "bio": "Drug body meeting game. Bit industry around case sit.\nNetwork hard why administration."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
