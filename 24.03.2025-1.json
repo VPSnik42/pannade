@@ -1,0 +1,25 @@
+{
+    "name": "Heather Mccann",
+    "age": 27,
+    "address": {
+        "street": "Lee Lane",
+        "city": "New Mikaylastad",
+        "state": "Connecticut",
+        "zip": "85166"
+    },
+    "contact": {
+        "phone": "(229)335-6940x47762",
+        "servicePhone": "800361912"
+    },
+    "birthday": "1998-10-02",
+    "ip": "131.119.237.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Throughout go really crime fight ever performance. Door financial room garden.\nWithout I reduce plan. Food himself increase else.",
+        "bio": "Main outside also even particularly. Quite behind into certain task successful rich."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
