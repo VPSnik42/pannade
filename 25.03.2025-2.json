@@ -1,0 +1,25 @@
+{
+    "name": "Cody Barker",
+    "age": 111,
+    "address": {
+        "street": "Wade Loop",
+        "city": "North Christophershire",
+        "state": "Virginia",
+        "zip": "89393"
+    },
+    "contact": {
+        "phone": "864.373.9599",
+        "servicePhone": "800199551"
+    },
+    "birthday": "1914-23-01",
+    "ip": "68.194.118.194",
+    "foo": "bar",
+    "profile": {
+        "about": "System significant between eat about health. Education read discover.\nSpecial follow debate hope film. Leg value close share president modern.",
+        "bio": "Create production within home. Subject summer among nation whatever note. Maybe business car another onto difficult.\nLast phone never admit. Shoulder for watch tell firm."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
