@@ -1,0 +1,25 @@
+{
+    "name": "Mike Howard",
+    "age": 21,
+    "address": {
+        "street": "Gary Square",
+        "city": "Aaronside",
+        "state": "Connecticut",
+        "zip": "21827"
+    },
+    "contact": {
+        "phone": "311.435.0909x63906",
+        "servicePhone": "800496364"
+    },
+    "birthday": "2004-24-08",
+    "ip": "64.207.10.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Wish animal record magazine dinner our. She know join writer radio anything.",
+        "bio": "Mean cell kid add. Community create perhaps strategy. Middle two race since.\nThree follow receive budget available. Call goal choice would resource."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
