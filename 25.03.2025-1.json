@@ -1,0 +1,25 @@
+{
+    "name": "Gabrielle Mccoy",
+    "age": 112,
+    "address": {
+        "street": "Roy Mountain",
+        "city": "Christinatown",
+        "state": "Vermont",
+        "zip": "79771"
+    },
+    "contact": {
+        "phone": "+1-410-953-4200x20679",
+        "servicePhone": "800148979"
+    },
+    "birthday": "1913-11-07",
+    "ip": "23.20.228.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Inside against believe agency. Serious cover activity election.\nEducation take teach letter more green. Loss scene cell poor too exist. Also public issue hospital consumer recent base bank.",
+        "bio": "National product this ago I daughter.\nImportant ten newspaper theory. Remain recognize kitchen fight. Rich such six family choice."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
