@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Davis",
+    "age": 84,
+    "address": {
+        "street": "Hall Meadows",
+        "city": "Port Jacob",
+        "state": "Florida",
+        "zip": "09753"
+    },
+    "contact": {
+        "phone": "001-329-371-5998x258",
+        "servicePhone": "800271219"
+    },
+    "birthday": "1941-11-01",
+    "ip": "119.159.107.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Government war else without front bed. Who bank need room. Skin brother four.\nHusband back financial ability commercial. Success appear sound bed move analysis.",
+        "bio": "Return hope though how total. Teach morning road."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
