@@ -1,0 +1,25 @@
+{
+    "name": "Oscar Olson",
+    "age": 70,
+    "address": {
+        "street": "Brian Branch",
+        "city": "Charlesshire",
+        "state": "New Hampshire",
+        "zip": "93864"
+    },
+    "contact": {
+        "phone": "(360)630-8274",
+        "servicePhone": "800756634"
+    },
+    "birthday": "1955-11-11",
+    "ip": "58.242.37.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Organization difference gun six leave control.\nEnergy form give customer live network. Occur public resource.",
+        "bio": "Black year big majority teach condition decide."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
