@@ -1,0 +1,25 @@
+{
+    "name": "Michael Duncan",
+    "age": 93,
+    "address": {
+        "street": "Dylan Ways",
+        "city": "Port Brandon",
+        "state": "Georgia",
+        "zip": "51623"
+    },
+    "contact": {
+        "phone": "436.761.9477x958",
+        "servicePhone": "800069437"
+    },
+    "birthday": "1932-15-01",
+    "ip": "119.235.235.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Important others reveal budget management. Risk find record trouble near eight fear help.",
+        "bio": "Serve trouble rise. Others policy reason cover class.\nEdge figure responsibility above past pick medical red. Under receive rather herself building first. Seat rule whose single main discuss."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
