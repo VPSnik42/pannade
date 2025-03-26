@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Johnson",
+    "age": 1,
+    "address": {
+        "street": "Angel Radial",
+        "city": "Port Adamfurt",
+        "state": "Maine",
+        "zip": "69394"
+    },
+    "contact": {
+        "phone": "456.626.9020x5105",
+        "servicePhone": "800970800"
+    },
+    "birthday": "2024-17-02",
+    "ip": "52.215.214.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Spend world decision financial board right nice.\nWeek yes hotel skin without. At when issue campaign talk cause. Both this medical produce main do.",
+        "bio": "Tree somebody modern. Tough although evening society whatever perhaps. Industry across woman cold into matter here research."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
