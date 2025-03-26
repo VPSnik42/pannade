@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Stevenson",
+    "age": 5,
+    "address": {
+        "street": "Joshua Springs",
+        "city": "South Tony",
+        "state": "North Dakota",
+        "zip": "44452"
+    },
+    "contact": {
+        "phone": "001-245-421-2771",
+        "servicePhone": "800959560"
+    },
+    "birthday": "2020-26-06",
+    "ip": "186.115.28.228",
+    "foo": "bar",
+    "profile": {
+        "about": "True never attorney itself parent.\nFormer bit allow we choose teacher. Receive cut while forward he. Audience condition prepare enter feel night learn.",
+        "bio": "Onto respond laugh explain happy design. Prepare list statement free their activity.\nThus enter speech example imagine reach your. Interesting seem fear."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
