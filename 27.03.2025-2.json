@@ -1,0 +1,25 @@
+{
+    "name": "Gina Lamb",
+    "age": 113,
+    "address": {
+        "street": "Nelson Mountain",
+        "city": "Jakeburgh",
+        "state": "Hawaii",
+        "zip": "52940"
+    },
+    "contact": {
+        "phone": "834-666-3180x7087",
+        "servicePhone": "800084115"
+    },
+    "birthday": "1912-02-02",
+    "ip": "171.15.199.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Method appear modern put.\nDecision nothing tell apply should. Lot effort something person blood situation.\nRise others kitchen budget performance response. School sound step want listen.",
+        "bio": "Economic Democrat gas. Memory federal edge never alone tough rate. Goal manage energy four role century drug."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
