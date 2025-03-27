@@ -1,0 +1,25 @@
+{
+    "name": "Beth Price",
+    "age": 46,
+    "address": {
+        "street": "Miller Stravenue",
+        "city": "Foxfort",
+        "state": "California",
+        "zip": "68856"
+    },
+    "contact": {
+        "phone": "(325)594-7947",
+        "servicePhone": "800688278"
+    },
+    "birthday": "1979-23-02",
+    "ip": "147.47.248.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Task church yourself north. Training owner decision tax brother science. Direction indeed wonder.",
+        "bio": "Thank scene until little. Game star them.\nOthers table likely. Project general industry fight hand general plant.\nRecently a plant. Sort explain pressure two old. Number red sound want rate star."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
