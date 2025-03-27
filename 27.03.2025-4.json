@@ -1,0 +1,25 @@
+{
+    "name": "Karl Garcia",
+    "age": 111,
+    "address": {
+        "street": "Crystal Vista",
+        "city": "Samanthatown",
+        "state": "Oregon",
+        "zip": "13299"
+    },
+    "contact": {
+        "phone": "323-811-0646x163",
+        "servicePhone": "800735371"
+    },
+    "birthday": "1914-19-02",
+    "ip": "222.63.46.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Or across challenge meet. Me full past the economy decade think. Effort head former question game start imagine.\nOpportunity book song light ten. Final hospital begin debate defense.",
+        "bio": "Suggest history than simple. Reality up line reveal laugh window student. Nor foreign quite fact yet low Republican property."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
