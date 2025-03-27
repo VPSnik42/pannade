@@ -1,0 +1,25 @@
+{
+    "name": "Glenn Williams",
+    "age": 95,
+    "address": {
+        "street": "Edwin Mill",
+        "city": "West Kylebury",
+        "state": "New Hampshire",
+        "zip": "45104"
+    },
+    "contact": {
+        "phone": "(980)430-6912x8456",
+        "servicePhone": "800010075"
+    },
+    "birthday": "1930-24-06",
+    "ip": "5.5.145.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Cell firm others. Only speak several military read.\nOld blue song hundred sometimes. Me somebody meeting miss where color. Part lawyer report professor responsibility. Real get morning media.",
+        "bio": "Can eye article thousand cold. Item agency build foot mouth. Sit culture turn something own.\nWhere become rock rest more goal safe. Evening employee join often but house marriage."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
