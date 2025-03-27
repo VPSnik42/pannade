@@ -1,0 +1,25 @@
+{
+    "name": "David Shepard",
+    "age": 9,
+    "address": {
+        "street": "Soto Village",
+        "city": "New Sydney",
+        "state": "Louisiana",
+        "zip": "34083"
+    },
+    "contact": {
+        "phone": "428-529-5469",
+        "servicePhone": "800409390"
+    },
+    "birthday": "2016-28-05",
+    "ip": "97.217.224.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Consumer fall house later cold senior four. Matter see serve value.\nAll quality nor. Find place must yes.",
+        "bio": "Doctor door writer. Fine hotel radio push. But theory allow agreement.\nBillion visit daughter upon research pretty fine. Paper ability hot all. Among gun quickly type move of same."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
