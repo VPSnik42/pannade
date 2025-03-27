@@ -1,0 +1,25 @@
+{
+    "name": "Haley Stephens",
+    "age": 36,
+    "address": {
+        "street": "Cory Pass",
+        "city": "Patrickfurt",
+        "state": "Washington",
+        "zip": "51924"
+    },
+    "contact": {
+        "phone": "434.230.9423x30787",
+        "servicePhone": "800055971"
+    },
+    "birthday": "1989-02-02",
+    "ip": "59.8.152.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Play on ability the. Than should identify chair mention soon. Office part stock form much Mrs.\nAgainst dinner up chair measure character program unit.",
+        "bio": "Culture speak exist forward avoid our. Family rule a.\nNotice certainly where take outside indicate heavy."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
