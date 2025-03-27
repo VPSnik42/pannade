@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Brian Collins",
+    "age": 59,
+    "address": {
+        "street": "Kayla Expressway",
+        "city": "New Lance",
+        "state": "New Hampshire",
+        "zip": "62909"
+    },
+    "contact": {
+        "phone": "(247)849-8933",
+        "servicePhone": "800131275"
+    },
+    "birthday": "1966-11-01",
+    "ip": "123.48.80.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Generation score alone dog fall staff. Country age figure can go recent. Memory state far.\nMessage side military challenge certain win. Task pay realize.",
+        "bio": "Market reduce may ok write. Break business give visit worry join. Pm democratic appear appear effect draw local.\nLarge myself discuss. Seat dog large one wait cause lot."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
