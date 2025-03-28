@@ -1,0 +1,25 @@
+{
+    "name": "Dorothy Armstrong DVM",
+    "age": 20,
+    "address": {
+        "street": "Amanda Ford",
+        "city": "South Katherinestad",
+        "state": "New Jersey",
+        "zip": "40795"
+    },
+    "contact": {
+        "phone": "001-385-227-9891x1060",
+        "servicePhone": "800685125"
+    },
+    "birthday": "2005-08-09",
+    "ip": "47.90.146.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Policy sea believe really.\nHome expect surface chair laugh. Ball how discuss ten friend.\nUp guy physical night. Many per actually box card carry. Likely charge control tonight financial likely learn.",
+        "bio": "Stop sound write news case enter that local. Everyone key poor state. Dream scene against whose family up else.\nSport daughter thousand these less. Open how deal. Bill subject similar which."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
