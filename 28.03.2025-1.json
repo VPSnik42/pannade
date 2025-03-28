@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Mckenzie",
+    "age": 57,
+    "address": {
+        "street": "Dan Parkway",
+        "city": "Christopherland",
+        "state": "Wisconsin",
+        "zip": "52798"
+    },
+    "contact": {
+        "phone": "990-784-4854",
+        "servicePhone": "800991037"
+    },
+    "birthday": "1968-03-07",
+    "ip": "26.102.24.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Go very make sound notice increase. Cold fill go he herself seven. Parent firm west strategy ability process wall.",
+        "bio": "Event carry without west general back voice.\nLeave Mr begin difference less top past. Clearly change home card talk part."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
