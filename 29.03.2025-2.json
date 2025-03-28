@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Allen",
+    "age": 60,
+    "address": {
+        "street": "Cannon Ways",
+        "city": "Bakerburgh",
+        "state": "New York",
+        "zip": "01926"
+    },
+    "contact": {
+        "phone": "421-954-7101x156",
+        "servicePhone": "800399534"
+    },
+    "birthday": "1965-28-09",
+    "ip": "176.244.93.115",
+    "foo": "bar",
+    "profile": {
+        "about": "House central someone since. Writer risk now action attorney health cultural. Work drug central behavior financial officer attention.\nReally memory available place.",
+        "bio": "Feeling week individual public. Process season other white recently operation.\nChoice assume together their imagine. Then pretty road.\nTeach piece why yeah."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
