@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Fowler",
+    "age": 54,
+    "address": {
+        "street": "Sarah Trail",
+        "city": "Tannerfort",
+        "state": "Connecticut",
+        "zip": "88241"
+    },
+    "contact": {
+        "phone": "+1-768-910-8815x606",
+        "servicePhone": "800315673"
+    },
+    "birthday": "1971-04-08",
+    "ip": "198.87.174.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Know easy sign represent citizen cell. Nearly doctor agree firm life. Age significant enough new watch do result. Many dinner season nature financial common your.",
+        "bio": "Successful wind son prevent sign. Why his physical former mean adult out.\nComputer set away two try. Describe keep model notice song.\nPay century available care. Local child follow attorney."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
