@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Banks",
+    "age": 33,
+    "address": {
+        "street": "James Streets",
+        "city": "Port Lauren",
+        "state": "Ohio",
+        "zip": "34969"
+    },
+    "contact": {
+        "phone": "515.493.8437",
+        "servicePhone": "800459673"
+    },
+    "birthday": "1992-12-04",
+    "ip": "53.136.91.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Me share we culture certainly safe. Sometimes argue middle show end may one.\nStation people individual course yeah put. Moment image year exactly product wide recently.",
+        "bio": "Quickly evidence year successful same.\nCommon assume behind at party determine. Gas work half bank. May behind add time administration live on. Travel conference laugh buy some news you national."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
