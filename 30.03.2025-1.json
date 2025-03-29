@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Day",
+    "age": 34,
+    "address": {
+        "street": "Durham Via",
+        "city": "South Michael",
+        "state": "Nebraska",
+        "zip": "84484"
+    },
+    "contact": {
+        "phone": "001-318-961-4398x4834",
+        "servicePhone": "800044349"
+    },
+    "birthday": "1991-24-07",
+    "ip": "96.39.112.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Director stuff assume industry add. Interesting upon those job. Structure drop team hear contain happy reality sister.",
+        "bio": "Point president entire court. Ability event guess early story shake.\nI better difficult story realize those. Yeah technology too. Sell score help up American remain assume."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
