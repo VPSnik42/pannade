@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Brown MD",
+    "age": 107,
+    "address": {
+        "street": "Sean Corner",
+        "city": "New Dianaborough",
+        "state": "Utah",
+        "zip": "57290"
+    },
+    "contact": {
+        "phone": "+1-580-894-8662",
+        "servicePhone": "800189492"
+    },
+    "birthday": "1918-08-04",
+    "ip": "28.196.126.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Knowledge back series different later cold behavior. Six more follow fund. Travel person five program approach interest.\nCourse later foreign message. Trade but through data city attack.",
+        "bio": "Step available husband owner. Such among attention yet. Fish yet family science majority summer.\nInclude involve stuff question. Check effect office."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
