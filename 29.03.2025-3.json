@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Lee",
+    "age": 68,
+    "address": {
+        "street": "Huang Hollow",
+        "city": "South Terrimouth",
+        "state": "Wisconsin",
+        "zip": "11011"
+    },
+    "contact": {
+        "phone": "001-218-965-1331",
+        "servicePhone": "800474404"
+    },
+    "birthday": "1957-07-08",
+    "ip": "153.105.224.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Message activity myself about table such tonight. Stuff during only forward stage.",
+        "bio": "Discussion she house admit approach he tonight ground. Beat back bed peace drive myself seem.\nParent rule other according. Blood way own college ground. Keep someone east break community among hair."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
