@@ -1,0 +1,25 @@
+{
+    "name": "Linda Wood",
+    "age": 33,
+    "address": {
+        "street": "Tyler Locks",
+        "city": "Paulashire",
+        "state": "Mississippi",
+        "zip": "39918"
+    },
+    "contact": {
+        "phone": "001-414-909-1788",
+        "servicePhone": "800477648"
+    },
+    "birthday": "1992-05-08",
+    "ip": "170.246.222.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Return charge note Mr. Than several another others.\nStage partner these note. Avoid loss subject sport trouble fire boy. Baby bank mouth situation.",
+        "bio": "Simple side soldier adult establish now. Result see myself place billion camera then.\nRegion instead lawyer brother. Special become traditional agent politics house step number."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
