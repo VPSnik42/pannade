@@ -1,0 +1,25 @@
+{
+    "name": "Pam Greene",
+    "age": 39,
+    "address": {
+        "street": "Salazar Causeway",
+        "city": "Heatherhaven",
+        "state": "New Jersey",
+        "zip": "53395"
+    },
+    "contact": {
+        "phone": "653.565.6117x135",
+        "servicePhone": "800722721"
+    },
+    "birthday": "1986-04-02",
+    "ip": "92.74.18.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Alone daughter staff teach travel.\nHappy answer quickly meet Democrat pass. Raise college behavior they pull.",
+        "bio": "Call front perform continue. Main although week stop hot economy.\nWide run none back eye."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
