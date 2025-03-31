@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Johnson",
+    "age": 68,
+    "address": {
+        "street": "Morrow Stravenue",
+        "city": "Port Derekfort",
+        "state": "Pennsylvania",
+        "zip": "33632"
+    },
+    "contact": {
+        "phone": "494-410-8124x30694",
+        "servicePhone": "800422224"
+    },
+    "birthday": "1957-24-11",
+    "ip": "162.231.141.127",
+    "foo": "bar",
+    "profile": {
+        "about": "First stock meeting employee head allow kitchen free. Together fly majority lead send thousand industry hundred. Measure message life effort left improve affect.",
+        "bio": "Condition religious wind training. Police age heavy he office size.\nBit keep plant should size mention.\nPerhaps vote college attack. South best rule add society far newspaper."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
