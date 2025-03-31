@@ -1,0 +1,25 @@
+{
+    "name": "Robert Houston",
+    "age": 102,
+    "address": {
+        "street": "Amanda Harbors",
+        "city": "Jasonburgh",
+        "state": "Tennessee",
+        "zip": "61830"
+    },
+    "contact": {
+        "phone": "671.291.7622x5583",
+        "servicePhone": "800954666"
+    },
+    "birthday": "1923-06-05",
+    "ip": "21.137.91.174",
+    "foo": "bar",
+    "profile": {
+        "about": "One couple deal over hard case. Majority yet also because beyond subject today.\nEasy agent still amount dark dog. Evening buy standard society foreign. Commercial effect show wrong personal consider.",
+        "bio": "Religious short find million people. Fast heavy land eat find direction material much."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
