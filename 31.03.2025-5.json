@@ -1,0 +1,25 @@
+{
+    "name": "James Brady",
+    "age": 84,
+    "address": {
+        "street": "Brown Park",
+        "city": "Elijahhaven",
+        "state": "Arizona",
+        "zip": "09107"
+    },
+    "contact": {
+        "phone": "792.261.5020x159",
+        "servicePhone": "800820657"
+    },
+    "birthday": "1941-07-10",
+    "ip": "148.172.131.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Miss great hold often first cup investment. Cause theory investment whether benefit.\nReceive movie call join. Close smile program as yes order probably.",
+        "bio": "Knowledge ground hundred simply painting beyond shake. Either care arm rich defense conference college."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
