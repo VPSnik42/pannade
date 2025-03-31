@@ -1,0 +1,25 @@
+{
+    "name": "William Franco",
+    "age": 92,
+    "address": {
+        "street": "Amanda Brook",
+        "city": "Hensonland",
+        "state": "New Jersey",
+        "zip": "20161"
+    },
+    "contact": {
+        "phone": "001-863-679-0063x8995",
+        "servicePhone": "800472868"
+    },
+    "birthday": "1933-21-07",
+    "ip": "27.89.204.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Our cover wind eat develop piece bad. Again blue team story my box. Study student sit drug far we produce. Sport notice policy both name idea beyond dream.",
+        "bio": "Matter market almost dream white fine gun. Federal eye development cultural black task method. System card available action.\nEconomy computer indicate maybe. Morning cost lead difference front."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
