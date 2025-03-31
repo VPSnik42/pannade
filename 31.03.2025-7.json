@@ -1,0 +1,25 @@
+{
+    "name": "Theresa Young",
+    "age": 48,
+    "address": {
+        "street": "Isaac Grove",
+        "city": "North Charles",
+        "state": "Wyoming",
+        "zip": "23740"
+    },
+    "contact": {
+        "phone": "(991)898-1794x569",
+        "servicePhone": "800412624"
+    },
+    "birthday": "1977-10-12",
+    "ip": "168.63.202.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Green miss black coach everybody. Reach deep on. Question research ahead there huge.\nFuture apply federal give. Do almost standard his.",
+        "bio": "Notice scientist author simple. News see result value. Student year left I win or actually.\nSimilar discover economic up manage staff in or. Close mind mind think detail memory popular."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
