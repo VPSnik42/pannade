@@ -1,0 +1,25 @@
+{
+    "name": "Rhonda Bailey",
+    "age": 100,
+    "address": {
+        "street": "Reeves Lock",
+        "city": "Rachelville",
+        "state": "New Mexico",
+        "zip": "83666"
+    },
+    "contact": {
+        "phone": "001-257-712-7965",
+        "servicePhone": "800753768"
+    },
+    "birthday": "1925-27-05",
+    "ip": "212.207.251.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Natural occur all daughter on commercial. Light what house difference read character key. Tend south record nation high. Help road forward mother friend fire bad.",
+        "bio": "Few history customer team. We capital argue help. Often business score guess however contain news. Own talk everything soon least Republican."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
