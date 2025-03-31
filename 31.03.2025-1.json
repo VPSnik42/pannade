@@ -1,0 +1,25 @@
+{
+    "name": "Heather Thompson",
+    "age": 59,
+    "address": {
+        "street": "Dean Wall",
+        "city": "Frankmouth",
+        "state": "Texas",
+        "zip": "98766"
+    },
+    "contact": {
+        "phone": "600-718-8580",
+        "servicePhone": "800571105"
+    },
+    "birthday": "1966-02-12",
+    "ip": "163.218.115.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Campaign baby region compare job cover better. Per fire world why attention seem perform.\nAny worry first spend. Maybe attack herself moment oil return easy. Place than consider performance paper.",
+        "bio": "Might them cup certain. Buy two far fill particular worry whatever. There off woman provide."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
