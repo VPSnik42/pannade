@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Mullins",
+    "age": 72,
+    "address": {
+        "street": "Lisa Forge",
+        "city": "West Aliciahaven",
+        "state": "Arizona",
+        "zip": "21579"
+    },
+    "contact": {
+        "phone": "434.600.8111x379",
+        "servicePhone": "800332995"
+    },
+    "birthday": "1953-15-10",
+    "ip": "27.156.220.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Along choose blood system toward have. Interview wrong new spend space. Key gas step.\nPast yourself hope would treatment me safe.",
+        "bio": "Box laugh father newspaper. National maintain baby break certainly less Congress. Myself contain down report public wait project expert."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
