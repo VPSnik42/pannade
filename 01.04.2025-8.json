@@ -1,0 +1,25 @@
+{
+    "name": "Jenny Alexander",
+    "age": 19,
+    "address": {
+        "street": "Rodriguez Vista",
+        "city": "Sheppardberg",
+        "state": "Oklahoma",
+        "zip": "69448"
+    },
+    "contact": {
+        "phone": "001-803-658-8152x702",
+        "servicePhone": "800594741"
+    },
+    "birthday": "2006-04-07",
+    "ip": "130.131.91.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Successful forget since western side simple industry. Move ball rise myself security sell. Myself official easy against success five.",
+        "bio": "Night second whom along city first. Culture avoid serious government.\nHead within hit way card. Just step game kitchen wait exactly.\nTrade between either take pressure tax game."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
