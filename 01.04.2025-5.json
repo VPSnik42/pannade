@@ -1,0 +1,25 @@
+{
+    "name": "Allen Farmer",
+    "age": 95,
+    "address": {
+        "street": "Evan Rapids",
+        "city": "Jamesside",
+        "state": "North Carolina",
+        "zip": "69597"
+    },
+    "contact": {
+        "phone": "001-817-507-9099",
+        "servicePhone": "800575250"
+    },
+    "birthday": "1930-06-07",
+    "ip": "128.172.17.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Law certain national drop change out. Home nice nature policy raise process.\nArticle history usually yard expert. Tell help relationship nothing even trip.",
+        "bio": "Consider born health film financial start. Election effort defense available key. Start call wait push color play station."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
