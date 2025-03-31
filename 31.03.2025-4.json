@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Edwards",
+    "age": 70,
+    "address": {
+        "street": "Tina Center",
+        "city": "Lake Johnland",
+        "state": "South Dakota",
+        "zip": "56278"
+    },
+    "contact": {
+        "phone": "621.965.6253x1281",
+        "servicePhone": "800425476"
+    },
+    "birthday": "1955-17-05",
+    "ip": "177.124.43.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Response civil television would attack relationship fear model. Mission teach student case door plant service. Exist but side a third better.",
+        "bio": "He remember make recently. Page safe garden nation. Into range accept someone consider lose."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
