@@ -1,0 +1,25 @@
+{
+    "name": "Sydney Sanders",
+    "age": 58,
+    "address": {
+        "street": "Crawford Turnpike",
+        "city": "West Jennifershire",
+        "state": "North Carolina",
+        "zip": "58752"
+    },
+    "contact": {
+        "phone": "499.354.2861x60596",
+        "servicePhone": "800749475"
+    },
+    "birthday": "1967-24-12",
+    "ip": "168.231.103.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood organization power set quite friend four. Process instead establish weight specific how. Will production scientist two security thousand.",
+        "bio": "Test order team listen enough. Outside use coach have. Evidence can court claim join. Pressure but buy learn national."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
