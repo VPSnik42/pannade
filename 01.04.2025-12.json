@@ -1,0 +1,25 @@
+{
+    "name": "Desiree Ho",
+    "age": 49,
+    "address": {
+        "street": "Aaron Landing",
+        "city": "Smithberg",
+        "state": "Maine",
+        "zip": "44870"
+    },
+    "contact": {
+        "phone": "+1-218-803-9175x150",
+        "servicePhone": "800009401"
+    },
+    "birthday": "1976-12-09",
+    "ip": "148.135.58.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Road too occur require have democratic child bill. Present decide take nice price TV western.\nEverything decide possible man water most. Parent amount number knowledge yeah.",
+        "bio": "Report enough take whom sound feeling window. Organization type wrong arrive. Single must similar add sign worry development tonight. Red marriage break how man."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
