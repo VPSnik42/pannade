@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Ware",
+    "age": 69,
+    "address": {
+        "street": "Page Mountains",
+        "city": "Port Derek",
+        "state": "Mississippi",
+        "zip": "51176"
+    },
+    "contact": {
+        "phone": "001-525-557-1662x00142",
+        "servicePhone": "800468280"
+    },
+    "birthday": "1956-01-04",
+    "ip": "132.194.11.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Purpose bit ready member. Over easy perform establish rise president.",
+        "bio": "When us including foreign ready. With radio agency various tree set professional. Special year note."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
