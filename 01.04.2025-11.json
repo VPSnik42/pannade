@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Walker",
+    "age": 95,
+    "address": {
+        "street": "Kerr Extension",
+        "city": "Campbellton",
+        "state": "New Mexico",
+        "zip": "14631"
+    },
+    "contact": {
+        "phone": "+1-940-282-9130x4492",
+        "servicePhone": "800678490"
+    },
+    "birthday": "1930-15-01",
+    "ip": "170.44.48.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Network way power. However at dream yes edge author.\nLetter receive reality help guess. Police talk Mr respond different team.\nState bed institution appear build power use. Tree within that group.",
+        "bio": "Prepare performance face sort call read physical. Issue choice song office must treat air. Share agree answer audience.\nBehind through gun true. Others say poor network. Effect have such measure."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
