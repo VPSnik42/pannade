@@ -1,0 +1,25 @@
+{
+    "name": "Robert Grant",
+    "age": 56,
+    "address": {
+        "street": "Lynn Land",
+        "city": "West Brian",
+        "state": "Delaware",
+        "zip": "34497"
+    },
+    "contact": {
+        "phone": "001-495-541-8777x123",
+        "servicePhone": "800138883"
+    },
+    "birthday": "1969-26-07",
+    "ip": "98.160.139.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Man doctor play side staff wind professional. Whom spring have professional security adult.",
+        "bio": "Include commercial doctor science current serve build those. General game national whom.\nIndustry prepare middle next training half by author. Up policy account morning green."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
