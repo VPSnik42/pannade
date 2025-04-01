@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Dawn Richardson",
+    "age": 94,
+    "address": {
+        "street": "Fox Locks",
+        "city": "South Oscar",
+        "state": "Louisiana",
+        "zip": "96993"
+    },
+    "contact": {
+        "phone": "7423528424",
+        "servicePhone": "800763200"
+    },
+    "birthday": "1931-01-05",
+    "ip": "12.247.84.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Dog significant to so social such option. Career lose treat American necessary last street. Move for somebody rock western doctor case.",
+        "bio": "Most whose paper really. Wind fear determine president wear. Sometimes conference hand still.\nAdmit I bill management market business or white. Front professor will bar upon."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
