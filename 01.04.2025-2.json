@@ -1,0 +1,25 @@
+{
+    "name": "Michael Johnson",
+    "age": 44,
+    "address": {
+        "street": "Nelson Plaza",
+        "city": "North Arthurview",
+        "state": "Alaska",
+        "zip": "76405"
+    },
+    "contact": {
+        "phone": "964-385-5078x2107",
+        "servicePhone": "800104062"
+    },
+    "birthday": "1981-26-07",
+    "ip": "182.114.149.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce then one much use statement for. Media benefit onto fact box nice until generation.\nGovernment pay bit matter thus. Him city even treatment administration.",
+        "bio": "Arrive movie person whose situation mention weight. Test agent person girl home ask.\nAmong about doctor girl computer. Others could hospital."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
