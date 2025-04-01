@@ -1,0 +1,25 @@
+{
+    "name": "Lynn Lara",
+    "age": 87,
+    "address": {
+        "street": "Gregory Passage",
+        "city": "Port Sherryburgh",
+        "state": "Michigan",
+        "zip": "58097"
+    },
+    "contact": {
+        "phone": "(472)780-7155x96589",
+        "servicePhone": "800620643"
+    },
+    "birthday": "1938-17-10",
+    "ip": "42.10.161.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Team travel certain agreement. Nature doctor care loss in manage.\nParty miss rate local open. Education door record service. Rule ready student use.",
+        "bio": "Both time remember tell stop bar policy. Successful thing want probably leave up.\nElection blood bank statement the college party. Win plant condition plant."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
