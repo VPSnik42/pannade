@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Le",
+    "age": 11,
+    "address": {
+        "street": "Eric Trafficway",
+        "city": "Brownstad",
+        "state": "Wyoming",
+        "zip": "54799"
+    },
+    "contact": {
+        "phone": "417-735-4697x83648",
+        "servicePhone": "800471401"
+    },
+    "birthday": "2014-09-05",
+    "ip": "169.67.18.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Number off increase. Nation part event may full two he. Light one tell suffer enough PM. Able realize ball music sister paper weight.",
+        "bio": "Carry owner either ask consider trade. Anything interview child.\nBreak expect enjoy near customer sound recently. Rich bag industry me might choice key break. Total shoulder concern worry."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
