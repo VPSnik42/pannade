@@ -1,0 +1,25 @@
+{
+    "name": "Sara Ward",
+    "age": 1,
+    "address": {
+        "street": "Bridget Fort",
+        "city": "Lake Mary",
+        "state": "Michigan",
+        "zip": "33351"
+    },
+    "contact": {
+        "phone": "(422)285-4942",
+        "servicePhone": "800813193"
+    },
+    "birthday": "2024-24-05",
+    "ip": "223.33.102.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Discuss new public key be. Land development order eight really material. Thousand material reveal theory car crime news. Grow mind mean capital pretty into cell.",
+        "bio": "Company throughout article station west himself listen sell.\nLive pick already clear maintain set drug. Miss manage opportunity hotel from list."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
