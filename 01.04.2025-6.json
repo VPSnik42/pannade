@@ -1,0 +1,25 @@
+{
+    "name": "Robin Leonard",
+    "age": 50,
+    "address": {
+        "street": "Diane Alley",
+        "city": "Port Ernestside",
+        "state": "North Dakota",
+        "zip": "90342"
+    },
+    "contact": {
+        "phone": "+1-861-753-6526",
+        "servicePhone": "800702909"
+    },
+    "birthday": "1975-25-01",
+    "ip": "102.218.98.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Great and what music I. Thousand large occur individual member.\nAdmit process continue realize doctor. Dinner keep happen while trip.",
+        "bio": "I suffer study some if drop left. Scene difficult act read buy occur. Option without social be.\nHope put industry book prevent serious agent. Fund station child little machine prove."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
