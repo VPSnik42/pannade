@@ -1,0 +1,25 @@
+{
+    "name": "Debra Becker",
+    "age": 18,
+    "address": {
+        "street": "Black Route",
+        "city": "Richardport",
+        "state": "Minnesota",
+        "zip": "94006"
+    },
+    "contact": {
+        "phone": "001-483-981-4674x115",
+        "servicePhone": "800715674"
+    },
+    "birthday": "2007-29-08",
+    "ip": "104.229.183.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Whether before family. Many open money watch.\nCut eight each seat record cup. Have cultural like join.",
+        "bio": "Five drop describe moment. Color must several common almost table.\nArtist again inside change fish light.\nDay perform however pay those office. Base sort traditional."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
