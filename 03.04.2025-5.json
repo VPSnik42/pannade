@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Brown",
+    "age": 84,
+    "address": {
+        "street": "Schwartz Flats",
+        "city": "Sanchezburgh",
+        "state": "Louisiana",
+        "zip": "52042"
+    },
+    "contact": {
+        "phone": "(362)398-5418",
+        "servicePhone": "800840376"
+    },
+    "birthday": "1941-10-05",
+    "ip": "117.83.89.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Financial participant service.\nMuch nice step hair ready economy. Exist rise there trip fall. Million sit star dark fire consider threat yard.",
+        "bio": "Into meet control this especially approach set. Arm report standard lay. Score ago firm receive Democrat about tend."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
