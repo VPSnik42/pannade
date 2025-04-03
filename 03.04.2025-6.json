@@ -1,0 +1,25 @@
+{
+    "name": "Charles Ibarra",
+    "age": 82,
+    "address": {
+        "street": "Tonya Fort",
+        "city": "Sheilatown",
+        "state": "Pennsylvania",
+        "zip": "14913"
+    },
+    "contact": {
+        "phone": "754-600-4013x908",
+        "servicePhone": "800130951"
+    },
+    "birthday": "1943-27-07",
+    "ip": "49.182.243.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Hair southern environmental force exist. Service small poor stock through if.\nTime management decade view read finally money white. Read lead nice.",
+        "bio": "Day itself minute offer difference feeling our. Not beautiful myself step maybe. Hold old speak region important war."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
