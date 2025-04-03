@@ -1,0 +1,25 @@
+{
+    "name": "Whitney Potter",
+    "age": 38,
+    "address": {
+        "street": "James Pass",
+        "city": "Patrickstad",
+        "state": "Florida",
+        "zip": "17388"
+    },
+    "contact": {
+        "phone": "(942)204-2520",
+        "servicePhone": "800281639"
+    },
+    "birthday": "1987-05-08",
+    "ip": "82.30.195.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Billion think class kid job yeah item me. Protect power himself piece drop know voice kid. Why send against speak standard out.",
+        "bio": "Each response cause dream area apply service subject."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
