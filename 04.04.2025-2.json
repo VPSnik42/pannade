@@ -1,0 +1,25 @@
+{
+    "name": "Dillon Scott",
+    "age": 44,
+    "address": {
+        "street": "Campbell Rest",
+        "city": "West Catherinechester",
+        "state": "West Virginia",
+        "zip": "46773"
+    },
+    "contact": {
+        "phone": "001-263-584-0635x776",
+        "servicePhone": "800724342"
+    },
+    "birthday": "1981-07-08",
+    "ip": "110.110.235.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Now nothing not scientist pretty. Foot system ball kind agreement.\nScientist impact until last everything speech.",
+        "bio": "Various especially approach design figure far finally. Blue he despite game.\nKitchen far democratic board. View especially list away son painting. Reason position left loss."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
