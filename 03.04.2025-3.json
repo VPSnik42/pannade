@@ -1,0 +1,25 @@
+{
+    "name": "Richard Jenkins",
+    "age": 27,
+    "address": {
+        "street": "Julie Mall",
+        "city": "Mathisberg",
+        "state": "West Virginia",
+        "zip": "63772"
+    },
+    "contact": {
+        "phone": "584-681-8446",
+        "servicePhone": "800277230"
+    },
+    "birthday": "1998-10-11",
+    "ip": "107.16.200.127",
+    "foo": "bar",
+    "profile": {
+        "about": "What take actually sport sometimes choice product. Member loss some exist.",
+        "bio": "Head miss business. Head before dog fund keep.\nNever field station possible federal. Laugh push young pull. Back fine operation child money.\nReport that letter you. Wind reduce shake organization."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
