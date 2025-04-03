@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Trevino DDS",
+    "age": 13,
+    "address": {
+        "street": "Bennett Viaduct",
+        "city": "New Frank",
+        "state": "Virginia",
+        "zip": "97522"
+    },
+    "contact": {
+        "phone": "316-858-5036x90925",
+        "servicePhone": "800683541"
+    },
+    "birthday": "2012-19-02",
+    "ip": "211.101.78.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Minute itself war college oil. Along significant decade. Education although change run our. Fast fire style value middle.\nWhom concern election garden. That course sell visit.",
+        "bio": "Sign model cut it source voice. Hospital believe now later western other. Avoid simple since receive collection expert eat.\nSpecific personal government expert image its writer."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
