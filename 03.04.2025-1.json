@@ -1,0 +1,25 @@
+{
+    "name": "Seth Todd",
+    "age": 2,
+    "address": {
+        "street": "Melissa Centers",
+        "city": "Francesshire",
+        "state": "Alabama",
+        "zip": "76856"
+    },
+    "contact": {
+        "phone": "5085761087",
+        "servicePhone": "800428464"
+    },
+    "birthday": "2023-23-01",
+    "ip": "146.118.136.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Structure land arm practice significant agree. Artist feel without specific. Else write staff join interesting subject since.",
+        "bio": "Baby each often adult create. Must add guess defense.\nEvery here important care trouble woman cost. Experience sing paper issue. Building finally music with industry purpose program itself."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
