@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Hale",
+    "age": 66,
+    "address": {
+        "street": "Fisher Well",
+        "city": "North Kevin",
+        "state": "South Carolina",
+        "zip": "74397"
+    },
+    "contact": {
+        "phone": "(664)356-3384",
+        "servicePhone": "800453655"
+    },
+    "birthday": "1959-24-03",
+    "ip": "34.49.97.239",
+    "foo": "bar",
+    "profile": {
+        "about": "American end responsibility. Although figure heavy happen green.\nThreat would party morning data PM expect. Might direction sit. System style where truth him soldier.",
+        "bio": "Information nice member attention team line concern. Leg state article cup politics if approach. Take staff not."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
