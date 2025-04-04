@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Hammond",
+    "age": 75,
+    "address": {
+        "street": "Mark Pines",
+        "city": "Townsendtown",
+        "state": "Massachusetts",
+        "zip": "21356"
+    },
+    "contact": {
+        "phone": "977.622.8898x4663",
+        "servicePhone": "800165937"
+    },
+    "birthday": "1950-20-09",
+    "ip": "111.161.8.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Market institution rate guy begin.\nFast field loss remember. Now these book animal study modern identify.\nFather behind large soldier site sport.\nKnowledge management base war take according.",
+        "bio": "Mr all natural leader national present. Television development by people onto case.\nInto glass continue could decade least light. Drive short once air majority."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
