@@ -1,0 +1,25 @@
+{
+    "name": "Charles Miller",
+    "age": 25,
+    "address": {
+        "street": "Robert Ridge",
+        "city": "Meghanview",
+        "state": "Massachusetts",
+        "zip": "46607"
+    },
+    "contact": {
+        "phone": "(564)581-0765x873",
+        "servicePhone": "800023505"
+    },
+    "birthday": "2000-29-01",
+    "ip": "30.45.218.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Company view reveal paper to. Number worry home himself describe. Sign call about smile ok more.\nHer feel sister letter somebody much answer. Share law condition my poor American likely.",
+        "bio": "Campaign mention road memory difficult head. Increase occur story hospital among vote career.\nDay door she message college at investment. Statement than represent leg even."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
