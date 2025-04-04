@@ -1,0 +1,25 @@
+{
+    "name": "Mitchell Salinas",
+    "age": 68,
+    "address": {
+        "street": "Tate Ridge",
+        "city": "Frenchburgh",
+        "state": "North Dakota",
+        "zip": "10650"
+    },
+    "contact": {
+        "phone": "622.989.9374x0955",
+        "servicePhone": "800582725"
+    },
+    "birthday": "1957-03-03",
+    "ip": "122.112.17.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank who candidate in pass. Everything strong follow.\nThen interest boy actually able. Property toward chance strategy spend. Hot investment thank green learn perform Congress treatment.",
+        "bio": "Lawyer forget carry project manager what. Company moment yard bank generation director happy. Dog house happen anyone sometimes."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
