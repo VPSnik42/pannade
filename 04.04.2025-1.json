@@ -1,0 +1,25 @@
+{
+    "name": "Louis Howell",
+    "age": 47,
+    "address": {
+        "street": "Nicholas Vista",
+        "city": "Blakefurt",
+        "state": "Mississippi",
+        "zip": "70848"
+    },
+    "contact": {
+        "phone": "8013212168",
+        "servicePhone": "800282739"
+    },
+    "birthday": "1978-15-11",
+    "ip": "137.169.170.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Office artist couple provide others.\nOccur defense new easy today. Conference choice recognize strong worry. Degree none usually professional occur something.",
+        "bio": "Prove occur resource action coach represent move. Campaign piece special attention all.\nTrade political scientist seek how long. Five remain rise minute."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
