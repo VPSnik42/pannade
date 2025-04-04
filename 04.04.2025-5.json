@@ -1,0 +1,25 @@
+{
+    "name": "Karen Gross",
+    "age": 112,
+    "address": {
+        "street": "Kathleen Villages",
+        "city": "East Joshua",
+        "state": "South Carolina",
+        "zip": "52716"
+    },
+    "contact": {
+        "phone": "(668)764-7460x987",
+        "servicePhone": "800688336"
+    },
+    "birthday": "1913-04-05",
+    "ip": "187.200.117.61",
+    "foo": "bar",
+    "profile": {
+        "about": "History benefit free fall agency course. Property evidence near source sense. Short measure attention political eat collection.",
+        "bio": "Positive sound ago senior speech term. Which truth admit give administration oil when. Matter social ago feel nation."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
