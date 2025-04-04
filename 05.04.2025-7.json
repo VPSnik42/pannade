@@ -1,0 +1,25 @@
+{
+    "name": "Shaun Henderson",
+    "age": 99,
+    "address": {
+        "street": "Wolfe Junction",
+        "city": "South Kyle",
+        "state": "Tennessee",
+        "zip": "93741"
+    },
+    "contact": {
+        "phone": "(618)739-3472x8915",
+        "servicePhone": "800766548"
+    },
+    "birthday": "1926-11-10",
+    "ip": "83.201.126.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Line before kitchen too. Democrat usually tell threat hold why how.\nFear newspaper case better federal. Officer until me pattern.\nLong start above perhaps scene responsibility. Nearly tend situation.",
+        "bio": "Picture car forward compare. Avoid realize level clearly. Road will remain center discover magazine.\nBehind black traditional already kid instead deal. By fast husband example."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
