@@ -1,0 +1,25 @@
+{
+    "name": "Christine Castillo",
+    "age": 8,
+    "address": {
+        "street": "Heather Viaduct",
+        "city": "Lake Zacharytown",
+        "state": "Michigan",
+        "zip": "99311"
+    },
+    "contact": {
+        "phone": "6215388952",
+        "servicePhone": "800285939"
+    },
+    "birthday": "2017-27-08",
+    "ip": "43.50.187.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Me feeling create who bar important surface. Such could decision result then plant. Interest American with.",
+        "bio": "Likely mouth follow him capital their detail travel. Dream nation majority far back.\nPractice goal prevent age politics. Consider shoulder admit success else nor."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
