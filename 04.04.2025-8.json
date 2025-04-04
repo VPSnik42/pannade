@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Bryant",
+    "age": 85,
+    "address": {
+        "street": "James Landing",
+        "city": "Kylefurt",
+        "state": "Pennsylvania",
+        "zip": "43811"
+    },
+    "contact": {
+        "phone": "001-420-236-2545",
+        "servicePhone": "800573693"
+    },
+    "birthday": "1940-10-09",
+    "ip": "85.79.118.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Risk sit physical young middle ahead. Conference explain form discussion member material.\nBefore heart upon matter notice according American seek. Church laugh foreign when cup financial me.",
+        "bio": "Time reality above. Simple trouble guy accept young season single. Win company dark edge painting information television."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
