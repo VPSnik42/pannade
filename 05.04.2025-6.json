@@ -1,0 +1,25 @@
+{
+    "name": "Warren Camacho",
+    "age": 82,
+    "address": {
+        "street": "Short Lane",
+        "city": "New Ricardo",
+        "state": "Hawaii",
+        "zip": "94735"
+    },
+    "contact": {
+        "phone": "001-817-590-9909x8276",
+        "servicePhone": "800855819"
+    },
+    "birthday": "1943-09-01",
+    "ip": "207.45.233.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Prepare attack only foot education. Into case state follow. Minute lay bring money reason.",
+        "bio": "Own perform table food minute yourself might. Buy provide never land major above little.\nCollege individual standard yeah two.\nSong appear citizen discussion rich admit without. Trade view for."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
