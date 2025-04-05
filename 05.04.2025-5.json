@@ -1,0 +1,25 @@
+{
+    "name": "Emily Yu",
+    "age": 83,
+    "address": {
+        "street": "Elliott Curve",
+        "city": "New Michelle",
+        "state": "New York",
+        "zip": "97949"
+    },
+    "contact": {
+        "phone": "(812)205-6308",
+        "servicePhone": "800745188"
+    },
+    "birthday": "1942-19-03",
+    "ip": "97.184.7.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Never nor work send room him choice western. Center our result live yes night ask. Heart own item carry best price.",
+        "bio": "People the expect stand enter improve work. Whom politics today risk.\nHot tonight relationship anyone president possible."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
