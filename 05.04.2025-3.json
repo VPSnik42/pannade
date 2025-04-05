@@ -1,0 +1,25 @@
+{
+    "name": "Brian Davis",
+    "age": 84,
+    "address": {
+        "street": "Moreno Extension",
+        "city": "South Benjamin",
+        "state": "Arizona",
+        "zip": "53294"
+    },
+    "contact": {
+        "phone": "766.660.4188",
+        "servicePhone": "800346230"
+    },
+    "birthday": "1941-05-01",
+    "ip": "137.69.161.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Most she eye military ability education line.\nWest board weight successful. Nice international heart just war eye.",
+        "bio": "Ground miss yourself four scene Mrs. He possible enough region indeed position. Vote everybody walk happen professor over. Group your everybody build."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
