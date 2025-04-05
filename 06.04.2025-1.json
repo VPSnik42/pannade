@@ -1,0 +1,25 @@
+{
+    "name": "Sara Knight",
+    "age": 115,
+    "address": {
+        "street": "Tammy Branch",
+        "city": "Carmenchester",
+        "state": "Oklahoma",
+        "zip": "07196"
+    },
+    "contact": {
+        "phone": "(256)294-8946",
+        "servicePhone": "800364371"
+    },
+    "birthday": "1910-13-03",
+    "ip": "211.184.25.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder night seven line ball away before service. Into paper feeling piece network deal.\nRoom top hand safe life keep speak. Protect without player human yet member design such.",
+        "bio": "Despite can get beat to.\nBest seek myself too purpose person. Black prevent though water.\nRemain cause threat. Get figure them sure drive."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
