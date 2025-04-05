@@ -1,0 +1,25 @@
+{
+    "name": "Luis Garcia",
+    "age": 86,
+    "address": {
+        "street": "Banks Mountain",
+        "city": "Watsontown",
+        "state": "Missouri",
+        "zip": "53646"
+    },
+    "contact": {
+        "phone": "(932)256-2724",
+        "servicePhone": "800863697"
+    },
+    "birthday": "1939-14-08",
+    "ip": "197.83.211.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Meeting base class myself crime population. Go hour money such while especially.",
+        "bio": "Until international only actually executive early enjoy college.\nRoom kind red. Boy concern too civil example.\nTree both approach herself hear. Know how mother lead well. Available sister nothing."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
