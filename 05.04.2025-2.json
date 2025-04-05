@@ -1,0 +1,25 @@
+{
+    "name": "Angel King",
+    "age": 45,
+    "address": {
+        "street": "Smith Falls",
+        "city": "Heatherborough",
+        "state": "Utah",
+        "zip": "15005"
+    },
+    "contact": {
+        "phone": "850.278.9760",
+        "servicePhone": "800864410"
+    },
+    "birthday": "1980-22-08",
+    "ip": "36.245.74.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Read population cost about people. Significant wait including economy item. Animal attack bank represent.",
+        "bio": "Court above key ten choose up charge. Rock about like old every phone want.\nOutside however within go thank tough. Speak administration remember maintain. Sing over continue decision."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
