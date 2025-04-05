@@ -1,0 +1,25 @@
+{
+    "name": "Allison Wagner",
+    "age": 104,
+    "address": {
+        "street": "Michael Forest",
+        "city": "Joseshire",
+        "state": "North Dakota",
+        "zip": "05272"
+    },
+    "contact": {
+        "phone": "(912)732-8892x126",
+        "servicePhone": "800449370"
+    },
+    "birthday": "1921-05-09",
+    "ip": "61.47.30.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Support week series benefit word similar. Window treat while body with there. Benefit true list whom agree next people.\nLike human cause despite sing leader anything feel.",
+        "bio": "Vote start consumer performance son pull. Letter find personal majority image sort team at."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
