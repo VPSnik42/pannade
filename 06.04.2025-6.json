@@ -1,0 +1,25 @@
+{
+    "name": "Dustin Bailey",
+    "age": 14,
+    "address": {
+        "street": "Lopez Lane",
+        "city": "Lake Ambermouth",
+        "state": "Missouri",
+        "zip": "04046"
+    },
+    "contact": {
+        "phone": "+1-768-551-8536x611",
+        "servicePhone": "800459037"
+    },
+    "birthday": "2011-03-10",
+    "ip": "135.5.128.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Society increase experience heavy. Staff product international. Wall different realize owner.\nCell too someone five money. Walk until tonight per design.",
+        "bio": "Us turn share key. Party ready opportunity produce. Game chair least clear indeed.\nHeavy Republican feeling. Trip unit mouth happy so central. Join nearly ok."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
