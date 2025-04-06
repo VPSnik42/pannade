@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Buchanan",
+    "age": 9,
+    "address": {
+        "street": "Michael Motorway",
+        "city": "North Grace",
+        "state": "Virginia",
+        "zip": "45929"
+    },
+    "contact": {
+        "phone": "766-310-8106",
+        "servicePhone": "800907995"
+    },
+    "birthday": "2016-10-09",
+    "ip": "54.109.189.83",
+    "foo": "bar",
+    "profile": {
+        "about": "History serious property foreign positive. Investment heart according eye there relate. Stuff level morning newspaper cover hear source.",
+        "bio": "Customer art democratic sit. Minute ask indeed support item much leave. Detail pick usually prevent world card see."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
