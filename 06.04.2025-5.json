@@ -1,0 +1,25 @@
+{
+    "name": "Emily Neal",
+    "age": 5,
+    "address": {
+        "street": "Turner Dale",
+        "city": "Lake Briantown",
+        "state": "Ohio",
+        "zip": "47939"
+    },
+    "contact": {
+        "phone": "+1-616-399-8758",
+        "servicePhone": "800862545"
+    },
+    "birthday": "2020-30-01",
+    "ip": "88.26.213.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood process candidate enough serve majority pull.\nYourself majority player power rich out Republican. Down while add herself relate least. Candidate kind mean.",
+        "bio": "Push energy guess top drug collection. Street behavior economy about know who dinner. Increase call owner head success nice phone."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
