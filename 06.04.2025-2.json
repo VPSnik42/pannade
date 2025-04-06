@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Walker",
+    "age": 101,
+    "address": {
+        "street": "Gonzalez Rapid",
+        "city": "Seanport",
+        "state": "Pennsylvania",
+        "zip": "79206"
+    },
+    "contact": {
+        "phone": "223.959.6699x83077",
+        "servicePhone": "800886703"
+    },
+    "birthday": "1924-14-06",
+    "ip": "104.100.56.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular over enough yet meeting. Include range nation assume world food report. Political our class move.",
+        "bio": "Full history much huge capital free off.\nMove home better special born. Stop commercial lawyer single. Though several friend physical current. Trouble bag become catch leg."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
