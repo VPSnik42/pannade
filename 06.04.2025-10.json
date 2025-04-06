@@ -1,0 +1,25 @@
+{
+    "name": "Larry Avila Jr.",
+    "age": 111,
+    "address": {
+        "street": "Reed Ridges",
+        "city": "East Chelsea",
+        "state": "West Virginia",
+        "zip": "02661"
+    },
+    "contact": {
+        "phone": "+1-855-988-4638x8352",
+        "servicePhone": "800108272"
+    },
+    "birthday": "1914-10-03",
+    "ip": "205.162.108.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair follow strong either material young.\nDesign yes glass body. Figure trouble identify candidate population.",
+        "bio": "Pick catch speech stop position doctor.\nResearch despite dark over others safe nature. Imagine station mean investment picture then. Each sort million."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
