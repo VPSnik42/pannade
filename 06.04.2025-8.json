@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Farrell",
+    "age": 55,
+    "address": {
+        "street": "Robertson Center",
+        "city": "Lesliefort",
+        "state": "Idaho",
+        "zip": "26954"
+    },
+    "contact": {
+        "phone": "260-967-7965x805",
+        "servicePhone": "800955423"
+    },
+    "birthday": "1970-07-06",
+    "ip": "114.152.162.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Might agree just modern rather down than. Become issue whose whole difference follow. Official product east different fire condition shoulder. Anything down take dinner method.",
+        "bio": "Beat realize others American name card service. Along scene lose again thank. Lead business skill while Republican.\nMovie recent some into wish above. High art carry save deal."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
