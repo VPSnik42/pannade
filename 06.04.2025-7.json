@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Kim",
+    "age": 1,
+    "address": {
+        "street": "Ruiz Stravenue",
+        "city": "South Daniel",
+        "state": "Hawaii",
+        "zip": "03939"
+    },
+    "contact": {
+        "phone": "827-735-0416x54587",
+        "servicePhone": "800523886"
+    },
+    "birthday": "2024-14-02",
+    "ip": "149.249.125.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer main expect. Member seven sit measure organization health lead why.\nReflect not window movie edge wonder. Pay state eat research drug together.",
+        "bio": "Agreement short evening standard. Give health example garden affect wear note.\nPainting use national fine whom without present wonder. Board nation turn discover while at mind."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
