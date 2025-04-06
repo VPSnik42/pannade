@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Guerrero",
+    "age": 74,
+    "address": {
+        "street": "Micheal Roads",
+        "city": "Lake Travischester",
+        "state": "South Carolina",
+        "zip": "40771"
+    },
+    "contact": {
+        "phone": "001-429-400-2711",
+        "servicePhone": "800330411"
+    },
+    "birthday": "1951-27-05",
+    "ip": "16.145.96.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Story hour stock enter. Environmental stage building local word catch. Bed perhaps cut act order guy idea visit.\nRisk husband success product mother.",
+        "bio": "Determine training thank piece give.\nAround back along close. Focus later skin. Much entire use."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
