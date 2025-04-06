@@ -1,0 +1,25 @@
+{
+    "name": "Beth Reid",
+    "age": 68,
+    "address": {
+        "street": "Smith Ridge",
+        "city": "Rhondaville",
+        "state": "Connecticut",
+        "zip": "92572"
+    },
+    "contact": {
+        "phone": "001-272-252-8121",
+        "servicePhone": "800134426"
+    },
+    "birthday": "1957-28-02",
+    "ip": "221.77.74.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole woman PM new first improve less everybody. Dark growth face oil explain miss three skin.\nAir institution fire color natural support.",
+        "bio": "Air test any daughter security. Interview system interesting door long fill represent born.\nPersonal themselves catch so voice whose order. Modern hit economic power."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
