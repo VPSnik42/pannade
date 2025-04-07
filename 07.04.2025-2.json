@@ -1,0 +1,25 @@
+{
+    "name": "Dana Odonnell",
+    "age": 107,
+    "address": {
+        "street": "Michael Lock",
+        "city": "Lawsonmouth",
+        "state": "Texas",
+        "zip": "54227"
+    },
+    "contact": {
+        "phone": "(382)639-1350x2373",
+        "servicePhone": "800879711"
+    },
+    "birthday": "1918-11-05",
+    "ip": "147.82.46.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Me catch executive speak population. Low past analysis red teacher themselves.",
+        "bio": "Appear she improve score. Movie if war account our. Available it machine strategy management."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
