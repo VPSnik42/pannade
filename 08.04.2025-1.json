@@ -1,0 +1,25 @@
+{
+    "name": "Cole Avery",
+    "age": 89,
+    "address": {
+        "street": "Brian Meadows",
+        "city": "Gregoryside",
+        "state": "Wyoming",
+        "zip": "05502"
+    },
+    "contact": {
+        "phone": "001-703-371-1527x46105",
+        "servicePhone": "800718877"
+    },
+    "birthday": "1936-26-11",
+    "ip": "167.114.83.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Food author computer. Treatment born himself fall almost education above. Require option nice red.\nBeyond fire well again. Human east benefit very. Condition feeling professional agreement bar.",
+        "bio": "Growth police buy east use. Of option event service. Wide only crime politics reach nor TV public.\nCover heart production establish way. North series whether represent lay."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
