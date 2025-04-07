@@ -1,0 +1,25 @@
+{
+    "name": "Emily Thompson",
+    "age": 73,
+    "address": {
+        "street": "Stephen Parkway",
+        "city": "Lake Michaelhaven",
+        "state": "Ohio",
+        "zip": "67801"
+    },
+    "contact": {
+        "phone": "265-999-3654x6308",
+        "servicePhone": "800948929"
+    },
+    "birthday": "1952-06-02",
+    "ip": "141.213.177.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Worker brother catch peace some leave. Prevent while officer as interview activity short. Media property all production officer. Subject occur pay big.",
+        "bio": "Throughout control million win note. Skill could daughter yeah. Build institution stage friend why either themselves kid.\nAlways wife difference world. Music draw perhaps travel."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
