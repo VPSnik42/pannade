@@ -1,0 +1,25 @@
+{
+    "name": "Justin Carey",
+    "age": 97,
+    "address": {
+        "street": "Melissa Branch",
+        "city": "Port Kelly",
+        "state": "Oregon",
+        "zip": "41995"
+    },
+    "contact": {
+        "phone": "001-770-437-9181x9018",
+        "servicePhone": "800341686"
+    },
+    "birthday": "1928-11-08",
+    "ip": "47.146.182.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Go miss budget state reality.\nCandidate reflect perhaps. Simply special child. Radio tough particular treat.",
+        "bio": "Per free customer sure know who anything. Stage respond ten as. Compare land shake lawyer others fund. Behavior summer particular can song."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
