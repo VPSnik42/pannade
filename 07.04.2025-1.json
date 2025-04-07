@@ -1,0 +1,25 @@
+{
+    "name": "Carol Clayton",
+    "age": 25,
+    "address": {
+        "street": "Gina Green",
+        "city": "Jacksonchester",
+        "state": "Kentucky",
+        "zip": "52862"
+    },
+    "contact": {
+        "phone": "+1-664-790-2913",
+        "servicePhone": "800718753"
+    },
+    "birthday": "2000-01-12",
+    "ip": "95.119.196.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Director current will candidate another eye anything organization.\nThey Democrat expert process kitchen relate response. Mission very let pay yourself east writer.",
+        "bio": "Professor chair between model full outside Republican six. Measure card call end.\nEasy process newspaper sing. Call enough choice walk line lot. Part market turn."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
