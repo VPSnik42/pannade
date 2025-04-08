@@ -1,0 +1,25 @@
+{
+    "name": "William Ferguson",
+    "age": 114,
+    "address": {
+        "street": "Christopher Turnpike",
+        "city": "East Jerryside",
+        "state": "Nevada",
+        "zip": "32681"
+    },
+    "contact": {
+        "phone": "653.940.7267x2775",
+        "servicePhone": "800649061"
+    },
+    "birthday": "1911-05-06",
+    "ip": "4.220.144.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring education other region. Reality model become gun capital. Concern style operation special wind draw.",
+        "bio": "Accept kitchen outside know process center. Cell ready manage course. Herself manage discussion.\nProduction number level art with. Our whether easy change.\nThink former collection in hundred last."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
