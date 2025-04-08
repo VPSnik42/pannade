@@ -1,0 +1,25 @@
+{
+    "name": "Helen Spencer",
+    "age": 100,
+    "address": {
+        "street": "Huang Cliffs",
+        "city": "North Jessicashire",
+        "state": "California",
+        "zip": "73122"
+    },
+    "contact": {
+        "phone": "+1-763-940-1403x778",
+        "servicePhone": "800150375"
+    },
+    "birthday": "1925-10-02",
+    "ip": "204.163.48.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Floor present admit year floor. Service sell happen character everything hit.\nOnce care simple response. Age similar police direction special. Huge go if heavy.",
+        "bio": "Today white audience somebody. Experience bring effort fast quite within.\nSeat modern machine nor where anyone meet before. War in huge blood finish sit wide. End blood should treatment step data."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
