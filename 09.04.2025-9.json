@@ -1,0 +1,25 @@
+{
+    "name": "David Torres",
+    "age": 52,
+    "address": {
+        "street": "Matthew Views",
+        "city": "Bryanberg",
+        "state": "Missouri",
+        "zip": "04821"
+    },
+    "contact": {
+        "phone": "787-281-1823",
+        "servicePhone": "800280011"
+    },
+    "birthday": "1973-07-05",
+    "ip": "107.102.235.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Thus do song cost star keep. Arm store population personal pull everybody.\nMeeting and question. Energy sort everyone current value him lose certain.",
+        "bio": "It expert tough establish laugh be long group.\nHuman fill through itself bag. Long size scene trade interest. None project customer risk yet."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
