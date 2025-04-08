@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Lopez",
+    "age": 110,
+    "address": {
+        "street": "Rodriguez Plain",
+        "city": "Port Dianachester",
+        "state": "North Dakota",
+        "zip": "68711"
+    },
+    "contact": {
+        "phone": "+1-686-560-8721",
+        "servicePhone": "800223314"
+    },
+    "birthday": "1915-03-12",
+    "ip": "181.142.222.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Stage even must hour nothing rather federal. Player concern actually answer that same group.\nNews everyone right contain.",
+        "bio": "Science involve free ask example low election put. Off certainly still according plan. All break middle certain.\nColor action need reveal. Speak skill interview."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
