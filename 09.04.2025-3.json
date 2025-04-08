@@ -1,0 +1,25 @@
+{
+    "name": "Julia Patel",
+    "age": 3,
+    "address": {
+        "street": "Baker Meadow",
+        "city": "Griffithview",
+        "state": "Michigan",
+        "zip": "14042"
+    },
+    "contact": {
+        "phone": "+1-873-768-3481",
+        "servicePhone": "800244466"
+    },
+    "birthday": "2022-14-06",
+    "ip": "200.58.29.64",
+    "foo": "bar",
+    "profile": {
+        "about": "After recently western development. Most onto real yard make.\nAudience among offer hot. Success kitchen may allow course.",
+        "bio": "Close along seek long. In institution garden sound. Enough blue treat free move low yet office.\nUs remain hundred state view. Somebody must religious subject speech."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
