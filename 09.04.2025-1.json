@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Torres",
+    "age": 9,
+    "address": {
+        "street": "Brian Place",
+        "city": "Sharonport",
+        "state": "Colorado",
+        "zip": "40204"
+    },
+    "contact": {
+        "phone": "(306)555-2680x3043",
+        "servicePhone": "800131260"
+    },
+    "birthday": "2016-02-08",
+    "ip": "149.26.112.219",
+    "foo": "bar",
+    "profile": {
+        "about": "She see then owner point various. Weight other citizen group option. New among feel base in.",
+        "bio": "Wish second house stock any near once some. Physical car out during them road expert. Pressure almost generation include middle short green. Field owner commercial."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
