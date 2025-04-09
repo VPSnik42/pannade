@@ -1,0 +1,25 @@
+{
+    "name": "Billy Carter",
+    "age": 76,
+    "address": {
+        "street": "Danielle Branch",
+        "city": "East Angel",
+        "state": "New Mexico",
+        "zip": "81824"
+    },
+    "contact": {
+        "phone": "+1-709-836-0989x7521",
+        "servicePhone": "800076447"
+    },
+    "birthday": "1949-04-12",
+    "ip": "24.8.237.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Every fight government run effort statement. Society contain network lose light ready call. Appear how sister laugh.\nAround over wife environment color role of.",
+        "bio": "Style since happen because point. Apply toward hundred take call officer hard.\nAnother simple action ok despite could girl. Assume up wait."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
