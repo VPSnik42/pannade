@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Tran",
+    "age": 54,
+    "address": {
+        "street": "Kramer Mill",
+        "city": "Bradleyton",
+        "state": "Montana",
+        "zip": "28422"
+    },
+    "contact": {
+        "phone": "709.347.4894x305",
+        "servicePhone": "800333247"
+    },
+    "birthday": "1971-18-06",
+    "ip": "11.153.76.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Decide early simple walk. Bad piece safe beat later address which.",
+        "bio": "Run officer type add job argue responsibility. Whether do bill hand interview yard.\nKitchen main police avoid provide. This center hundred voice. Ahead beautiful myself culture green drive."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
