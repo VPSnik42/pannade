@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Bartlett",
+    "age": 113,
+    "address": {
+        "street": "Michael Pike",
+        "city": "Quinnview",
+        "state": "North Carolina",
+        "zip": "34238"
+    },
+    "contact": {
+        "phone": "(437)950-6530x4382",
+        "servicePhone": "800830512"
+    },
+    "birthday": "1912-13-08",
+    "ip": "128.162.26.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Share measure step identify. Customer through traditional phone mother sit receive.\nDrug economic black close door future truth. Stuff main middle must.\nWish performance alone fire.",
+        "bio": "Reflect create add range baby. Night election book kitchen bill organization.\nMove number body more. Little line again learn. Easy clear cultural magazine alone also reduce."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
