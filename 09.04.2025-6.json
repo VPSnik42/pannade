@@ -1,0 +1,25 @@
+{
+    "name": "Mark Peterson",
+    "age": 48,
+    "address": {
+        "street": "Lara Village",
+        "city": "Port Jennifer",
+        "state": "New Jersey",
+        "zip": "81458"
+    },
+    "contact": {
+        "phone": "465-564-0651",
+        "servicePhone": "800226995"
+    },
+    "birthday": "1977-23-06",
+    "ip": "67.75.217.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Final deep effect crime third available election enough. North wear edge executive attack. Mean maintain development no public here full cell.",
+        "bio": "Any design hope him he tend money. Themselves character eight sort family speech available report. Bit view company quality."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
