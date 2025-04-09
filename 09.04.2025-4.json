@@ -1,0 +1,25 @@
+{
+    "name": "Alvin Vasquez",
+    "age": 108,
+    "address": {
+        "street": "Alvarez Falls",
+        "city": "East James",
+        "state": "Kansas",
+        "zip": "13962"
+    },
+    "contact": {
+        "phone": "(208)227-1367",
+        "servicePhone": "800019172"
+    },
+    "birthday": "1917-07-01",
+    "ip": "69.4.182.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy health apply window market sport. Responsibility lot their daughter particularly past. Item drug there local eight environmental.",
+        "bio": "Behavior just often program before out. Occur say consumer. We cup seven all early finish he poor."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
