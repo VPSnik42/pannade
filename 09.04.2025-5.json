@@ -1,0 +1,25 @@
+{
+    "name": "Jason Hall",
+    "age": 79,
+    "address": {
+        "street": "Christine Neck",
+        "city": "West Reginald",
+        "state": "Connecticut",
+        "zip": "09565"
+    },
+    "contact": {
+        "phone": "740.371.2463",
+        "servicePhone": "800458252"
+    },
+    "birthday": "1946-11-04",
+    "ip": "26.191.138.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Not class thousand audience vote task skin. Issue success enter poor so number loss.",
+        "bio": "Standard conference effort rich mind clear phone. Allow according election camera open.\nYou half cultural catch together recently."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
