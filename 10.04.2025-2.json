@@ -1,0 +1,25 @@
+{
+    "name": "Brandi Gomez",
+    "age": 52,
+    "address": {
+        "street": "Hannah Keys",
+        "city": "East Thomas",
+        "state": "Massachusetts",
+        "zip": "08130"
+    },
+    "contact": {
+        "phone": "(992)456-8076",
+        "servicePhone": "800474658"
+    },
+    "birthday": "1973-28-08",
+    "ip": "25.53.230.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Enter bed maintain although anyone during hospital. Give hospital space western water century what. Politics statement kitchen week morning side live.",
+        "bio": "Morning race allow. Education suffer different interesting.\nChair structure something save. Draw her tonight various. Accept per man indeed hundred son because."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
