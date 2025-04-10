@@ -1,0 +1,25 @@
+{
+    "name": "Carlos Gonzalez",
+    "age": 79,
+    "address": {
+        "street": "Belinda Shoal",
+        "city": "Donnabury",
+        "state": "Tennessee",
+        "zip": "35360"
+    },
+    "contact": {
+        "phone": "(842)717-7103x537",
+        "servicePhone": "800552008"
+    },
+    "birthday": "1946-21-03",
+    "ip": "97.109.239.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Political believe relationship report. Person court win theory majority program arrive factor. Management decide use before relate.",
+        "bio": "Include purpose already perhaps where effort. Break enough away win mind when whom surface.\nEach side official education toward. Leave determine also against very thus."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
