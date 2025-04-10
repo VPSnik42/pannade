@@ -1,0 +1,25 @@
+{
+    "name": "Charles Gordon",
+    "age": 42,
+    "address": {
+        "street": "Moran Key",
+        "city": "Lake Carrieport",
+        "state": "New York",
+        "zip": "28877"
+    },
+    "contact": {
+        "phone": "582-458-5572x61401",
+        "servicePhone": "800916247"
+    },
+    "birthday": "1983-23-04",
+    "ip": "214.170.95.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Season tax place. Television beat care agreement.\nReach very cell image up three figure. Very morning figure be everything water.",
+        "bio": "Field near ball group successful. Protect leader statement establish hard. Girl mention check him."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
