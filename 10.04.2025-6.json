@@ -1,0 +1,25 @@
+{
+    "name": "Tonya Mccoy",
+    "age": 27,
+    "address": {
+        "street": "Dawn Bypass",
+        "city": "Keithmouth",
+        "state": "Wyoming",
+        "zip": "18839"
+    },
+    "contact": {
+        "phone": "+1-766-235-5099x13133",
+        "servicePhone": "800787057"
+    },
+    "birthday": "1998-13-11",
+    "ip": "210.232.75.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Education book talk land. Before stage think common size remain fast organization. Set door hot admit game ok television.",
+        "bio": "Let month interesting of investment official imagine light. Else power film recently product live all. Pass deep discuss American attack.\nEnter minute vote whole can rule even."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
