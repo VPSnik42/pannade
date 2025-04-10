@@ -1,0 +1,25 @@
+{
+    "name": "Lori Walker",
+    "age": 27,
+    "address": {
+        "street": "Daniel Islands",
+        "city": "North Travis",
+        "state": "New Jersey",
+        "zip": "63869"
+    },
+    "contact": {
+        "phone": "589.528.5439x5730",
+        "servicePhone": "800095273"
+    },
+    "birthday": "1998-18-09",
+    "ip": "45.116.84.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Since themselves themselves continue chance. Administration provide sometimes other recently lot get.\nBody style common bill technology. Camera should perhaps ready without compare.",
+        "bio": "Third half hit may strategy approach. Hair forget memory even note five right.\nLose majority particular security do avoid. Can tend toward recent unit also. Paper effort stage."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
