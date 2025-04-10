@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Patrick",
+    "age": 88,
+    "address": {
+        "street": "Danielle Neck",
+        "city": "East Erin",
+        "state": "Nevada",
+        "zip": "33715"
+    },
+    "contact": {
+        "phone": "694.812.0195",
+        "servicePhone": "800204300"
+    },
+    "birthday": "1937-16-09",
+    "ip": "117.13.185.112",
+    "foo": "bar",
+    "profile": {
+        "about": "West young debate like program nation over. It example green recently. News pressure party fine consumer threat.\nEast reduce cold medical. Point fall its civil soldier college.",
+        "bio": "Seem hair near speech different box. Be live police.\nEmployee stand hit spring heavy instead arm. History sing trouble affect many discussion. Bill structure environment want."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
