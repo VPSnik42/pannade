@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Barr",
+    "age": 26,
+    "address": {
+        "street": "Vasquez Vista",
+        "city": "New Marcustown",
+        "state": "Delaware",
+        "zip": "15901"
+    },
+    "contact": {
+        "phone": "(880)862-6517x47983",
+        "servicePhone": "800006262"
+    },
+    "birthday": "1999-01-10",
+    "ip": "196.83.15.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Reduce single car white. Enough father yeah support.\nMake pretty past. Plant open lay claim inside.",
+        "bio": "Trade pay human real development space. One decide successful.\nLay suddenly since free. Media account even clearly."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
