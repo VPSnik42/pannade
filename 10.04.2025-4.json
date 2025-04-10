@@ -1,0 +1,25 @@
+{
+    "name": "Tracey Jenkins",
+    "age": 13,
+    "address": {
+        "street": "Romero Terrace",
+        "city": "Beasleyberg",
+        "state": "Iowa",
+        "zip": "56564"
+    },
+    "contact": {
+        "phone": "2039159338",
+        "servicePhone": "800798322"
+    },
+    "birthday": "2012-26-11",
+    "ip": "48.128.152.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Tend catch best soon determine throw cold security. Majority executive situation authority see interest case. Smile part number we tough. Whole lot goal bag.",
+        "bio": "Suddenly father ready moment his sure attack. Base find church fall over. Coach deep local watch price lay."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
