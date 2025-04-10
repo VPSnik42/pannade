@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Melendez",
+    "age": 44,
+    "address": {
+        "street": "Bryant Forks",
+        "city": "Melindaburgh",
+        "state": "Montana",
+        "zip": "59756"
+    },
+    "contact": {
+        "phone": "(209)683-8684x9861",
+        "servicePhone": "800383488"
+    },
+    "birthday": "1981-11-11",
+    "ip": "19.184.157.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Check chance power plant. Forget environment control produce race. Peace hair close success scene again board.",
+        "bio": "Hear dream can station. May long truth he either outside relationship.\nLarge concern rather check. Add indeed difficult election. Stand resource since fund ok."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
