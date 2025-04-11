@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Gibson",
+    "age": 88,
+    "address": {
+        "street": "Cameron Gardens",
+        "city": "West Julieshire",
+        "state": "Maryland",
+        "zip": "69339"
+    },
+    "contact": {
+        "phone": "363.608.2550x282",
+        "servicePhone": "800537887"
+    },
+    "birthday": "1937-27-11",
+    "ip": "40.93.3.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Man mind free development can beat. Often during training price occur around property. Standard run despite wear over century class.",
+        "bio": "Role evidence nothing western performance art possible. Across argue create anyone Republican."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
