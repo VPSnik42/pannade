@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Mora",
+    "age": 110,
+    "address": {
+        "street": "Brandon Parkway",
+        "city": "North Albert",
+        "state": "Connecticut",
+        "zip": "74089"
+    },
+    "contact": {
+        "phone": "707-852-0855x0763",
+        "servicePhone": "800040984"
+    },
+    "birthday": "1915-28-09",
+    "ip": "173.146.93.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Lay save economic southern experience some. Common save knowledge next focus base. They today true.",
+        "bio": "Task heart develop just maintain evidence.\nPlant section head work establish.\nTable though authority discuss. Phone learn wall method. Reduce learn so these moment surface."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
