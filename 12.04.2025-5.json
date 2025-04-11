@@ -1,0 +1,25 @@
+{
+    "name": "Sylvia Carter",
+    "age": 74,
+    "address": {
+        "street": "Rogers Oval",
+        "city": "West David",
+        "state": "Washington",
+        "zip": "55061"
+    },
+    "contact": {
+        "phone": "507-651-7231x73636",
+        "servicePhone": "800659668"
+    },
+    "birthday": "1951-18-05",
+    "ip": "25.32.240.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Strategy woman entire according almost. Research need may street truth program when. Turn goal should pay herself result establish.",
+        "bio": "Short music power toward move. Still accept lawyer green theory spring model. Focus them rule here."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
