@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Chen",
+    "age": 107,
+    "address": {
+        "street": "Harris Pines",
+        "city": "North Matthewville",
+        "state": "South Carolina",
+        "zip": "33893"
+    },
+    "contact": {
+        "phone": "(357)434-2746x87354",
+        "servicePhone": "800845118"
+    },
+    "birthday": "1918-04-01",
+    "ip": "137.30.199.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Least fear thank recently. Time study black billion.\nWhether other water example sort behavior again. Happy role team actually him decade white.",
+        "bio": "Human for wish half already. Mind day trial center boy.\nThree pay require."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
