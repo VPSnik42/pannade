@@ -1,0 +1,25 @@
+{
+    "name": "Michael Martinez",
+    "age": 115,
+    "address": {
+        "street": "Karen Villages",
+        "city": "Solisville",
+        "state": "Virginia",
+        "zip": "90004"
+    },
+    "contact": {
+        "phone": "(397)373-9407x93503",
+        "servicePhone": "800140757"
+    },
+    "birthday": "1910-23-03",
+    "ip": "10.186.191.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Clear dinner forget. Check defense skill require theory above.\nFamily give make key sometimes million force. Identify city clear American include song. Police relationship simply item risk.",
+        "bio": "School picture audience want bit. Enough something account want age leg dark study.\nTv become my guess employee professor. For Mrs single land down."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
