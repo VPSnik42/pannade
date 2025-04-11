@@ -1,0 +1,25 @@
+{
+    "name": "April Williams",
+    "age": 113,
+    "address": {
+        "street": "Robert Bypass",
+        "city": "West Kathleenhaven",
+        "state": "Utah",
+        "zip": "42511"
+    },
+    "contact": {
+        "phone": "001-604-789-6190",
+        "servicePhone": "800786454"
+    },
+    "birthday": "1912-23-03",
+    "ip": "119.135.202.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Fly consider by tell personal list. Where clearly choose follow though.\nCouple move season consider environmental happy. Employee act last free design we likely. Measure step project attorney push.",
+        "bio": "White value security me situation person. Just voice share attack.\nCommercial drug wonder how science against. Course half item hit hand couple into."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
