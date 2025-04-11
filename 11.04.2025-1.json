@@ -1,0 +1,25 @@
+{
+    "name": "Laura Manning",
+    "age": 17,
+    "address": {
+        "street": "Melissa Squares",
+        "city": "Bonnietown",
+        "state": "Alabama",
+        "zip": "01277"
+    },
+    "contact": {
+        "phone": "836.315.0612x794",
+        "servicePhone": "800660245"
+    },
+    "birthday": "2008-28-05",
+    "ip": "111.237.116.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Born rise nor plan pay national animal cultural. Product down laugh federal fine.\nElection federal each account performance enough ball. Knowledge state own class fill memory meet.",
+        "bio": "During race style yes prepare effect. Professional prove Republican various family. Threat another house own short morning class."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
