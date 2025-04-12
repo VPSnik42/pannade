@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Thomas",
+    "age": 75,
+    "address": {
+        "street": "Ryan Lakes",
+        "city": "Lake James",
+        "state": "Georgia",
+        "zip": "32635"
+    },
+    "contact": {
+        "phone": "243-536-0701x5184",
+        "servicePhone": "800338393"
+    },
+    "birthday": "1950-07-09",
+    "ip": "5.235.6.141",
+    "foo": "bar",
+    "profile": {
+        "about": "North smile line reach consider should beat. Be time simple machine nice population catch.",
+        "bio": "Line actually born full letter argue few. Against business place win add bad pay. Generation table in choose maintain that I."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
