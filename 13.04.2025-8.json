@@ -1,0 +1,25 @@
+{
+    "name": "Hannah Ramos",
+    "age": 50,
+    "address": {
+        "street": "Robert Island",
+        "city": "Eatonside",
+        "state": "California",
+        "zip": "76575"
+    },
+    "contact": {
+        "phone": "993-852-4345",
+        "servicePhone": "800330060"
+    },
+    "birthday": "1975-14-11",
+    "ip": "56.166.24.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Recognize piece quite economy agency.",
+        "bio": "Reveal we mean answer away. Exist together alone another tree.\nRate kitchen image than state. Far brother heart card policy national I.\nSite cell prepare contain western."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
