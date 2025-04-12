@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Odom",
+    "age": 0,
+    "address": {
+        "street": "Jacob Village",
+        "city": "North Darrellport",
+        "state": "Kansas",
+        "zip": "51932"
+    },
+    "contact": {
+        "phone": "617.680.9749x74734",
+        "servicePhone": "800069736"
+    },
+    "birthday": "2025-22-02",
+    "ip": "43.123.31.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Plan me candidate peace change song really affect. Despite become president. Minute crime body dinner road only feel.",
+        "bio": "Require while grow describe fight decade. Eat walk decision window without.\nHotel current shoulder back garden keep thus. Reality science guess remember age."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
