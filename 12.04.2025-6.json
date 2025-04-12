@@ -1,0 +1,25 @@
+{
+    "name": "Jaime Byrd",
+    "age": 4,
+    "address": {
+        "street": "Santos Mountains",
+        "city": "South Lauren",
+        "state": "Mississippi",
+        "zip": "69267"
+    },
+    "contact": {
+        "phone": "355-306-5960x19170",
+        "servicePhone": "800195381"
+    },
+    "birthday": "2021-21-06",
+    "ip": "170.199.106.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Family she practice including together off. Minute group look tough each nor mean. Call fact tree degree.\nChild build interesting arrive just red.\nPut plant movie. Image message election tree.",
+        "bio": "Doctor future quickly positive safe year always. Affect partner animal receive shake bit."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
