@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Gomez",
+    "age": 52,
+    "address": {
+        "street": "Oconnell Oval",
+        "city": "Thompsonview",
+        "state": "Wisconsin",
+        "zip": "40709"
+    },
+    "contact": {
+        "phone": "001-799-390-1287x548",
+        "servicePhone": "800406230"
+    },
+    "birthday": "1973-15-04",
+    "ip": "149.42.148.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring two western environmental size so head. Color road show author professor nice should option.\nMagazine where drop. Who collection position short.\nConference either local list name.",
+        "bio": "Nor east teacher account process voice. Often voice four professional. Section executive often large wrong.\nAmerican take story where. Fear lawyer mission week tonight senior. Yeah task senior."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
