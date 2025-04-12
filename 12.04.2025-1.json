@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Phillips",
+    "age": 41,
+    "address": {
+        "street": "Harper Ferry",
+        "city": "Fryview",
+        "state": "Oregon",
+        "zip": "07277"
+    },
+    "contact": {
+        "phone": "600.629.7363x46482",
+        "servicePhone": "800760001"
+    },
+    "birthday": "1984-13-07",
+    "ip": "171.231.116.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Provide type outside professor.\nGrow they program gun rate. Challenge end debate make. Perform these direction. Listen cup such.\nResource beyond beyond put. Step anything line.",
+        "bio": "Make view door specific sign discover return goal. Skin soon issue plant live bring quickly. Today news American concern."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
