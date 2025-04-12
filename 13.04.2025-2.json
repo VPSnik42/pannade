@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Hunt",
+    "age": 67,
+    "address": {
+        "street": "William Ville",
+        "city": "Mcdonaldton",
+        "state": "Georgia",
+        "zip": "20822"
+    },
+    "contact": {
+        "phone": "001-571-466-0792x224",
+        "servicePhone": "800004046"
+    },
+    "birthday": "1958-03-09",
+    "ip": "189.199.1.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Future series product discussion dog attorney. Stand strong fast above here surface population little. Happy fish until choose.",
+        "bio": "Maintain exist prevent collection policy. Usually once religious sit movie nor break red. Building both trip from term station enter."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
