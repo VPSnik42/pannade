@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Sweeney",
+    "age": 66,
+    "address": {
+        "street": "Sampson Mountains",
+        "city": "Nguyenview",
+        "state": "Montana",
+        "zip": "56987"
+    },
+    "contact": {
+        "phone": "001-489-917-3587x46257",
+        "servicePhone": "800083990"
+    },
+    "birthday": "1959-11-09",
+    "ip": "42.2.240.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Phone research green others. Her data for say contain area. Current reflect land dog build class. Pay most call record the pick.",
+        "bio": "Wall really radio suggest road. Keep box camera difficult candidate board rate. Certainly set behind skin. Firm risk say charge provide a huge.\nOwn perhaps loss reflect. Air upon much end sister."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
