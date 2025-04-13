@@ -1,0 +1,25 @@
+{
+    "name": "Manuel Colon",
+    "age": 5,
+    "address": {
+        "street": "Julia Valley",
+        "city": "South Dustinberg",
+        "state": "Missouri",
+        "zip": "22801"
+    },
+    "contact": {
+        "phone": "(293)848-9162",
+        "servicePhone": "800294368"
+    },
+    "birthday": "2020-16-03",
+    "ip": "128.196.40.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Home once address industry. View eat project class.\nLate cost fall at mention. Hard education must southern once to. Congress bar you wrong action democratic focus.",
+        "bio": "Anyone another hand sound animal attorney. Standard attorney heart cause.\nLead wall enough relate wrong. Station second leader recently purpose song. Staff itself win this federal sing mind decision."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
