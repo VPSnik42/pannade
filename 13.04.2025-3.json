@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Smith",
+    "age": 28,
+    "address": {
+        "street": "Morales Extension",
+        "city": "Port Peggy",
+        "state": "Illinois",
+        "zip": "02638"
+    },
+    "contact": {
+        "phone": "001-390-376-1417x02746",
+        "servicePhone": "800503639"
+    },
+    "birthday": "1997-17-11",
+    "ip": "58.84.206.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Recently again but model fly notice.\nBefore base stage stand goal can spend food. Any through economy within be.\nAgainst civil find continue soon. Feel new ever natural. Air center speech sound.",
+        "bio": "Analysis can rather support. Company wife place.\nItself for it me newspaper suggest part gas. Drug your not both south sort."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
