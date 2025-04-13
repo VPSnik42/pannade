@@ -1,0 +1,25 @@
+{
+    "name": "Larry Anderson",
+    "age": 103,
+    "address": {
+        "street": "Jackson Bridge",
+        "city": "Jeffreybury",
+        "state": "Florida",
+        "zip": "51916"
+    },
+    "contact": {
+        "phone": "267-400-5154x8889",
+        "servicePhone": "800255399"
+    },
+    "birthday": "1922-25-11",
+    "ip": "209.187.14.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Then prevent study notice. Blue spend fear rich.\nKnow child beyond south say watch performance head. Later stock strategy full sure nature budget.",
+        "bio": "Find today address maintain thousand music perform brother. Door time marriage item later behind. Rate while industry art final movement reduce."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
