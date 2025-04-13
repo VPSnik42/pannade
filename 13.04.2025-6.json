@@ -1,0 +1,25 @@
+{
+    "name": "John Perez",
+    "age": 6,
+    "address": {
+        "street": "Desiree Bypass",
+        "city": "Dianaland",
+        "state": "Iowa",
+        "zip": "51210"
+    },
+    "contact": {
+        "phone": "(902)727-9217",
+        "servicePhone": "800338720"
+    },
+    "birthday": "2019-17-02",
+    "ip": "70.90.31.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Ground Democrat serious more. Fast skin firm analysis up accept. International billion seem yet nor federal simply lead.\nAgreement process lay next fast food professor.",
+        "bio": "Available save middle news suggest instead. Knowledge front surface entire. Read control tend book by. Serve teacher law serious doctor career."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
