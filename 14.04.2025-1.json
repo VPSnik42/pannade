@@ -1,0 +1,25 @@
+{
+    "name": "Christian Schneider",
+    "age": 41,
+    "address": {
+        "street": "Kidd Harbor",
+        "city": "Port Kelly",
+        "state": "North Dakota",
+        "zip": "20083"
+    },
+    "contact": {
+        "phone": "759-743-8607x09372",
+        "servicePhone": "800037599"
+    },
+    "birthday": "1984-09-02",
+    "ip": "222.136.206.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Another two learn including step hand. Experience out describe position. Question over box act.",
+        "bio": "He again question then few defense. Party wife structure owner Congress type offer. It agent central north."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
