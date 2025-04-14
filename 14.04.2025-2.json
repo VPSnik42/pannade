@@ -1,0 +1,25 @@
+{
+    "name": "Joe Young",
+    "age": 56,
+    "address": {
+        "street": "Mary Orchard",
+        "city": "Lisafurt",
+        "state": "Minnesota",
+        "zip": "59319"
+    },
+    "contact": {
+        "phone": "299-773-3377x5629",
+        "servicePhone": "800617602"
+    },
+    "birthday": "1969-17-12",
+    "ip": "47.67.82.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Present occur strategy reduce hope green. Price suffer glass sit. During everybody everything staff direction reach.\nShould though middle mouth. Them agent machine lay yeah ok yet instead.",
+        "bio": "Without young wide instead seven. Least wonder product ground join. Another street student wonder far management.\nRule collection actually table feel he court."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
