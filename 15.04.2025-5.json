@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Hanson",
+    "age": 15,
+    "address": {
+        "street": "Kristin Green",
+        "city": "South Thomaston",
+        "state": "Indiana",
+        "zip": "43150"
+    },
+    "contact": {
+        "phone": "(908)800-0520x11582",
+        "servicePhone": "800286830"
+    },
+    "birthday": "2010-03-02",
+    "ip": "151.247.1.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Beautiful play myself defense Democrat including agree fast. Under high exactly authority western professor result. Address bank worry ahead major popular.",
+        "bio": "Scene camera attack difficult total take. Team hear quickly foot give analysis toward. When seem sign Mr hard."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
