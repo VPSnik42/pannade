@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Miller",
+    "age": 52,
+    "address": {
+        "street": "Mclaughlin Mall",
+        "city": "West Kimberly",
+        "state": "Arizona",
+        "zip": "48175"
+    },
+    "contact": {
+        "phone": "+1-726-922-4174",
+        "servicePhone": "800528345"
+    },
+    "birthday": "1973-14-03",
+    "ip": "12.173.128.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid bad writer food kitchen southern. Manage plan hundred inside even example while price. Water sport season value.",
+        "bio": "Condition while specific nor involve set. Plan draw fall. Since design bad partner what easy.\nMiss big land. Fish line itself character share nothing."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
