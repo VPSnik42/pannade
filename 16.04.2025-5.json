@@ -1,0 +1,25 @@
+{
+    "name": "Wanda Hernandez",
+    "age": 23,
+    "address": {
+        "street": "Dickerson Forge",
+        "city": "New Anthony",
+        "state": "North Carolina",
+        "zip": "39018"
+    },
+    "contact": {
+        "phone": "351-933-8911",
+        "servicePhone": "800725619"
+    },
+    "birthday": "2002-11-10",
+    "ip": "162.231.55.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Over perform dream. Lay notice statement music response cost perform station.\nPrice wife as act sign board. Ever several case certain yet. Need operation none loss over sit year.",
+        "bio": "Behavior me generation book. Owner this little significant time.\nPresent no read loss term occur source. Race enough exactly maybe middle red. High owner artist challenge cold maintain speak skin."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
