@@ -1,0 +1,25 @@
+{
+    "name": "Robert Stewart",
+    "age": 89,
+    "address": {
+        "street": "Newman Gateway",
+        "city": "East Kennethtown",
+        "state": "Kentucky",
+        "zip": "41463"
+    },
+    "contact": {
+        "phone": "(744)396-8477",
+        "servicePhone": "800736210"
+    },
+    "birthday": "1936-12-12",
+    "ip": "20.13.61.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Phone far suddenly word bit if hour. Owner small realize country both.",
+        "bio": "Raise on experience game many himself lawyer. Remain blood response thank institution institution.\nBoard side property debate. Hotel their short. Ready capital building relationship."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
