@@ -1,0 +1,25 @@
+{
+    "name": "James Frazier",
+    "age": 109,
+    "address": {
+        "street": "Ellis Spurs",
+        "city": "West Julie",
+        "state": "Michigan",
+        "zip": "35037"
+    },
+    "contact": {
+        "phone": "338-698-4814",
+        "servicePhone": "800999810"
+    },
+    "birthday": "1916-29-08",
+    "ip": "123.4.218.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Around billion know door executive through. Language heart shake public chair. Camera reach available civil property special.\nFact blood military list indeed.",
+        "bio": "Actually agent religious heart pick only. Future newspaper not reflect sort particular. Science mention side surface national."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
