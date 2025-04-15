@@ -1,0 +1,25 @@
+{
+    "name": "Brian Kelly",
+    "age": 100,
+    "address": {
+        "street": "Steven Brooks",
+        "city": "Gregoryview",
+        "state": "Idaho",
+        "zip": "79473"
+    },
+    "contact": {
+        "phone": "697.972.6775x7846",
+        "servicePhone": "800762331"
+    },
+    "birthday": "1925-07-01",
+    "ip": "195.206.20.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Realize mind record above serve. Mouth free any meet. Run stuff why through pull away.\nMission employee step paper into speech. Institution method discussion she water body meeting.",
+        "bio": "Person field light player eat. Represent share seven none phone available happen. Begin it she rich."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
