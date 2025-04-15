@@ -1,0 +1,25 @@
+{
+    "name": "Ian Holt",
+    "age": 26,
+    "address": {
+        "street": "Martinez Port",
+        "city": "Port Jason",
+        "state": "Georgia",
+        "zip": "61630"
+    },
+    "contact": {
+        "phone": "001-830-529-4940",
+        "servicePhone": "800291124"
+    },
+    "birthday": "1999-26-11",
+    "ip": "68.123.243.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Thought throw new guy less new. Just man candidate.\nForget history wind international. Until investment well window management. Story wait compare major simply ask operation myself.",
+        "bio": "Wrong major rich. Year test program nor away.\nDebate war feeling option free sound weight. Course fine or every up.\nThree listen system man point everything. Product long drive run."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
