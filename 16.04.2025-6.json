@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Woods",
+    "age": 49,
+    "address": {
+        "street": "Monica Drives",
+        "city": "Colemanville",
+        "state": "Colorado",
+        "zip": "87944"
+    },
+    "contact": {
+        "phone": "8384868938",
+        "servicePhone": "800468759"
+    },
+    "birthday": "1976-16-03",
+    "ip": "177.164.47.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Person take above marriage. Draw threat good up magazine some worry.\nThis run along live boy country wind. Discover off from according.\nEnvironmental director argue. Very break moment dark leave.",
+        "bio": "Success cut professor. Today learn hotel edge Congress PM institution.\nSeveral drop instead green woman north. Recent myself prevent push wait. Mrs professional know level."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
