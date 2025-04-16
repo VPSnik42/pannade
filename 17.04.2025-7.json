@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Schneider",
+    "age": 0,
+    "address": {
+        "street": "Cole Glen",
+        "city": "South Brandon",
+        "state": "Montana",
+        "zip": "15321"
+    },
+    "contact": {
+        "phone": "(952)431-6723",
+        "servicePhone": "800400877"
+    },
+    "birthday": "2025-19-07",
+    "ip": "46.122.115.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Maybe just song including strategy seek arm star. Again return example able anything approach number. Senior series bring with official two.",
+        "bio": "Here career never machine necessary character him. Station east ever together author agency. Child mission sit former."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
