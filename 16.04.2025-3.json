@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Smith",
+    "age": 44,
+    "address": {
+        "street": "Brian Valleys",
+        "city": "Samuelfort",
+        "state": "Mississippi",
+        "zip": "90134"
+    },
+    "contact": {
+        "phone": "935.414.1076",
+        "servicePhone": "800293266"
+    },
+    "birthday": "1981-20-02",
+    "ip": "45.206.159.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Writer eight care each. Write world common he goal describe. Reflect minute interesting throughout.\nFilm catch lead smile one. Should air end state story concern owner.",
+        "bio": "Process image each bad.\nFinally million forget where be mother piece. Us school between so beat much my specific.\nNow yeah occur."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
