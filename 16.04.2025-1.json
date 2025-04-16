@@ -1,0 +1,25 @@
+{
+    "name": "Janet Rivera",
+    "age": 82,
+    "address": {
+        "street": "Dana Roads",
+        "city": "Ashleyshire",
+        "state": "Nebraska",
+        "zip": "19583"
+    },
+    "contact": {
+        "phone": "505.561.1088x498",
+        "servicePhone": "800049682"
+    },
+    "birthday": "1943-05-07",
+    "ip": "102.132.246.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Away social instead couple executive make run state. Here new shoulder part month.",
+        "bio": "Can image only. Speak listen animal raise help.\nNice about behind. Black better radio believe. Real hair keep."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
