@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Miranda",
+    "age": 16,
+    "address": {
+        "street": "Robinson Field",
+        "city": "Rachelview",
+        "state": "North Dakota",
+        "zip": "72179"
+    },
+    "contact": {
+        "phone": "255.685.4038x626",
+        "servicePhone": "800186059"
+    },
+    "birthday": "2009-04-03",
+    "ip": "73.91.49.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Area note democratic recently provide probably. Inside else people spring north official.\nAnalysis develop dream scientist. Save guess issue also role notice nation.",
+        "bio": "About scene charge clear kid. View example security cold speak human.\nBlue feeling skin hear similar. Realize least call region. Wall easy same there."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
