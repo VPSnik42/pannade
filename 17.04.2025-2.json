@@ -1,0 +1,25 @@
+{
+    "name": "James Campos",
+    "age": 8,
+    "address": {
+        "street": "Scott Squares",
+        "city": "Marvinfort",
+        "state": "Rhode Island",
+        "zip": "59896"
+    },
+    "contact": {
+        "phone": "(670)346-3366x432",
+        "servicePhone": "800356330"
+    },
+    "birthday": "2017-20-07",
+    "ip": "86.133.242.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Give me partner college bar leave protect. Just evidence material east they very.\nHimself perform or grow. Million us matter customer. Sign long per government field heart.",
+        "bio": "Radio offer run. Each budget effort data keep. Thousand wish alone peace lose sea within. Scene officer such ask here question cause."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
