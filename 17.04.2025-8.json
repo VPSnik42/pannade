@@ -1,0 +1,25 @@
+{
+    "name": "Jason Reed",
+    "age": 100,
+    "address": {
+        "street": "Amanda Heights",
+        "city": "New Samantha",
+        "state": "California",
+        "zip": "58686"
+    },
+    "contact": {
+        "phone": "738.451.8223",
+        "servicePhone": "800408544"
+    },
+    "birthday": "1925-25-12",
+    "ip": "207.82.57.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Green like class white discover. Simply prepare financial talk all. Relationship phone do friend group behind off.\nParticularly among need surface should. Myself away operation.",
+        "bio": "Certainly management fly street main war allow Mrs. Put he debate per fly throughout value. Laugh college always. Teach collection resource push office decide."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
