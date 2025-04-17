@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Mcdonald",
+    "age": 78,
+    "address": {
+        "street": "Justin Valleys",
+        "city": "Tylerport",
+        "state": "South Dakota",
+        "zip": "75514"
+    },
+    "contact": {
+        "phone": "+1-755-590-3564",
+        "servicePhone": "800365653"
+    },
+    "birthday": "1947-28-04",
+    "ip": "83.114.3.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring action force identify land. Despite sister international avoid assume seven young dog. Minute radio break century.",
+        "bio": "Although line piece special happen. Movement site general. Cause why not. Visit decision indicate agency which.\nOk heart reflect rest whose."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
