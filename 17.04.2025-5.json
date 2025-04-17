@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Franklin",
+    "age": 29,
+    "address": {
+        "street": "Morales Bridge",
+        "city": "Brianshire",
+        "state": "Massachusetts",
+        "zip": "45396"
+    },
+    "contact": {
+        "phone": "541.772.2097",
+        "servicePhone": "800622651"
+    },
+    "birthday": "1996-08-10",
+    "ip": "45.224.252.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago section finish pretty similar. Fund tax across financial sort.\nLess especially law however successful with space. Senior specific attack site conference.",
+        "bio": "Three station perhaps. Take hour event tend likely age.\nSouth remain chair bit approach shake relate. Prepare everybody learn reason. What worker act total believe."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
