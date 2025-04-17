@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Hendrix",
+    "age": 92,
+    "address": {
+        "street": "Deanna Extension",
+        "city": "Thomasside",
+        "state": "Idaho",
+        "zip": "04620"
+    },
+    "contact": {
+        "phone": "340-576-9929",
+        "servicePhone": "800094325"
+    },
+    "birthday": "1933-01-07",
+    "ip": "117.233.172.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Into value new personal table. Become return my produce edge radio different. Majority able west offer big.",
+        "bio": "Serious authority hour price their road. Personal imagine chair whatever together central at against. Stock know only talk at about trade.\nTrouble be alone size thing."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
