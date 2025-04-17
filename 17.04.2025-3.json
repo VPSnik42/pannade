@@ -1,0 +1,25 @@
+{
+    "name": "Eric Burton",
+    "age": 70,
+    "address": {
+        "street": "Anderson Harbors",
+        "city": "Jacobfort",
+        "state": "Nebraska",
+        "zip": "55273"
+    },
+    "contact": {
+        "phone": "491-811-7637",
+        "servicePhone": "800779621"
+    },
+    "birthday": "1955-28-10",
+    "ip": "149.182.70.37",
+    "foo": "bar",
+    "profile": {
+        "about": "International Mr good management. Other media society watch who. Coach already next into. Authority laugh join.",
+        "bio": "Dog tell meeting country room difficult long. Price stock often may.\nThemselves family culture condition senior science. Across cold summer rich."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
