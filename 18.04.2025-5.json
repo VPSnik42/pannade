@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Herrera",
+    "age": 33,
+    "address": {
+        "street": "Bailey Prairie",
+        "city": "Port Nicholasborough",
+        "state": "Nebraska",
+        "zip": "14469"
+    },
+    "contact": {
+        "phone": "+1-296-939-9452x66044",
+        "servicePhone": "800145905"
+    },
+    "birthday": "1992-16-10",
+    "ip": "11.168.230.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Record throw economic exactly consider. Relate region memory big end camera right. Investment first apply happy.",
+        "bio": "Eight company throughout same take indeed relate. Safe eight ground law. Here feel hotel far data tree."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
