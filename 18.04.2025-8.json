@@ -1,0 +1,25 @@
+{
+    "name": "Christina Moore",
+    "age": 90,
+    "address": {
+        "street": "Benson Loaf",
+        "city": "South Cathy",
+        "state": "Maryland",
+        "zip": "60786"
+    },
+    "contact": {
+        "phone": "731-502-9484x48713",
+        "servicePhone": "800065878"
+    },
+    "birthday": "1935-06-06",
+    "ip": "128.225.39.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Minute democratic clearly east charge whether. Change coach add grow prepare. Building thank media everyone third sound.",
+        "bio": "Political treatment end east official. Policy management pressure fund available same. Will walk financial win house lead."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
