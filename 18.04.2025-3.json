@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Hooper",
+    "age": 42,
+    "address": {
+        "street": "Madison River",
+        "city": "East Jeanne",
+        "state": "South Dakota",
+        "zip": "60073"
+    },
+    "contact": {
+        "phone": "(502)640-5238",
+        "servicePhone": "800513679"
+    },
+    "birthday": "1983-13-12",
+    "ip": "123.83.157.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection quite only service half friend mouth present. Ground seat suggest key perhaps throw. Rule follow policy ahead what new.",
+        "bio": "Get civil conference not century. Sport nothing very.\nSouth national whom again care effort also. Quite evidence family shoulder hair."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
