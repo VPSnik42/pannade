@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Johnson",
+    "age": 100,
+    "address": {
+        "street": "Thomas Neck",
+        "city": "Port Jonathan",
+        "state": "Nevada",
+        "zip": "74985"
+    },
+    "contact": {
+        "phone": "(277)269-1134x61036",
+        "servicePhone": "800219983"
+    },
+    "birthday": "1925-28-11",
+    "ip": "12.189.197.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Really area partner ground collection. Recently fish simple thousand. Wind dog anyone hospital.\nTerm building structure focus almost mouth in. Tough edge protect. Financial firm whole woman can.",
+        "bio": "Growth water number collection cover guy officer. Red dog much in together address. Most sometimes pull international town after cause."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
