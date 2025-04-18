@@ -1,0 +1,25 @@
+{
+    "name": "Loretta Becker",
+    "age": 91,
+    "address": {
+        "street": "Beasley Streets",
+        "city": "Lake Sabrina",
+        "state": "South Dakota",
+        "zip": "33818"
+    },
+    "contact": {
+        "phone": "(438)367-8440x5604",
+        "servicePhone": "800472719"
+    },
+    "birthday": "1934-01-05",
+    "ip": "101.127.246.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Dark author option perhaps respond might. Piece agency eight could remember personal energy. Represent consider including majority.\nStyle suggest send western.",
+        "bio": "Best environment possible modern then become. Medical investment word push heart. Later song case ever suggest pick economic."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
