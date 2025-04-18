@@ -1,0 +1,25 @@
+{
+    "name": "Darren Williams",
+    "age": 69,
+    "address": {
+        "street": "Amber Estate",
+        "city": "Hughesville",
+        "state": "Virginia",
+        "zip": "94596"
+    },
+    "contact": {
+        "phone": "001-600-695-5262x720",
+        "servicePhone": "800182769"
+    },
+    "birthday": "1956-28-03",
+    "ip": "94.254.205.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Whether ten explain election indeed. Today method attention. Fear example energy mention free big leg.\nReflect great hear at. Government require than want. Nor every concern these those whole.",
+        "bio": "Night possible their hour set according. Return much support state. Task common million eat.\nAgain ability at factor religious. Star leave national reduce majority now. Big more some."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
