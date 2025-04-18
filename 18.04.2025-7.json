@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Frank",
+    "age": 47,
+    "address": {
+        "street": "Dana Centers",
+        "city": "Gilbertmouth",
+        "state": "West Virginia",
+        "zip": "09317"
+    },
+    "contact": {
+        "phone": "372.844.9997x75309",
+        "servicePhone": "800357895"
+    },
+    "birthday": "1978-23-02",
+    "ip": "48.86.238.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Mission peace draw less. Tax who concern character upon. North leave ball stock national.",
+        "bio": "Mention art threat high term hard. Look official discussion wish main.\nOff month reality amount shake. Mention law beat however seat class customer feeling. Tend book other discover focus current."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
