@@ -1,0 +1,25 @@
+{
+    "name": "Steven Bailey",
+    "age": 5,
+    "address": {
+        "street": "Anderson Spring",
+        "city": "Port Jenniferstad",
+        "state": "Delaware",
+        "zip": "43424"
+    },
+    "contact": {
+        "phone": "257.493.1919",
+        "servicePhone": "800521381"
+    },
+    "birthday": "2020-30-09",
+    "ip": "179.69.85.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Talk pick large close. Small age institution hundred involve ability. Picture service Republican else.\nToo shake into upon while. Expect require father though relationship anything last.",
+        "bio": "Democrat television score many hold feeling morning. Fear opportunity whole source center child."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
