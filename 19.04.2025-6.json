@@ -1,0 +1,25 @@
+{
+    "name": "Marcus Lang",
+    "age": 52,
+    "address": {
+        "street": "Christopher Fork",
+        "city": "Lake Danielfort",
+        "state": "Minnesota",
+        "zip": "00768"
+    },
+    "contact": {
+        "phone": "001-268-289-2251",
+        "servicePhone": "800507699"
+    },
+    "birthday": "1973-28-02",
+    "ip": "172.136.205.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Voice green themselves friend order. Each stuff spring girl air first value president. Face environment five bank pay ask.",
+        "bio": "Evidence plant although election. Table alone catch wonder however nearly assume.\nImportant she employee claim worry central. Kid whole point best then. Role party few fall race base bad up."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
