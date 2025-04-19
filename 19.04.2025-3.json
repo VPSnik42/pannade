@@ -1,0 +1,25 @@
+{
+    "name": "Steven Adams",
+    "age": 15,
+    "address": {
+        "street": "Marco Trail",
+        "city": "New Dorothy",
+        "state": "South Carolina",
+        "zip": "54855"
+    },
+    "contact": {
+        "phone": "001-731-660-0048",
+        "servicePhone": "800858998"
+    },
+    "birthday": "2010-21-12",
+    "ip": "27.242.217.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Sport doctor member answer describe that. Black different quickly PM audience here base.\nFill short evidence to. Energy choose medical west rather major. Wife spring oil concern.",
+        "bio": "Citizen series enjoy. Without tax third kind game. Eye the ready somebody news.\nAble different method table always. Join heart blood later order. Must raise spend but even without."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
