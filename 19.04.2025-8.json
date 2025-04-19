@@ -1,0 +1,25 @@
+{
+    "name": "Isaac Wood",
+    "age": 86,
+    "address": {
+        "street": "Calhoun River",
+        "city": "Smithhaven",
+        "state": "Georgia",
+        "zip": "31132"
+    },
+    "contact": {
+        "phone": "(294)579-1430x5553",
+        "servicePhone": "800256539"
+    },
+    "birthday": "1939-14-02",
+    "ip": "98.3.20.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder project century. Clear mention pass father lead. Actually traditional process thank but glass stay.\nTreatment must method assume often road anyone choice.",
+        "bio": "Attorney for describe employee expect door. Score her ok region very culture number."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
