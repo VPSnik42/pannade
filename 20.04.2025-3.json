@@ -1,0 +1,25 @@
+{
+    "name": "Robert Henderson",
+    "age": 54,
+    "address": {
+        "street": "Jason Pike",
+        "city": "Maystad",
+        "state": "Wyoming",
+        "zip": "75788"
+    },
+    "contact": {
+        "phone": "999-664-2484",
+        "servicePhone": "800308902"
+    },
+    "birthday": "1971-27-07",
+    "ip": "42.42.138.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Their from hit room enjoy until role. Ok pull capital figure by owner. Recent send should speak sort. Scientist body American able yard.",
+        "bio": "Wide interesting start. Age edge indicate power business around discover.\nTeam fast since require. Candidate sit your. Plant visit management tree many above."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
