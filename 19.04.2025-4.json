@@ -1,0 +1,25 @@
+{
+    "name": "Charles Collins",
+    "age": 38,
+    "address": {
+        "street": "Duran Plaza",
+        "city": "Toniborough",
+        "state": "Georgia",
+        "zip": "30316"
+    },
+    "contact": {
+        "phone": "496.409.0449",
+        "servicePhone": "800678460"
+    },
+    "birthday": "1987-09-10",
+    "ip": "199.100.28.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Green rate structure early amount support north.\nBed call finally including anything meeting available. Nor pattern pick career already born.",
+        "bio": "Yeah artist answer laugh pressure view media control. Gun yard camera professional though leave rest."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
