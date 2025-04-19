@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Matthews",
+    "age": 66,
+    "address": {
+        "street": "Javier Garden",
+        "city": "Port Sharon",
+        "state": "Arkansas",
+        "zip": "43031"
+    },
+    "contact": {
+        "phone": "+1-835-306-0208",
+        "servicePhone": "800271354"
+    },
+    "birthday": "1959-14-03",
+    "ip": "196.126.173.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Down require add nearly alone.\nOut writer from main front practice short. Purpose religious compare. Similar art field suffer government. Beautiful recognize half continue create fish manager.",
+        "bio": "Exist service everybody. Each hear reality left good produce. Same room purpose much whether floor ago difference."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
