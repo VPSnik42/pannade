@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Michael Gilbert IV",
+    "age": 6,
+    "address": {
+        "street": "Christy Loaf",
+        "city": "Davisside",
+        "state": "Alabama",
+        "zip": "04835"
+    },
+    "contact": {
+        "phone": "001-440-298-8946x2908",
+        "servicePhone": "800203144"
+    },
+    "birthday": "2019-05-02",
+    "ip": "163.27.160.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Big cultural election until. Newspaper take southern special place garden.\nStreet foot war agreement food team. Special central these ago three challenge. Father color impact size.",
+        "bio": "Think name soldier only heavy record forward. Thank general trial final network purpose. Building line letter light rate."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
