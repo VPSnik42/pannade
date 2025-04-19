@@ -1,0 +1,25 @@
+{
+    "name": "Michaela Tucker",
+    "age": 78,
+    "address": {
+        "street": "Lopez Coves",
+        "city": "Nancychester",
+        "state": "Nebraska",
+        "zip": "56884"
+    },
+    "contact": {
+        "phone": "(985)616-6063",
+        "servicePhone": "800880460"
+    },
+    "birthday": "1947-22-04",
+    "ip": "218.39.27.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Behind present majority seek travel. Go company range.\nRelationship through stage ok general agreement. Base international little three production fine physical.",
+        "bio": "Treatment need economy score sit. Book throw test collection contain three ever.\nReduce space talk relate. Catch Congress must decide administration serve describe."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
