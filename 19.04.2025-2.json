@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Cole",
+    "age": 36,
+    "address": {
+        "street": "Chelsea Wells",
+        "city": "Lake Teresa",
+        "state": "Minnesota",
+        "zip": "67520"
+    },
+    "contact": {
+        "phone": "(564)999-1059",
+        "servicePhone": "800696837"
+    },
+    "birthday": "1989-06-02",
+    "ip": "73.51.85.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Three affect quickly. On ever everyone either.\nFactor back yourself article music. Yes large financial minute candidate base. Surface hundred south nation give concern or size.",
+        "bio": "Through number decision end season five teach. Person sometimes time difference cultural someone really red. Former day job air sign red you."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
