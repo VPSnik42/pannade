@@ -1,0 +1,25 @@
+{
+    "name": "Kaitlin Hernandez",
+    "age": 39,
+    "address": {
+        "street": "Fernandez Harbors",
+        "city": "Grantshire",
+        "state": "Washington",
+        "zip": "64055"
+    },
+    "contact": {
+        "phone": "2107277698",
+        "servicePhone": "800801521"
+    },
+    "birthday": "1986-09-02",
+    "ip": "185.235.33.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Agreement lot carry build. Difficult care radio. Staff future thus ready speak.\nProfessional career do group.",
+        "bio": "Fill finally animal none none college. Light card imagine her later. Effect voice our population."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
