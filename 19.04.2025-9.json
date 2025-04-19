@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Madden",
+    "age": 35,
+    "address": {
+        "street": "Richardson Greens",
+        "city": "Rachelberg",
+        "state": "New York",
+        "zip": "98206"
+    },
+    "contact": {
+        "phone": "(975)248-8322",
+        "servicePhone": "800488903"
+    },
+    "birthday": "1990-19-09",
+    "ip": "47.197.196.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Claim recognize wind amount morning because. Campaign machine news part skin citizen decade.",
+        "bio": "Behavior its goal involve toward special.\nEffect sort human pressure. Think evidence should day. Exist subject theory still."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
