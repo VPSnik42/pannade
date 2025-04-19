@@ -1,0 +1,25 @@
+{
+    "name": "Roberto Yu",
+    "age": 72,
+    "address": {
+        "street": "Knight Fields",
+        "city": "East Davidberg",
+        "state": "Minnesota",
+        "zip": "40608"
+    },
+    "contact": {
+        "phone": "594.927.1199",
+        "servicePhone": "800033113"
+    },
+    "birthday": "1953-28-06",
+    "ip": "78.116.94.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Recently off possible form leg continue author. Nation health challenge interest why home certainly wait. Light tonight them.",
+        "bio": "Your fly wrong Mr dream look. City training forget act city send member. Make maintain list serve me why."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
