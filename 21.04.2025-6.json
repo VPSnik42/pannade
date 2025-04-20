@@ -1,0 +1,25 @@
+{
+    "name": "Susan Smith",
+    "age": 17,
+    "address": {
+        "street": "Glenn Vista",
+        "city": "Kimmouth",
+        "state": "Delaware",
+        "zip": "17083"
+    },
+    "contact": {
+        "phone": "417-257-5620x256",
+        "servicePhone": "800563504"
+    },
+    "birthday": "2008-27-09",
+    "ip": "180.233.99.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh address gun analysis. Music company standard above father. Research identify senior lot concern.\nManage discover while. Decade test report according medical two we great.",
+        "bio": "Return major film pressure official blue television. Training feeling once. Class everybody nice."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
