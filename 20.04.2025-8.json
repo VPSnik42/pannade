@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Diaz",
+    "age": 113,
+    "address": {
+        "street": "Saunders Ridges",
+        "city": "Burnsfurt",
+        "state": "Ohio",
+        "zip": "84877"
+    },
+    "contact": {
+        "phone": "+1-542-984-7709x1240",
+        "servicePhone": "800424778"
+    },
+    "birthday": "1912-14-07",
+    "ip": "198.14.147.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Check ok contain painting. Fine sense chair run.\nSince perhaps role old week shake cover third. Above thank put production since.",
+        "bio": "And responsibility such low chair plant. Loss strong bank law difficult trip seat.\nItem seem young fight many large bar. Visit future impact these manage doctor. Nearly number lawyer day their."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
