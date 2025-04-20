@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Underwood",
+    "age": 71,
+    "address": {
+        "street": "Davis Loop",
+        "city": "Dyershire",
+        "state": "Alaska",
+        "zip": "15622"
+    },
+    "contact": {
+        "phone": "001-874-744-6689x7541",
+        "servicePhone": "800564713"
+    },
+    "birthday": "1954-21-08",
+    "ip": "135.101.240.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Worry return away response capital detail who. Series cut newspaper nice clearly hand perform.\nCompany easy pick him month both. Pretty performance officer push media senior find.",
+        "bio": "Many response buy resource a. Among why top generation senior enough. Put law drug property bill health."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
