@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Mccann",
+    "age": 10,
+    "address": {
+        "street": "Cristian Wells",
+        "city": "Lake Johntown",
+        "state": "West Virginia",
+        "zip": "37040"
+    },
+    "contact": {
+        "phone": "821.655.7605",
+        "servicePhone": "800578057"
+    },
+    "birthday": "2015-10-04",
+    "ip": "157.197.254.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Order the place apply.\nCertain draw try evidence impact. Which show understand still population team. Beautiful strategy little write still.",
+        "bio": "Ahead language late bit. Alone approach detail should. Often central realize base wife affect.\nList side impact build call. Many matter against box improve thought."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
