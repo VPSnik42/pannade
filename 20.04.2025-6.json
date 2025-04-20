@@ -1,0 +1,25 @@
+{
+    "name": "Russell Jordan",
+    "age": 111,
+    "address": {
+        "street": "Hooper Heights",
+        "city": "New Norma",
+        "state": "Indiana",
+        "zip": "95888"
+    },
+    "contact": {
+        "phone": "278.509.6162x799",
+        "servicePhone": "800586877"
+    },
+    "birthday": "1914-14-02",
+    "ip": "113.69.147.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank stand ready day use. Picture benefit traditional argue rather trip show.",
+        "bio": "Guess research executive move security natural. Member book reason picture TV.\nFive development professor close. Send place decision no. Relationship deal pass."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
