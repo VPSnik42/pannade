@@ -1,0 +1,25 @@
+{
+    "name": "Mary Ramirez",
+    "age": 49,
+    "address": {
+        "street": "Brittany Stream",
+        "city": "Steventown",
+        "state": "Arizona",
+        "zip": "50968"
+    },
+    "contact": {
+        "phone": "(894)776-4710x91061",
+        "servicePhone": "800200133"
+    },
+    "birthday": "1976-08-09",
+    "ip": "155.44.96.50",
+    "foo": "bar",
+    "profile": {
+        "about": "National politics husband page wear voice. Response list new far reason plant size look. Building industry type Democrat hour minute.",
+        "bio": "Trade hot alone tree. Bank serve system wind ago most.\nProbably also blue fast city great. Practice give cultural story recognize show economic. Travel idea experience actually explain."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
