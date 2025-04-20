@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Campbell",
+    "age": 3,
+    "address": {
+        "street": "Debra Plaza",
+        "city": "Pottsport",
+        "state": "Tennessee",
+        "zip": "33008"
+    },
+    "contact": {
+        "phone": "210-911-7230x17601",
+        "servicePhone": "800179241"
+    },
+    "birthday": "2022-05-11",
+    "ip": "179.24.200.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Relate person go artist. Phone look before reduce whether thing.\nUs single culture employee. Know member size you.",
+        "bio": "Later official financial agent high will thing. Run radio across would night. Hope response necessary size seek.\nFederal life lead scene risk soldier."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
