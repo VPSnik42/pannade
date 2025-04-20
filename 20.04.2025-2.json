@@ -1,0 +1,25 @@
+{
+    "name": "Heather Edwards",
+    "age": 112,
+    "address": {
+        "street": "Williams Forges",
+        "city": "Gonzalesberg",
+        "state": "California",
+        "zip": "91153"
+    },
+    "contact": {
+        "phone": "332.580.5005",
+        "servicePhone": "800790677"
+    },
+    "birthday": "1913-27-07",
+    "ip": "87.90.137.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Town offer later large long quite laugh be. Down decision report military. Between suggest growth owner go idea.",
+        "bio": "Mind but total hear bill than policy cover. Hand enjoy small must.\nFar child government production wonder. Cold we speech few defense company."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
