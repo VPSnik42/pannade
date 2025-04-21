@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Garcia",
+    "age": 90,
+    "address": {
+        "street": "Kelley Forest",
+        "city": "Mollyborough",
+        "state": "Iowa",
+        "zip": "70360"
+    },
+    "contact": {
+        "phone": "+1-374-906-6079x49052",
+        "servicePhone": "800668110"
+    },
+    "birthday": "1935-05-01",
+    "ip": "19.47.59.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Before manager pattern same owner claim word. Allow full stage carry. Up stage sing simple happy picture.\nLittle laugh present most plant writer. Game mention Mrs show collection stuff music.",
+        "bio": "Daughter citizen trade campaign health bed. Star financial foot note.\nCollege me life treat yeah eight.\nRelationship tax eight almost federal lay price. Street student whole."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
