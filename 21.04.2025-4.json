@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Stanley",
+    "age": 99,
+    "address": {
+        "street": "Berry Grove",
+        "city": "Lambertstad",
+        "state": "Washington",
+        "zip": "11954"
+    },
+    "contact": {
+        "phone": "001-648-628-2819",
+        "servicePhone": "800236501"
+    },
+    "birthday": "1926-03-03",
+    "ip": "176.218.132.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Property form listen affect. Reach leg they paper old have.\nStyle blood page even upon air. Available worry something physical discussion. Out best someone debate international.",
+        "bio": "Age citizen treat part test. Yard culture image.\nEnd son she anyone military cover. Value attention book. Middle marriage laugh consumer nation road."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
