@@ -1,0 +1,25 @@
+{
+    "name": "Kathy Anderson DDS",
+    "age": 74,
+    "address": {
+        "street": "Daniel Throughway",
+        "city": "Port Valeriehaven",
+        "state": "Montana",
+        "zip": "52520"
+    },
+    "contact": {
+        "phone": "+1-203-676-4172x2410",
+        "servicePhone": "800604757"
+    },
+    "birthday": "1951-07-01",
+    "ip": "12.118.34.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Decide price accept attention. Serve practice national leg around deep page us. Assume husband life state follow.\nThing war state. Night foot surface level door huge. After range consumer between.",
+        "bio": "Allow that spend red society newspaper present. No house though seat military.\nService however prevent. Treatment understand town relate mission sure."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
