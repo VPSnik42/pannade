@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Lewis",
+    "age": 22,
+    "address": {
+        "street": "Jason Street",
+        "city": "Port Alexandrachester",
+        "state": "Illinois",
+        "zip": "26920"
+    },
+    "contact": {
+        "phone": "001-361-375-0888x502",
+        "servicePhone": "800536261"
+    },
+    "birthday": "2003-10-01",
+    "ip": "191.217.65.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior medical media. Ten of operation high skin. State last recent defense century. Protect major take data.",
+        "bio": "Game thus day understand human test field. Turn toward senior two street yet.\nMiddle real movement around story tell of. Toward fund always."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
