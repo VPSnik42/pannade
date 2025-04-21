@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Johnson",
+    "age": 43,
+    "address": {
+        "street": "Ralph Plains",
+        "city": "New Sarah",
+        "state": "West Virginia",
+        "zip": "97746"
+    },
+    "contact": {
+        "phone": "(244)451-4511",
+        "servicePhone": "800723495"
+    },
+    "birthday": "1982-05-05",
+    "ip": "185.31.236.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Decade social nice woman parent later. Everything wish minute true.",
+        "bio": "Should fact develop head put she. College gun season both culture affect choose. Performance lead see to.\nImprove money class player. Individual professor speak fine."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
