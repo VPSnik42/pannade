@@ -1,0 +1,25 @@
+{
+    "name": "Tonya Smith",
+    "age": 0,
+    "address": {
+        "street": "Velasquez Row",
+        "city": "Smithborough",
+        "state": "West Virginia",
+        "zip": "95386"
+    },
+    "contact": {
+        "phone": "001-758-333-8944",
+        "servicePhone": "800449840"
+    },
+    "birthday": "2025-29-01",
+    "ip": "32.187.202.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Cut before letter mind travel subject. Energy parent science manage assume still say. Southern teacher still recently us all east. Attorney sister present employee.",
+        "bio": "Until early great line great about. Enter must rather keep.\nDay campaign local common child goal stuff. Customer choice if. Management argue cup house claim more."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
