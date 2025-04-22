@@ -1,0 +1,25 @@
+{
+    "name": "Julia Thompson",
+    "age": 38,
+    "address": {
+        "street": "Cherry Street",
+        "city": "Lake Lisastad",
+        "state": "Pennsylvania",
+        "zip": "73053"
+    },
+    "contact": {
+        "phone": "827.970.0213x98619",
+        "servicePhone": "800411469"
+    },
+    "birthday": "1987-16-11",
+    "ip": "5.107.41.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Fast her interview side. Analysis concern build any. People year have follow federal go.",
+        "bio": "Too specific or store discuss story material between. Easy part activity up adult population bring.\nCan PM rest everyone cultural resource. Society state from cup."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
