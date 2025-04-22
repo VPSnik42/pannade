@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Roach",
+    "age": 18,
+    "address": {
+        "street": "Virginia Hollow",
+        "city": "Davidhaven",
+        "state": "Arkansas",
+        "zip": "69958"
+    },
+    "contact": {
+        "phone": "(492)844-4554x843",
+        "servicePhone": "800292594"
+    },
+    "birthday": "2007-05-11",
+    "ip": "187.2.179.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe marriage husband site make may. Factor cup best quality tell land manager. Situation continue cultural hand somebody let.",
+        "bio": "Security be follow affect mouth.\nAddress event yeah foreign later site.\nPm part discuss across one research. Identify field hour better resource his anyone food."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
