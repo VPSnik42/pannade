@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Myers",
+    "age": 98,
+    "address": {
+        "street": "Bennett Forges",
+        "city": "Kimberlyborough",
+        "state": "California",
+        "zip": "98429"
+    },
+    "contact": {
+        "phone": "3172451543",
+        "servicePhone": "800636564"
+    },
+    "birthday": "1927-25-09",
+    "ip": "133.135.76.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Example soldier resource table son really. Tend public check choose.\nTrip address reflect. Decide in black some. Century example free from add drive term radio.",
+        "bio": "Member effect affect show sure short ever task. Really mother evening perform. Product economy section example material reveal."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
