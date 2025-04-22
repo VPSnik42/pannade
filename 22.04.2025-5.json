@@ -1,0 +1,25 @@
+{
+    "name": "Curtis Morris",
+    "age": 90,
+    "address": {
+        "street": "Duncan Roads",
+        "city": "Miaside",
+        "state": "Tennessee",
+        "zip": "79989"
+    },
+    "contact": {
+        "phone": "(350)275-0565x845",
+        "servicePhone": "800254577"
+    },
+    "birthday": "1935-03-12",
+    "ip": "42.75.57.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Six ask building image. Order various feel still protect series her. Newspaper lose court check common.\nRich whom bed laugh bag there attack. Like lot do indeed thank leave.",
+        "bio": "Woman cut join stuff hope.\nStandard present commercial surface red own. Foreign director economic method manager none available."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
