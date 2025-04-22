@@ -1,0 +1,25 @@
+{
+    "name": "Amber Maynard",
+    "age": 112,
+    "address": {
+        "street": "Margaret Cliff",
+        "city": "West Helen",
+        "state": "South Dakota",
+        "zip": "40764"
+    },
+    "contact": {
+        "phone": "(300)741-9606",
+        "servicePhone": "800083569"
+    },
+    "birthday": "1913-30-06",
+    "ip": "64.54.211.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Building example real author. Four her exactly leader born.",
+        "bio": "Forward affect employee degree tax. Produce sit if for center sport.\nBe west article usually. Article chair quality quite act movie."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
