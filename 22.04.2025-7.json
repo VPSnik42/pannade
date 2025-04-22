@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Newton",
+    "age": 110,
+    "address": {
+        "street": "Mcdowell Tunnel",
+        "city": "New Deborah",
+        "state": "Texas",
+        "zip": "65008"
+    },
+    "contact": {
+        "phone": "547.865.3364",
+        "servicePhone": "800701551"
+    },
+    "birthday": "1915-03-06",
+    "ip": "48.201.248.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Just wish time how account music. Middle assume at ask tonight project.\nDirection design exist teach by. Fine firm four born how stock red case.",
+        "bio": "Drive source respond add. Themselves think hot far Congress player player partner. Idea short we strong."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
