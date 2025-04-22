@@ -1,0 +1,25 @@
+{
+    "name": "Wesley Alvarez",
+    "age": 83,
+    "address": {
+        "street": "Patricia Route",
+        "city": "North Peterbury",
+        "state": "Iowa",
+        "zip": "46696"
+    },
+    "contact": {
+        "phone": "(911)602-5370",
+        "servicePhone": "800690089"
+    },
+    "birthday": "1942-21-01",
+    "ip": "89.101.38.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Box two question message hard through since.\nDifferent face together mention order already forget. Blue catch next it.",
+        "bio": "But couple fish. Remain effect know.\nWalk color research lose early as forget. Ground always agency. General because someone short price ask."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
