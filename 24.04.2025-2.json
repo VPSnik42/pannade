@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Garcia",
+    "age": 103,
+    "address": {
+        "street": "Duane Unions",
+        "city": "Jessicamouth",
+        "state": "Oregon",
+        "zip": "60552"
+    },
+    "contact": {
+        "phone": "+1-350-300-8174x0187",
+        "servicePhone": "800353156"
+    },
+    "birthday": "1922-03-12",
+    "ip": "25.166.224.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Sure cost accept kitchen. Receive worker professor like thus.\nSpring prove nothing small. Finally kind tough training head fall learn. Again simple might drive manager answer bed suffer.",
+        "bio": "Born ten somebody direction thousand. In little but area moment.\nProperty reality great race less help standard. Too read writer star sometimes take these. Prepare over foreign agreement perhaps."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
