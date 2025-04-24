@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Wesley Collins",
+    "age": 86,
+    "address": {
+        "street": "Harris Via",
+        "city": "Charlesside",
+        "state": "Florida",
+        "zip": "19960"
+    },
+    "contact": {
+        "phone": "4839320591",
+        "servicePhone": "800413387"
+    },
+    "birthday": "1939-12-04",
+    "ip": "18.141.207.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Painting effect economic where glass near these. Do avoid line why.\nWhom director someone government almost hotel bad between. Dinner face behind remain blood.",
+        "bio": "Move cause better usually. Need such stand seat wait. Wrong seven bag that.\nNot research fact relationship. Expect claim sing air style."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
