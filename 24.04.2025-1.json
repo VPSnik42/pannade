@@ -1,0 +1,25 @@
+{
+    "name": "Angela Jackson",
+    "age": 72,
+    "address": {
+        "street": "Hoover Passage",
+        "city": "Schwartzville",
+        "state": "Idaho",
+        "zip": "13163"
+    },
+    "contact": {
+        "phone": "554-698-8203x01805",
+        "servicePhone": "800474179"
+    },
+    "birthday": "1953-09-06",
+    "ip": "187.144.177.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Continue spend minute environmental.\nNear child possible. Include wind American garden including trip. Effect attack reality growth.",
+        "bio": "Class feel school nor condition about. Defense good light baby environmental history.\nThank box option who skin democratic election. General dinner physical per. Shake successful soldier painting at."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
