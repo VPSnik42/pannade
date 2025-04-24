@@ -1,0 +1,25 @@
+{
+    "name": "Brian Silva",
+    "age": 101,
+    "address": {
+        "street": "Jones Ville",
+        "city": "Port Allison",
+        "state": "California",
+        "zip": "01527"
+    },
+    "contact": {
+        "phone": "916-817-1086",
+        "servicePhone": "800188945"
+    },
+    "birthday": "1924-16-12",
+    "ip": "140.101.145.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Finish population far they outside later majority. Day present another represent room be place. My parent probably between out finish.\nFish agree far stage next. Everybody fight thing become.",
+        "bio": "College science single group someone decision. Book every pay box family program happy.\nSize friend beyond forward. Deep grow drug manage. Onto none simply onto."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
