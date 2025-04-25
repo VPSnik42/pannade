@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Decker",
+    "age": 111,
+    "address": {
+        "street": "Kevin Point",
+        "city": "Lake Jeffreymouth",
+        "state": "Illinois",
+        "zip": "89252"
+    },
+    "contact": {
+        "phone": "+1-946-681-2614",
+        "servicePhone": "800722114"
+    },
+    "birthday": "1914-10-11",
+    "ip": "156.40.200.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Figure car environment appear attention report body. Eat action care same these number citizen.\nSince sort use. Law person marriage product. Summer people more add.\nWatch realize outside stop.",
+        "bio": "Morning compare detail radio magazine remain general. Form open agency speak note public. All travel service top movement tax.\nToward economic learn yeah live. Hundred eight course nice civil."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
