@@ -1,0 +1,25 @@
+{
+    "name": "Amy Robinson",
+    "age": 67,
+    "address": {
+        "street": "Elaine Course",
+        "city": "Griffithchester",
+        "state": "Colorado",
+        "zip": "53587"
+    },
+    "contact": {
+        "phone": "+1-805-672-8944x25641",
+        "servicePhone": "800495449"
+    },
+    "birthday": "1958-31-12",
+    "ip": "136.181.225.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Call actually campaign section above court. Model question actually tree item environmental southern. Buy drug operation prevent network.",
+        "bio": "Worry black speech wide surface north. Blood population first church off. Face offer recently later rate policy third. Reality everybody name fine allow."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
