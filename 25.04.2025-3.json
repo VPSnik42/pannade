@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Dickerson",
+    "age": 114,
+    "address": {
+        "street": "Joel Brook",
+        "city": "New Justin",
+        "state": "Michigan",
+        "zip": "01741"
+    },
+    "contact": {
+        "phone": "3312046078",
+        "servicePhone": "800727755"
+    },
+    "birthday": "1911-01-02",
+    "ip": "216.101.193.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Know score good. Management own for Mrs ahead organization Republican cost. Include white base accept discuss.",
+        "bio": "Theory call action use program. Idea turn first investment.\nConsumer one class item. Authority cultural institution kid close level professional history.\nEnjoy size those require certainly."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
