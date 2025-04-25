@@ -1,0 +1,25 @@
+{
+    "name": "John Johnson",
+    "age": 105,
+    "address": {
+        "street": "Lawson Road",
+        "city": "East Ronald",
+        "state": "Tennessee",
+        "zip": "16194"
+    },
+    "contact": {
+        "phone": "8184455771",
+        "servicePhone": "800552585"
+    },
+    "birthday": "1920-17-11",
+    "ip": "137.184.142.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Toward nice allow consider. Would she today issue at writer. Arrive board economy message painting though.\nCulture treat probably support someone act defense. Organization seem fight site.",
+        "bio": "Remember sure agency employee. Church every too worker attorney fact.\nSkin paper try after avoid majority system. Street role allow memory."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
