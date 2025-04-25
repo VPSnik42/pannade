@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Hendrix",
+    "age": 12,
+    "address": {
+        "street": "Amanda Fort",
+        "city": "Port Katrina",
+        "state": "Maryland",
+        "zip": "84417"
+    },
+    "contact": {
+        "phone": "818-528-8923x457",
+        "servicePhone": "800920861"
+    },
+    "birthday": "2013-28-05",
+    "ip": "179.193.108.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Civil community question training throughout let population. Small find through different picture. Color into book way safe act.\nProject gun example. Cut break not doctor. Along piece western get.",
+        "bio": "Him way statement high what development air. Certain computer behavior along plant present."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
