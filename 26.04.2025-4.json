@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Griffin",
+    "age": 76,
+    "address": {
+        "street": "Heather Garden",
+        "city": "South Arthur",
+        "state": "North Dakota",
+        "zip": "32762"
+    },
+    "contact": {
+        "phone": "868.533.8039",
+        "servicePhone": "800514529"
+    },
+    "birthday": "1949-06-07",
+    "ip": "202.29.233.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Indicate why support town.\nAnimal space word new. Camera last company. Hundred rather glass someone land key. Though capital detail industry must choose maintain.",
+        "bio": "Figure safe walk Mrs road set. Seem discuss leader stop forward entire reveal. Yes pull pick inside defense into kitchen."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
