@@ -1,0 +1,25 @@
+{
+    "name": "Robert Simpson",
+    "age": 56,
+    "address": {
+        "street": "George Trace",
+        "city": "Melissafort",
+        "state": "California",
+        "zip": "20339"
+    },
+    "contact": {
+        "phone": "410.900.2491",
+        "servicePhone": "800267242"
+    },
+    "birthday": "1969-25-12",
+    "ip": "205.26.39.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Economy development professional. Traditional trade sign ten us do. Shoulder movement policy tell item star possible feeling.",
+        "bio": "Southern firm century administration whether power. Interesting quickly five various part human.\nAnyone fund cause blood. Evidence form upon recent their challenge off."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
