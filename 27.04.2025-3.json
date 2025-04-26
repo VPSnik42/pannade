@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Cannon",
+    "age": 67,
+    "address": {
+        "street": "Mary Lakes",
+        "city": "Tinashire",
+        "state": "South Carolina",
+        "zip": "20066"
+    },
+    "contact": {
+        "phone": "228.299.0222",
+        "servicePhone": "800447438"
+    },
+    "birthday": "1958-21-01",
+    "ip": "175.189.179.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Rock decision right room. Picture student beautiful remember point expert order.\nAllow let score plan. Cover image Mr class Mrs. Society condition less to computer require.",
+        "bio": "Truth become amount human like fine throw. Cause I future close share peace.\nLay down officer probably general paper my."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
