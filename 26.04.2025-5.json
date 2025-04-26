@@ -1,0 +1,25 @@
+{
+    "name": "Heather Clayton",
+    "age": 14,
+    "address": {
+        "street": "Lucas Isle",
+        "city": "Santiagofurt",
+        "state": "Iowa",
+        "zip": "52815"
+    },
+    "contact": {
+        "phone": "(805)792-9424",
+        "servicePhone": "800478911"
+    },
+    "birthday": "2011-11-10",
+    "ip": "24.108.91.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring form low morning reach rock your. Stand more entire company.\nFace identify option myself discover. Piece clear this born.",
+        "bio": "Decision benefit impact decade success total. Offer themselves Democrat can third food."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
