@@ -1,0 +1,25 @@
+{
+    "name": "Marc Turner",
+    "age": 4,
+    "address": {
+        "street": "Deanna Lodge",
+        "city": "Robertfurt",
+        "state": "Indiana",
+        "zip": "83675"
+    },
+    "contact": {
+        "phone": "511.569.3743x1716",
+        "servicePhone": "800399810"
+    },
+    "birthday": "2021-04-01",
+    "ip": "69.88.104.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Store color factor college pass company.\nTrue whether dog. Line police her budget continue. Before name station five her hit doctor.",
+        "bio": "Work daughter far sister force all. Question sea wall difficult so.\nMiddle contain could boy cup pretty lawyer. Store air I student trouble best value."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
