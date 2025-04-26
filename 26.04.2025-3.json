@@ -1,0 +1,25 @@
+{
+    "name": "Carol Ellis",
+    "age": 7,
+    "address": {
+        "street": "Logan Mall",
+        "city": "North Christina",
+        "state": "Nevada",
+        "zip": "72008"
+    },
+    "contact": {
+        "phone": "001-972-908-5752",
+        "servicePhone": "800722711"
+    },
+    "birthday": "2018-24-05",
+    "ip": "181.39.32.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Car will model reality group. High over deal fine product.\nImprove near executive will wonder.\nOn rather land way age country. Note today official pass together record education.",
+        "bio": "Decide mission its big picture option account recent. Tax miss him media better one.\nBehavior hit in music mean born hot. Left write memory heavy."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
