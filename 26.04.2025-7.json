@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Garrett",
+    "age": 7,
+    "address": {
+        "street": "Harmon Bypass",
+        "city": "South Shawn",
+        "state": "New Mexico",
+        "zip": "77914"
+    },
+    "contact": {
+        "phone": "+1-246-324-8091",
+        "servicePhone": "800002005"
+    },
+    "birthday": "2018-15-01",
+    "ip": "158.84.129.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Budget after clear here as action agree. Bad budget minute organization wrong.\nTwo sure put produce admit amount commercial. Stay responsibility high campaign.",
+        "bio": "Budget theory evidence together authority food. Sense company organization still note.\nEverybody partner result spring firm turn. Account its interesting we."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
