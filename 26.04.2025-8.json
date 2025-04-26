@@ -1,0 +1,25 @@
+{
+    "name": "John Davis",
+    "age": 78,
+    "address": {
+        "street": "Sean Turnpike",
+        "city": "New Ryanberg",
+        "state": "Utah",
+        "zip": "02212"
+    },
+    "contact": {
+        "phone": "456.629.9217x606",
+        "servicePhone": "800737478"
+    },
+    "birthday": "1947-31-12",
+    "ip": "147.69.108.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Red decade probably story half cover. Significant become nature. Line special your thought difference simply other. Trial result must but page.\nArticle trip green. Rich manage woman hit.",
+        "bio": "Describe happy mouth wife though citizen live.\nHotel heart vote think. This event song early. Employee kind physical education stay hot either worker."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
