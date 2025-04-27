@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Jones",
+    "age": 111,
+    "address": {
+        "street": "Bishop Knolls",
+        "city": "Charlesmouth",
+        "state": "Alabama",
+        "zip": "70955"
+    },
+    "contact": {
+        "phone": "001-875-425-0650",
+        "servicePhone": "800502040"
+    },
+    "birthday": "1914-13-02",
+    "ip": "137.17.39.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Gun pay idea place. Fine left around after bit idea. Citizen act make age picture.",
+        "bio": "Actually nice Democrat rock point official fight newspaper. Second why mean.\nSuccessful air front despite head either. Either moment go on. Tough check skill gun surface last."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
