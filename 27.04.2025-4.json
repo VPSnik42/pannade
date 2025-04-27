@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Brown",
+    "age": 110,
+    "address": {
+        "street": "Nichols Camp",
+        "city": "Oliviaside",
+        "state": "Kansas",
+        "zip": "40588"
+    },
+    "contact": {
+        "phone": "357.477.7052x8948",
+        "servicePhone": "800743806"
+    },
+    "birthday": "1915-09-01",
+    "ip": "91.64.189.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Leader low economic leader if which little. Truth field recognize single leg newspaper.\nMedia down certain question study subject baby. Those world remain involve rather minute check.",
+        "bio": "Charge green beyond production already sense. Itself product account report now. Increase kind work indeed effort play.\nStaff sit purpose what."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
