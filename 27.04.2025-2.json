@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Snyder",
+    "age": 81,
+    "address": {
+        "street": "Roberts Trail",
+        "city": "Dillonburgh",
+        "state": "Tennessee",
+        "zip": "21395"
+    },
+    "contact": {
+        "phone": "752.310.4414x0055",
+        "servicePhone": "800887994"
+    },
+    "birthday": "1944-20-11",
+    "ip": "108.238.95.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Can choice offer. Short room sister candidate never. Room really discuss.\nWhatever could it major full south. Should standard reveal loss executive American level. Feeling hard huge least exist.",
+        "bio": "Wear meeting agency political despite who top raise. Ten spring clearly her ahead country against record. Write environment address talk."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
