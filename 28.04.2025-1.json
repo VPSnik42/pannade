@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Rose",
+    "age": 109,
+    "address": {
+        "street": "Oliver Pike",
+        "city": "New Jennifer",
+        "state": "South Carolina",
+        "zip": "37195"
+    },
+    "contact": {
+        "phone": "508.765.0965x93457",
+        "servicePhone": "800783005"
+    },
+    "birthday": "1916-02-08",
+    "ip": "54.86.205.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Science would start shoulder skill player conference. Center send dog small against.\nKind think stuff blood show through soldier. Peace move scientist race quite might risk.",
+        "bio": "Environment evening up whom. Kitchen service street across record adult deep.\nType bill manager record. Maintain without current career less indicate."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
