@@ -1,0 +1,25 @@
+{
+    "name": "Chelsea Johnson",
+    "age": 2,
+    "address": {
+        "street": "Susan Stream",
+        "city": "Brittanychester",
+        "state": "New Hampshire",
+        "zip": "20506"
+    },
+    "contact": {
+        "phone": "518.345.6718x3345",
+        "servicePhone": "800510884"
+    },
+    "birthday": "2023-03-01",
+    "ip": "8.183.24.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Car seven station produce attention have each. Approach mouth card control international. Yourself positive watch meeting yet happen country.\nAround appear she bill or.",
+        "bio": "Hear behavior actually social nearly.\nNature set approach identify thought Mr country. Read much investment material. Reason lose product amount quite. Seat first around from rule."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
