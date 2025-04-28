@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Graham",
+    "age": 92,
+    "address": {
+        "street": "Salazar Estate",
+        "city": "Watsonstad",
+        "state": "Oregon",
+        "zip": "53266"
+    },
+    "contact": {
+        "phone": "963-757-3278x772",
+        "servicePhone": "800806305"
+    },
+    "birthday": "1933-15-12",
+    "ip": "41.52.243.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Big less garden throughout. Change character stop discuss. Hair fact page law nice production field.",
+        "bio": "Only everybody yard fear executive. Local behind get. Lead purpose two ten special.\nFast measure memory theory. Bag seven service would director."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
