@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Ellis",
+    "age": 99,
+    "address": {
+        "street": "Micheal Light",
+        "city": "Port Emilyshire",
+        "state": "Maine",
+        "zip": "09656"
+    },
+    "contact": {
+        "phone": "+1-336-830-0461x0900",
+        "servicePhone": "800126638"
+    },
+    "birthday": "1926-19-07",
+    "ip": "38.113.208.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Case throughout market environment particularly develop.\nYeah arrive song soldier. Room town fly sport all course.\nCover without seem travel Congress program ask. Work bar field wear network.",
+        "bio": "Scientist worry account suddenly before student describe here. Measure single spring show your.\nWant way better. Ball fund recently idea example the yes."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
