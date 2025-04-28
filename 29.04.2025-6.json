@@ -1,0 +1,25 @@
+{
+    "name": "Jason Lucas",
+    "age": 3,
+    "address": {
+        "street": "Robinson Dam",
+        "city": "North Michaelton",
+        "state": "South Carolina",
+        "zip": "93823"
+    },
+    "contact": {
+        "phone": "369-227-5744",
+        "servicePhone": "800119572"
+    },
+    "birthday": "2022-26-01",
+    "ip": "111.121.251.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Sometimes office never leader say stock. White cost must I far.\nReflect standard central blood evidence prevent former. Require issue plan understand move.",
+        "bio": "Number might range most anything reduce. Program many cell star executive main. Well get Democrat another sit.\nSection arm product identify plan condition. Yes nothing section piece around."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
