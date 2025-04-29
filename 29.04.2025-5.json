@@ -1,0 +1,25 @@
+{
+    "name": "Connie Payne",
+    "age": 77,
+    "address": {
+        "street": "Valencia Green",
+        "city": "Lake Ethan",
+        "state": "Kansas",
+        "zip": "71019"
+    },
+    "contact": {
+        "phone": "001-216-497-5736x3939",
+        "servicePhone": "800666260"
+    },
+    "birthday": "1948-16-11",
+    "ip": "222.94.117.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Party two television foot bar. Catch change program mother necessary hot.\nExecutive ball law nation carry he blood. Theory ability manager usually week consider next.",
+        "bio": "Involve trade on American per major it purpose. Position certain work tonight sell Republican floor.\nSeem investment compare poor any. Find mother measure address."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
