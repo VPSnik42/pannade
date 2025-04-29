@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Rhodes",
+    "age": 12,
+    "address": {
+        "street": "Watts Valleys",
+        "city": "Catherinehaven",
+        "state": "Louisiana",
+        "zip": "45905"
+    },
+    "contact": {
+        "phone": "001-450-688-2560x32005",
+        "servicePhone": "800616232"
+    },
+    "birthday": "2013-21-01",
+    "ip": "200.32.79.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Table last great light his time well. Ago surface effect direction military. Call society scientist ability rest animal difficult note. Report process those tax last sell different.",
+        "bio": "Mrs discuss four coach. Example behavior memory. Economy key city herself.\nRepresent father best him. Why act because soon enter. Trade experience message world.\nLay worker character ability."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
