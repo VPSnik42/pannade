@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Butler",
+    "age": 85,
+    "address": {
+        "street": "Callahan Points",
+        "city": "Port Brendatown",
+        "state": "Utah",
+        "zip": "73621"
+    },
+    "contact": {
+        "phone": "+1-875-532-7847x7191",
+        "servicePhone": "800312214"
+    },
+    "birthday": "1940-19-12",
+    "ip": "34.12.173.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Pretty approach report especially would close language. Be possible bring democratic six it.\nFive she stage pull dream price wide. Movement report seat. Offer soldier under.",
+        "bio": "Meeting air ten like pressure. Move world season.\nFact organization state rule reach suggest drug should. Short relate window. Shoulder image ok sell."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
