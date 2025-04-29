@@ -1,0 +1,25 @@
+{
+    "name": "Tracey Williams",
+    "age": 35,
+    "address": {
+        "street": "Stephanie Station",
+        "city": "Richardtown",
+        "state": "Tennessee",
+        "zip": "11321"
+    },
+    "contact": {
+        "phone": "001-232-787-8349x893",
+        "servicePhone": "800906979"
+    },
+    "birthday": "1990-06-03",
+    "ip": "126.102.115.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Skill Mrs explain anything use at bring situation. Live focus how no possible.\nPay reason chair join line. Nor head defense moment of cost. Eat clear real fear.",
+        "bio": "Tell better wear land land detail. Smile PM near worker stop. Let everything after other key close collection.\nOperation support cup buy produce something age."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
