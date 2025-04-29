@@ -1,0 +1,25 @@
+{
+    "name": "James Hernandez",
+    "age": 20,
+    "address": {
+        "street": "Melissa Dam",
+        "city": "South Matthew",
+        "state": "Alaska",
+        "zip": "58285"
+    },
+    "contact": {
+        "phone": "373.852.6052x169",
+        "servicePhone": "800139799"
+    },
+    "birthday": "2005-28-06",
+    "ip": "46.35.89.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Impact set pick particularly tend difficult wife. Sense ground animal not generation like. Stock relate start dinner type before great matter.",
+        "bio": "Statement husband call itself. Piece build peace or brother light course. Because middle stock of few operation partner."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
