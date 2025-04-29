@@ -1,0 +1,25 @@
+{
+    "name": "Regina Valdez",
+    "age": 65,
+    "address": {
+        "street": "Vincent Fork",
+        "city": "Rodriguezport",
+        "state": "Maryland",
+        "zip": "40640"
+    },
+    "contact": {
+        "phone": "(238)870-2039",
+        "servicePhone": "800966016"
+    },
+    "birthday": "1960-03-05",
+    "ip": "51.24.182.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Change kitchen design worker. Life mouth international then half. Treat population marriage as include example. Official apply great street.",
+        "bio": "Cover team bed issue century protect especially. Red can mother worry determine her blue.\nBeyond entire ok. Speech game store. Commercial brother safe perform store while."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
