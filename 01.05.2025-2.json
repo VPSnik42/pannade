@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Moore",
+    "age": 24,
+    "address": {
+        "street": "Gregory Haven",
+        "city": "Melissaton",
+        "state": "North Carolina",
+        "zip": "87431"
+    },
+    "contact": {
+        "phone": "986.266.8251x51085",
+        "servicePhone": "800614445"
+    },
+    "birthday": "2001-01-11",
+    "ip": "90.182.171.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Main thousand reveal no many tonight everyone. Involve every player.\nShoulder partner draw heart. Trouble by skin age.",
+        "bio": "Natural finish he important situation floor sound. Ground mother forward never. May pass suffer health."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
