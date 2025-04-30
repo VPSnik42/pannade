@@ -1,0 +1,25 @@
+{
+    "name": "Mia Vasquez",
+    "age": 9,
+    "address": {
+        "street": "Moore Centers",
+        "city": "West Loriville",
+        "state": "Nebraska",
+        "zip": "24776"
+    },
+    "contact": {
+        "phone": "+1-743-618-2345x300",
+        "servicePhone": "800270149"
+    },
+    "birthday": "2016-04-08",
+    "ip": "6.211.21.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic including something discover wish. After high couple former glass water. Less chair garden blue college.",
+        "bio": "Point born race half. Everyone quite address stay. Public boy whole continue stuff. Agency better shoulder full all."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
