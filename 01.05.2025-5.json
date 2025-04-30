@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Carlson",
+    "age": 90,
+    "address": {
+        "street": "Dustin Brooks",
+        "city": "Jonesfort",
+        "state": "Illinois",
+        "zip": "41944"
+    },
+    "contact": {
+        "phone": "472.276.5115",
+        "servicePhone": "800997121"
+    },
+    "birthday": "1935-19-12",
+    "ip": "214.88.101.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Amount sometimes court along its. Behavior market likely always evening lawyer effort.\nPolicy act former same name cut. Sign news court financial account.",
+        "bio": "Away back drug sing three feel cup. Keep especially ten build available ago quality. Among office apply stage region best. Wrong him huge reveal rule seem."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
