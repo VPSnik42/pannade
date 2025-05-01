@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Vasquez",
+    "age": 6,
+    "address": {
+        "street": "Brown Mountains",
+        "city": "Littleton",
+        "state": "Virginia",
+        "zip": "00661"
+    },
+    "contact": {
+        "phone": "274.384.2779",
+        "servicePhone": "800511869"
+    },
+    "birthday": "2019-11-09",
+    "ip": "25.196.154.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Wind economic degree better operation. Life wrong budget land all. American address explain start. Store reason director improve cold feel clear skill.",
+        "bio": "Opportunity leg employee. My agency picture seem little poor military perform.\nBusiness go which information including involve. Why magazine cover debate black hold idea. Weight once cost next."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
