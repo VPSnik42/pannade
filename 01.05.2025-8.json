@@ -1,0 +1,25 @@
+{
+    "name": "Michael Joyce",
+    "age": 2,
+    "address": {
+        "street": "Samantha Point",
+        "city": "Sullivanton",
+        "state": "South Dakota",
+        "zip": "69311"
+    },
+    "contact": {
+        "phone": "305-506-0117x617",
+        "servicePhone": "800308957"
+    },
+    "birthday": "2023-12-07",
+    "ip": "34.221.74.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Film easy decade surface lot from set loss. Education room recent real miss.\nCell we to who similar important. Attention catch because glass. Recognize happy similar prevent worker.",
+        "bio": "Process whose pass save.\nExplain central life along.\nSize tell will job. Without effect minute spend."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
