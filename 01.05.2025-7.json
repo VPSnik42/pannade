@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Hayes",
+    "age": 25,
+    "address": {
+        "street": "Garza Dam",
+        "city": "Lake Pedroville",
+        "state": "Connecticut",
+        "zip": "43163"
+    },
+    "contact": {
+        "phone": "001-274-633-6329x11690",
+        "servicePhone": "800045396"
+    },
+    "birthday": "2000-05-03",
+    "ip": "62.19.11.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Memory once prevent wait story.\nLeft have guess purpose audience effort authority. Investment population artist walk short leg direction.",
+        "bio": "Recent direction before out.\nCareer along relate actually real. Arm back wife ability listen player beyond."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
