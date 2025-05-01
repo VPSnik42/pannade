@@ -1,0 +1,25 @@
+{
+    "name": "Robin Martin",
+    "age": 70,
+    "address": {
+        "street": "Amy Hollow",
+        "city": "Roberthaven",
+        "state": "Vermont",
+        "zip": "10593"
+    },
+    "contact": {
+        "phone": "(389)511-7744x4208",
+        "servicePhone": "800327068"
+    },
+    "birthday": "1955-15-01",
+    "ip": "148.191.7.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy author executive reduce chair friend ground every. Soon guess technology recognize threat skin. Collection person Mrs party lose property read early.",
+        "bio": "Against heart member night least the sea. Central while order our. Join wrong scene suffer price now.\nIncluding both court actually front mention above."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
