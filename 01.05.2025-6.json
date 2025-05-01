@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Wilkins",
+    "age": 16,
+    "address": {
+        "street": "Paul Dam",
+        "city": "Port Ryan",
+        "state": "North Carolina",
+        "zip": "97973"
+    },
+    "contact": {
+        "phone": "5843609646",
+        "servicePhone": "800515662"
+    },
+    "birthday": "2009-01-02",
+    "ip": "57.67.127.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Couple check political. Up boy together model question community interesting page.\nSpend nation after employee back stop always more. Risk believe prove.",
+        "bio": "Story worker style task food record surface. Say lose ready condition concern.\nAsk any executive material site mouth side. Stock line arrive lose PM pick into room."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
