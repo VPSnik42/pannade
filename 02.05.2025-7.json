@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Greene",
+    "age": 2,
+    "address": {
+        "street": "Robert Expressway",
+        "city": "East Jessica",
+        "state": "Maryland",
+        "zip": "21994"
+    },
+    "contact": {
+        "phone": "(547)686-8909",
+        "servicePhone": "800226614"
+    },
+    "birthday": "2023-09-03",
+    "ip": "104.47.205.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Certain wear billion season try.\nMake nor range discussion entire than. Tell each set individual security see physical. Activity situation would life able majority sit.\nIncrease baby energy in put.",
+        "bio": "Since hotel buy science degree. Those character by often central foot concern campaign. Cover goal outside drug rock partner set.\nOnly expert Congress lawyer might eat talk."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
