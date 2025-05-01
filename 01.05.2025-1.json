@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Todd",
+    "age": 74,
+    "address": {
+        "street": "Lopez Ridge",
+        "city": "Michaelberg",
+        "state": "Maryland",
+        "zip": "95507"
+    },
+    "contact": {
+        "phone": "497.866.1534",
+        "servicePhone": "800333159"
+    },
+    "birthday": "1951-11-09",
+    "ip": "99.118.189.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Simply together laugh why expert buy. Themselves war tonight particularly. Easy training pass compare despite down.\nInternational study enough music trial. Within vote show property.",
+        "bio": "Within between fish who actually. Main parent inside keep leg away cut be.\nAudience tonight child issue. Year during serve mission husband. Since win none beyond vote."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
