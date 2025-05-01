@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Adkins",
+    "age": 26,
+    "address": {
+        "street": "Jones Knoll",
+        "city": "Port Daniel",
+        "state": "Mississippi",
+        "zip": "73738"
+    },
+    "contact": {
+        "phone": "946.233.9683x070",
+        "servicePhone": "800141158"
+    },
+    "birthday": "1999-07-04",
+    "ip": "148.130.135.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Teacher camera heavy center turn. Old conference soldier. Same return ten final.\nTwo bit both her simple thank control television.",
+        "bio": "Per education chance many indeed. Rise real pattern American take successful court. Society despite think medical.\nStrategy item station behind. Discussion pretty great."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
