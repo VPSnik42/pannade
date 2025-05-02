@@ -1,0 +1,25 @@
+{
+    "name": "Brian Hall",
+    "age": 37,
+    "address": {
+        "street": "Martin Hills",
+        "city": "Hardyport",
+        "state": "Oklahoma",
+        "zip": "27231"
+    },
+    "contact": {
+        "phone": "686-734-7233x2749",
+        "servicePhone": "800896412"
+    },
+    "birthday": "1988-23-08",
+    "ip": "161.199.208.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Seven society according forward several. But movement analysis about move.",
+        "bio": "Campaign success modern edge risk court. Company agree size agent likely.\nPull home sell actually view do. Character card significant name put."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
