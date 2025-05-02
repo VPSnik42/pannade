@@ -1,0 +1,25 @@
+{
+    "name": "Michael Payne",
+    "age": 100,
+    "address": {
+        "street": "White Landing",
+        "city": "New Deborah",
+        "state": "Pennsylvania",
+        "zip": "88194"
+    },
+    "contact": {
+        "phone": "889-497-3340",
+        "servicePhone": "800207272"
+    },
+    "birthday": "1925-10-04",
+    "ip": "190.137.203.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern see tree thank management.\nBusiness him song road list science heavy. Democratic radio three. Suggest the police green.",
+        "bio": "Where finally help former short.\nAmerican discussion weight agree. Mean ten small the bill suggest plant. Entire opportunity address exist identify."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
