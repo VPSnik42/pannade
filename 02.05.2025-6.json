@@ -1,0 +1,25 @@
+{
+    "name": "John Marsh",
+    "age": 71,
+    "address": {
+        "street": "Hardy Parkways",
+        "city": "North Eric",
+        "state": "South Carolina",
+        "zip": "63469"
+    },
+    "contact": {
+        "phone": "+1-311-766-1069x474",
+        "servicePhone": "800466376"
+    },
+    "birthday": "1954-27-11",
+    "ip": "130.52.164.99",
+    "foo": "bar",
+    "profile": {
+        "about": "For recent couple accept.\nHotel culture understand religious they continue. Miss good civil risk kind operation some accept.\nFocus result step source example create. Charge loss statement bit break.",
+        "bio": "Arrive full hear. Often size life either mission.\nSame former single process. Heavy sure black school.\nRealize cold dream admit remember work medical bit. Others candidate always."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
