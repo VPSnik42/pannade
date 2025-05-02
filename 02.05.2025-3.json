@@ -1,0 +1,25 @@
+{
+    "name": "Robert Young",
+    "age": 54,
+    "address": {
+        "street": "Harris Cape",
+        "city": "Griffinstad",
+        "state": "South Dakota",
+        "zip": "45441"
+    },
+    "contact": {
+        "phone": "226-515-9390x09001",
+        "servicePhone": "800918757"
+    },
+    "birthday": "1971-02-02",
+    "ip": "145.41.205.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Apply low occur remain region kitchen. Knowledge boy along share need. Beyond change let color lose then.\nNice raise home her the yard prove. Fire choice attorney shoulder trouble rock candidate.",
+        "bio": "Form hope happy heavy history. After wife may course Republican whatever exactly. These receive just per. Set energy customer deal adult let citizen."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
