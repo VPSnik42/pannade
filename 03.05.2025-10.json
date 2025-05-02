@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Phillips",
+    "age": 62,
+    "address": {
+        "street": "Lam Flat",
+        "city": "South Melissa",
+        "state": "Delaware",
+        "zip": "31008"
+    },
+    "contact": {
+        "phone": "+1-279-517-7560x41892",
+        "servicePhone": "800146516"
+    },
+    "birthday": "1963-11-02",
+    "ip": "6.148.243.96",
+    "foo": "bar",
+    "profile": {
+        "about": "High deep man talk. Color single can over political computer identify from. Later real talk subject past remember.\nProfessional stop organization low character low.",
+        "bio": "Score good night official kid perhaps. Rest ground wonder simple improve deep.\nPersonal relate result next.\nNation president add too. Rate focus per politics. Start peace upon make wish plan point."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
