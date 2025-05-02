@@ -1,0 +1,25 @@
+{
+    "name": "Robert Moore",
+    "age": 6,
+    "address": {
+        "street": "Catherine Gardens",
+        "city": "Lake Peterside",
+        "state": "New York",
+        "zip": "39213"
+    },
+    "contact": {
+        "phone": "001-532-462-7011",
+        "servicePhone": "800831068"
+    },
+    "birthday": "2019-24-05",
+    "ip": "89.194.113.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Season accept always anyone less. Team prove their wall choose. Per hit human remember.",
+        "bio": "Heavy story arm.\nRequire where end Mr ok result. Wish thing partner particular natural sometimes former.\nAt by peace cold western hour drive ability."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
