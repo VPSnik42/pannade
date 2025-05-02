@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Gutierrez",
+    "age": 113,
+    "address": {
+        "street": "Delgado Ford",
+        "city": "Riveraton",
+        "state": "Pennsylvania",
+        "zip": "21459"
+    },
+    "contact": {
+        "phone": "962.492.3032x34083",
+        "servicePhone": "800460823"
+    },
+    "birthday": "1912-20-04",
+    "ip": "120.172.48.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain very such back option still. Attention nice know within laugh home option.\nHistory most on represent first. Daughter free play hope him. Simple interview college artist.",
+        "bio": "Follow election tree artist.\nEspecially seem age hotel report employee. Daughter able popular stay."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
