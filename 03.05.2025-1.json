@@ -1,0 +1,25 @@
+{
+    "name": "Alejandro Bailey",
+    "age": 112,
+    "address": {
+        "street": "Keller Bypass",
+        "city": "Johnsonberg",
+        "state": "Pennsylvania",
+        "zip": "19244"
+    },
+    "contact": {
+        "phone": "(269)956-6261x60283",
+        "servicePhone": "800136517"
+    },
+    "birthday": "1913-21-06",
+    "ip": "29.237.249.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Early unit task add raise. Talk woman trouble could color live still. Left actually anyone tree.\nBelieve executive check look. Half social defense ask off enjoy people.",
+        "bio": "Industry a use society. Education wear task current. Fly number dream better medical. With meeting grow call cut."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
