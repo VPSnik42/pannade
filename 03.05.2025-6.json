@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Rodriguez",
+    "age": 90,
+    "address": {
+        "street": "Christopher Way",
+        "city": "Lake Ariana",
+        "state": "Connecticut",
+        "zip": "62547"
+    },
+    "contact": {
+        "phone": "6649503245",
+        "servicePhone": "800010182"
+    },
+    "birthday": "1935-18-08",
+    "ip": "107.86.239.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Share decade common space one. Paper since vote with control artist.\nAlso too upon station star worry career all. Work accept past live respond. Side down herself. Example surface happen carry.",
+        "bio": "General east explain imagine beat. Fall medical address religious last civil either.\nModel form push space act race. Director present ten doctor."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
