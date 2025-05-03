@@ -1,0 +1,25 @@
+{
+    "name": "Bethany Valencia",
+    "age": 5,
+    "address": {
+        "street": "Christopher Club",
+        "city": "South John",
+        "state": "North Carolina",
+        "zip": "31324"
+    },
+    "contact": {
+        "phone": "(480)632-5911x04736",
+        "servicePhone": "800715754"
+    },
+    "birthday": "2020-03-11",
+    "ip": "16.167.158.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Soon man garden never team go. Whose seem nation friend opportunity teacher people. Positive fund half together.\nProtect add line author. Instead ahead among air computer.",
+        "bio": "Approach worker bank that. Quality watch when same poor our. Speech understand attention sort."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
