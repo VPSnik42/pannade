@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Blair",
+    "age": 52,
+    "address": {
+        "street": "James Spring",
+        "city": "Andersonbury",
+        "state": "Alaska",
+        "zip": "74154"
+    },
+    "contact": {
+        "phone": "757.997.3427",
+        "servicePhone": "800758420"
+    },
+    "birthday": "1973-05-01",
+    "ip": "187.180.130.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Painting everybody recognize early ahead rest. Its unit option book down. Three how material name tree result political.",
+        "bio": "Police he way. Life never economy rock. Second bring term owner protect race.\nNature her scientist power. Fast skin letter trip. What wide source heart project generation."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
