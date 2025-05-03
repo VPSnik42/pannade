@@ -1,0 +1,25 @@
+{
+    "name": "Julie Chen",
+    "age": 29,
+    "address": {
+        "street": "Travis Forest",
+        "city": "South Kimberlyview",
+        "state": "South Dakota",
+        "zip": "31597"
+    },
+    "contact": {
+        "phone": "001-840-661-6247x8781",
+        "servicePhone": "800604538"
+    },
+    "birthday": "1996-04-02",
+    "ip": "68.13.122.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Water out field another race theory. Couple production whether anything partner leg nation. Force argue fire pay group surface.",
+        "bio": "Find way focus themselves matter course. Several north these.\nRemember serve safe president.\nLow them including design. It dinner bank group suddenly. Music issue woman century detail seek discover."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
