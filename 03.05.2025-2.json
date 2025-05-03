@@ -1,0 +1,25 @@
+{
+    "name": "Robert Scott",
+    "age": 69,
+    "address": {
+        "street": "Jacobson Trafficway",
+        "city": "Davidville",
+        "state": "Idaho",
+        "zip": "35028"
+    },
+    "contact": {
+        "phone": "001-842-506-6505x60846",
+        "servicePhone": "800213581"
+    },
+    "birthday": "1956-21-04",
+    "ip": "119.49.215.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Visit value tell record either truth. Dream success thousand light top whole explain process.\nQuite like international week PM already. Development heart human decade free relate too.",
+        "bio": "Notice alone theory should value measure. Half forward under. Report according force wear wait.\nFinish difficult building turn play. Outside television outside hotel develop."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
