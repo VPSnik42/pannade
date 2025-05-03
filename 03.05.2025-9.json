@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Crystal Patterson",
+    "age": 98,
+    "address": {
+        "street": "Paul Corner",
+        "city": "Lake Brittany",
+        "state": "Arizona",
+        "zip": "08339"
+    },
+    "contact": {
+        "phone": "+1-723-897-2316",
+        "servicePhone": "800785413"
+    },
+    "birthday": "1927-25-01",
+    "ip": "68.250.144.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Power arrive apply read my. Indicate camera strong front culture suggest white consider. North prepare conference arrive.",
+        "bio": "Financial hotel modern put easy threat perform detail. Contain sea various real any.\nPractice record by together write practice long. Improve month amount. Pattern catch clearly now."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
