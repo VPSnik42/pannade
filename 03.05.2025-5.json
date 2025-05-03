@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Johnson",
+    "age": 72,
+    "address": {
+        "street": "Alison Point",
+        "city": "West Jennifer",
+        "state": "Oklahoma",
+        "zip": "67175"
+    },
+    "contact": {
+        "phone": "001-681-412-7993x66174",
+        "servicePhone": "800512365"
+    },
+    "birthday": "1953-03-07",
+    "ip": "80.84.71.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Less also number professional room animal whose. Use identify street fast house.",
+        "bio": "From each picture style gas. Large agreement drug answer much.\nImage themselves society surface country another. Figure stay product she skin tree. Will red prove major. I student specific affect."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
