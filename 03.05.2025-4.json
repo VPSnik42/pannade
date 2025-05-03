@@ -1,0 +1,25 @@
+{
+    "name": "Alisha Reyes",
+    "age": 14,
+    "address": {
+        "street": "Scott Trail",
+        "city": "Port John",
+        "state": "Missouri",
+        "zip": "35450"
+    },
+    "contact": {
+        "phone": "277-736-8853x20051",
+        "servicePhone": "800831202"
+    },
+    "birthday": "2011-14-09",
+    "ip": "175.110.106.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Quality drug size music according. Yourself force security station service catch available.\nPick wonder manager. Watch hot discover. Treatment claim participant arm.",
+        "bio": "Open glass traditional yet. Place opportunity far enjoy despite.\nDegree hundred rock relate weight. Peace society though charge new. Worker stuff watch imagine current."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
