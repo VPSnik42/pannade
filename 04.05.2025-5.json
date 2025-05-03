@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Carrillo",
+    "age": 59,
+    "address": {
+        "street": "Hess Ville",
+        "city": "Lake Ashley",
+        "state": "Oklahoma",
+        "zip": "78791"
+    },
+    "contact": {
+        "phone": "998.476.9150x09608",
+        "servicePhone": "800195624"
+    },
+    "birthday": "1966-30-06",
+    "ip": "144.63.66.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Future staff heavy. Both water alone base senior bag.\nFront other top thus future modern. Involve remember program where year.\nGuy party concern admit popular set. Choose suddenly doctor see.",
+        "bio": "These message simply quality once. Force commercial create entire structure drive. Road east national. Build doctor far.\nTravel team our audience produce account. Professor none fear act have."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
