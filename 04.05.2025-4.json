@@ -1,0 +1,25 @@
+{
+    "name": "Anna Greer",
+    "age": 34,
+    "address": {
+        "street": "Ernest Lodge",
+        "city": "Lisafurt",
+        "state": "Oklahoma",
+        "zip": "89611"
+    },
+    "contact": {
+        "phone": "977-355-6108",
+        "servicePhone": "800845337"
+    },
+    "birthday": "1991-27-09",
+    "ip": "204.81.186.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer push center. Quickly only third third.\nDescribe space shoulder avoid. Have science article believe whole to decade seem.",
+        "bio": "Address sign near order national something collection. Fine old health lay. International your country agree design.\nAdd example red effect chair product property. Nation return ten."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
