@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Wood",
+    "age": 63,
+    "address": {
+        "street": "Sean Mall",
+        "city": "Port Jennifer",
+        "state": "Virginia",
+        "zip": "72145"
+    },
+    "contact": {
+        "phone": "800-568-8342x99941",
+        "servicePhone": "800530444"
+    },
+    "birthday": "1962-08-08",
+    "ip": "217.71.75.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Free mission piece pattern movie investment arm.\nBorn significant none traditional kitchen participant stay.",
+        "bio": "Total learn deal likely. Subject the time improve beyond Democrat. Forward various dark. Rather make half at over near grow."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
