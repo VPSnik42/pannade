@@ -1,0 +1,25 @@
+{
+    "name": "Christine Pierce",
+    "age": 43,
+    "address": {
+        "street": "Linda Branch",
+        "city": "Wilsonfurt",
+        "state": "Pennsylvania",
+        "zip": "05256"
+    },
+    "contact": {
+        "phone": "778-663-6643",
+        "servicePhone": "800054727"
+    },
+    "birthday": "1982-05-03",
+    "ip": "211.145.64.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Worker shake so source everyone hotel business in. Parent cup success ten. Throw guy ball several.\nHis father PM speak building high. Rise tonight likely. Show future type energy fact way glass.",
+        "bio": "Service our serve happy nature however include do. Much create first. Low of strong no security section human everyone."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
