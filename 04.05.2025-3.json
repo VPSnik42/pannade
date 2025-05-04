@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Anderson",
+    "age": 62,
+    "address": {
+        "street": "Yvonne Crescent",
+        "city": "New Katherine",
+        "state": "Oregon",
+        "zip": "07598"
+    },
+    "contact": {
+        "phone": "709.557.4546",
+        "servicePhone": "800047869"
+    },
+    "birthday": "1963-28-01",
+    "ip": "7.63.70.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Break unit down end. Will though charge book answer. Chair project new ahead pass.\nChallenge receive from indeed both. Himself then country south professor identify opportunity.",
+        "bio": "End blue claim training value. Me what race civil act popular. Energy woman home hit.\nAnother run second give must both. Sense condition debate financial. Argue could court fine name."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
