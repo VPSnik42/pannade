@@ -1,0 +1,25 @@
+{
+    "name": "Brian Mills",
+    "age": 85,
+    "address": {
+        "street": "Wilson Bypass",
+        "city": "South Russell",
+        "state": "Mississippi",
+        "zip": "00892"
+    },
+    "contact": {
+        "phone": "(570)731-1032",
+        "servicePhone": "800165873"
+    },
+    "birthday": "1940-02-07",
+    "ip": "7.6.8.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Summer every build myself. Bag beyond strategy yeah. Investment data whose new.\nTogether raise game nor away pick determine kitchen.",
+        "bio": "Natural table blue manage though agent control. Home provide remain down field start author. Full smile PM remember pressure office message. Unit Democrat detail want."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
