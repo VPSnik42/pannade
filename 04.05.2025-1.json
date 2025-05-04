@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Hunt",
+    "age": 33,
+    "address": {
+        "street": "Corey Brooks",
+        "city": "Robertsshire",
+        "state": "Illinois",
+        "zip": "08869"
+    },
+    "contact": {
+        "phone": "001-626-654-3256x2550",
+        "servicePhone": "800672094"
+    },
+    "birthday": "1992-23-08",
+    "ip": "10.178.60.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Anyone nor dream across wear relationship. Teach institution expert.",
+        "bio": "Meeting concern foreign senior coach according our. Interest forget southern expert claim painting politics."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
