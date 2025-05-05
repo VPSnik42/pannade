@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Hinton",
+    "age": 36,
+    "address": {
+        "street": "Nelson Lake",
+        "city": "Brownshire",
+        "state": "Kansas",
+        "zip": "55743"
+    },
+    "contact": {
+        "phone": "628.315.4713",
+        "servicePhone": "800864424"
+    },
+    "birthday": "1989-23-12",
+    "ip": "193.88.165.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Figure must war black these pretty possible maybe. Defense wife any.\nGrow seem rock pick black design return. Drop wind picture heavy soldier close. Kind as hand peace teacher cause body.",
+        "bio": "Growth federal public explain individual. Politics item young I. Property foot serious board recognize kind.\nTeach material cut music woman weight. East read provide should less security."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
