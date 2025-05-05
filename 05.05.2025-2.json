@@ -1,0 +1,25 @@
+{
+    "name": "Vicki Dougherty",
+    "age": 38,
+    "address": {
+        "street": "Carla Flat",
+        "city": "West Laura",
+        "state": "Idaho",
+        "zip": "72669"
+    },
+    "contact": {
+        "phone": "001-365-611-2197x29771",
+        "servicePhone": "800063871"
+    },
+    "birthday": "1987-21-12",
+    "ip": "117.3.103.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Wide material those protect care much. A read product out business as while they. Movie position free site lawyer change.\nDoctor or herself baby hard. Big trial tree identify effect.",
+        "bio": "Most child or strategy most increase cause. Model direction data many raise.\nArm similar international east much agreement evening."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
