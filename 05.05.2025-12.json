@@ -1,0 +1,25 @@
+{
+    "name": "Julia Moon",
+    "age": 17,
+    "address": {
+        "street": "Justin Village",
+        "city": "Terrychester",
+        "state": "Ohio",
+        "zip": "47462"
+    },
+    "contact": {
+        "phone": "425-758-3445x99256",
+        "servicePhone": "800453021"
+    },
+    "birthday": "2008-01-08",
+    "ip": "159.132.31.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Executive inside find same them mean moment. Where cold remember. History try military simply since.\nStory set myself interest.",
+        "bio": "Wrong push firm toward management then like. Show far forward us.\nSection east still hear assume answer. Remain seven business.\nCause skin despite response both."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
