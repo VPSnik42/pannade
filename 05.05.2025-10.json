@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Brown",
+    "age": 30,
+    "address": {
+        "street": "Cisneros Field",
+        "city": "South Leah",
+        "state": "Maryland",
+        "zip": "17994"
+    },
+    "contact": {
+        "phone": "+1-908-558-2905x8670",
+        "servicePhone": "800779801"
+    },
+    "birthday": "1995-16-11",
+    "ip": "47.129.46.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Scene soldier front hit capital really father. Congress step weight shoulder. Foot early war himself.",
+        "bio": "Board policy employee free describe. Seek focus standard study child none.\nResult else record.\nDemocrat ok board there toward town. Others believe these. Technology test leave shoulder."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
