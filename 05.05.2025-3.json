@@ -1,0 +1,25 @@
+{
+    "name": "Karen Schroeder",
+    "age": 83,
+    "address": {
+        "street": "Luke Corners",
+        "city": "Danielsville",
+        "state": "Delaware",
+        "zip": "12674"
+    },
+    "contact": {
+        "phone": "(322)309-0607x56610",
+        "servicePhone": "800728289"
+    },
+    "birthday": "1942-12-11",
+    "ip": "90.188.255.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Through spring ask. Recently kid put home strategy high. Result health employee relationship.",
+        "bio": "Several career international poor serve. Push get traditional. Must town need what unit.\nLoss arm cover set. Town benefit or common example all."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
