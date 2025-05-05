@@ -1,0 +1,25 @@
+{
+    "name": "David Thompson",
+    "age": 76,
+    "address": {
+        "street": "Mcintyre Wells",
+        "city": "Jasonton",
+        "state": "South Dakota",
+        "zip": "22936"
+    },
+    "contact": {
+        "phone": "791.301.9360x79769",
+        "servicePhone": "800831333"
+    },
+    "birthday": "1949-29-04",
+    "ip": "208.115.2.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Paper wall road Mr action stay one five. Response though standard modern. Throughout able government her.",
+        "bio": "Experience its special the sure whom theory. Still safe father give best employee cell.\nStatement establish weight land ground wonder. Mother detail simple talk bit minute."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
