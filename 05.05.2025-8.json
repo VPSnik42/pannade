@@ -1,0 +1,25 @@
+{
+    "name": "Ronnie George",
+    "age": 106,
+    "address": {
+        "street": "Franklin Landing",
+        "city": "Port Robertbury",
+        "state": "Colorado",
+        "zip": "89429"
+    },
+    "contact": {
+        "phone": "7604264392",
+        "servicePhone": "800668253"
+    },
+    "birthday": "1919-06-10",
+    "ip": "187.169.28.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Live recently want seven nature expert rock. Feel tax great she prepare. Score deal smile movement our parent. Not hundred just leader.\nRepresent whatever charge crime task think.",
+        "bio": "Prevent adult impact big idea energy. Term run though drop politics call.\nYear gas along stay since. Try join want police same describe. Special loss choice close new however ever."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
