@@ -1,0 +1,25 @@
+{
+    "name": "Don Horne",
+    "age": 61,
+    "address": {
+        "street": "Hoffman Manors",
+        "city": "Port Emily",
+        "state": "Illinois",
+        "zip": "24688"
+    },
+    "contact": {
+        "phone": "001-599-907-5753",
+        "servicePhone": "800015866"
+    },
+    "birthday": "1964-17-02",
+    "ip": "139.102.98.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood commercial collection task recent region enter. Couple discussion size marriage hotel security sense.\nEvidence join myself movement personal each trade. Well wait with.",
+        "bio": "Will fact throw read. Entire student remember hit left can.\nFill catch physical central interest. Grow foreign place ball. Plan check point very young throw."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
