@@ -1,0 +1,25 @@
+{
+    "name": "Michael Meadows",
+    "age": 112,
+    "address": {
+        "street": "George Dam",
+        "city": "Brookston",
+        "state": "Montana",
+        "zip": "87980"
+    },
+    "contact": {
+        "phone": "(736)344-4488x5859",
+        "servicePhone": "800335643"
+    },
+    "birthday": "1913-08-12",
+    "ip": "174.104.220.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Size operation me fight after.\nPractice show moment network attack. Compare thousand especially style I market. Example mouth officer wrong stuff around.",
+        "bio": "Culture record travel on personal manage. Down wide bring reduce. Travel election natural door development."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
