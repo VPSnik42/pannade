@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Washington",
+    "age": 67,
+    "address": {
+        "street": "William Corner",
+        "city": "East Tiffanyfort",
+        "state": "Arkansas",
+        "zip": "66139"
+    },
+    "contact": {
+        "phone": "001-476-654-7952x590",
+        "servicePhone": "800137466"
+    },
+    "birthday": "1958-20-03",
+    "ip": "161.99.98.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Party store lose he memory. Career suffer foreign agent painting. Short state citizen firm his.\nSort officer you operation along. Song food dog wish much piece year.",
+        "bio": "Practice say article political image produce. Pull glass political reach prepare possible either trouble. Clear end among operation garden goal."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
