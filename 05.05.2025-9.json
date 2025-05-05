@@ -1,0 +1,25 @@
+{
+    "name": "Ann Cochran",
+    "age": 70,
+    "address": {
+        "street": "Samantha Row",
+        "city": "Joannaland",
+        "state": "Georgia",
+        "zip": "16194"
+    },
+    "contact": {
+        "phone": "473-288-3603x273",
+        "servicePhone": "800231195"
+    },
+    "birthday": "1955-13-07",
+    "ip": "30.154.238.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Reveal leave government. Along scientist senior morning plan add. Language hand interesting thank because man.\nTrue successful science reflect show. Open message close town among.",
+        "bio": "Miss pull morning case. Place money about number certainly. Food space school item step mission.\nRequire four show second trouble weight. Government themselves spend establish change religious."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
