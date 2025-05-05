@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Lee",
+    "age": 111,
+    "address": {
+        "street": "Olson Place",
+        "city": "Danielville",
+        "state": "Idaho",
+        "zip": "06292"
+    },
+    "contact": {
+        "phone": "(500)704-6364x511",
+        "servicePhone": "800191235"
+    },
+    "birthday": "1914-15-02",
+    "ip": "82.193.188.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Card possible adult order your until group. Others into second go half stop party.\nIn those result so onto science tough. Chair and minute serve kind court. Wind remain several forget bit us order.",
+        "bio": "Indicate suggest stay mention strong concern up.\nCitizen defense make teacher bed safe police speak. Such attack event idea second."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
