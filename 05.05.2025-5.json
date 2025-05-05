@@ -1,0 +1,25 @@
+{
+    "name": "Tony Phillips",
+    "age": 50,
+    "address": {
+        "street": "Johnathan Village",
+        "city": "Lynnstad",
+        "state": "Utah",
+        "zip": "15425"
+    },
+    "contact": {
+        "phone": "(686)803-0983",
+        "servicePhone": "800725161"
+    },
+    "birthday": "1975-03-03",
+    "ip": "132.188.206.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Media above thing apply box. Last I produce lose modern. Difference allow through enough arrive across professor. Magazine something on race certain.",
+        "bio": "Through able space next conference candidate case. Just less could success. That last small material about energy."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
