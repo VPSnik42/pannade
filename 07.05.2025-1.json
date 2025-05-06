@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Glenn",
+    "age": 17,
+    "address": {
+        "street": "Jesse Stream",
+        "city": "Lake Maryport",
+        "state": "Alaska",
+        "zip": "25496"
+    },
+    "contact": {
+        "phone": "761-259-8322",
+        "servicePhone": "800483545"
+    },
+    "birthday": "2008-03-04",
+    "ip": "61.139.227.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Do similar head adult method. Nature camera represent stay. Sure management painting dream agent young energy.\nEveryone movement party behind.",
+        "bio": "Space friend most kitchen next cost manage. Among fear term magazine. Effort suddenly fight sing value give.\nCampaign mind because what once reason consumer."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
