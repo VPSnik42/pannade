@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Cole",
+    "age": 35,
+    "address": {
+        "street": "Walls Trail",
+        "city": "Popeport",
+        "state": "Alaska",
+        "zip": "97502"
+    },
+    "contact": {
+        "phone": "001-970-358-5538x3693",
+        "servicePhone": "800786269"
+    },
+    "birthday": "1990-10-09",
+    "ip": "76.100.98.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Along goal join someone green finally each notice. Animal decision you. Audience receive fund family whole.",
+        "bio": "Two him ability the. Marriage value herself partner land near marriage. Defense purpose focus without body know development cultural."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
