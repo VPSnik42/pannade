@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Schultz",
+    "age": 8,
+    "address": {
+        "street": "Lewis Keys",
+        "city": "West Jennifer",
+        "state": "California",
+        "zip": "23008"
+    },
+    "contact": {
+        "phone": "(633)404-0823",
+        "servicePhone": "800619465"
+    },
+    "birthday": "2017-11-11",
+    "ip": "99.48.19.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Other customer whether evidence explain. Analysis half cultural close avoid all wall.\nBusiness must staff. Tree now condition Mr adult. Bed country fish scene style.",
+        "bio": "Need local man wish evidence of whose many. Chair population court spend together energy. Act clearly total. War expert capital read economic top financial."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
