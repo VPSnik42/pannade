@@ -1,0 +1,25 @@
+{
+    "name": "Michael Douglas",
+    "age": 100,
+    "address": {
+        "street": "Roger Viaduct",
+        "city": "East Victoria",
+        "state": "Oklahoma",
+        "zip": "19131"
+    },
+    "contact": {
+        "phone": "284.863.0925x495",
+        "servicePhone": "800520873"
+    },
+    "birthday": "1925-11-04",
+    "ip": "83.14.11.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Word pressure pay voice professional listen study specific. Seat less four ask modern. These hear any increase decide soldier third.\nAccept light whom beyond. Own play information recent cell.",
+        "bio": "Offer understand clearly anyone skin company. Full parent edge enough. Thank wife will realize half read what."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
