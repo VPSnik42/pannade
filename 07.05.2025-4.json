@@ -1,0 +1,25 @@
+{
+    "name": "Marissa Owen",
+    "age": 114,
+    "address": {
+        "street": "Sherman Junctions",
+        "city": "West Alexanderport",
+        "state": "Kansas",
+        "zip": "13307"
+    },
+    "contact": {
+        "phone": "929.355.9564",
+        "servicePhone": "800751612"
+    },
+    "birthday": "1911-09-04",
+    "ip": "210.171.121.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Wall authority front. I late quickly official dark have often. Term along lead certainly local but lay.\nPiece fight you station travel head. Teach experience democratic whatever around.",
+        "bio": "Coach represent size by author billion space oil. Both avoid picture better red.\nDebate movie ready must want rock. Think speech number drive."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
