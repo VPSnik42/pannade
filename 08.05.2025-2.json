@@ -1,0 +1,25 @@
+{
+    "name": "Alison Nelson",
+    "age": 57,
+    "address": {
+        "street": "Waller Wall",
+        "city": "New Larryfort",
+        "state": "West Virginia",
+        "zip": "44193"
+    },
+    "contact": {
+        "phone": "4135861970",
+        "servicePhone": "800780872"
+    },
+    "birthday": "1968-05-07",
+    "ip": "208.118.208.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Raise whom design rise garden yes toward. Ask within suddenly each himself. Size degree war live week. Pm pattern process old oil price offer.",
+        "bio": "Significant moment light remember daughter language any. Under leave teacher fly many.\nAddress produce agency college commercial animal. Story daughter sea establish pass."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
