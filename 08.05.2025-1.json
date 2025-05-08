@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Hall",
+    "age": 86,
+    "address": {
+        "street": "Ray Station",
+        "city": "Ericland",
+        "state": "Delaware",
+        "zip": "63302"
+    },
+    "contact": {
+        "phone": "+1-443-269-8659x452",
+        "servicePhone": "800553743"
+    },
+    "birthday": "1939-17-04",
+    "ip": "12.37.194.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Base would central bar couple.\nNot north employee recently cultural. Main ever buy enough seat million.\nMeeting fear director. Act answer where use million hand couple policy.",
+        "bio": "Task data dog consumer lose. Ever whether expert foreign offer little. Market myself above phone fight whether door style."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
