@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Hill",
+    "age": 101,
+    "address": {
+        "street": "George Manor",
+        "city": "West Melissa",
+        "state": "Georgia",
+        "zip": "64915"
+    },
+    "contact": {
+        "phone": "001-496-765-6284x258",
+        "servicePhone": "800423800"
+    },
+    "birthday": "1924-15-02",
+    "ip": "201.219.5.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Someone hold so something own continue. Start find feel.\nTake finally image on player. Again floor share teacher simply.",
+        "bio": "Shoulder painting stuff take side relationship beyond. Dark father discuss of. Argue pattern create policy sit only."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
