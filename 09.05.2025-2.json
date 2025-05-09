@@ -1,0 +1,25 @@
+{
+    "name": "Julia Dunn",
+    "age": 76,
+    "address": {
+        "street": "White Springs",
+        "city": "New Douglas",
+        "state": "North Carolina",
+        "zip": "69290"
+    },
+    "contact": {
+        "phone": "+1-481-658-4828",
+        "servicePhone": "800108390"
+    },
+    "birthday": "1949-26-11",
+    "ip": "89.72.173.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Economy now card. Speak note right. Break his away.\nSend describe firm north machine student. Once very garden five.",
+        "bio": "Though vote important among Mr sometimes scientist. Step soldier also ball. Doctor police risk paper turn.\nDecide certain feel heavy exactly create far. Kitchen serve right create."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
