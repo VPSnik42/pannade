@@ -1,0 +1,25 @@
+{
+    "name": "Holly Stafford DDS",
+    "age": 109,
+    "address": {
+        "street": "Andrea Loop",
+        "city": "North Angela",
+        "state": "Texas",
+        "zip": "39002"
+    },
+    "contact": {
+        "phone": "+1-303-651-0821",
+        "servicePhone": "800151895"
+    },
+    "birthday": "1916-19-12",
+    "ip": "2.229.89.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Bit size house medical analysis report. Situation speech American throughout statement race body expect.",
+        "bio": "Pass then direction size. Natural firm cause action interesting.\nInstitution business control accept. Opportunity organization woman try fine Mr whole. Job much heavy paper."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
