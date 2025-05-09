@@ -1,0 +1,25 @@
+{
+    "name": "Joe Douglas",
+    "age": 76,
+    "address": {
+        "street": "Smith Squares",
+        "city": "Thompsonside",
+        "state": "Louisiana",
+        "zip": "17873"
+    },
+    "contact": {
+        "phone": "(298)315-2426x7506",
+        "servicePhone": "800222065"
+    },
+    "birthday": "1949-02-04",
+    "ip": "157.165.134.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Tend difference third among almost sell better. Know do thought speak the rate. Seek value imagine former serious.",
+        "bio": "Spring movie officer pretty. Nearly win mission set. Chair little unit table really.\nDirection east how walk window now. Beautiful positive either admit. There TV finish foreign."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
