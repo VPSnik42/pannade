@@ -1,0 +1,25 @@
+{
+    "name": "Laura Burns",
+    "age": 108,
+    "address": {
+        "street": "Deanna Dale",
+        "city": "Shannonberg",
+        "state": "California",
+        "zip": "13874"
+    },
+    "contact": {
+        "phone": "374-291-9588x2799",
+        "servicePhone": "800046758"
+    },
+    "birthday": "1917-07-02",
+    "ip": "109.222.154.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Cold white analysis decide cost option meeting. Everybody authority hand teach various trip rest. Agency thank feel trip author federal none let.",
+        "bio": "Country realize member should produce article suddenly. Election great begin ever.\nApproach power wait loss player land. Source thus not party school officer."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
