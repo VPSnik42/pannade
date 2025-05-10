@@ -1,0 +1,25 @@
+{
+    "name": "Michael Lopez",
+    "age": 64,
+    "address": {
+        "street": "Carrie Garden",
+        "city": "Kelleyborough",
+        "state": "West Virginia",
+        "zip": "13602"
+    },
+    "contact": {
+        "phone": "284-248-2880x90660",
+        "servicePhone": "800681677"
+    },
+    "birthday": "1961-18-07",
+    "ip": "29.186.97.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Article easy sure often week. Past town reflect skin various window. Agree have consumer really cost your candidate. Pay opportunity the citizen.",
+        "bio": "Job actually top scientist culture early short. Health end involve.\nResponse agent clear. Tv matter seem. Defense suffer work matter then skin hear."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
