@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Cruz",
+    "age": 38,
+    "address": {
+        "street": "Brian Ford",
+        "city": "Barronfurt",
+        "state": "New York",
+        "zip": "51619"
+    },
+    "contact": {
+        "phone": "843-822-8555",
+        "servicePhone": "800942180"
+    },
+    "birthday": "1987-05-09",
+    "ip": "69.171.155.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Season test training race data research TV short. Author care rise near international artist. May position strategy thank fast defense than. According identify much sing strategy billion eye.",
+        "bio": "Order get study election chair. Every magazine road off. Back if here within yes order reduce.\nLay manage about night study accept."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
