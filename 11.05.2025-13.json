@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Waller",
+    "age": 78,
+    "address": {
+        "street": "Barnett Forge",
+        "city": "Port Jessica",
+        "state": "New Hampshire",
+        "zip": "00807"
+    },
+    "contact": {
+        "phone": "941.523.3601",
+        "servicePhone": "800218600"
+    },
+    "birthday": "1947-23-01",
+    "ip": "219.229.237.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago seem beyond get religious anything within well. Past race Congress degree nothing food today. Both least push arrive a sort. Enough sound interview us total president difficult.",
+        "bio": "Really window dream prevent list usually. Political night produce word structure message upon art."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
