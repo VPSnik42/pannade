@@ -1,0 +1,25 @@
+{
+    "name": "Travis Joseph",
+    "age": 25,
+    "address": {
+        "street": "Cook Bypass",
+        "city": "Lake Kimberlybury",
+        "state": "Massachusetts",
+        "zip": "67731"
+    },
+    "contact": {
+        "phone": "001-586-859-6468x765",
+        "servicePhone": "800152518"
+    },
+    "birthday": "2000-04-03",
+    "ip": "102.17.77.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Author respond nation myself call church. Plant common event according carry rule. Statement process nice always official sit.",
+        "bio": "Hot break lose.\nField method ever experience design. Movement exist buy thought interview. Measure wind per smile condition attention side throw."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
