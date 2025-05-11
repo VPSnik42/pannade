@@ -1,0 +1,25 @@
+{
+    "name": "Julia Allison",
+    "age": 33,
+    "address": {
+        "street": "Jessica Court",
+        "city": "Garciaside",
+        "state": "Illinois",
+        "zip": "15741"
+    },
+    "contact": {
+        "phone": "(970)262-8432x18620",
+        "servicePhone": "800790092"
+    },
+    "birthday": "1992-29-06",
+    "ip": "23.100.30.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Anyone behavior want outside scene thing score. Scene meeting more amount million painting low.\nWhat civil bank true get let field. Type office affect sing response.",
+        "bio": "Simple feel popular up commercial. Ground girl unit art south age.\nKey thank value put could billion right. Kind seat in these. Nice democratic four decide cup surface PM."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
