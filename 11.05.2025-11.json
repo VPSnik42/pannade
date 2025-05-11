@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Mcconnell",
+    "age": 12,
+    "address": {
+        "street": "Suzanne Squares",
+        "city": "Staceyville",
+        "state": "Georgia",
+        "zip": "71421"
+    },
+    "contact": {
+        "phone": "635.737.5519",
+        "servicePhone": "800911472"
+    },
+    "birthday": "2013-10-08",
+    "ip": "140.234.234.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Front be kid indeed note detail. Seat significant black fall organization agreement bar.\nGive return story point tell. Deal past must. Marriage many risk boy.",
+        "bio": "Those source range. Environmental who land concern much through leg.\nDevelop make bag firm successful. Debate meet organization huge main career whatever rate."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
