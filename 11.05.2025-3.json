@@ -1,0 +1,25 @@
+{
+    "name": "Heather Whitney",
+    "age": 80,
+    "address": {
+        "street": "Miller Loop",
+        "city": "Hannahview",
+        "state": "Rhode Island",
+        "zip": "24894"
+    },
+    "contact": {
+        "phone": "5082927054",
+        "servicePhone": "800351485"
+    },
+    "birthday": "1945-24-07",
+    "ip": "192.98.239.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Present student trip. Really best executive financial mean must now.\nMay stage yard man. Particularly born only choice. None time record miss outside fund.",
+        "bio": "Since measure science another include to. Expert for time room. Prevent student either describe operation perhaps box.\nFive pass visit democratic provide."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
