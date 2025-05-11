@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Fletcher",
+    "age": 115,
+    "address": {
+        "street": "Crane Street",
+        "city": "New Glenn",
+        "state": "Texas",
+        "zip": "17777"
+    },
+    "contact": {
+        "phone": "+1-802-395-2662x5139",
+        "servicePhone": "800043692"
+    },
+    "birthday": "1910-19-07",
+    "ip": "12.55.40.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge health eye right. Follow put require next brother question citizen hear.\nRemember read bar call. Contain responsibility member. Grow moment especially against goal end manager himself.",
+        "bio": "Perhaps accept account suffer born speech. At north manager something."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
