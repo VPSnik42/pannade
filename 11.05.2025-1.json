@@ -1,0 +1,25 @@
+{
+    "name": "Laura Brooks",
+    "age": 69,
+    "address": {
+        "street": "Justin Lodge",
+        "city": "Fredfurt",
+        "state": "Maine",
+        "zip": "92932"
+    },
+    "contact": {
+        "phone": "+1-904-216-9867x331",
+        "servicePhone": "800783407"
+    },
+    "birthday": "1956-16-08",
+    "ip": "202.29.132.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Partner condition product city over assume. Kitchen fine medical culture support even book. Statement quality at recognize want eye walk.",
+        "bio": "Clear public about guess marriage fall suddenly. Order need executive human.\nTop social create glass PM energy. Issue war call child. Brother create two describe board."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
