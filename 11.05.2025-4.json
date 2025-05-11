@@ -1,0 +1,25 @@
+{
+    "name": "Brittney Carpenter",
+    "age": 8,
+    "address": {
+        "street": "Arnold Spurs",
+        "city": "West Cynthialand",
+        "state": "Montana",
+        "zip": "71359"
+    },
+    "contact": {
+        "phone": "(921)412-1794",
+        "servicePhone": "800624358"
+    },
+    "birthday": "2017-20-12",
+    "ip": "184.198.200.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Those discuss position daughter.\nFast it understand few recent lot. Pattern culture form collection. Experience into hit event attention. Mr seek available agree work vote per.",
+        "bio": "Language prevent best too recognize yeah read. Land ok significant provide base prove play. Admit ten single still exactly respond."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
