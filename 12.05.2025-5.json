@@ -1,0 +1,25 @@
+{
+    "name": "Dustin Garrett",
+    "age": 54,
+    "address": {
+        "street": "Farmer River",
+        "city": "Heathside",
+        "state": "Maryland",
+        "zip": "39109"
+    },
+    "contact": {
+        "phone": "2923925268",
+        "servicePhone": "800458285"
+    },
+    "birthday": "1971-21-06",
+    "ip": "195.30.82.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Color political something manage run. Indeed marriage clear likely here according. Ok free responsibility third.\nAnalysis hot list investment.",
+        "bio": "Ever ability property. Teacher pattern particular build speech start nature want. Down door job chair."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
