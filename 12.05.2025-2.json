@@ -1,0 +1,25 @@
+{
+    "name": "Diane Rose",
+    "age": 53,
+    "address": {
+        "street": "Gerald Pass",
+        "city": "Robinsonmouth",
+        "state": "Michigan",
+        "zip": "92573"
+    },
+    "contact": {
+        "phone": "392-800-1284x707",
+        "servicePhone": "800186372"
+    },
+    "birthday": "1972-28-12",
+    "ip": "152.25.41.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Today herself professor sea. Establish particular region president.\nForm certain guy describe suggest themselves treatment. Western truth ahead stage their drug wait.",
+        "bio": "Name central car. Sister conference along forward yourself network.\nNote pretty minute couple air relationship. Move happen manager sort address health."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
