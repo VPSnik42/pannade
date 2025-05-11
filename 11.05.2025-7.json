@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Payne",
+    "age": 48,
+    "address": {
+        "street": "Colton Land",
+        "city": "Lake Scott",
+        "state": "Indiana",
+        "zip": "22044"
+    },
+    "contact": {
+        "phone": "(229)544-7402",
+        "servicePhone": "800380556"
+    },
+    "birthday": "1977-25-01",
+    "ip": "172.48.212.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Make care star this. Quickly represent job be.\nIncluding avoid policy economy. Analysis brother include never.",
+        "bio": "List door able must peace cover.\nMachine whom final nearly I accept. Beyond yard term thus mind determine. Despite threat military against. Should between film mother run."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
