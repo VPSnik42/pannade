@@ -1,0 +1,25 @@
+{
+    "name": "David Lopez",
+    "age": 6,
+    "address": {
+        "street": "Koch Summit",
+        "city": "South Mary",
+        "state": "Minnesota",
+        "zip": "63494"
+    },
+    "contact": {
+        "phone": "001-909-685-4951x5329",
+        "servicePhone": "800782239"
+    },
+    "birthday": "2019-22-09",
+    "ip": "13.72.169.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Style can for continue claim save soldier. Particular south green set line improve defense. Rest mother some form.",
+        "bio": "Board when however force claim bank under foreign. Cold own involve clearly laugh daughter attention lawyer."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
