@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Evans",
+    "age": 92,
+    "address": {
+        "street": "Ashley Isle",
+        "city": "East Elizabethchester",
+        "state": "South Dakota",
+        "zip": "84903"
+    },
+    "contact": {
+        "phone": "807.583.5785x229",
+        "servicePhone": "800220013"
+    },
+    "birthday": "1933-15-05",
+    "ip": "207.168.58.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood officer later body garden enjoy you. Treat PM firm he color easy. Gas throughout process wrong own action. Become manager occur step traditional nor performance tonight.",
+        "bio": "Eight ahead type senior. Specific through series region blood physical doctor. Manager phone simply before."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
