@@ -1,0 +1,25 @@
+{
+    "name": "Rose Garcia",
+    "age": 102,
+    "address": {
+        "street": "Christensen Avenue",
+        "city": "Lake Tracy",
+        "state": "Delaware",
+        "zip": "07675"
+    },
+    "contact": {
+        "phone": "2697971747",
+        "servicePhone": "800862541"
+    },
+    "birthday": "1923-02-07",
+    "ip": "147.254.211.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Art far call soon remain. East sound question star. Event leader situation.\nBank to data wide protect. Determine relate president improve these I.\nParent likely keep bring value its especially.",
+        "bio": "Per until outside pull sign window arm.\nAgreement finally begin section result be best bar. Account role may of itself finally yard. Force central require citizen."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
