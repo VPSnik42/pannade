@@ -1,0 +1,25 @@
+{
+    "name": "Tanya Compton",
+    "age": 67,
+    "address": {
+        "street": "Bridget Bypass",
+        "city": "Port Sarahbury",
+        "state": "Massachusetts",
+        "zip": "34622"
+    },
+    "contact": {
+        "phone": "(482)952-5213x5324",
+        "servicePhone": "800210313"
+    },
+    "birthday": "1958-19-07",
+    "ip": "47.227.129.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Prepare another begin news born sometimes cold. Single reach occur bed. Ball baby quite left suggest sure may.",
+        "bio": "Type skin recent soon. Believe clear artist life. Room set term sit.\nHe account administration career research during data.\nAlone this address you past. Try rich south soldier machine subject site."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
