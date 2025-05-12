@@ -1,0 +1,25 @@
+{
+    "name": "Debra Faulkner",
+    "age": 45,
+    "address": {
+        "street": "Marcus Wells",
+        "city": "East Toni",
+        "state": "Utah",
+        "zip": "66540"
+    },
+    "contact": {
+        "phone": "+1-978-880-7970x16460",
+        "servicePhone": "800445824"
+    },
+    "birthday": "1980-09-04",
+    "ip": "69.195.205.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Owner in include with available popular. Join Mr audience born argue win.\nPm perform possible art sing. This skill no majority per prepare.",
+        "bio": "Whole central make stock system. Him class moment watch.\nMake artist week seven. Morning reach investment. Describe how focus pay investment get entire network. Discuss just ten explain."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
