@@ -1,0 +1,25 @@
+{
+    "name": "Lee Rodriguez",
+    "age": 81,
+    "address": {
+        "street": "Bruce Lodge",
+        "city": "Michaelshire",
+        "state": "Wyoming",
+        "zip": "26226"
+    },
+    "contact": {
+        "phone": "755.308.4651x04367",
+        "servicePhone": "800280192"
+    },
+    "birthday": "1944-26-09",
+    "ip": "209.76.215.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Future cover early factor run five management. Low step machine happen wear evidence growth mission. System just fish.",
+        "bio": "Require animal mother project cut picture. His now human. Radio position box.\nBuild answer same home cover man. College century water no think quite. Ball issue baby light my policy realize."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
