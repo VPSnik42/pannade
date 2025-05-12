@@ -1,0 +1,25 @@
+{
+    "name": "Kent Smith",
+    "age": 19,
+    "address": {
+        "street": "Jesse Ville",
+        "city": "South Troyberg",
+        "state": "Kentucky",
+        "zip": "02114"
+    },
+    "contact": {
+        "phone": "643.565.5624",
+        "servicePhone": "800217292"
+    },
+    "birthday": "2006-08-09",
+    "ip": "181.137.92.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure us simply serve similar born fish. Treatment degree author present player page.",
+        "bio": "If send these adult agreement represent discussion. Great until adult situation environment sense.\nDirector air score man be probably. Least ever young. Authority country lead."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
