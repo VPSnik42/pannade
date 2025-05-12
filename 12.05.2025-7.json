@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Anderson",
+    "age": 107,
+    "address": {
+        "street": "Gonzalez Spur",
+        "city": "South Theresafurt",
+        "state": "Oregon",
+        "zip": "33771"
+    },
+    "contact": {
+        "phone": "389.430.6462x285",
+        "servicePhone": "800999387"
+    },
+    "birthday": "1918-01-05",
+    "ip": "14.34.103.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Us loss leave magazine expect far allow. Responsibility strong rather air. Local read whatever better better manager send. And whole see table television bed section.\nMaterial sell agreement movie.",
+        "bio": "Skin newspaper talk include see learn himself area. Win girl assume home activity serious. Professor mention his full.\nState discover every meet rich. Discover standard end."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
