@@ -1,0 +1,25 @@
+{
+    "name": "Grace Hester",
+    "age": 106,
+    "address": {
+        "street": "Andrew Viaduct",
+        "city": "Port Peggy",
+        "state": "Illinois",
+        "zip": "56400"
+    },
+    "contact": {
+        "phone": "7948933135",
+        "servicePhone": "800406183"
+    },
+    "birthday": "1919-23-01",
+    "ip": "200.90.74.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Letter pressure result notice center current couple his. Draw leg where although society realize leg.\nDirection almost her require travel bag. Interest particularly Republican mouth.",
+        "bio": "Approach believe group finish especially music. Style citizen with structure in show.\nMember big along pay population special point drop. Best reach stock friend seat form."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
