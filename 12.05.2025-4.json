@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Brown",
+    "age": 97,
+    "address": {
+        "street": "Solis Gateway",
+        "city": "Ronaldbury",
+        "state": "Washington",
+        "zip": "10231"
+    },
+    "contact": {
+        "phone": "001-332-851-2441",
+        "servicePhone": "800071390"
+    },
+    "birthday": "1928-26-05",
+    "ip": "53.253.99.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Accept hair practice if act drive reality. Nor magazine imagine wonder.\nParticular let father sell whose leader subject. Maintain consumer police discuss even director. Garden hair yeah young.",
+        "bio": "Rise never matter great.\nThreat case anyone network stuff score. Huge they send anything fly see forward. Agree outside once clearly. Identify Mrs region such."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
