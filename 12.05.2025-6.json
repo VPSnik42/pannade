@@ -1,0 +1,25 @@
+{
+    "name": "Jill Mcdonald",
+    "age": 13,
+    "address": {
+        "street": "Henry Viaduct",
+        "city": "South Markport",
+        "state": "Georgia",
+        "zip": "85618"
+    },
+    "contact": {
+        "phone": "+1-983-729-3539x6933",
+        "servicePhone": "800281022"
+    },
+    "birthday": "2012-28-01",
+    "ip": "95.172.138.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Evening challenge say choose offer under. No born serious medical focus computer.\nGrow nor apply almost exactly no. Moment use boy cultural. Picture culture no yourself leave peace analysis.",
+        "bio": "Case truth hair stay program deal degree. Page blood everybody together practice task. Capital manage force story. So stay move group."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
