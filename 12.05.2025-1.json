@@ -1,0 +1,25 @@
+{
+    "name": "Laura Brewer",
+    "age": 15,
+    "address": {
+        "street": "Murphy Way",
+        "city": "Lake Michael",
+        "state": "Delaware",
+        "zip": "52784"
+    },
+    "contact": {
+        "phone": "(954)416-2410x2741",
+        "servicePhone": "800702414"
+    },
+    "birthday": "2010-07-04",
+    "ip": "17.20.156.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Story gas offer we together among. Mouth democratic tonight establish deep join. Thus right good perform.",
+        "bio": "Tonight war we prepare. Although where girl now bar investment loss letter. Night without degree so rock give.\nSize wonder too poor. Institution project play citizen bank term serve."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
