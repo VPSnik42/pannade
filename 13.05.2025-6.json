@@ -1,0 +1,25 @@
+{
+    "name": "Felicia Brown",
+    "age": 57,
+    "address": {
+        "street": "Wells Turnpike",
+        "city": "Hunterchester",
+        "state": "Nevada",
+        "zip": "74970"
+    },
+    "contact": {
+        "phone": "487.714.8384",
+        "servicePhone": "800026392"
+    },
+    "birthday": "1968-05-09",
+    "ip": "42.4.133.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Politics business call require know fill individual. Young hour team name. Stand office than organization.\nWish difference point sea. Fall mission interest blood end with power.",
+        "bio": "Military old and cover.\nVote picture set pass race everyone. Learn cold money start.\nThan really serious school seat represent chair. Difficult bank quite quickly benefit weight hotel."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
