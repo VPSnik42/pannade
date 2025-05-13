@@ -1,0 +1,25 @@
+{
+    "name": "David Wright",
+    "age": 19,
+    "address": {
+        "street": "Ashley Turnpike",
+        "city": "Huberstad",
+        "state": "Wyoming",
+        "zip": "45321"
+    },
+    "contact": {
+        "phone": "(603)375-9362x64911",
+        "servicePhone": "800779347"
+    },
+    "birthday": "2006-11-11",
+    "ip": "183.139.30.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Our spend hot and. Successful food down every also half easy information.\nConsider case already though business. Charge dark instead.",
+        "bio": "Camera charge college assume first name. Activity involve economy end large series yeah. First country environmental message arm total our somebody."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
