@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Boyd",
+    "age": 32,
+    "address": {
+        "street": "Jones Islands",
+        "city": "South Chrisburgh",
+        "state": "Tennessee",
+        "zip": "47259"
+    },
+    "contact": {
+        "phone": "7177463341",
+        "servicePhone": "800582740"
+    },
+    "birthday": "1993-23-10",
+    "ip": "171.85.193.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Western career gun. As vote majority everybody resource cold.\nCar military plant art. Structure majority state.",
+        "bio": "Ground image despite anyone meet. See pressure tell far. Road cell wear. Across computer decade suffer.\nCourse care whom information include movie. Imagine set film along lead area."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
