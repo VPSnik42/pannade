@@ -1,0 +1,25 @@
+{
+    "name": "James Mack",
+    "age": 98,
+    "address": {
+        "street": "Moran Station",
+        "city": "Port Tracey",
+        "state": "Virginia",
+        "zip": "78788"
+    },
+    "contact": {
+        "phone": "885-616-3726",
+        "servicePhone": "800747291"
+    },
+    "birthday": "1927-05-08",
+    "ip": "64.57.114.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Event wind piece likely information court send. Reflect American so practice. Travel history deal team decide available energy. Support actually security decade training give.",
+        "bio": "Forward past smile respond garden. Myself coach top meet receive. Throughout so question offer visit enter.\nEverything exist meeting key expert. Relate off seat good decision possible turn player."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
