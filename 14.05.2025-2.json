@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Chandler",
+    "age": 100,
+    "address": {
+        "street": "Heather Forges",
+        "city": "Christineburgh",
+        "state": "Idaho",
+        "zip": "71128"
+    },
+    "contact": {
+        "phone": "861-684-2752",
+        "servicePhone": "800342520"
+    },
+    "birthday": "1925-25-11",
+    "ip": "81.186.236.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Go guy tax detail world professional. Including black cold particularly state. Many figure traditional game mind direction view.",
+        "bio": "Technology bar begin management style. On cold kitchen impact church.\nAvoid attorney space human side church. Somebody per any cup certain none future."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
