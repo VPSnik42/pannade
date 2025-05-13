@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Pitts",
+    "age": 34,
+    "address": {
+        "street": "Jeremy Parkway",
+        "city": "Aprilmouth",
+        "state": "West Virginia",
+        "zip": "21585"
+    },
+    "contact": {
+        "phone": "626-921-2532x474",
+        "servicePhone": "800056282"
+    },
+    "birthday": "1991-14-10",
+    "ip": "61.202.162.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee five consider as defense become happy. Exist to simple discussion star sit.",
+        "bio": "Indicate painting color ok recently amount. Share manager increase start parent decide film summer.\nWork cell here. Project report suddenly Democrat forward street boy. Enjoy experience my race away."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
