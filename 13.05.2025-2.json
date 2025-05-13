@@ -1,0 +1,25 @@
+{
+    "name": "Randall Clements",
+    "age": 34,
+    "address": {
+        "street": "Jeremy Junctions",
+        "city": "South Amanda",
+        "state": "Montana",
+        "zip": "98421"
+    },
+    "contact": {
+        "phone": "001-500-464-8053x694",
+        "servicePhone": "800934944"
+    },
+    "birthday": "1991-10-01",
+    "ip": "208.64.248.119",
+    "foo": "bar",
+    "profile": {
+        "about": "With industry arrive car general. Partner what behavior three. Media talk detail. Through agency society pull treatment.",
+        "bio": "Level talk action part. Race let may friend result program. Financial able game budget simple.\nRich network rate almost yeah agent. With head try. Especially would model."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
