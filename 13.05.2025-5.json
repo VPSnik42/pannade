@@ -1,0 +1,25 @@
+{
+    "name": "Amber Miller",
+    "age": 105,
+    "address": {
+        "street": "Brown Plaza",
+        "city": "East Derekfort",
+        "state": "New York",
+        "zip": "10012"
+    },
+    "contact": {
+        "phone": "759.500.7034x30958",
+        "servicePhone": "800145563"
+    },
+    "birthday": "1920-11-01",
+    "ip": "108.49.49.161",
+    "foo": "bar",
+    "profile": {
+        "about": "City poor just able. Tax court response mention play after. Process south pattern Republican remain military training far.",
+        "bio": "Talk voice mission suffer seem author figure. Energy almost as organization answer great. Since raise government once add sort drug. Receive mention door else choice production pull foot."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
