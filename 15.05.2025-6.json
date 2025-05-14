@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Mcfarland",
+    "age": 101,
+    "address": {
+        "street": "Romero Prairie",
+        "city": "New Bradchester",
+        "state": "Nevada",
+        "zip": "32148"
+    },
+    "contact": {
+        "phone": "001-810-761-3792x2921",
+        "servicePhone": "800843579"
+    },
+    "birthday": "1924-08-02",
+    "ip": "179.123.229.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Large new go. Claim somebody stuff some wall run up list. Pay clearly specific occur state state.\nMr animal process young for. Officer travel probably much capital administration police.",
+        "bio": "Their threat thought rather live mother. Night trial investment.\nMost improve to choose case leave growth.\nProduct single defense movie. Provide conference rise scientist really."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
