@@ -1,0 +1,25 @@
+{
+    "name": "Lindsay Thomas",
+    "age": 72,
+    "address": {
+        "street": "Cervantes Springs",
+        "city": "New Marthaville",
+        "state": "Montana",
+        "zip": "50490"
+    },
+    "contact": {
+        "phone": "463.503.4648x6520",
+        "servicePhone": "800732136"
+    },
+    "birthday": "1953-11-01",
+    "ip": "56.124.47.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Former rather no that carry believe west. Institution fire market almost morning floor beyond. Social bank claim such time although.",
+        "bio": "Member behind view speech training true. Hundred suggest decision rate after. Necessary talk left determine issue. You she one short century way whom."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
