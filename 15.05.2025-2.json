@@ -1,0 +1,25 @@
+{
+    "name": "Michael Thomas",
+    "age": 74,
+    "address": {
+        "street": "Elizabeth Plaza",
+        "city": "Collinsfurt",
+        "state": "Ohio",
+        "zip": "71241"
+    },
+    "contact": {
+        "phone": "252.514.0586x1256",
+        "servicePhone": "800523651"
+    },
+    "birthday": "1951-27-07",
+    "ip": "101.93.24.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Center arm certain fact computer act themselves behind.\nRemain toward team. If weight seven idea international yard any fund. Score view loss occur gun become start community.",
+        "bio": "Happen amount entire. Somebody often crime. Thus now notice eight care class form.\nTax decade foreign hope. Thousand hope world Republican. Show however address training majority training talk."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
