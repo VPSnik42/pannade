@@ -1,0 +1,25 @@
+{
+    "name": "Erica Smith",
+    "age": 79,
+    "address": {
+        "street": "Debra Park",
+        "city": "Amandaview",
+        "state": "Illinois",
+        "zip": "60006"
+    },
+    "contact": {
+        "phone": "(555)995-4356x49520",
+        "servicePhone": "800669285"
+    },
+    "birthday": "1946-09-05",
+    "ip": "169.34.252.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Us soldier cup seem Mr issue live. Left oil official left.\nArea hour its arrive town. Rock network cut story. Tax knowledge once bill upon fear.",
+        "bio": "Source send ok site.\nBefore most chair author available. Occur stuff course. Property only tonight power win."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
