@@ -1,0 +1,25 @@
+{
+    "name": "Keith Mccann",
+    "age": 65,
+    "address": {
+        "street": "Smith Village",
+        "city": "Port Timothyburgh",
+        "state": "Arizona",
+        "zip": "70501"
+    },
+    "contact": {
+        "phone": "336-741-6833x857",
+        "servicePhone": "800449316"
+    },
+    "birthday": "1960-29-02",
+    "ip": "148.111.35.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Scene himself here standard few now mission born. To me science accept use near I.\nElse two fly vote eye. Mr would parent care particular necessary like. Already front fund this manager.",
+        "bio": "Everything place avoid not themselves born environmental.\nGet clear pattern my sing ball. Other others couple rather. Blood red family or throughout which. Together support growth rather."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
