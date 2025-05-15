@@ -1,0 +1,25 @@
+{
+    "name": "Michael Armstrong",
+    "age": 48,
+    "address": {
+        "street": "Gray Spur",
+        "city": "West Travis",
+        "state": "Virginia",
+        "zip": "52905"
+    },
+    "contact": {
+        "phone": "001-722-265-8741x882",
+        "servicePhone": "800819485"
+    },
+    "birthday": "1977-31-01",
+    "ip": "181.206.180.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Film go quality beyond sure among. On we base. Friend anything property former often style degree.\nMonth deal economy fine. Word dark single sing agency director worker probably.",
+        "bio": "Game deal issue son school. Old road cold step reach. Sport short while process.\nBreak population production degree."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
