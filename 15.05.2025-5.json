@@ -1,0 +1,25 @@
+{
+    "name": "Robert Brown",
+    "age": 17,
+    "address": {
+        "street": "Williams Trail",
+        "city": "Riddleburgh",
+        "state": "Nebraska",
+        "zip": "75324"
+    },
+    "contact": {
+        "phone": "973.742.7949x7882",
+        "servicePhone": "800744482"
+    },
+    "birthday": "2008-04-03",
+    "ip": "73.82.239.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Art time impact opportunity address through successful. Kind my young help great. First read identify degree build open government long.",
+        "bio": "Tonight thank green paper food great. Buy shake system create pressure international catch probably.\nParent full hold choice. Step exactly woman forward dog."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
