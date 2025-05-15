@@ -1,0 +1,25 @@
+{
+    "name": "Robert Phillips",
+    "age": 108,
+    "address": {
+        "street": "Sharon Union",
+        "city": "Hendersonmouth",
+        "state": "New Hampshire",
+        "zip": "09785"
+    },
+    "contact": {
+        "phone": "001-534-754-3684x77361",
+        "servicePhone": "800314556"
+    },
+    "birthday": "1917-03-06",
+    "ip": "212.89.81.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Experience wide more program enough though plant. Toward only cause score.\nApproach show whole fast. Today claim daughter key method head.",
+        "bio": "Quality yes plan range. Contain family responsibility respond billion low trip argue.\nOr husband stay. Personal evidence should name."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
