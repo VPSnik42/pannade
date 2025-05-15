@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Perkins",
+    "age": 32,
+    "address": {
+        "street": "Gregory Lakes",
+        "city": "Jacquelineborough",
+        "state": "Delaware",
+        "zip": "59042"
+    },
+    "contact": {
+        "phone": "(780)221-2451x5212",
+        "servicePhone": "800304824"
+    },
+    "birthday": "1993-19-10",
+    "ip": "132.117.215.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Will seem tend threat everything social. Under day be that among according.\nSkin be its.",
+        "bio": "Thus PM brother on human human. Argue trade about decision drug single. Kitchen short building enough.\nBoard present bed woman ten building evidence."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
