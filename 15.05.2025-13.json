@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Martin",
+    "age": 84,
+    "address": {
+        "street": "Nicholas Corner",
+        "city": "New Melissa",
+        "state": "Utah",
+        "zip": "91221"
+    },
+    "contact": {
+        "phone": "615.839.6054x368",
+        "servicePhone": "800108124"
+    },
+    "birthday": "1941-17-12",
+    "ip": "119.187.82.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Win individual hair blue point last. Attack off indicate admit.\nSerious machine listen. Those early conference become. Them central police sense.",
+        "bio": "Experience week over whose hit body skin. Third nearly summer listen. Join population draw morning yourself matter. Effect under road debate."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
