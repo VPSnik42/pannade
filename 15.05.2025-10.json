@@ -1,0 +1,25 @@
+{
+    "name": "Mike Goodman",
+    "age": 54,
+    "address": {
+        "street": "Eric Ports",
+        "city": "Sergioborough",
+        "state": "Tennessee",
+        "zip": "95836"
+    },
+    "contact": {
+        "phone": "(583)244-7189",
+        "servicePhone": "800031769"
+    },
+    "birthday": "1971-15-07",
+    "ip": "162.149.149.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Explain size them firm brother movement play thus. Recent these to too myself organization. After oil money ever people point wall.\nPrepare my because.\nDirection certainly structure.",
+        "bio": "By why throughout defense must cost. Ask by hot. Side scientist similar product art nice.\nSpend hard successful long today direction cut. Institution where once cold."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
