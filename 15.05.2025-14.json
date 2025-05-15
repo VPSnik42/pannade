@@ -1,0 +1,25 @@
+{
+    "name": "Michael Gomez",
+    "age": 43,
+    "address": {
+        "street": "Brown Valley",
+        "city": "Wrightville",
+        "state": "South Dakota",
+        "zip": "90753"
+    },
+    "contact": {
+        "phone": "+1-371-517-9599x19972",
+        "servicePhone": "800521863"
+    },
+    "birthday": "1982-10-09",
+    "ip": "3.124.1.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle civil rich standard successful difficult. Size everything ask discuss that keep TV. Citizen still him mind friend.",
+        "bio": "Ball Congress themselves score know father discuss. Team impact attorney scientist spring. Specific science adult scene."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
