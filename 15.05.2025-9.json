@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Ochoa",
+    "age": 74,
+    "address": {
+        "street": "Tina Manor",
+        "city": "Davisview",
+        "state": "Pennsylvania",
+        "zip": "25998"
+    },
+    "contact": {
+        "phone": "818.260.0136",
+        "servicePhone": "800369607"
+    },
+    "birthday": "1951-27-02",
+    "ip": "76.105.229.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Attack five water need region. Boy your project choice. Officer right energy thus book include leg. Be deep best.",
+        "bio": "Commercial game Mr report discover shoulder day top. Nor charge believe leader understand chair. Local arrive night even life hope.\nMouth various always. Heart across window without."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
