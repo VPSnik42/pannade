@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Graham",
+    "age": 12,
+    "address": {
+        "street": "Jenkins Views",
+        "city": "North Chelsea",
+        "state": "New Hampshire",
+        "zip": "55084"
+    },
+    "contact": {
+        "phone": "810-530-4214x5553",
+        "servicePhone": "800877835"
+    },
+    "birthday": "2013-09-05",
+    "ip": "47.201.155.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Risk seat language evening nor then experience quickly. Peace I describe charge. Represent challenge each paper senior street moment employee.",
+        "bio": "Page TV pull environmental along blood reach. Program weight young everyone federal data."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
