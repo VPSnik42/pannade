@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Williams",
+    "age": 10,
+    "address": {
+        "street": "Claire Glen",
+        "city": "Pruittborough",
+        "state": "Minnesota",
+        "zip": "16051"
+    },
+    "contact": {
+        "phone": "001-970-214-5572x41374",
+        "servicePhone": "800087655"
+    },
+    "birthday": "2015-11-04",
+    "ip": "177.235.126.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Pay record security color participant visit.\nVoice rather green near.\nResult popular drop strong we alone fast. Music especially myself suddenly statement.",
+        "bio": "Food animal even stock field. Under trial either yet effort picture thousand wear. Similar news operation affect senior apply group."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
