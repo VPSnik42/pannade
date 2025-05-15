@@ -1,0 +1,25 @@
+{
+    "name": "Shelley Medina",
+    "age": 103,
+    "address": {
+        "street": "Hebert Pike",
+        "city": "Maryside",
+        "state": "Georgia",
+        "zip": "92667"
+    },
+    "contact": {
+        "phone": "8827441648",
+        "servicePhone": "800324950"
+    },
+    "birthday": "1922-30-08",
+    "ip": "124.183.73.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Focus whose course out choice standard. Important customer in let.",
+        "bio": "Teach nor chair partner ready. Development Congress create science technology might little. Show increase lose meeting music gun mother once."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
