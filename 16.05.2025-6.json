@@ -1,0 +1,25 @@
+{
+    "name": "John Taylor",
+    "age": 113,
+    "address": {
+        "street": "Phillips Haven",
+        "city": "Lake Donald",
+        "state": "Nebraska",
+        "zip": "91222"
+    },
+    "contact": {
+        "phone": "694.869.6182x6188",
+        "servicePhone": "800136690"
+    },
+    "birthday": "1912-13-09",
+    "ip": "10.232.150.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Personal reveal require fund guess report car.\nDirection deep under marriage. Responsibility imagine source three white key. Support step evening sea doctor social security light.",
+        "bio": "Six up fill. Certain paper too show relationship. Together take week defense pick. Own think hope fear three miss.\nAlone heavy concern administration each. Tend near five yet agree cold claim."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
