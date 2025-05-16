@@ -1,0 +1,25 @@
+{
+    "name": "Judy Martin",
+    "age": 31,
+    "address": {
+        "street": "Valerie Glen",
+        "city": "North Aaronville",
+        "state": "Kentucky",
+        "zip": "99065"
+    },
+    "contact": {
+        "phone": "973-892-8179",
+        "servicePhone": "800428909"
+    },
+    "birthday": "1994-15-09",
+    "ip": "191.182.126.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Media four by. Million wrong back attorney environment admit once.\nSpring clearly likely statement decade against behind. Series reach authority.",
+        "bio": "Share make factor public employee. Need win lot true machine fish matter.\nShort heart official ready year learn. Contain result newspaper condition six responsibility finally action."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
