@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Martinez",
+    "age": 32,
+    "address": {
+        "street": "Colleen Pike",
+        "city": "North Jason",
+        "state": "Virginia",
+        "zip": "48679"
+    },
+    "contact": {
+        "phone": "+1-794-971-8793",
+        "servicePhone": "800579798"
+    },
+    "birthday": "1993-28-05",
+    "ip": "45.251.20.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Know sometimes general. Enter discuss life low personal century.\nSide through identify style meet. Occur she look produce should need simply itself. Arm difficult drop career against mind.",
+        "bio": "Market least my situation feeling color. Hair information human would.\nTime huge exist up gun whatever receive us. Discuss knowledge property Republican population."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
