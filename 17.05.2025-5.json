@@ -1,0 +1,25 @@
+{
+    "name": "Charles Baker",
+    "age": 90,
+    "address": {
+        "street": "Garrett Brook",
+        "city": "Riceville",
+        "state": "Arkansas",
+        "zip": "43804"
+    },
+    "contact": {
+        "phone": "882-554-0926",
+        "servicePhone": "800394654"
+    },
+    "birthday": "1935-13-11",
+    "ip": "203.196.115.92",
+    "foo": "bar",
+    "profile": {
+        "about": "These analysis certain something happy. Important Republican show impact year.",
+        "bio": "Better quite center team mission who. Environmental lose officer name yard respond large. Method movement item American reveal."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
