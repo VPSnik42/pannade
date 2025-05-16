@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Nelson",
+    "age": 89,
+    "address": {
+        "street": "Aaron Loaf",
+        "city": "Thomasmouth",
+        "state": "Minnesota",
+        "zip": "87433"
+    },
+    "contact": {
+        "phone": "411.614.0703",
+        "servicePhone": "800071056"
+    },
+    "birthday": "1936-07-08",
+    "ip": "154.43.43.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Concern reach always into together hear. Message I teacher myself others policy offer.\nThe air statement ten father. Maintain church from letter.",
+        "bio": "Sound cultural institution suffer bank score magazine. Up drive mother could international natural. Learn product cell on structure.\nEye reveal member water. Case receive cold central best modern."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
