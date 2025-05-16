@@ -1,0 +1,25 @@
+{
+    "name": "Linda Mccoy",
+    "age": 12,
+    "address": {
+        "street": "George Meadows",
+        "city": "Gordonstad",
+        "state": "Maine",
+        "zip": "18034"
+    },
+    "contact": {
+        "phone": "814-893-4982x336",
+        "servicePhone": "800287109"
+    },
+    "birthday": "2013-24-03",
+    "ip": "131.231.206.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Whom imagine upon star clear born. Condition car set test happen agreement. Commercial go Republican produce officer.\nRather size region community.",
+        "bio": "Until current source without level look himself arrive. Treatment phone could. Hard think TV friend deep data level head.\nEasy agreement consider eight."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
