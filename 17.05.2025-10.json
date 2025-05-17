@@ -1,0 +1,25 @@
+{
+    "name": "Juan Nguyen",
+    "age": 93,
+    "address": {
+        "street": "Grant Corners",
+        "city": "South Paulburgh",
+        "state": "Delaware",
+        "zip": "51292"
+    },
+    "contact": {
+        "phone": "+1-639-812-4542x847",
+        "servicePhone": "800207265"
+    },
+    "birthday": "1932-02-04",
+    "ip": "161.26.99.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Gas oil maybe fall himself court attorney. High try per set dog personal sell. About manager over else camera hot away.\nMind help its. Find follow begin. Color great for politics.",
+        "bio": "Challenge standard white why enough case pick education. Work partner administration tree brother head. Life benefit under option attorney human sure."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
