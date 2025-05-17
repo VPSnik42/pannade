@@ -1,0 +1,25 @@
+{
+    "name": "Max Johnson",
+    "age": 94,
+    "address": {
+        "street": "Kevin Mountains",
+        "city": "Brownton",
+        "state": "New Hampshire",
+        "zip": "49093"
+    },
+    "contact": {
+        "phone": "+1-384-704-5110",
+        "servicePhone": "800501144"
+    },
+    "birthday": "1931-29-10",
+    "ip": "12.151.233.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Address that major like trip remain usually. Or ground measure watch. Stop particular really.\nWall husband article follow chair. Through social ground able eat right. Center economic on house.",
+        "bio": "Land themselves scientist his. Go guess easy capital however throw mouth. Miss certainly cost building far explain traditional."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
