@@ -1,0 +1,25 @@
+{
+    "name": "Jake Patton",
+    "age": 65,
+    "address": {
+        "street": "Weaver Pass",
+        "city": "Lake Kelly",
+        "state": "North Carolina",
+        "zip": "62419"
+    },
+    "contact": {
+        "phone": "001-552-585-4433",
+        "servicePhone": "800037364"
+    },
+    "birthday": "1960-21-03",
+    "ip": "203.112.32.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Source sure wonder clear pay. Idea remember agree box machine great.",
+        "bio": "Current however pay school suffer source. Assume many whose best up wish. Team off article development break another cold.\nFinish either scientist indicate. Citizen surface the arm hospital."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
