@@ -1,0 +1,25 @@
+{
+    "name": "Michael Stokes",
+    "age": 46,
+    "address": {
+        "street": "King Shores",
+        "city": "East Michele",
+        "state": "Mississippi",
+        "zip": "02861"
+    },
+    "contact": {
+        "phone": "001-800-440-0455x4348",
+        "servicePhone": "800790589"
+    },
+    "birthday": "1979-27-09",
+    "ip": "109.151.49.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Analysis matter rate gas.\nAction sell can federal art public look. Ten magazine hour church country every face.",
+        "bio": "Toward whole ask. Step stage sister himself down room country week.\nHappen avoid leg near recent. Successful sign test at smile.\nCup five manage Congress manager choose. Free third responsibility."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
