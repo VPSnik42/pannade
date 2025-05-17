@@ -1,0 +1,25 @@
+{
+    "name": "Curtis Stone",
+    "age": 45,
+    "address": {
+        "street": "Le Ports",
+        "city": "Lake James",
+        "state": "Missouri",
+        "zip": "49756"
+    },
+    "contact": {
+        "phone": "718.576.7029",
+        "servicePhone": "800150167"
+    },
+    "birthday": "1980-10-10",
+    "ip": "40.38.66.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Model reveal stay and official recognize. Reach more eye toward education treat test likely.",
+        "bio": "Visit thus direction public attorney return. Defense page cause reduce prove into.\nAlthough what goal war. Professor which same. Turn traditional radio perform and likely."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
