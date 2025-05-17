@@ -1,0 +1,25 @@
+{
+    "name": "Johnny Oliver",
+    "age": 114,
+    "address": {
+        "street": "George Rue",
+        "city": "Port Laura",
+        "state": "California",
+        "zip": "95417"
+    },
+    "contact": {
+        "phone": "(632)416-3322x417",
+        "servicePhone": "800150123"
+    },
+    "birthday": "1911-03-03",
+    "ip": "97.78.97.166",
+    "foo": "bar",
+    "profile": {
+        "about": "So increase send Democrat performance reality. Official despite side resource set industry significant. Last might Mr sound. Shake out step account.",
+        "bio": "Respond body finally attention take. Close serve read although success what.\nPeople worker win PM seat why scene. Support body simply share happen push energy."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
