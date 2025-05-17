@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Nguyen",
+    "age": 9,
+    "address": {
+        "street": "Kristin Dale",
+        "city": "Erinstad",
+        "state": "Oklahoma",
+        "zip": "11996"
+    },
+    "contact": {
+        "phone": "624-427-8067",
+        "servicePhone": "800853317"
+    },
+    "birthday": "2016-21-05",
+    "ip": "11.117.164.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Whom scientist practice which. Life character watch environment.\nPower house answer. Offer their purpose camera. Hit later thus opportunity charge image speak.",
+        "bio": "Control throughout body health while name least hit. Participant a effect time. Every bring down weight individual."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
