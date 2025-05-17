@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Ball",
+    "age": 13,
+    "address": {
+        "street": "Thompson Vista",
+        "city": "North Adrianfurt",
+        "state": "Wyoming",
+        "zip": "02217"
+    },
+    "contact": {
+        "phone": "001-698-507-4318x67391",
+        "servicePhone": "800567271"
+    },
+    "birthday": "2012-28-02",
+    "ip": "108.248.246.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Note change air continue discussion painting alone. Change view shoulder growth person. High technology bar cup dinner.\nQuite should use. Student people police tax thus hear.",
+        "bio": "Draw score ground blood worry. Behind war particularly hotel through article.\nWill here face what. Station heavy note woman wonder foot."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
