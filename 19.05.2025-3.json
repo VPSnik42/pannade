@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Cline",
+    "age": 73,
+    "address": {
+        "street": "Adkins Viaduct",
+        "city": "West Rodneyfurt",
+        "state": "Kansas",
+        "zip": "06502"
+    },
+    "contact": {
+        "phone": "243-602-8727",
+        "servicePhone": "800542243"
+    },
+    "birthday": "1952-17-02",
+    "ip": "136.171.25.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad impact need treat.\nAvailable recent high big usually final.\nInvolve free occur. Behavior walk fund may. Collection teach result large pressure leave. Other word fall yes.",
+        "bio": "Tell hotel thought nice someone husband recent son. Design Mrs act front news. Deep story charge before."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
