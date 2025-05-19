@@ -1,0 +1,25 @@
+{
+    "name": "Gary Banks",
+    "age": 90,
+    "address": {
+        "street": "Thompson Valleys",
+        "city": "Michaelmouth",
+        "state": "North Dakota",
+        "zip": "77138"
+    },
+    "contact": {
+        "phone": "541.809.1928x0794",
+        "servicePhone": "800155559"
+    },
+    "birthday": "1935-31-05",
+    "ip": "201.165.154.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Anyone show work movie back your. Take research there create amount ready over its.\nBuild almost realize rule fine capital wait.",
+        "bio": "Experience back meet give. Ago condition author professional.\nMe think message clear about day heavy. Energy agency high thank miss thus too manage."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
