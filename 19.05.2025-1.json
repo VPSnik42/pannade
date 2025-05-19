@@ -1,0 +1,25 @@
+{
+    "name": "Renee Diaz",
+    "age": 55,
+    "address": {
+        "street": "Allen Expressway",
+        "city": "Finleyberg",
+        "state": "Kansas",
+        "zip": "03149"
+    },
+    "contact": {
+        "phone": "644-697-9395",
+        "servicePhone": "800169650"
+    },
+    "birthday": "1970-01-07",
+    "ip": "42.213.28.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Cover now indicate simple. Player military ok six through none back. Both far professor matter face start center.",
+        "bio": "Discuss rest able apply mean. How particular father bed commercial much.\nAlmost executive every move start. Market type chance issue imagine apply small.\nDoor however front. Sit other purpose senior."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
