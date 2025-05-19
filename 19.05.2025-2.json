@@ -1,0 +1,25 @@
+{
+    "name": "Mary Byrd",
+    "age": 57,
+    "address": {
+        "street": "Mitchell Route",
+        "city": "Webstertown",
+        "state": "Wisconsin",
+        "zip": "15502"
+    },
+    "contact": {
+        "phone": "001-353-539-9050",
+        "servicePhone": "800940775"
+    },
+    "birthday": "1968-29-06",
+    "ip": "63.63.190.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Similar hand responsibility large. Season current they employee hair.\nWith enter TV. Since table view laugh house performance support continue.",
+        "bio": "Affect perform notice on meeting management hold. Treatment glass color commercial child.\nStart vote class return detail.\nSociety country kid movie relate. Along job president property."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
