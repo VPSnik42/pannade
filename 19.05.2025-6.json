@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Hanson DDS",
+    "age": 2,
+    "address": {
+        "street": "Vincent Springs",
+        "city": "Jacksonshire",
+        "state": "Washington",
+        "zip": "82971"
+    },
+    "contact": {
+        "phone": "001-925-418-3973x467",
+        "servicePhone": "800784481"
+    },
+    "birthday": "2023-08-12",
+    "ip": "121.204.33.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Team bank ready nearly. Director western face until.\nTown point contain just.\nToo true knowledge fire. Hair rise time develop read food. Pick be large opportunity military gun within.",
+        "bio": "Until build rule.\nPretty huge security difference. Throw color its peace expect employee."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
