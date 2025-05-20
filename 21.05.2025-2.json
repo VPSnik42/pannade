@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Quinn",
+    "age": 34,
+    "address": {
+        "street": "Williams Junction",
+        "city": "Lake Carol",
+        "state": "North Carolina",
+        "zip": "70052"
+    },
+    "contact": {
+        "phone": "528.554.6442x938",
+        "servicePhone": "800638942"
+    },
+    "birthday": "1991-03-11",
+    "ip": "52.56.113.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Hand age quickly life particularly herself else. Us law interest.\nLight time discover action wide never. Artist these open break. Player management success animal.",
+        "bio": "Sometimes program cup ready. It base feel letter during store instead. Information to measure pass while."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
