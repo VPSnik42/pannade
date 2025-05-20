@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Graves",
+    "age": 43,
+    "address": {
+        "street": "Timothy Shoals",
+        "city": "South Karen",
+        "state": "Colorado",
+        "zip": "96375"
+    },
+    "contact": {
+        "phone": "656.494.4048",
+        "servicePhone": "800706425"
+    },
+    "birthday": "1982-02-08",
+    "ip": "217.101.229.65",
+    "foo": "bar",
+    "profile": {
+        "about": "According picture firm weight money. Sure card recognize test.\nBig player my both member accept. Popular low under effort. Catch finally education difficult night win prevent.",
+        "bio": "Base throughout draw guess affect exist ball. From cell finish cold politics reduce sense.\nWhom call off never agent the be. Sometimes when before serious suffer race."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
