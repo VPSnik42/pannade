@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Lee",
+    "age": 28,
+    "address": {
+        "street": "Summers Underpass",
+        "city": "Monicaview",
+        "state": "Colorado",
+        "zip": "31395"
+    },
+    "contact": {
+        "phone": "6102634637",
+        "servicePhone": "800275519"
+    },
+    "birthday": "1997-23-07",
+    "ip": "156.21.11.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Possible walk question course. Place wrong just agency door. Increase pretty service staff. Clear know sometimes decide skill adult.",
+        "bio": "Civil avoid she.\nThought west onto rise meeting soon well. Writer her and away cost high thank. Begin music TV result start police."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
