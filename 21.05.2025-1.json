@@ -1,0 +1,25 @@
+{
+    "name": "Sarah King",
+    "age": 5,
+    "address": {
+        "street": "Carlos Glen",
+        "city": "Port Georgeburgh",
+        "state": "Montana",
+        "zip": "05880"
+    },
+    "contact": {
+        "phone": "+1-273-348-2418x150",
+        "servicePhone": "800508543"
+    },
+    "birthday": "2020-26-01",
+    "ip": "16.251.163.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Call establish have grow stage past news. Week ago history PM many degree.\nMyself wonder middle develop difference feel. Voice white check expect debate feeling college.",
+        "bio": "Outside factor control within how military process clear. Book month age green state.\nCondition them relate want send hour."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
