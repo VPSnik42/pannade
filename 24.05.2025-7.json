@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Vaughn",
+    "age": 19,
+    "address": {
+        "street": "Brad Meadow",
+        "city": "West Roymouth",
+        "state": "Hawaii",
+        "zip": "88554"
+    },
+    "contact": {
+        "phone": "509.860.0003x0057",
+        "servicePhone": "800248891"
+    },
+    "birthday": "2006-31-05",
+    "ip": "67.222.161.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation food maintain both. Into admit read turn notice.\nWhite life spend later word. Catch name human month character guy.",
+        "bio": "Board man color media none father charge seek. Important music be us operation idea.\nMoment forget activity hit style year final. Skin many truth teacher."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
