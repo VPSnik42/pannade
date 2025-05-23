@@ -1,0 +1,25 @@
+{
+    "name": "Erin Gonzalez",
+    "age": 77,
+    "address": {
+        "street": "Medina Views",
+        "city": "Stephensonburgh",
+        "state": "Idaho",
+        "zip": "82757"
+    },
+    "contact": {
+        "phone": "987.598.0146",
+        "servicePhone": "800865287"
+    },
+    "birthday": "1948-22-11",
+    "ip": "57.35.219.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Draw economy discussion moment.\nHuge high money also. Necessary open individual too.\nRace they fact trip serve dream even. Cover ago increase building indeed. Trouble friend along.",
+        "bio": "Beyond check high eye special think necessary card. Recent for type member. Hundred campaign lawyer now say with near.\nEverything choice a anyone. Get six water government remain."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
