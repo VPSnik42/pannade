@@ -1,0 +1,25 @@
+{
+    "name": "Austin Dodson",
+    "age": 43,
+    "address": {
+        "street": "Silva Villages",
+        "city": "West Kimberly",
+        "state": "Illinois",
+        "zip": "20811"
+    },
+    "contact": {
+        "phone": "(457)284-7749x416",
+        "servicePhone": "800238308"
+    },
+    "birthday": "1982-07-04",
+    "ip": "28.29.141.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Easy author letter camera. Trip risk reality. Significant plan today.\nBoy daughter since tend. Room perform common among. Cover view main family upon audience how.",
+        "bio": "Idea identify home state home race quickly learn. Company writer choose state fish. Young film vote rise responsibility continue across."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
