@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Reyes",
+    "age": 79,
+    "address": {
+        "street": "Darrell Club",
+        "city": "New Cheryl",
+        "state": "Ohio",
+        "zip": "61746"
+    },
+    "contact": {
+        "phone": "001-214-509-9058",
+        "servicePhone": "800605215"
+    },
+    "birthday": "1946-20-11",
+    "ip": "86.153.82.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Social wear also foreign hotel eat medical. Just religious score in ground buy.\nPlayer everyone summer. Decide energy floor question.",
+        "bio": "Anyone since one discover many. Picture occur bit. Rich morning seek anyone such job enough. Section amount message.\nDesign red manage among."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
