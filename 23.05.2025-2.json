@@ -1,0 +1,25 @@
+{
+    "name": "Keith Guerra",
+    "age": 96,
+    "address": {
+        "street": "Huffman Tunnel",
+        "city": "Chapmanside",
+        "state": "Arkansas",
+        "zip": "73821"
+    },
+    "contact": {
+        "phone": "696-679-8323x0924",
+        "servicePhone": "800775626"
+    },
+    "birthday": "1929-29-12",
+    "ip": "69.177.187.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Food growth husband evening. They whom simple president establish defense up. Concern decide partner chair provide media become data.",
+        "bio": "Several investment own base court rather four. Beautiful purpose side standard case approach kitchen president. Strategy floor himself push gun.\nEvent each hear."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
