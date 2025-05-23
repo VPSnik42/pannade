@@ -1,0 +1,25 @@
+{
+    "name": "Summer King",
+    "age": 98,
+    "address": {
+        "street": "Miller Mews",
+        "city": "Davidland",
+        "state": "Nebraska",
+        "zip": "27725"
+    },
+    "contact": {
+        "phone": "6732541820",
+        "servicePhone": "800529705"
+    },
+    "birthday": "1927-01-10",
+    "ip": "35.218.174.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional buy prevent morning decide why only. Benefit subject decade.",
+        "bio": "Movement or forward I field size read. Collection account business nature her light somebody. Republican standard old point to whom.\nExperience much indicate prove also. Air bad itself party."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
