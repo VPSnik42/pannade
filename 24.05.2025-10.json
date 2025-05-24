@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Burns",
+    "age": 5,
+    "address": {
+        "street": "Elaine Coves",
+        "city": "Mercerton",
+        "state": "Rhode Island",
+        "zip": "79333"
+    },
+    "contact": {
+        "phone": "931.409.0700",
+        "servicePhone": "800775779"
+    },
+    "birthday": "2020-15-02",
+    "ip": "174.181.142.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Forward assume sign my. Person somebody occur also how.\nSize make light agent part wide quality. Plant page later store.\nTruth interest help agent.",
+        "bio": "Pay letter fill side reality upon marriage learn. But watch move story within. Near individual main contain worker daughter.\nRed argue PM thousand. Exactly edge action its tell great specific."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
