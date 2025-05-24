@@ -1,0 +1,25 @@
+{
+    "name": "Bill Evans",
+    "age": 17,
+    "address": {
+        "street": "Greene Isle",
+        "city": "Heatherside",
+        "state": "Oregon",
+        "zip": "62121"
+    },
+    "contact": {
+        "phone": "001-267-208-2235",
+        "servicePhone": "800019453"
+    },
+    "birthday": "2008-02-10",
+    "ip": "31.104.78.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Require appear hair involve. As reduce garden. Different take writer fire strong policy.\nDifficult class under figure election reason.",
+        "bio": "Bit particularly five. Moment hundred cut skin. Trade explain hospital Republican expect public.\nEat director key indeed truth player study. Century window account PM.\nCover left dog."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
