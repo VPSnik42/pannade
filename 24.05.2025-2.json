@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Mcgee",
+    "age": 76,
+    "address": {
+        "street": "Richard Creek",
+        "city": "Randallchester",
+        "state": "New York",
+        "zip": "72843"
+    },
+    "contact": {
+        "phone": "5562878878",
+        "servicePhone": "800047936"
+    },
+    "birthday": "1949-03-03",
+    "ip": "59.148.188.27",
+    "foo": "bar",
+    "profile": {
+        "about": "White heavy animal suggest treat wind land. Choose show religious sea international.",
+        "bio": "Best color project indeed often major reach. Me buy bit high strong walk professional. Set trial walk outside increase individual true."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
