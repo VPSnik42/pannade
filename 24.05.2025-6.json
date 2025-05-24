@@ -1,0 +1,25 @@
+{
+    "name": "Brian Little",
+    "age": 115,
+    "address": {
+        "street": "Deanna Lodge",
+        "city": "Lake Courtneyburgh",
+        "state": "Louisiana",
+        "zip": "39289"
+    },
+    "contact": {
+        "phone": "640.797.2092x017",
+        "servicePhone": "800174040"
+    },
+    "birthday": "1910-25-08",
+    "ip": "138.247.86.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Study item respond that tax old product necessary. Must so political.\nWriter event partner live across site moment. Bring remain where coach.",
+        "bio": "Reach capital yard decision. Face adult manager. High peace peace attention admit man institution among.\nSuch student heavy feeling. So democratic natural tough type through."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
