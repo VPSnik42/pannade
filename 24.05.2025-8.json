@@ -1,0 +1,25 @@
+{
+    "name": "Darrell Humphrey",
+    "age": 78,
+    "address": {
+        "street": "Fletcher Stream",
+        "city": "Lake Heather",
+        "state": "New Jersey",
+        "zip": "96927"
+    },
+    "contact": {
+        "phone": "001-751-606-3091x198",
+        "servicePhone": "800926597"
+    },
+    "birthday": "1947-17-08",
+    "ip": "8.68.108.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Trouble girl Democrat. Pattern face building less risk.\nSomeone garden watch relationship data task field. Arm cut anyone movement throw skill. Past role employee man last.",
+        "bio": "Matter gun nation stuff. Shake ask wrong remain know order. Participant month develop suggest century."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
