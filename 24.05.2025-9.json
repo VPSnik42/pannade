@@ -1,0 +1,25 @@
+{
+    "name": "Amy Shaw",
+    "age": 63,
+    "address": {
+        "street": "Brian Squares",
+        "city": "Andersonberg",
+        "state": "New Hampshire",
+        "zip": "60073"
+    },
+    "contact": {
+        "phone": "(233)937-1484",
+        "servicePhone": "800563428"
+    },
+    "birthday": "1962-28-06",
+    "ip": "161.69.117.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Person if time. Stock myself call far. Among fine condition save.\nAnimal garden sort clear. Smile agency less have none. Rule determine among.\nFoot heart write good along sign listen.",
+        "bio": "Focus movie check space ground really with. Would benefit these plant again system. Thus deep away probably."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
