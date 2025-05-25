@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Anderson",
+    "age": 32,
+    "address": {
+        "street": "Heather Ville",
+        "city": "New Kristen",
+        "state": "Illinois",
+        "zip": "51541"
+    },
+    "contact": {
+        "phone": "+1-461-309-4371x752",
+        "servicePhone": "800729677"
+    },
+    "birthday": "1993-15-04",
+    "ip": "71.49.187.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Step because have tell eye end. Likely author mouth relationship field.\nLot yard follow eat now some. Color best former try turn theory. Page threat citizen performance rather individual.",
+        "bio": "Figure meet win. True rest suggest price.\nFood real if enjoy. Down if my after base both thus can.\nEver good step point tell. Figure plant relationship discussion program as from hospital."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
