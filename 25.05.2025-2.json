@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hall",
+    "age": 37,
+    "address": {
+        "street": "Bryan Plains",
+        "city": "Shanechester",
+        "state": "Minnesota",
+        "zip": "93268"
+    },
+    "contact": {
+        "phone": "311.555.4927x780",
+        "servicePhone": "800105300"
+    },
+    "birthday": "1988-07-08",
+    "ip": "159.200.237.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Cover general represent. Strategy tree hope kind avoid.\nThese its away lead list. Social score any major true without structure.",
+        "bio": "Operation by nearly ask. Thousand that another everybody power establish box. Face difference house affect.\nPm record real line fact nothing. Success group keep everyone recent."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
