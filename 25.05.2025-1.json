@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Rick Roberts",
+    "age": 44,
+    "address": {
+        "street": "Bentley Burg",
+        "city": "South Markland",
+        "state": "Delaware",
+        "zip": "28219"
+    },
+    "contact": {
+        "phone": "(339)422-1562x6042",
+        "servicePhone": "800951782"
+    },
+    "birthday": "1981-29-07",
+    "ip": "208.80.62.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Life production central away. Put international industry race.\nWhom detail particular big. Plant ten loss still technology because effect. True ground continue he plant data mother.",
+        "bio": "Easy fast industry every gun imagine good. Service edge owner plant although. Plan trade local surface line."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
