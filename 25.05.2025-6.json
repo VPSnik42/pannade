@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Ellis",
+    "age": 11,
+    "address": {
+        "street": "Johnson Valleys",
+        "city": "North Jonmouth",
+        "state": "Kansas",
+        "zip": "03530"
+    },
+    "contact": {
+        "phone": "345.209.8555",
+        "servicePhone": "800237959"
+    },
+    "birthday": "2014-12-03",
+    "ip": "190.149.139.80",
+    "foo": "bar",
+    "profile": {
+        "about": "How fact that. Close wonder condition whole relationship realize.\nMillion argue read peace. Personal state society ago sell.",
+        "bio": "Town nice sister thing eye. Senior past interview piece. Along table hit both clearly once.\nOccur cover together get. Push office of herself share. As price financial."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
