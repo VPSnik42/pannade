@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Adams",
+    "age": 61,
+    "address": {
+        "street": "Sanford Isle",
+        "city": "Alanmouth",
+        "state": "Mississippi",
+        "zip": "61005"
+    },
+    "contact": {
+        "phone": "4024958468",
+        "servicePhone": "800194946"
+    },
+    "birthday": "1964-23-04",
+    "ip": "217.252.176.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Accept artist culture friend. Each actually catch strategy wall company too.\nClaim why listen list. Her most last seven hundred. Summer blood finally save customer building probably.",
+        "bio": "Figure per here sit practice international. Store house shake social television cause stay."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
