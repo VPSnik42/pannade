@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Maldonado",
+    "age": 115,
+    "address": {
+        "street": "Watson Summit",
+        "city": "Markborough",
+        "state": "Wisconsin",
+        "zip": "34977"
+    },
+    "contact": {
+        "phone": "2263589901",
+        "servicePhone": "800136070"
+    },
+    "birthday": "1910-29-11",
+    "ip": "72.58.249.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Room whose television list. Throughout wide around become beat assume simple public. Suffer physical professional especially short hand.",
+        "bio": "Win husband charge travel clear without already. Account machine red.\nLook include just investment age ground. My number include ago production. Window side not none specific."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
