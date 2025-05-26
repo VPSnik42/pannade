@@ -1,0 +1,25 @@
+{
+    "name": "Jack Villa",
+    "age": 80,
+    "address": {
+        "street": "Bryce Squares",
+        "city": "Charlesside",
+        "state": "Indiana",
+        "zip": "00849"
+    },
+    "contact": {
+        "phone": "263-525-5582",
+        "servicePhone": "800217880"
+    },
+    "birthday": "1945-26-11",
+    "ip": "97.178.87.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Fall writer bill figure decision eat.\nMrs agent house sit parent recent reason not. Free reveal central draw series difficult economy affect. Would international eye.",
+        "bio": "Peace front behavior image.\nBed force this professional station quality church democratic. Popular drop say summer including store suddenly. Home music example."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
