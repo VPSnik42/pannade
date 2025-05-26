@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Gamble MD",
+    "age": 94,
+    "address": {
+        "street": "Julie Parks",
+        "city": "New Stacy",
+        "state": "Montana",
+        "zip": "22224"
+    },
+    "contact": {
+        "phone": "(418)634-7305x703",
+        "servicePhone": "800479354"
+    },
+    "birthday": "1931-26-06",
+    "ip": "3.61.166.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Us sit feeling put. Public Mr show some leg. Whom course notice according treatment.",
+        "bio": "By finish anyone piece turn Congress. Tree song require. Represent nearly past."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
