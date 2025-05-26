@@ -1,0 +1,25 @@
+{
+    "name": "Damon Rivera",
+    "age": 111,
+    "address": {
+        "street": "Flores Unions",
+        "city": "Lake Thomasland",
+        "state": "Alaska",
+        "zip": "82330"
+    },
+    "contact": {
+        "phone": "+1-871-243-3450x8313",
+        "servicePhone": "800063593"
+    },
+    "birthday": "1914-05-10",
+    "ip": "129.159.250.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Card full brother special. Goal news tend hot interview. Must field himself federal receive soon.",
+        "bio": "Crime themselves best sure board oil civil. Training worry enjoy consider affect positive southern. Theory fight her certain production arrive."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
