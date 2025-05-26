@@ -1,0 +1,25 @@
+{
+    "name": "Judith Freeman",
+    "age": 55,
+    "address": {
+        "street": "Simmons Course",
+        "city": "East Christinechester",
+        "state": "Vermont",
+        "zip": "44470"
+    },
+    "contact": {
+        "phone": "482-670-8113x1374",
+        "servicePhone": "800017123"
+    },
+    "birthday": "1970-21-06",
+    "ip": "34.78.182.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Industry foreign popular. He conference determine. When keep book bit same. Help door whole keep win top.",
+        "bio": "Dog significant determine later. Moment bar issue small sometimes area lot trouble. Newspaper attention finally one. Tv probably want other environmental."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
