@@ -1,0 +1,25 @@
+{
+    "name": "Brian Jackson",
+    "age": 19,
+    "address": {
+        "street": "Amanda Brooks",
+        "city": "East Brian",
+        "state": "Missouri",
+        "zip": "27322"
+    },
+    "contact": {
+        "phone": "634.750.6575x717",
+        "servicePhone": "800322367"
+    },
+    "birthday": "2006-03-04",
+    "ip": "131.206.240.99",
+    "foo": "bar",
+    "profile": {
+        "about": "See return face claim church information bag. Course kid cultural loss agreement pay natural.\nLess hand mean effect.",
+        "bio": "Coach fact eye cold none close beat. Data idea difficult statement reality involve. Without above church manage buy concern.\nInclude present central manage. Pay happy prevent."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
