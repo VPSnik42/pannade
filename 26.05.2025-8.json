@@ -1,0 +1,25 @@
+{
+    "name": "William Jones",
+    "age": 38,
+    "address": {
+        "street": "Cole Motorway",
+        "city": "Kristenberg",
+        "state": "Delaware",
+        "zip": "09457"
+    },
+    "contact": {
+        "phone": "278-568-0075x8236",
+        "servicePhone": "800675157"
+    },
+    "birthday": "1987-20-08",
+    "ip": "89.37.20.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Together able collection who last money six gun. Air successful for more southern couple also. Or body fly first senior.",
+        "bio": "Effort hold new reason.\nStage usually hard actually career how assume. Without seat international add difference race use create."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
