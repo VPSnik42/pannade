@@ -1,0 +1,25 @@
+{
+    "name": "Paul Smith",
+    "age": 9,
+    "address": {
+        "street": "Sanchez Spring",
+        "city": "West Shauntown",
+        "state": "Texas",
+        "zip": "40488"
+    },
+    "contact": {
+        "phone": "(905)726-4867x1871",
+        "servicePhone": "800650997"
+    },
+    "birthday": "2016-19-11",
+    "ip": "200.82.174.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Country of player high clearly in almost. Health realize impact throughout anyone minute bag.\nOpportunity business believe. Series couple least same him. Produce identify challenge goal interview.",
+        "bio": "About with always music throughout building. Win stop produce than forget test. Like performance also true.\nPurpose exactly charge side. Evening price nature bed language."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
