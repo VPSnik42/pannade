@@ -1,0 +1,25 @@
+{
+    "name": "Michael Fuller",
+    "age": 44,
+    "address": {
+        "street": "Emily Court",
+        "city": "Susanside",
+        "state": "Washington",
+        "zip": "78540"
+    },
+    "contact": {
+        "phone": "+1-727-324-2999x473",
+        "servicePhone": "800091003"
+    },
+    "birthday": "1981-11-02",
+    "ip": "24.6.192.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Wonder beat fight drive east nearly.\nFocus affect get billion indeed expect buy. Whom after dog late research clearly.",
+        "bio": "Clearly process however during budget back. Return describe mouth federal beautiful. Picture word relate tonight since exactly rule."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
