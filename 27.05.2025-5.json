@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Barber",
+    "age": 65,
+    "address": {
+        "street": "Jacqueline Greens",
+        "city": "South Amy",
+        "state": "Illinois",
+        "zip": "53034"
+    },
+    "contact": {
+        "phone": "+1-758-509-3596",
+        "servicePhone": "800055754"
+    },
+    "birthday": "1960-17-06",
+    "ip": "20.60.196.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean writer energy lot ground. Mind partner range where rule first.\nBegin player deal. Strategy must manager whole. Speech yes tell yeah require similar.",
+        "bio": "Mention seat myself your. Night individual its alone teacher goal.\nBenefit lawyer level community. Our left hit important somebody everybody."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
