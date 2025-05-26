@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Reed",
+    "age": 95,
+    "address": {
+        "street": "Donald Rue",
+        "city": "East Rachel",
+        "state": "Indiana",
+        "zip": "10486"
+    },
+    "contact": {
+        "phone": "(852)308-7869x191",
+        "servicePhone": "800948746"
+    },
+    "birthday": "1930-29-09",
+    "ip": "220.234.51.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Treat cell man figure.\nHand party wall.\nReceive wall phone different write. Democrat and physical spring.",
+        "bio": "May avoid father test cell. Impact go close might nor tree.\nShare investment thousand walk fast build street. Six vote hospital southern everyone.\nTown upon many. Analysis you final cover."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
