@@ -1,0 +1,25 @@
+{
+    "name": "Mark Chavez",
+    "age": 30,
+    "address": {
+        "street": "Edward Stravenue",
+        "city": "New Michaelfurt",
+        "state": "Arizona",
+        "zip": "11359"
+    },
+    "contact": {
+        "phone": "855.953.0784",
+        "servicePhone": "800766903"
+    },
+    "birthday": "1995-24-01",
+    "ip": "180.200.183.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Sign method practice power. Quality address red not none. Source him senior wish her news sell.",
+        "bio": "Laugh student seem year local tend bank. Yet laugh short side cover hear.\nThen strong reach during reveal physical loss. Rate human then test. Where fish statement hear."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
