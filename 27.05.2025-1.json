@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Reese",
+    "age": 3,
+    "address": {
+        "street": "Abbott Square",
+        "city": "North Sarahville",
+        "state": "Alaska",
+        "zip": "68224"
+    },
+    "contact": {
+        "phone": "(834)458-5076",
+        "servicePhone": "800622712"
+    },
+    "birthday": "2022-16-01",
+    "ip": "133.204.82.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Our three near anything choose position about. Like successful lose. A main themselves focus media American. Performance travel meeting camera notice.\nParticipant establish care question.",
+        "bio": "May any particular radio money scientist type edge. Thing must include provide between."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
