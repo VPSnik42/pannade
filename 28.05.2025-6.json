@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Morris",
+    "age": 15,
+    "address": {
+        "street": "Abbott River",
+        "city": "West Melindachester",
+        "state": "Michigan",
+        "zip": "87315"
+    },
+    "contact": {
+        "phone": "001-385-346-8633x7321",
+        "servicePhone": "800599683"
+    },
+    "birthday": "2010-07-06",
+    "ip": "130.60.33.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Fly create guy PM them energy. View human cup soon decision.\nAlso everything what black. Everyone him war.",
+        "bio": "Live history civil discussion. Citizen let during special. Price fire account meeting peace.\nIndicate weight Mr people."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
