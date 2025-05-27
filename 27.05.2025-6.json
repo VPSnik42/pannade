@@ -1,0 +1,25 @@
+{
+    "name": "Linda Mcmahon",
+    "age": 34,
+    "address": {
+        "street": "Kayla Inlet",
+        "city": "West Kimberly",
+        "state": "Pennsylvania",
+        "zip": "95288"
+    },
+    "contact": {
+        "phone": "5475563612",
+        "servicePhone": "800061427"
+    },
+    "birthday": "1991-09-04",
+    "ip": "138.115.255.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Program thought baby. Benefit generation newspaper.\nHigh she floor every finish land natural. Interview how happen. Cold discussion allow.",
+        "bio": "Talk report effect thousand step nor. Local speech answer window. Ahead mean campaign break worry want their."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
