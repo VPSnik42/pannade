@@ -1,0 +1,25 @@
+{
+    "name": "Allison Fields",
+    "age": 111,
+    "address": {
+        "street": "Mills Knoll",
+        "city": "Lake Scotthaven",
+        "state": "New York",
+        "zip": "97595"
+    },
+    "contact": {
+        "phone": "+1-724-891-7812x08983",
+        "servicePhone": "800117546"
+    },
+    "birthday": "1914-24-10",
+    "ip": "164.46.5.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Ground language of brother amount not meeting prove. Other ahead draw establish sport continue might purpose. Fast effect decide thought.",
+        "bio": "Benefit home far least large. Significant without plant agree.\nGeneration imagine than fly line executive level. Research PM clearly cold Mrs range size lot."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
