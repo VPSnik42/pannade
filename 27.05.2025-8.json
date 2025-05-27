@@ -1,0 +1,25 @@
+{
+    "name": "Linda Rose",
+    "age": 85,
+    "address": {
+        "street": "Ramirez Lane",
+        "city": "Stewartburgh",
+        "state": "Georgia",
+        "zip": "87363"
+    },
+    "contact": {
+        "phone": "792.670.8200x62655",
+        "servicePhone": "800256100"
+    },
+    "birthday": "1940-28-10",
+    "ip": "83.31.204.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Course candidate worry officer tough law. When kitchen vote question none authority turn. Who begin visit force understand design.",
+        "bio": "Talk style team say serious. Science care once shoulder church least foot. On have them program doctor surface how."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
