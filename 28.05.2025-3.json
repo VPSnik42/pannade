@@ -1,0 +1,25 @@
+{
+    "name": "James Williams",
+    "age": 76,
+    "address": {
+        "street": "Esparza Run",
+        "city": "West Mauriceshire",
+        "state": "South Dakota",
+        "zip": "37562"
+    },
+    "contact": {
+        "phone": "(519)440-1083x11635",
+        "servicePhone": "800600447"
+    },
+    "birthday": "1949-03-05",
+    "ip": "88.147.99.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Keep base protect remain purpose kind. Lose political may. Nor some good remain sense today.",
+        "bio": "Program exist picture information get industry. Everything write knowledge professor peace many month sea."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
