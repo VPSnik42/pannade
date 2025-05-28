@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Taylor",
+    "age": 7,
+    "address": {
+        "street": "Cross Camp",
+        "city": "South Davidton",
+        "state": "Kansas",
+        "zip": "41433"
+    },
+    "contact": {
+        "phone": "622-302-6120x0698",
+        "servicePhone": "800547612"
+    },
+    "birthday": "2018-10-09",
+    "ip": "18.98.79.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Central father act rate stop majority oil. Impact wall ever decision those form why. Strategy at receive science.",
+        "bio": "Call more ability north know while. Growth front health after his dream. Series music big heavy house fast cover.\nNetwork size law measure onto. Into population garden instead."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
