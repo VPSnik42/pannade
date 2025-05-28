@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Ball",
+    "age": 21,
+    "address": {
+        "street": "Rickey Locks",
+        "city": "Isabelfort",
+        "state": "Wyoming",
+        "zip": "28114"
+    },
+    "contact": {
+        "phone": "+1-572-920-0218",
+        "servicePhone": "800219834"
+    },
+    "birthday": "2004-24-08",
+    "ip": "132.252.135.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Five sit girl. Perhaps guess character hope page. Order set again level.\nFinancial deal build where better. Once decade rich improve. Two agent whose someone stand.",
+        "bio": "Old create economic response. Approach watch father technology can within. Fill foot popular public.\nEach above name while money recently decision report. Carry center former training several."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
