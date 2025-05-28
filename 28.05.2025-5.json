@@ -1,0 +1,25 @@
+{
+    "name": "Richard Griffin",
+    "age": 60,
+    "address": {
+        "street": "Kimberly Knolls",
+        "city": "North Mark",
+        "state": "New York",
+        "zip": "07270"
+    },
+    "contact": {
+        "phone": "(509)616-6560x142",
+        "servicePhone": "800441834"
+    },
+    "birthday": "1965-28-09",
+    "ip": "213.109.238.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce rich become city final play. She both between authority effect yes floor dinner. Ok remain movie rise suddenly safe.\nInstitution safe your hot stay. When hour health sign tax.",
+        "bio": "Win seem seem check class. Growth behavior analysis hair vote floor.\nFish fight television enter. Discuss large bill do history. Also trouble claim account clear page bed."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
