@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Scott",
+    "age": 84,
+    "address": {
+        "street": "Robert Brooks",
+        "city": "Port Kristen",
+        "state": "Arkansas",
+        "zip": "78572"
+    },
+    "contact": {
+        "phone": "715.813.4308",
+        "servicePhone": "800657696"
+    },
+    "birthday": "1941-25-01",
+    "ip": "216.94.22.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Field gas adult rather few house. Under cut over present. Wait house who practice these son not.\nTrial prove eye painting. Such wait very figure maintain authority media.",
+        "bio": "Ball watch change benefit five something first. Game represent light image however fact score market. Different time serious might language partner."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
