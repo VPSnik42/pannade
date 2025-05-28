@@ -1,0 +1,25 @@
+{
+    "name": "Alexandra Davis",
+    "age": 44,
+    "address": {
+        "street": "Rhonda Ranch",
+        "city": "West Ethanchester",
+        "state": "Wisconsin",
+        "zip": "84737"
+    },
+    "contact": {
+        "phone": "(315)712-0397",
+        "servicePhone": "800807759"
+    },
+    "birthday": "1981-04-07",
+    "ip": "133.150.178.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Result stuff over since eye prepare huge. Or current early movie wish. Weight method despite company data.\nProject prove continue film responsibility now. Fall land than call her believe.",
+        "bio": "Life majority tax show everything teach able. Citizen direction base sign miss point miss.\nMillion meet certainly. Mother know others. Improve future small until."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
