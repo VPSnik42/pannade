@@ -1,0 +1,25 @@
+{
+    "name": "Tom Foley",
+    "age": 66,
+    "address": {
+        "street": "Price Viaduct",
+        "city": "Hendersonville",
+        "state": "West Virginia",
+        "zip": "90063"
+    },
+    "contact": {
+        "phone": "2748002700",
+        "servicePhone": "800524554"
+    },
+    "birthday": "1959-02-12",
+    "ip": "26.219.223.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Design power herself medical blue star. Why spend camera decade large information western.",
+        "bio": "Put painting mother nothing quality agency doctor offer. Medical tonight activity history once cover add. Great same appear shoulder out store ready event."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
