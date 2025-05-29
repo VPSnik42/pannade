@@ -1,0 +1,25 @@
+{
+    "name": "Robin Clark",
+    "age": 70,
+    "address": {
+        "street": "Fisher Vista",
+        "city": "Carrillobury",
+        "state": "Illinois",
+        "zip": "52490"
+    },
+    "contact": {
+        "phone": "529-724-6250",
+        "servicePhone": "800234851"
+    },
+    "birthday": "1955-15-06",
+    "ip": "107.210.101.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Address series then every. Pass always choose just against everything house letter. Large group boy let.\nFrom difficult believe give thought that heavy. Space now system impact.",
+        "bio": "Manager large morning five.\nSuccess stand in conference approach participant day. Give arm question collection experience easy happen."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
