@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Roberts",
+    "age": 90,
+    "address": {
+        "street": "Fritz Valley",
+        "city": "West Michael",
+        "state": "Louisiana",
+        "zip": "39064"
+    },
+    "contact": {
+        "phone": "704.594.2649x70108",
+        "servicePhone": "800092588"
+    },
+    "birthday": "1935-02-08",
+    "ip": "2.53.38.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Option your structure argue already. Remember choose school one something whether.\nMake you up easy several. Life night enjoy challenge risk. Whether call smile wind.",
+        "bio": "About see human administration themselves population moment. To compare base sea near."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
