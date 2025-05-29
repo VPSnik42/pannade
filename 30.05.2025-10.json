@@ -1,0 +1,25 @@
+{
+    "name": "Jay Burgess",
+    "age": 72,
+    "address": {
+        "street": "Lucero Inlet",
+        "city": "Figueroahaven",
+        "state": "Oregon",
+        "zip": "39085"
+    },
+    "contact": {
+        "phone": "+1-644-414-1429x68765",
+        "servicePhone": "800733143"
+    },
+    "birthday": "1953-25-06",
+    "ip": "17.223.53.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Young them simply thing add race conference. Action since fight federal simple. When play candidate factor.",
+        "bio": "Management such reach watch. Majority century rest experience camera feel for.\nHotel professor family thus.\nSay the national miss senior begin field. Operation worker campaign southern."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
