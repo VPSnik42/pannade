@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Vance",
+    "age": 88,
+    "address": {
+        "street": "Moore Well",
+        "city": "New Tonyaton",
+        "state": "Hawaii",
+        "zip": "39765"
+    },
+    "contact": {
+        "phone": "750.906.8919x692",
+        "servicePhone": "800415273"
+    },
+    "birthday": "1937-30-04",
+    "ip": "207.230.151.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Ball dark dream film yeah. Lot concern career similar fast once war. Point past late expect worry risk former. Fish hair myself current fine glass sister.",
+        "bio": "Claim relate seat. Happy call election hold car learn. Mean make ever season these. Cut parent us adult data line court foot."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
