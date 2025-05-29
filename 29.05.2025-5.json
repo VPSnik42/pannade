@@ -1,0 +1,25 @@
+{
+    "name": "Hayley Mclaughlin",
+    "age": 49,
+    "address": {
+        "street": "Graham Lights",
+        "city": "New Thomasview",
+        "state": "Oregon",
+        "zip": "18360"
+    },
+    "contact": {
+        "phone": "627-280-2180x584",
+        "servicePhone": "800795809"
+    },
+    "birthday": "1976-18-10",
+    "ip": "81.213.52.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Field food chance enough after ground. Table magazine government movie suggest. Certainly reduce unit hope method production prepare.",
+        "bio": "Brother organization than responsibility. Fall above but his know should.\nFor single general. Worry property campaign.\nIn them arm floor own black. Dog any would board property market painting."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
