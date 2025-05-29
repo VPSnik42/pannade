@@ -1,0 +1,25 @@
+{
+    "name": "Sara Griffin",
+    "age": 107,
+    "address": {
+        "street": "Carr Crossing",
+        "city": "Charleschester",
+        "state": "Utah",
+        "zip": "53214"
+    },
+    "contact": {
+        "phone": "(240)686-2919x231",
+        "servicePhone": "800759697"
+    },
+    "birthday": "1918-02-09",
+    "ip": "206.229.12.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Seven street summer teacher finish against. Gun almost car face it end use.\nSuggest important television right idea. How level keep recognize. Peace win institution actually side.",
+        "bio": "Increase per significant yeah she standard. Over attention fear.\nRequire determine study support. Break tonight capital not company. Movie heavy deep team still remain interest."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
