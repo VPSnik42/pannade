@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Garner",
+    "age": 63,
+    "address": {
+        "street": "Charles Rapids",
+        "city": "South Fred",
+        "state": "Illinois",
+        "zip": "72677"
+    },
+    "contact": {
+        "phone": "(926)554-8473",
+        "servicePhone": "800600271"
+    },
+    "birthday": "1962-23-11",
+    "ip": "120.143.228.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Position party pay four. Different decide major onto recognize. Thing Republican pick people. Direction guess provide fill bill.",
+        "bio": "Site meet partner wife budget rather which open. He edge show weight each in marriage. Blue travel bar raise red."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
