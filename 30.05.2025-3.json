@@ -1,0 +1,25 @@
+{
+    "name": "Angela Oneal",
+    "age": 77,
+    "address": {
+        "street": "Guerrero Cape",
+        "city": "Port Crystalburgh",
+        "state": "New Jersey",
+        "zip": "16593"
+    },
+    "contact": {
+        "phone": "001-929-326-1916x93606",
+        "servicePhone": "800474690"
+    },
+    "birthday": "1948-06-01",
+    "ip": "201.58.188.141",
+    "foo": "bar",
+    "profile": {
+        "about": "A speech agree pass outside itself. Indicate relationship cost stage not any. Effort story wall new participant model.",
+        "bio": "Recognize range test successful line hospital support discussion. Reality international attorney poor stock south information.\nIndeed century go."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
