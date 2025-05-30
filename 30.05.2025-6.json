@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Buck",
+    "age": 15,
+    "address": {
+        "street": "Erik Ranch",
+        "city": "Jasonland",
+        "state": "Maryland",
+        "zip": "72108"
+    },
+    "contact": {
+        "phone": "(253)890-2388",
+        "servicePhone": "800378017"
+    },
+    "birthday": "2010-26-07",
+    "ip": "63.119.114.159",
+    "foo": "bar",
+    "profile": {
+        "about": "But will try kid item part. Environment knowledge technology short student dark white.\nBefore tax central meeting I investment must hot. Art affect their development lose.",
+        "bio": "Mean share what crime war reveal. Short prevent international. Center meeting month.\nPretty start husband center drop responsibility. Suddenly remain couple total. Expert contain kid."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
