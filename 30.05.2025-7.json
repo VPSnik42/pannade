@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Miller",
+    "age": 65,
+    "address": {
+        "street": "Christopher Drives",
+        "city": "Derrickfort",
+        "state": "Alabama",
+        "zip": "74217"
+    },
+    "contact": {
+        "phone": "001-487-527-4058x8665",
+        "servicePhone": "800399523"
+    },
+    "birthday": "1960-12-11",
+    "ip": "4.229.77.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Some improve condition here whom tonight though without. Another condition situation off although. I dinner second.\nMake pretty available skill expect game security. From evening paper machine.",
+        "bio": "Fine whose talk. Hair debate assume two always. Perform likely not customer.\nCompany early produce people region."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
