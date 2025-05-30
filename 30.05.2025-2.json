@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Thompson",
+    "age": 21,
+    "address": {
+        "street": "Mcmahon Roads",
+        "city": "New Rogerborough",
+        "state": "Virginia",
+        "zip": "30503"
+    },
+    "contact": {
+        "phone": "+1-364-834-1357",
+        "servicePhone": "800677244"
+    },
+    "birthday": "2004-18-08",
+    "ip": "196.53.211.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Body anyone situation dinner site break. Should deep should visit what woman.\nNotice might product view. About similar behind three decision war. Item design across first American consumer.",
+        "bio": "City security notice main always employee. Thousand tax she everything other natural. Reach face radio can rate.\nSpecial each yet front at. Eight bill leg system blood."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
