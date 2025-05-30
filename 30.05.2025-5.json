@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Snow",
+    "age": 107,
+    "address": {
+        "street": "Nancy Crossroad",
+        "city": "Lake Williamport",
+        "state": "Tennessee",
+        "zip": "55602"
+    },
+    "contact": {
+        "phone": "368-406-4451x2822",
+        "servicePhone": "800998421"
+    },
+    "birthday": "1918-14-02",
+    "ip": "200.28.58.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Old mention sound never chair voice. Power production improve nearly cup animal pull trouble.\nLearn claim lawyer two. Deep prevent always business.",
+        "bio": "Adult such thing type beat interest class time. Present administration job whole usually. Interest your fill until course give.\nMean subject field mind pattern. Also through same morning production."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
