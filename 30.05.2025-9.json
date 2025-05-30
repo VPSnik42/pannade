@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Briana Flores",
+    "age": 32,
+    "address": {
+        "street": "Brennan Way",
+        "city": "Port Shannonville",
+        "state": "North Dakota",
+        "zip": "62135"
+    },
+    "contact": {
+        "phone": "+1-543-290-5614x1973",
+        "servicePhone": "800228538"
+    },
+    "birthday": "1993-05-05",
+    "ip": "83.166.5.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Capital teach shake build short dark industry. Rock recognize radio talk end heavy call.\nNature only answer personal receive. Dog food charge prepare thing can.",
+        "bio": "Record provide prepare.\nOld they note become if. Much research industry soldier night run family nearly.\nManager in heart. Difference market follow any edge vote."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
