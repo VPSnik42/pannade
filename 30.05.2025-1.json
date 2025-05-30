@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Arias",
+    "age": 109,
+    "address": {
+        "street": "Ortiz Route",
+        "city": "Port Jasonville",
+        "state": "Virginia",
+        "zip": "07150"
+    },
+    "contact": {
+        "phone": "(841)375-4325x34255",
+        "servicePhone": "800812027"
+    },
+    "birthday": "1916-08-12",
+    "ip": "40.121.240.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Result nature certain possible less lose leave. Camera song various claim space get necessary.",
+        "bio": "Hair of threat news respond painting everybody. Value crime local speak new.\nStudy pressure game large why. Leg international defense ball theory. On city find note key study product."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
