@@ -1,0 +1,25 @@
+{
+    "name": "Lindsay Morgan",
+    "age": 4,
+    "address": {
+        "street": "Nguyen Port",
+        "city": "Briannaview",
+        "state": "North Dakota",
+        "zip": "74499"
+    },
+    "contact": {
+        "phone": "001-721-742-4581",
+        "servicePhone": "800990043"
+    },
+    "birthday": "2021-01-11",
+    "ip": "138.5.154.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Memory action practice main decade enough myself. Budget along town your almost common action. Field wide war success value.",
+        "bio": "Quality candidate agreement hundred. Join paper last near possible.\nOnto computer government as other. Area trouble door consumer decide. Security rise back."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
