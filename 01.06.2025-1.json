@@ -1,0 +1,25 @@
+{
+    "name": "Shelby Bass",
+    "age": 84,
+    "address": {
+        "street": "Armstrong Forks",
+        "city": "West Adam",
+        "state": "Nebraska",
+        "zip": "36315"
+    },
+    "contact": {
+        "phone": "001-740-467-7467x3437",
+        "servicePhone": "800227603"
+    },
+    "birthday": "1941-12-07",
+    "ip": "134.196.34.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Choose whatever best cover many modern character section. Political work less imagine work.\nMiddle whole stay fish nation. Machine conference including leader. Choice start exactly why pull ok sense.",
+        "bio": "Ever generation painting tree north. Choice control measure around."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
