@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Velazquez",
+    "age": 92,
+    "address": {
+        "street": "Sarah Causeway",
+        "city": "South Aaron",
+        "state": "Connecticut",
+        "zip": "81364"
+    },
+    "contact": {
+        "phone": "(310)933-7396x08605",
+        "servicePhone": "800711534"
+    },
+    "birthday": "1933-24-06",
+    "ip": "58.19.60.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Expect either during fund. Beautiful check huge alone. Hair above wear room manage suggest suddenly.",
+        "bio": "Any institution defense drive this may. Somebody school such prove talk happen no.\nLaw public under clear central. Hotel may than know charge off once view. Best concern soon too shoulder."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
