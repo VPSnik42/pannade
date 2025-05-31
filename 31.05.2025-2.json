@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Sanchez",
+    "age": 73,
+    "address": {
+        "street": "Barajas Mountains",
+        "city": "Jasonberg",
+        "state": "Florida",
+        "zip": "71480"
+    },
+    "contact": {
+        "phone": "388.475.4833x89021",
+        "servicePhone": "800159864"
+    },
+    "birthday": "1952-01-11",
+    "ip": "140.216.184.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Job can build hospital check country. Decision shake continue building place.",
+        "bio": "Let trouble scientist professor land her every north. Clearly town newspaper serve increase investment. House remain ability."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
