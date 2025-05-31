@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Welch",
+    "age": 29,
+    "address": {
+        "street": "Long Alley",
+        "city": "North Justin",
+        "state": "Washington",
+        "zip": "23043"
+    },
+    "contact": {
+        "phone": "257-872-1714",
+        "servicePhone": "800248773"
+    },
+    "birthday": "1996-22-01",
+    "ip": "19.119.98.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Should total follow task fish loss. Assume scene customer blue wait sometimes believe.\nPlant over media may certain feeling every.",
+        "bio": "Late better discuss sister season write simple television. Court raise drug talk.\nScience degree generation talk same guy toward. Seven important behavior human building. Shoulder detail view beat."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
