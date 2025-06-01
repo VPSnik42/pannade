@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Sutton",
+    "age": 45,
+    "address": {
+        "street": "Michael Stravenue",
+        "city": "Prattside",
+        "state": "Nebraska",
+        "zip": "28230"
+    },
+    "contact": {
+        "phone": "(405)467-2718",
+        "servicePhone": "800951910"
+    },
+    "birthday": "1980-19-06",
+    "ip": "30.121.218.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure allow country way former he something. Member through fast nor prove weight culture.\nGarden east quality word new page. Popular reveal old draw they. Either need key stay particular someone.",
+        "bio": "Collection best step teach. Type want off forget. Put smile establish guess."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
