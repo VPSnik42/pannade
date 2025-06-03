@@ -1,0 +1,25 @@
+{
+    "name": "Christian Walters",
+    "age": 52,
+    "address": {
+        "street": "Brennan Pine",
+        "city": "Port Ashleyland",
+        "state": "Mississippi",
+        "zip": "84631"
+    },
+    "contact": {
+        "phone": "+1-398-935-2868",
+        "servicePhone": "800058917"
+    },
+    "birthday": "1973-13-07",
+    "ip": "108.198.188.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Cultural even western hand charge gun cell. Parent civil cultural Congress main huge.\nUp measure sell better south song. System lot however ground performance.",
+        "bio": "Executive use this.\nReality need type both wonder. Majority reason organization street peace piece."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
