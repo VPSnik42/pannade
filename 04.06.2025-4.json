@@ -1,0 +1,25 @@
+{
+    "name": "Jordan White",
+    "age": 91,
+    "address": {
+        "street": "Rodriguez Walk",
+        "city": "Brentburgh",
+        "state": "Arkansas",
+        "zip": "78611"
+    },
+    "contact": {
+        "phone": "769.611.2463",
+        "servicePhone": "800974264"
+    },
+    "birthday": "1934-26-10",
+    "ip": "153.36.221.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole fact might prevent environment because. See feel beyond career. Study officer test reduce goal live gas already.\nOld answer knowledge the focus line night. Moment address create.",
+        "bio": "Wide other those science reality pass well. Fact cup mean major alone case lose personal. Get model show expert Mr ball. Order rich especially charge determine car."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
