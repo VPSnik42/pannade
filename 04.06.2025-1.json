@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Hobbs",
+    "age": 78,
+    "address": {
+        "street": "Rebecca Garden",
+        "city": "Richardmouth",
+        "state": "Rhode Island",
+        "zip": "86418"
+    },
+    "contact": {
+        "phone": "+1-925-952-3169x39574",
+        "servicePhone": "800447543"
+    },
+    "birthday": "1947-28-01",
+    "ip": "51.239.150.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Identify year meet age.\nClearly computer face describe. Message focus occur much smile vote meet. Executive job southern certainly.",
+        "bio": "Still nor although. Challenge range central him.\nRelate just significant dog before record week.\nSpeak type large deep the. Why leg call beyond foot establish."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
