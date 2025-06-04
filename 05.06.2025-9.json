@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Wilson",
+    "age": 86,
+    "address": {
+        "street": "Bass Gateway",
+        "city": "Freemanport",
+        "state": "Connecticut",
+        "zip": "08384"
+    },
+    "contact": {
+        "phone": "7984126091",
+        "servicePhone": "800777502"
+    },
+    "birthday": "1939-19-05",
+    "ip": "74.108.204.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Line third Mrs market article. Party spring more quite.\nFrom guy central likely role. Tv none ready necessary debate point son. Everything ability threat foot skin single.",
+        "bio": "Along hot we card certain say. Political wide mission big where same. Guess bring financial.\nLate coach answer reach like. Story view matter share."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
