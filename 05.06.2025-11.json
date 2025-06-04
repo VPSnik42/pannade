@@ -1,0 +1,25 @@
+{
+    "name": "Felicia Medina",
+    "age": 12,
+    "address": {
+        "street": "Kimberly Square",
+        "city": "West Anthonyberg",
+        "state": "Nevada",
+        "zip": "00952"
+    },
+    "contact": {
+        "phone": "775-923-5279x923",
+        "servicePhone": "800392347"
+    },
+    "birthday": "2013-23-07",
+    "ip": "56.140.153.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Memory idea side magazine. Around prepare others five capital. Ability free economic article happy picture road.",
+        "bio": "Worker father senior plant not time describe. Guess service remain debate hit national then loss."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
