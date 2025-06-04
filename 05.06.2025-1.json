@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Nelson",
+    "age": 76,
+    "address": {
+        "street": "Rice Inlet",
+        "city": "Lake Shirleyland",
+        "state": "Oklahoma",
+        "zip": "96033"
+    },
+    "contact": {
+        "phone": "248.958.6184x443",
+        "servicePhone": "800471684"
+    },
+    "birthday": "1949-24-11",
+    "ip": "186.201.34.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Film operation piece return. Almost green growth themselves computer account responsibility third. Offer century player artist study think so.",
+        "bio": "Main meeting lay bed near agreement. Yard pick sometimes stop serve interview lay.\nCompare very partner reality. Time next pull three certainly part fire. Western face later dog vote side computer."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
