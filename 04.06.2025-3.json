@@ -1,0 +1,25 @@
+{
+    "name": "Heather Mitchell",
+    "age": 16,
+    "address": {
+        "street": "Hunter Keys",
+        "city": "Brandyburgh",
+        "state": "Oklahoma",
+        "zip": "65907"
+    },
+    "contact": {
+        "phone": "001-773-205-3619x0413",
+        "servicePhone": "800986453"
+    },
+    "birthday": "2009-05-12",
+    "ip": "221.152.86.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Usually local could range experience debate. Wear line party high until fish. Difference strong instead own consumer. Standard rather body color memory.",
+        "bio": "Level write society fact. Gas environmental relationship.\nManagement top city. Federal ahead evidence offer protect beautiful red next. News scientist fish mother recognize itself everyone."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
