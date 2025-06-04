@@ -1,0 +1,25 @@
+{
+    "name": "Ann Gardner",
+    "age": 46,
+    "address": {
+        "street": "Charles Point",
+        "city": "Ortizport",
+        "state": "Nebraska",
+        "zip": "56904"
+    },
+    "contact": {
+        "phone": "(885)205-4104x4499",
+        "servicePhone": "800108726"
+    },
+    "birthday": "1979-01-05",
+    "ip": "21.9.163.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Form professor sort value. Growth begin ready them evidence indicate PM ground. They many agent trouble.\nAfter similar not suddenly page. Couple fly who talk way some knowledge music.",
+        "bio": "Establish involve reduce government crime pattern. Student probably stage whose.\nRun success weight determine trouble attention. Raise moment their citizen director child others must."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
