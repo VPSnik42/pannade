@@ -1,0 +1,25 @@
+{
+    "name": "Seth Miles",
+    "age": 85,
+    "address": {
+        "street": "Miguel Crossing",
+        "city": "Lake Sheila",
+        "state": "Wisconsin",
+        "zip": "61662"
+    },
+    "contact": {
+        "phone": "583-458-1551x563",
+        "servicePhone": "800435187"
+    },
+    "birthday": "1940-16-03",
+    "ip": "107.196.245.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Usually next early nation. Since mission score answer. Feel model man else democratic. Begin recognize tough expect low idea.",
+        "bio": "Threat she rich than identify. Tell recognize leg party.\nStep end account hot security speech while. Side pull focus they trouble but letter. There agency listen join."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
