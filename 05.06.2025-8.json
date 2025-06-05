@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Elliott",
+    "age": 3,
+    "address": {
+        "street": "Walker Rapid",
+        "city": "Bennetthaven",
+        "state": "New Mexico",
+        "zip": "98414"
+    },
+    "contact": {
+        "phone": "(519)468-7954x00156",
+        "servicePhone": "800664829"
+    },
+    "birthday": "2022-08-05",
+    "ip": "46.7.20.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer little sense window other.\nState finish agency stock we college build. Force until affect. Meeting special nothing situation relate travel.\nDrop election tonight. Avoid citizen son factor.",
+        "bio": "Here hot herself personal treat. Energy gun seem adult spring. Whatever law on brother mention machine near."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
