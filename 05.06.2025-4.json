@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Wright",
+    "age": 32,
+    "address": {
+        "street": "Gregory Overpass",
+        "city": "Dawnside",
+        "state": "Wyoming",
+        "zip": "95421"
+    },
+    "contact": {
+        "phone": "+1-666-238-0043x3970",
+        "servicePhone": "800165541"
+    },
+    "birthday": "1993-12-10",
+    "ip": "209.222.117.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Over base eat opportunity away. Oil ask data reduce. Sell beat employee to center.",
+        "bio": "Event west hot walk member. Coach floor imagine position executive.\nSon stand ability. Night hand box onto."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
