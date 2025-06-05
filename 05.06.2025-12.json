@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Salas",
+    "age": 21,
+    "address": {
+        "street": "Ward Mountains",
+        "city": "Jeffreyshire",
+        "state": "Minnesota",
+        "zip": "13099"
+    },
+    "contact": {
+        "phone": "+1-271-455-8456x1199",
+        "servicePhone": "800509220"
+    },
+    "birthday": "2004-24-10",
+    "ip": "36.73.148.133",
+    "foo": "bar",
+    "profile": {
+        "about": "That everything agree present form.\nLater population reason five help. Teacher population air direction particular western whole point. Consumer exist run wonder short.",
+        "bio": "Trouble enjoy have candidate case though usually father. Day including my respond peace mean price cell."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
