@@ -1,0 +1,25 @@
+{
+    "name": "Jaclyn Rodriguez",
+    "age": 106,
+    "address": {
+        "street": "Cody Circle",
+        "city": "Elizabethfurt",
+        "state": "South Dakota",
+        "zip": "33196"
+    },
+    "contact": {
+        "phone": "(315)636-2675",
+        "servicePhone": "800269290"
+    },
+    "birthday": "1919-17-02",
+    "ip": "129.249.179.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Film social degree data floor. Process run concern deep anyone. Two else time four develop none.\nMagazine star involve break century.\nSenior write key. Approach food seven man after peace situation.",
+        "bio": "Least end that black much growth. Business relationship reveal. Think television record media.\nContinue protect writer seem. Write west deep direction heavy."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
