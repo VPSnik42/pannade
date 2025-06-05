@@ -1,0 +1,25 @@
+{
+    "name": "Eric Reeves",
+    "age": 41,
+    "address": {
+        "street": "Riley Parks",
+        "city": "New Robertberg",
+        "state": "Mississippi",
+        "zip": "09493"
+    },
+    "contact": {
+        "phone": "001-578-749-9512x1295",
+        "servicePhone": "800884005"
+    },
+    "birthday": "1984-08-02",
+    "ip": "61.186.126.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Finally across real approach. What however fight heart impact significant recently. Machine key return word one drop information.",
+        "bio": "Image treatment movement firm perhaps enter stay. Debate relationship collection can art hotel. Deep approach Democrat a."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
