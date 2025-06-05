@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Mccoy",
+    "age": 60,
+    "address": {
+        "street": "Delgado Camp",
+        "city": "Millermouth",
+        "state": "California",
+        "zip": "59380"
+    },
+    "contact": {
+        "phone": "963.362.5914x1956",
+        "servicePhone": "800681974"
+    },
+    "birthday": "1965-02-10",
+    "ip": "194.209.26.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Rock set here director shoulder table. Five edge within mention him billion court. Culture take project trouble increase parent. To our agent heavy try former animal trial.",
+        "bio": "Answer us wonder wish song though staff. Else watch animal yet. Will available direction.\nIndividual themselves research force mission many religious coach. Huge last task lot."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
