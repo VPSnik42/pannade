@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Pierce",
+    "age": 2,
+    "address": {
+        "street": "Karla Trafficway",
+        "city": "North Michaelshire",
+        "state": "Texas",
+        "zip": "43778"
+    },
+    "contact": {
+        "phone": "+1-316-769-5934x178",
+        "servicePhone": "800632398"
+    },
+    "birthday": "2023-04-08",
+    "ip": "166.37.229.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Treatment son western religious piece baby. Public always four. Agent light establish the cup practice kid.\nWork religious whether western open. Discussion structure cause majority car whether.",
+        "bio": "Population page bag.\nRich indicate program what party road experience. Get court dark instead.\nHold certainly way while deal population. Many upon town."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
