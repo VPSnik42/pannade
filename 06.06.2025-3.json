@@ -1,0 +1,25 @@
+{
+    "name": "John Young",
+    "age": 110,
+    "address": {
+        "street": "Smith Pines",
+        "city": "North Kathryn",
+        "state": "Massachusetts",
+        "zip": "77450"
+    },
+    "contact": {
+        "phone": "+1-355-392-0541x7428",
+        "servicePhone": "800785893"
+    },
+    "birthday": "1915-27-06",
+    "ip": "139.116.215.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Matter second increase onto board. Probably effort music which. Cultural full meeting friend.",
+        "bio": "Resource never general huge. Follow ever program according single can summer. Without fall body none dream senior."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
