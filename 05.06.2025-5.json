@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Thomas",
+    "age": 83,
+    "address": {
+        "street": "Anderson Port",
+        "city": "Christopherstad",
+        "state": "Hawaii",
+        "zip": "43988"
+    },
+    "contact": {
+        "phone": "001-240-628-6908",
+        "servicePhone": "800392778"
+    },
+    "birthday": "1942-15-03",
+    "ip": "124.5.159.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside thus together particular allow produce until. Account before fire thus strategy clear. Race whole get find.",
+        "bio": "Edge enjoy long class read.\nWater other rock however capital. Little none last but read rock."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
