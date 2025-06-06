@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Anderson",
+    "age": 65,
+    "address": {
+        "street": "Ann Overpass",
+        "city": "West Stephanieberg",
+        "state": "Hawaii",
+        "zip": "37194"
+    },
+    "contact": {
+        "phone": "(824)291-6441",
+        "servicePhone": "800171392"
+    },
+    "birthday": "1960-13-04",
+    "ip": "214.145.219.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Be enjoy student serve land former response. Last wonder apply want evening.\nPosition attention friend community read with cell. How industry cup human cultural those.",
+        "bio": "Until official rich fall medical realize. Determine clear tend. Sport magazine father sing tend discuss big. Increase himself nation."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
