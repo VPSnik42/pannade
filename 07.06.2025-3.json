@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Schmitt",
+    "age": 72,
+    "address": {
+        "street": "Joshua Ford",
+        "city": "Yateschester",
+        "state": "Texas",
+        "zip": "42753"
+    },
+    "contact": {
+        "phone": "328.726.1294x4349",
+        "servicePhone": "800188680"
+    },
+    "birthday": "1953-02-07",
+    "ip": "12.212.19.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Do mouth tax ok term.\nHuge help decision carry world.",
+        "bio": "Officer thought despite involve today born case. Kind thus end yes.\nLead tough several certain response place. Wish person place they herself leg."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
