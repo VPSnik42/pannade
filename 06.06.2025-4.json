@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Ellis DDS",
+    "age": 20,
+    "address": {
+        "street": "Rodriguez Green",
+        "city": "Lake Barryland",
+        "state": "Georgia",
+        "zip": "82875"
+    },
+    "contact": {
+        "phone": "001-361-539-7929x4905",
+        "servicePhone": "800755389"
+    },
+    "birthday": "2005-13-05",
+    "ip": "199.45.243.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Republican material man seven Mrs approach. Question seven wall garden family rate.\nTask method rise authority well along. My heart blood time clearly law statement. Side art safe continue.",
+        "bio": "Realize may treat hear. Law full whom pass big long voice.\nForget talk deep money."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
