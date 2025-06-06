@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Green",
+    "age": 2,
+    "address": {
+        "street": "Bradley Pass",
+        "city": "Hughesberg",
+        "state": "Arkansas",
+        "zip": "78985"
+    },
+    "contact": {
+        "phone": "001-225-894-5176x93978",
+        "servicePhone": "800436508"
+    },
+    "birthday": "2023-26-09",
+    "ip": "174.241.153.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Me federal like peace. East as suggest how cold help among. Piece stock idea beat.\nReveal life budget score around almost one. Only early record rest three. Firm draw team third.",
+        "bio": "Contain us executive pick. Right technology identify improve mouth live. Commercial decade hotel early main several rate."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
