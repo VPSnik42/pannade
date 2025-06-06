@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Gilbert",
+    "age": 5,
+    "address": {
+        "street": "James Inlet",
+        "city": "East Rubenbury",
+        "state": "Louisiana",
+        "zip": "16109"
+    },
+    "contact": {
+        "phone": "(327)962-7745",
+        "servicePhone": "800199237"
+    },
+    "birthday": "2020-21-10",
+    "ip": "97.109.123.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Develop cut fund my reveal place senior. Customer officer successful between. Western bar point phone.\nNear late surface picture woman. Nearly middle major write total loss total.",
+        "bio": "Increase happen court increase move quickly structure. Bring method opportunity foreign you significant deep."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
