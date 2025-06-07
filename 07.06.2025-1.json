@@ -1,0 +1,25 @@
+{
+    "name": "Ian Howard",
+    "age": 20,
+    "address": {
+        "street": "Perry Via",
+        "city": "South Cindyfurt",
+        "state": "Illinois",
+        "zip": "36014"
+    },
+    "contact": {
+        "phone": "(840)363-8560x89830",
+        "servicePhone": "800377548"
+    },
+    "birthday": "2005-18-08",
+    "ip": "184.56.41.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer join environment current plant thus tonight technology. Prove want door.\nWriter condition drop chair who. Live hand which phone hand land rise.",
+        "bio": "Opportunity behavior let alone. Section anything include clearly little front. Enjoy wrong tend growth he service inside."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
