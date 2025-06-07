@@ -1,0 +1,25 @@
+{
+    "name": "Brian Smith",
+    "age": 23,
+    "address": {
+        "street": "Cunningham Branch",
+        "city": "East Martin",
+        "state": "Utah",
+        "zip": "67536"
+    },
+    "contact": {
+        "phone": "791.600.4866x55898",
+        "servicePhone": "800724437"
+    },
+    "birthday": "2002-02-02",
+    "ip": "99.18.143.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Partner building authority certainly. Special officer everybody sit. Where region buy window both later center.",
+        "bio": "Dinner live in left yes news but those. Heavy choice they bad race.\nHimself adult character economic arrive. Machine mission follow series again light personal."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
