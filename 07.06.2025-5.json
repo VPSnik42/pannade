@@ -1,0 +1,25 @@
+{
+    "name": "Robin Page",
+    "age": 70,
+    "address": {
+        "street": "Sweeney Stravenue",
+        "city": "Victoriaberg",
+        "state": "New Hampshire",
+        "zip": "43389"
+    },
+    "contact": {
+        "phone": "(538)374-5477x77617",
+        "servicePhone": "800730070"
+    },
+    "birthday": "1955-08-03",
+    "ip": "122.72.28.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Coach trip develop garden choose lead. Almost question third series air image necessary wife. Conference civil vote physical.",
+        "bio": "Building fall weight nearly land charge suddenly economic. Window dog section TV room police almost buy. Improve discuss argue project right his."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
