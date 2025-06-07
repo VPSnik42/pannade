@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Diaz",
+    "age": 8,
+    "address": {
+        "street": "Jason Cliffs",
+        "city": "Lake Kimberlyhaven",
+        "state": "New York",
+        "zip": "51236"
+    },
+    "contact": {
+        "phone": "347.428.5413x2147",
+        "servicePhone": "800516236"
+    },
+    "birthday": "2017-07-06",
+    "ip": "96.173.94.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Treat commercial size girl. Record part listen free option.\nSmall new put word city fact. Head point break produce talk school dog religious. Dark difference draw these career good hospital.",
+        "bio": "Nor go production another husband win though property. If once pull. Economy here continue. Physical stage cut history wait."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
