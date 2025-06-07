@@ -1,0 +1,25 @@
+{
+    "name": "Larry Medina",
+    "age": 110,
+    "address": {
+        "street": "Alvarez Shoal",
+        "city": "East Philip",
+        "state": "California",
+        "zip": "73410"
+    },
+    "contact": {
+        "phone": "9538702254",
+        "servicePhone": "800932979"
+    },
+    "birthday": "1915-05-02",
+    "ip": "41.232.57.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Same color health western thank decide. Treatment black investment perhaps front improve blue.\nSchool age exactly quickly friend hand strategy. Care which industry gas.",
+        "bio": "Book late page produce. Executive arm some represent little current. Career daughter moment again."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
