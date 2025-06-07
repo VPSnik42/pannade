@@ -1,0 +1,25 @@
+{
+    "name": "William Herrera",
+    "age": 37,
+    "address": {
+        "street": "Ashley Hollow",
+        "city": "East Marcoside",
+        "state": "North Carolina",
+        "zip": "12364"
+    },
+    "contact": {
+        "phone": "534-507-0383",
+        "servicePhone": "800615922"
+    },
+    "birthday": "1988-06-01",
+    "ip": "145.106.37.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Like according decision country ten sound letter. Director tonight morning final author. During sing bad nature.",
+        "bio": "Employee watch discover Republican out. Ground according item own under around set. Me peace care."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
