@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Guerra",
+    "age": 114,
+    "address": {
+        "street": "Belinda Point",
+        "city": "Jacobchester",
+        "state": "South Carolina",
+        "zip": "93328"
+    },
+    "contact": {
+        "phone": "001-341-212-3036x661",
+        "servicePhone": "800160801"
+    },
+    "birthday": "1911-28-02",
+    "ip": "147.60.39.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Whether feeling often understand conference. Treat leave issue must fire clearly raise.\nRisk tough fall some better power indeed. Agency by entire history much do.",
+        "bio": "Blood answer firm born voice film. Magazine since have past. Among much black down at.\nPerformance truth born that save radio follow those. Country health main stage floor."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
