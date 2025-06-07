@@ -1,0 +1,25 @@
+{
+    "name": "Latoya Roach",
+    "age": 76,
+    "address": {
+        "street": "Welch Flat",
+        "city": "Jamesshire",
+        "state": "South Carolina",
+        "zip": "38986"
+    },
+    "contact": {
+        "phone": "855-433-5580x0366",
+        "servicePhone": "800978506"
+    },
+    "birthday": "1949-09-06",
+    "ip": "96.128.194.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Season believe watch president reach. Born front his true partner standard.\nHealth mission member listen. Drug bank develop five direction.\nThose city myself.",
+        "bio": "Memory mention growth. Among avoid yeah better. Resource policy third court general century message."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
