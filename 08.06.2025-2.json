@@ -1,0 +1,25 @@
+{
+    "name": "Richard Burnett",
+    "age": 56,
+    "address": {
+        "street": "Justin Summit",
+        "city": "North Brian",
+        "state": "Virginia",
+        "zip": "19744"
+    },
+    "contact": {
+        "phone": "+1-201-532-3888x9530",
+        "servicePhone": "800263595"
+    },
+    "birthday": "1969-01-02",
+    "ip": "142.213.3.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Building computer force talk same style summer. Always challenge ask any. Necessary enough red move.\nIdentify bag team country in health. Small front part recent manage away than.",
+        "bio": "Education both seek tell while able during. Forget already simply close those. Forget whom finally sure contain size visit."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
