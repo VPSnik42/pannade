@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Mccann",
+    "age": 31,
+    "address": {
+        "street": "Alexander Cliff",
+        "city": "East Jesseland",
+        "state": "Georgia",
+        "zip": "70741"
+    },
+    "contact": {
+        "phone": "593.827.0352",
+        "servicePhone": "800460043"
+    },
+    "birthday": "1994-16-02",
+    "ip": "137.156.25.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Authority seven friend it exist. Style possible carry stock pass. Believe plan statement meeting win store should.\nBig first wear argue body. Federal rule star tough grow over.",
+        "bio": "Power fight religious dinner shake those instead gas. Record election information. Claim serious meeting property. Deep care all until weight."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
