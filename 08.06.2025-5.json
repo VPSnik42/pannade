@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Robinson",
+    "age": 109,
+    "address": {
+        "street": "Morrison Lights",
+        "city": "New Robin",
+        "state": "Nevada",
+        "zip": "99328"
+    },
+    "contact": {
+        "phone": "+1-723-421-4023",
+        "servicePhone": "800253384"
+    },
+    "birthday": "1916-19-04",
+    "ip": "108.162.160.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough without measure century. Chance field these television.\nHeavy if meeting reveal shoulder. Window art system name partner charge cut. Price water number natural college point people.",
+        "bio": "Shake partner need building make make nature. They close ok floor possible control central.\nHouse kind Republican mind really because. Ahead since paper about."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
