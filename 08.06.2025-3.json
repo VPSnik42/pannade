@@ -1,0 +1,25 @@
+{
+    "name": "Amber Wiggins",
+    "age": 104,
+    "address": {
+        "street": "Devin Spur",
+        "city": "South Brookebury",
+        "state": "Oregon",
+        "zip": "17619"
+    },
+    "contact": {
+        "phone": "512-803-5596",
+        "servicePhone": "800408208"
+    },
+    "birthday": "1921-05-07",
+    "ip": "177.174.171.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Open ahead dark remember style less responsibility. Pull story program build detail. Treatment power matter food chance.",
+        "bio": "Leave game myself close drive. Attorney take commercial pretty field do piece. Environment along leader respond against health market."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
