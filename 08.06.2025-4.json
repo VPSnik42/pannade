@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Estes",
+    "age": 46,
+    "address": {
+        "street": "Moore Spurs",
+        "city": "Andreaside",
+        "state": "Colorado",
+        "zip": "37454"
+    },
+    "contact": {
+        "phone": "+1-468-851-2364x475",
+        "servicePhone": "800099803"
+    },
+    "birthday": "1979-18-04",
+    "ip": "121.188.216.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Score opportunity toward enough. In chance rock four west option.",
+        "bio": "Dream send front. Environmental great clearly material.\nBank for ahead place.\nStation sister professor capital relate information. Reason nature like society finally."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
