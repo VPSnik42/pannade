@@ -1,0 +1,25 @@
+{
+    "name": "Perry Snyder",
+    "age": 27,
+    "address": {
+        "street": "Vasquez Garden",
+        "city": "West Karen",
+        "state": "North Carolina",
+        "zip": "17246"
+    },
+    "contact": {
+        "phone": "(725)985-3339",
+        "servicePhone": "800988361"
+    },
+    "birthday": "1998-12-12",
+    "ip": "189.118.166.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Newspaper least group team carry energy of off. Finish evening war most. Space return would physical operation.",
+        "bio": "Everyone hospital about determine. Congress last positive smile view conference note.\nCreate born hundred. Past safe lot create recent. Election government senior heart too interest."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
