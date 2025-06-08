@@ -1,0 +1,25 @@
+{
+    "name": "Haley Perkins",
+    "age": 111,
+    "address": {
+        "street": "Kevin Mews",
+        "city": "South Donald",
+        "state": "California",
+        "zip": "02222"
+    },
+    "contact": {
+        "phone": "201.715.4227x00270",
+        "servicePhone": "800297220"
+    },
+    "birthday": "1914-08-09",
+    "ip": "67.84.175.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Number will important second class. It assume particularly reality sport it spend.\nNo trouble both large receive company.",
+        "bio": "Break green even fly. Thank between speech.\nScene agent up piece carry gas offer. Dinner responsibility note certain indeed group white."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
