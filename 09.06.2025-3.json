@@ -1,0 +1,25 @@
+{
+    "name": "Steven Perez",
+    "age": 50,
+    "address": {
+        "street": "Andrea Ways",
+        "city": "Port Matthewfort",
+        "state": "Michigan",
+        "zip": "33186"
+    },
+    "contact": {
+        "phone": "001-982-501-1138x05478",
+        "servicePhone": "800989326"
+    },
+    "birthday": "1975-13-01",
+    "ip": "24.75.182.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Real his court evidence goal before. Time response against.\nThrow girl foot blood. Interest operation collection pay.",
+        "bio": "Various cup action detail risk. Throughout listen series lot kind away special.\nExactly his expect house audience indeed scene scientist. Drive many father likely. Particularly oil cost cup book if."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
