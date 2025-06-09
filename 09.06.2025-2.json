@@ -1,0 +1,25 @@
+{
+    "name": "Angela Santiago",
+    "age": 72,
+    "address": {
+        "street": "Jones Branch",
+        "city": "Johnland",
+        "state": "Kentucky",
+        "zip": "79834"
+    },
+    "contact": {
+        "phone": "(735)278-7640",
+        "servicePhone": "800686453"
+    },
+    "birthday": "1953-30-03",
+    "ip": "11.187.95.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Whatever off citizen cultural. Dog least professor third statement story.\nInstead television industry team certainly huge present person. Late south than run mouth.",
+        "bio": "And resource wide style. College campaign participant middle break age. Huge family hear."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
