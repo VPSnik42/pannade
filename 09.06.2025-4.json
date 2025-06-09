@@ -1,0 +1,25 @@
+{
+    "name": "George Walker",
+    "age": 98,
+    "address": {
+        "street": "Todd Ramp",
+        "city": "Darrenberg",
+        "state": "Idaho",
+        "zip": "92349"
+    },
+    "contact": {
+        "phone": "(871)899-3195",
+        "servicePhone": "800621764"
+    },
+    "birthday": "1927-23-12",
+    "ip": "140.87.72.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Tend full take my man receive. Good amount physical continue ball reveal more different.",
+        "bio": "Shoulder report church financial budget sometimes sometimes. Including fast spend serious son camera."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
