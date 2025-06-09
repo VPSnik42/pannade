@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Holmes",
+    "age": 96,
+    "address": {
+        "street": "Little Canyon",
+        "city": "Freemanmouth",
+        "state": "New York",
+        "zip": "57244"
+    },
+    "contact": {
+        "phone": "414.694.0567",
+        "servicePhone": "800073419"
+    },
+    "birthday": "1929-01-05",
+    "ip": "157.8.117.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother same board energy. Way score eight physical bank down several. Set simply upon garden plan wife.",
+        "bio": "Institution national mission perhaps. Better significant result like protect result tonight.\nArea to new hour per material. Wrong cell media. Especially together different teacher."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
