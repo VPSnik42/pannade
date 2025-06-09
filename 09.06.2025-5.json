@@ -1,0 +1,25 @@
+{
+    "name": "Robert Gould",
+    "age": 66,
+    "address": {
+        "street": "Morgan Route",
+        "city": "Krystalhaven",
+        "state": "Massachusetts",
+        "zip": "50911"
+    },
+    "contact": {
+        "phone": "001-218-497-1352",
+        "servicePhone": "800356789"
+    },
+    "birthday": "1959-18-01",
+    "ip": "128.195.216.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Better hand meeting able move away heavy thousand. Shoulder health environmental pass total.",
+        "bio": "Decide month memory hour production use change. Herself hotel activity identify. Front visit approach concern represent hope."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
