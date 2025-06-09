@@ -1,0 +1,25 @@
+{
+    "name": "Henry Scott",
+    "age": 10,
+    "address": {
+        "street": "Becker Tunnel",
+        "city": "Kruegertown",
+        "state": "Georgia",
+        "zip": "14220"
+    },
+    "contact": {
+        "phone": "5402331545",
+        "servicePhone": "800835069"
+    },
+    "birthday": "2015-03-01",
+    "ip": "221.58.154.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Also number only television chance fire sport. Meet win find consumer successful compare energy.",
+        "bio": "Serious tax then similar national phone. With guess table Mr next weight since.\nEvery official experience goal key deep. Employee low student. Then cultural number plan carry."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
