@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Ruiz",
+    "age": 59,
+    "address": {
+        "street": "Jose Station",
+        "city": "New Jamesborough",
+        "state": "Tennessee",
+        "zip": "45676"
+    },
+    "contact": {
+        "phone": "274-323-4480",
+        "servicePhone": "800738074"
+    },
+    "birthday": "1966-04-02",
+    "ip": "18.216.230.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Rock sing party who head. Today see style happen hot create finally.",
+        "bio": "Perhaps question stay own race. Doctor final candidate usually structure continue. Of other old yourself record.\nShow plant and medical same. Senior glass along like."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
