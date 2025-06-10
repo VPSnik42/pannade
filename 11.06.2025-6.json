@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Mcknight",
+    "age": 49,
+    "address": {
+        "street": "Matthews Fork",
+        "city": "Stephenshire",
+        "state": "Wisconsin",
+        "zip": "63258"
+    },
+    "contact": {
+        "phone": "769-975-0503",
+        "servicePhone": "800744751"
+    },
+    "birthday": "1976-04-10",
+    "ip": "43.222.160.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Claim street customer weight course Mrs your relationship. Fact music against popular type exist expert.\nAdministration teach indeed responsibility some probably. Money organization mind someone set.",
+        "bio": "Than attention another hot hold decide. Player into manage investment against.\nGrow but section little. Your surface crime really front beat election. Include serve pay."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
