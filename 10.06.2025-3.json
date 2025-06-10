@@ -1,0 +1,25 @@
+{
+    "name": "Leslie Brown",
+    "age": 85,
+    "address": {
+        "street": "Brittany Centers",
+        "city": "East Mary",
+        "state": "South Dakota",
+        "zip": "29534"
+    },
+    "contact": {
+        "phone": "+1-421-370-7276x543",
+        "servicePhone": "800814686"
+    },
+    "birthday": "1940-22-07",
+    "ip": "151.135.105.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Family daughter watch after country official window. Month Congress doctor each.\nHair black mention. Attack ready less front most back room. Each network defense.",
+        "bio": "Move operation national woman fall note. Factor respond exactly in better.\nDespite computer her interesting. Such east test reduce fight.\nInterview yourself choose audience week."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
