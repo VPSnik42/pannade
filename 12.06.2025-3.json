@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Diaz",
+    "age": 80,
+    "address": {
+        "street": "Hansen Circle",
+        "city": "Meganfort",
+        "state": "Nebraska",
+        "zip": "82985"
+    },
+    "contact": {
+        "phone": "(898)333-7191x34432",
+        "servicePhone": "800038496"
+    },
+    "birthday": "1945-08-04",
+    "ip": "62.122.20.92",
+    "foo": "bar",
+    "profile": {
+        "about": "As water teach read. Security together whether alone especially worry.\nAttention the production star anyone often support house. Meeting high expect bit fear church. Alone feel piece way hot firm.",
+        "bio": "Think lose rich cut nation material other lead. Make stay buy despite during with kid. Administration war national real word good.\nBaby tend measure million low east never lose."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
