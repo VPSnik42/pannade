@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Carr",
+    "age": 61,
+    "address": {
+        "street": "Hamilton Summit",
+        "city": "East Brookechester",
+        "state": "Massachusetts",
+        "zip": "04884"
+    },
+    "contact": {
+        "phone": "(432)574-7676x6873",
+        "servicePhone": "800509533"
+    },
+    "birthday": "1964-20-07",
+    "ip": "118.216.111.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Land wrong heart industry community head. Law him since interesting feel interest field. Service back many network night into door wonder.\nThe walk form else yard.",
+        "bio": "Hope well hit question charge. Early woman nice.\nSimple short yes computer everybody. Mr listen source yourself.\nProduct prove range. College several hard six old oil care across."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
