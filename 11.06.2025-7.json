@@ -1,0 +1,25 @@
+{
+    "name": "Michael Evans",
+    "age": 0,
+    "address": {
+        "street": "Darryl Gardens",
+        "city": "West Kenneth",
+        "state": "Ohio",
+        "zip": "97461"
+    },
+    "contact": {
+        "phone": "(462)642-6642",
+        "servicePhone": "800792525"
+    },
+    "birthday": "2025-30-05",
+    "ip": "152.168.220.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Air particular wide some something bad. Necessary page near product. Quite street face pattern put we. Often never than.",
+        "bio": "Social movie chance few color can hand. Analysis age law simple care wrong former guess. Beyond support trouble say. Anyone western her true experience in discuss."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
