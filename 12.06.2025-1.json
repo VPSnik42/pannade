@@ -1,0 +1,25 @@
+{
+    "name": "Francisco Harvey",
+    "age": 66,
+    "address": {
+        "street": "Parker Harbor",
+        "city": "Lake Laurenside",
+        "state": "Alaska",
+        "zip": "03714"
+    },
+    "contact": {
+        "phone": "(645)307-4416",
+        "servicePhone": "800562290"
+    },
+    "birthday": "1959-10-03",
+    "ip": "167.14.214.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Firm majority loss use team these. Television cup though better. Event news team degree nearly education road.",
+        "bio": "Might hotel true administration cell. Air yes old occur whose.\nThing story enough investment small.\nReason go about away food skin onto. Technology society direction education boy leg full begin."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
