@@ -1,0 +1,25 @@
+{
+    "name": "Jean Morrison",
+    "age": 95,
+    "address": {
+        "street": "Pena Springs",
+        "city": "Leemouth",
+        "state": "Virginia",
+        "zip": "94769"
+    },
+    "contact": {
+        "phone": "988.351.8583",
+        "servicePhone": "800667307"
+    },
+    "birthday": "1930-11-11",
+    "ip": "71.193.31.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Common get difference company. His from weight behind probably subject president.\nGlass body everyone describe draw win huge. Reveal scene employee stuff account.",
+        "bio": "Adult specific already my behind leg performance each. Hospital little beyond which however know vote. Moment myself difference would information through company."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
