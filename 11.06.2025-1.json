@@ -1,0 +1,25 @@
+{
+    "name": "Gloria Bruce",
+    "age": 91,
+    "address": {
+        "street": "Kimberly Prairie",
+        "city": "Johnsonport",
+        "state": "Colorado",
+        "zip": "38178"
+    },
+    "contact": {
+        "phone": "676-292-0901",
+        "servicePhone": "800903028"
+    },
+    "birthday": "1934-06-09",
+    "ip": "46.79.147.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Fish too control recognize pull. Building professional six why. Pay third avoid candidate read.",
+        "bio": "Thank share lawyer. Just total career section personal year story drug.\nCarry night day. Business technology board. Crime culture decade full design."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
