@@ -1,0 +1,25 @@
+{
+    "name": "Joel Howe",
+    "age": 9,
+    "address": {
+        "street": "Walker Square",
+        "city": "Zamoraside",
+        "state": "Hawaii",
+        "zip": "43272"
+    },
+    "contact": {
+        "phone": "680-618-4734",
+        "servicePhone": "800383726"
+    },
+    "birthday": "2016-05-06",
+    "ip": "173.247.214.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Degree last foreign your adult realize push. Million more technology enough sport arrive at.\nMiss leave standard over attention ok college. Learn career during situation.",
+        "bio": "Where act ten organization exist. Put north already region station yeah. Message mention network defense bank start despite."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
