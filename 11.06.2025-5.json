@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Cooper MD",
+    "age": 15,
+    "address": {
+        "street": "Gary Inlet",
+        "city": "Anthonyside",
+        "state": "Delaware",
+        "zip": "74554"
+    },
+    "contact": {
+        "phone": "+1-599-489-6433x0608",
+        "servicePhone": "800893051"
+    },
+    "birthday": "2010-18-03",
+    "ip": "89.140.200.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Everything impact though beyond along give condition. Compare scene her. Democrat air cell available.\nCompare various home seem price. Provide dog party.",
+        "bio": "Sit budget thus. War process region per type nor. View should property long clear.\nBack hope former particularly cup to fall sport. Natural form similar maintain."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
