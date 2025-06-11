@@ -1,0 +1,25 @@
+{
+    "name": "Scott Lawson",
+    "age": 104,
+    "address": {
+        "street": "Matthew Hollow",
+        "city": "East Eduardobury",
+        "state": "Oregon",
+        "zip": "81799"
+    },
+    "contact": {
+        "phone": "001-967-696-1862",
+        "servicePhone": "800416148"
+    },
+    "birthday": "1921-24-09",
+    "ip": "221.100.14.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave develop food must yard. Realize employee fill result should. Special near color your major less information.\nBlood floor however expert purpose eye. Down manager actually huge eight represent.",
+        "bio": "Our seek bill speak for letter federal. Energy finish stand. President interest against moment.\nWould remember term always visit. North course site lose nature. Former they say win purpose we."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
