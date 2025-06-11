@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Martinez",
+    "age": 88,
+    "address": {
+        "street": "Brittany Junctions",
+        "city": "East Troyfort",
+        "state": "Alabama",
+        "zip": "65819"
+    },
+    "contact": {
+        "phone": "993-978-8665",
+        "servicePhone": "800309219"
+    },
+    "birthday": "1937-28-08",
+    "ip": "92.186.180.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Eye measure religious hold easy nothing. Stop which write modern knowledge day.\nReligious party good every myself fall. Again six painting. I information life gun huge tough.",
+        "bio": "Eye specific score system us top. Fear plan compare nearly consumer interest. Admit upon teacher such interest federal Mrs.\nSection discuss front. Agent speak scientist prepare."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
