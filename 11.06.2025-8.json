@@ -1,0 +1,25 @@
+{
+    "name": "Mark Barrett",
+    "age": 99,
+    "address": {
+        "street": "Williams Groves",
+        "city": "North Michaelshire",
+        "state": "New Jersey",
+        "zip": "70342"
+    },
+    "contact": {
+        "phone": "(591)969-4312",
+        "servicePhone": "800127293"
+    },
+    "birthday": "1926-03-09",
+    "ip": "181.3.94.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Drive data play federal woman. Capital benefit parent you bank nation. Amount news test career. System southern throw soldier benefit shake city by.",
+        "bio": "Ground bad design tend ever task. Some page this behavior place technology.\nEast unit onto indeed people better purpose concern. Around throughout guy."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
