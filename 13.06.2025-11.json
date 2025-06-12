@@ -1,0 +1,25 @@
+{
+    "name": "John Garcia",
+    "age": 115,
+    "address": {
+        "street": "Yates Circle",
+        "city": "Bradleyview",
+        "state": "Arkansas",
+        "zip": "14000"
+    },
+    "contact": {
+        "phone": "(922)318-9384x253",
+        "servicePhone": "800991389"
+    },
+    "birthday": "1910-10-04",
+    "ip": "64.179.201.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Everybody woman where. Out speak suddenly. Oil worker among human service.\nHalf wonder consider light. Yet guy city resource message work part.\nCar home art film ten score professor. Lay tell how.",
+        "bio": "Experience but bank window read learn. Structure least practice kid. Majority parent speech position.\nIts might important speak. Senior know word idea anyone less only."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
