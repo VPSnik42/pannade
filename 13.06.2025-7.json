@@ -1,0 +1,25 @@
+{
+    "name": "Donna Henry",
+    "age": 42,
+    "address": {
+        "street": "Thomas Wells",
+        "city": "Port Yolanda",
+        "state": "Alabama",
+        "zip": "78430"
+    },
+    "contact": {
+        "phone": "001-209-633-9114x522",
+        "servicePhone": "800289476"
+    },
+    "birthday": "1983-29-11",
+    "ip": "192.151.18.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Employee or great team place water. Her these cultural mention item. Later skill operation themselves.\nDemocratic window affect network common. Her TV hot.",
+        "bio": "Around himself great or."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
