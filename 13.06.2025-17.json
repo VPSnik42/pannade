@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Kelley",
+    "age": 80,
+    "address": {
+        "street": "Grant Rapid",
+        "city": "Seanside",
+        "state": "Arizona",
+        "zip": "09002"
+    },
+    "contact": {
+        "phone": "980-298-9415",
+        "servicePhone": "800099192"
+    },
+    "birthday": "1945-05-09",
+    "ip": "62.145.140.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed rate people compare price. Goal certainly protect happy article. Attention ground now message college. Under actually single minute understand including movement enjoy.",
+        "bio": "Move environmental almost future front. Early feel outside quite its. Back make learn church difference stay. Per administration again suddenly."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
