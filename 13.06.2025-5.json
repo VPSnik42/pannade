@@ -1,0 +1,25 @@
+{
+    "name": "Max Ortiz",
+    "age": 23,
+    "address": {
+        "street": "Marisa Prairie",
+        "city": "Tanyamouth",
+        "state": "Montana",
+        "zip": "54619"
+    },
+    "contact": {
+        "phone": "+1-857-466-7964x0570",
+        "servicePhone": "800409390"
+    },
+    "birthday": "2002-12-07",
+    "ip": "198.42.101.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Customer agency listen successful learn design weight.\nMedical heavy man reveal.",
+        "bio": "Image radio forward yeah home country. Us remain moment lead study week. Student rest spring cause arm very.\nPrepare realize entire whether ago. Suddenly teacher a coach fear."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
