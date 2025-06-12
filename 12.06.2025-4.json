@@ -1,0 +1,25 @@
+{
+    "name": "James Jones",
+    "age": 2,
+    "address": {
+        "street": "Nathan Avenue",
+        "city": "Lake Madisonville",
+        "state": "Oregon",
+        "zip": "95590"
+    },
+    "contact": {
+        "phone": "393-796-2644x164",
+        "servicePhone": "800384539"
+    },
+    "birthday": "2023-28-11",
+    "ip": "93.144.137.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Food wide tree sell study thing. Require particularly letter special use.\nDiscuss myself great economy help quickly. True character black father senior better wife. Eye above bit continue.",
+        "bio": "Low someone condition reduce reach next base something. Both performance hundred south have. Ask training break land every we."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
