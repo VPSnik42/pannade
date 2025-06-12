@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Morgan",
+    "age": 4,
+    "address": {
+        "street": "Odonnell Stravenue",
+        "city": "Port Maryside",
+        "state": "Georgia",
+        "zip": "73545"
+    },
+    "contact": {
+        "phone": "870.531.8886x988",
+        "servicePhone": "800744830"
+    },
+    "birthday": "2021-20-07",
+    "ip": "73.131.226.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Benefit center stuff draw. Against strategy drop law.\nSource history present. Teach wait impact indicate ball number option. Prove really add attack.",
+        "bio": "Civil buy blue anything get fine. What manager majority wide. Director body under who success draw base."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
