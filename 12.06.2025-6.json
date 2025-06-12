@@ -1,0 +1,25 @@
+{
+    "name": "Alan Ramirez",
+    "age": 108,
+    "address": {
+        "street": "Clinton Center",
+        "city": "North Dana",
+        "state": "North Dakota",
+        "zip": "40526"
+    },
+    "contact": {
+        "phone": "+1-637-989-6117x234",
+        "servicePhone": "800349709"
+    },
+    "birthday": "1917-11-09",
+    "ip": "101.216.51.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Best reality movement choose Congress per. Pick visit laugh along nothing force common.\nCup hour make very might. Up after break.",
+        "bio": "City wish protect employee stay. Close back go find he among. Hair blue already political."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
