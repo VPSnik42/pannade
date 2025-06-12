@@ -1,0 +1,25 @@
+{
+    "name": "Martin Simpson",
+    "age": 50,
+    "address": {
+        "street": "Kyle Route",
+        "city": "Hodgeton",
+        "state": "South Carolina",
+        "zip": "43306"
+    },
+    "contact": {
+        "phone": "(628)456-4912x1311",
+        "servicePhone": "800617327"
+    },
+    "birthday": "1975-31-05",
+    "ip": "151.165.73.226",
+    "foo": "bar",
+    "profile": {
+        "about": "College cover center safe. Point situation mouth simple little.\nSing feeling girl blue new along real sell. Throughout director health national none entire. Not father prevent life professor outside.",
+        "bio": "Somebody feeling site set your within peace. Responsibility board certainly. Nice according those red.\nTough management who whose design star avoid involve."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
