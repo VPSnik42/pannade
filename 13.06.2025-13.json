@@ -1,0 +1,25 @@
+{
+    "name": "Sara Cook",
+    "age": 104,
+    "address": {
+        "street": "Perez Creek",
+        "city": "South Carly",
+        "state": "Iowa",
+        "zip": "50382"
+    },
+    "contact": {
+        "phone": "207-893-6064x6921",
+        "servicePhone": "800544580"
+    },
+    "birthday": "1921-16-01",
+    "ip": "18.241.219.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Poor improve size full through. Shoulder girl director. Recent measure deep however.\nTonight attention best meet research real. Walk line number born. Office successful too want.",
+        "bio": "Which interest expert town. Look training pick popular mind avoid detail. Pm maintain college establish huge ten."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
