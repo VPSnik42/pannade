@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Brown",
+    "age": 35,
+    "address": {
+        "street": "Williamson Falls",
+        "city": "Port Jilliantown",
+        "state": "Michigan",
+        "zip": "34599"
+    },
+    "contact": {
+        "phone": "507-978-5283x4560",
+        "servicePhone": "800935337"
+    },
+    "birthday": "1990-18-07",
+    "ip": "96.106.148.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Summer recognize world attention economy I officer rock. American have direction line authority.\nResult size sea special say lot understand. Term feel message TV analysis story.",
+        "bio": "You cell start establish magazine.\nOrder specific election read move article seven. Late commercial focus can box treat within enjoy. Ahead community parent product imagine."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
