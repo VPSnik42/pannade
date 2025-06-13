@@ -1,0 +1,25 @@
+{
+    "name": "Ebony Hamilton",
+    "age": 61,
+    "address": {
+        "street": "John Pines",
+        "city": "North William",
+        "state": "Idaho",
+        "zip": "34867"
+    },
+    "contact": {
+        "phone": "(833)372-4266x479",
+        "servicePhone": "800635000"
+    },
+    "birthday": "1964-25-04",
+    "ip": "119.98.9.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Beautiful throughout growth process decade not simple. Cause girl at life form our. Cup sing wrong miss social message share.",
+        "bio": "Edge according property play follow. Establish fill tax win standard. Seek administration above end boy style area. Far against time itself."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
