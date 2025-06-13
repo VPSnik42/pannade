@@ -1,0 +1,25 @@
+{
+    "name": "Antonio Wilson",
+    "age": 57,
+    "address": {
+        "street": "Robert Knoll",
+        "city": "Port Feliciabury",
+        "state": "Arkansas",
+        "zip": "54013"
+    },
+    "contact": {
+        "phone": "7635989595",
+        "servicePhone": "800375713"
+    },
+    "birthday": "1968-02-11",
+    "ip": "177.31.164.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Law information art house themselves be beautiful wrong. Expect here quickly maintain. Per international analysis sort. Magazine little describe admit father onto still.",
+        "bio": "What safe say stand stage responsibility prevent. Maintain event all television end.\nPeople technology purpose he story. Wear own thank admit real beautiful send."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
