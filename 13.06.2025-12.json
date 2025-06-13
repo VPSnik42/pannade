@@ -1,0 +1,25 @@
+{
+    "name": "Ariel Parker",
+    "age": 23,
+    "address": {
+        "street": "Darryl Grove",
+        "city": "East Jenniferview",
+        "state": "Michigan",
+        "zip": "49557"
+    },
+    "contact": {
+        "phone": "929-858-2827x128",
+        "servicePhone": "800513213"
+    },
+    "birthday": "2002-14-09",
+    "ip": "142.64.201.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean increase citizen. Authority bill same range law natural month.\nProgram page out court case visit. Position speech these. Whether book dark structure. Offer much sign moment drop until contain.",
+        "bio": "Try city American. Sure begin here add behavior mouth want.\nPull per Congress may ok. Billion cold lose plant reach."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
