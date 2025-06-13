@@ -1,0 +1,25 @@
+{
+    "name": "Monica Cordova",
+    "age": 115,
+    "address": {
+        "street": "Ivan Drives",
+        "city": "Michelleshire",
+        "state": "Colorado",
+        "zip": "14615"
+    },
+    "contact": {
+        "phone": "(346)211-8371x75901",
+        "servicePhone": "800520660"
+    },
+    "birthday": "1910-20-10",
+    "ip": "45.247.147.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Action name series well image myself suddenly month. Under property character break star. Easy speech tend industry couple.",
+        "bio": "Education owner listen fact prove capital management interview. Message together something. Concern sound wife."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
