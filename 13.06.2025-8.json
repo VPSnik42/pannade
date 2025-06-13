@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Rich",
+    "age": 107,
+    "address": {
+        "street": "Kristin Rest",
+        "city": "West Brittany",
+        "state": "Utah",
+        "zip": "73224"
+    },
+    "contact": {
+        "phone": "(778)273-2196",
+        "servicePhone": "800389060"
+    },
+    "birthday": "1918-17-02",
+    "ip": "26.233.185.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother contain professor east real environmental hot if. Sound response woman money. Model daughter your put.",
+        "bio": "Mother night ask recent. Several smile together question. Sea foreign pattern north need."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
