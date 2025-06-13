@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Jackson",
+    "age": 100,
+    "address": {
+        "street": "Clay Village",
+        "city": "North Isaiahmouth",
+        "state": "North Dakota",
+        "zip": "15062"
+    },
+    "contact": {
+        "phone": "649-627-4066x2118",
+        "servicePhone": "800241849"
+    },
+    "birthday": "1925-28-10",
+    "ip": "37.221.109.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Describe record individual maybe list TV her. Manage analysis of floor seven raise color everything.",
+        "bio": "Same officer new discussion. Tend across wish on have event recognize very."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
