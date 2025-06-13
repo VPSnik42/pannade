@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Davidson",
+    "age": 0,
+    "address": {
+        "street": "Sarah Park",
+        "city": "North Heather",
+        "state": "Hawaii",
+        "zip": "13318"
+    },
+    "contact": {
+        "phone": "(239)708-8672x3241",
+        "servicePhone": "800644746"
+    },
+    "birthday": "2025-25-08",
+    "ip": "67.57.100.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection education radio short again collection able special. Ahead account network tax really speech hair machine. Professional outside full.",
+        "bio": "Measure effort show call present assume Mr. Hard support short.\nBase civil however town level. Dark rate fear phone ask international."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
