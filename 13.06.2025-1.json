@@ -1,0 +1,25 @@
+{
+    "name": "Eric Martinez",
+    "age": 18,
+    "address": {
+        "street": "Scott Island",
+        "city": "Williamston",
+        "state": "Colorado",
+        "zip": "66470"
+    },
+    "contact": {
+        "phone": "(451)854-7063x7058",
+        "servicePhone": "800888171"
+    },
+    "birthday": "2007-17-02",
+    "ip": "175.40.215.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Recognize system page control. Draw talk Congress certainly worry maybe religious both. Politics face all officer. Ago glass wrong charge create put.",
+        "bio": "Phone campaign collection soon others hear beat. Fund arm traditional outside position.\nStrategy total your bed series know."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
