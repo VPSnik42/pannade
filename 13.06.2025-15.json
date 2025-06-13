@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Jones",
+    "age": 14,
+    "address": {
+        "street": "Nicole View",
+        "city": "Gonzalesshire",
+        "state": "Delaware",
+        "zip": "77773"
+    },
+    "contact": {
+        "phone": "264.464.6273x9486",
+        "servicePhone": "800101940"
+    },
+    "birthday": "2011-10-03",
+    "ip": "184.214.229.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Term later benefit media. Both hit somebody better begin him everyone.\nSuffer data decision us shoulder theory. Place race kind hard century likely.\nWhy light quickly difficult.",
+        "bio": "Four center they. Money note time cause like several ground. Store well fire despite door.\nAdult stock type reduce debate according. Mind once argue away money collection."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
