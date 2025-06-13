@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Fischer",
+    "age": 36,
+    "address": {
+        "street": "Chapman Parkways",
+        "city": "East Amanda",
+        "state": "Maine",
+        "zip": "07348"
+    },
+    "contact": {
+        "phone": "827-337-8821",
+        "servicePhone": "800979899"
+    },
+    "birthday": "1989-20-05",
+    "ip": "32.239.41.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Significant improve force radio not. Along boy second feeling center employee war.\nSimply Democrat thus experience work art task. Wish skill quite oil foot along. Network me whether also.",
+        "bio": "However agree hope magazine send. Part drive end art."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
