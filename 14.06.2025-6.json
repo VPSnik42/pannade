@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Carney",
+    "age": 114,
+    "address": {
+        "street": "Gonzalez Curve",
+        "city": "West Michellebury",
+        "state": "Montana",
+        "zip": "61873"
+    },
+    "contact": {
+        "phone": "433-213-9376x603",
+        "servicePhone": "800616797"
+    },
+    "birthday": "1911-07-02",
+    "ip": "7.187.55.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Section possible course plant coach south. Involve picture various hand whole.",
+        "bio": "Group father president nothing draw pass else.\nNation huge heart go knowledge could friend. None there trial summer public likely. Order physical include run point."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
