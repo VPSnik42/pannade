@@ -1,0 +1,25 @@
+{
+    "name": "Mark Cordova",
+    "age": 100,
+    "address": {
+        "street": "Thomas Mountain",
+        "city": "New Kimberly",
+        "state": "Connecticut",
+        "zip": "08886"
+    },
+    "contact": {
+        "phone": "532.294.9496x557",
+        "servicePhone": "800490061"
+    },
+    "birthday": "1925-14-03",
+    "ip": "222.180.80.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Knowledge student floor save second difference. Success TV role teach collection. Bag discover movie join able two data.\nPay work short hour mission peace question road.",
+        "bio": "Continue court husband nothing help black. Little represent give wear lot.\nAuthority water safe carry investment both fly action. Environmental fish reach various weight garden."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
