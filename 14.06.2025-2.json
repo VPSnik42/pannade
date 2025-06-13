@@ -1,0 +1,25 @@
+{
+    "name": "Connor Jackson",
+    "age": 69,
+    "address": {
+        "street": "Mercer Dam",
+        "city": "Hudsonview",
+        "state": "Rhode Island",
+        "zip": "52189"
+    },
+    "contact": {
+        "phone": "702-704-3136",
+        "servicePhone": "800902240"
+    },
+    "birthday": "1956-27-07",
+    "ip": "161.132.187.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Ok push paper state type. Property suddenly trade full.",
+        "bio": "Loss it include alone expect reduce shoulder.\nOwn usually word agency firm player adult. Dream once particular happen. Culture upon travel go enough."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
