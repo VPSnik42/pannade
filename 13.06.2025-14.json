@@ -1,0 +1,25 @@
+{
+    "name": "Lindsey Henderson",
+    "age": 51,
+    "address": {
+        "street": "Christensen Center",
+        "city": "Murphyberg",
+        "state": "Tennessee",
+        "zip": "27080"
+    },
+    "contact": {
+        "phone": "+1-201-606-3040x2053",
+        "servicePhone": "800596133"
+    },
+    "birthday": "1974-08-09",
+    "ip": "87.167.81.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring high language this current. Do kid woman interview everything next.\nInvestment whose year sign. Poor budget debate know hold very.",
+        "bio": "Everyone quality owner safe list. However important evidence central.\nWide defense serious. Specific language effort interest marriage establish brother such."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
