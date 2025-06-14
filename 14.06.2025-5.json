@@ -1,0 +1,25 @@
+{
+    "name": "Susan Brady",
+    "age": 67,
+    "address": {
+        "street": "Salazar Street",
+        "city": "Veronicachester",
+        "state": "Idaho",
+        "zip": "68498"
+    },
+    "contact": {
+        "phone": "(479)975-9153x4610",
+        "servicePhone": "800117087"
+    },
+    "birthday": "1958-10-12",
+    "ip": "41.5.224.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Himself much point group laugh ago process. Front drive own. Central before white really spring. My research hold.\nHere piece since white eat dark treatment.",
+        "bio": "Compare support structure might.\nThank old rise leave. Training role decade natural. Season such bar movement."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
