@@ -1,0 +1,25 @@
+{
+    "name": "Danny Brown",
+    "age": 101,
+    "address": {
+        "street": "Robinson Fort",
+        "city": "Sarahshire",
+        "state": "New Mexico",
+        "zip": "96487"
+    },
+    "contact": {
+        "phone": "878.953.1160",
+        "servicePhone": "800735323"
+    },
+    "birthday": "1924-13-12",
+    "ip": "69.187.205.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Meeting everything recognize your blood meeting. Difference child ability. Institution suggest just market ahead garden.\nName tend stage product security black something. Force foot candidate.",
+        "bio": "Skin fish before relationship level success pick. Past listen maintain face mouth. Clear whose whatever particular election walk."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
