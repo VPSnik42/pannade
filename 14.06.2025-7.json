@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Kim",
+    "age": 17,
+    "address": {
+        "street": "Brian Centers",
+        "city": "Lake Davidport",
+        "state": "Delaware",
+        "zip": "14547"
+    },
+    "contact": {
+        "phone": "001-996-259-3101x97085",
+        "servicePhone": "800865076"
+    },
+    "birthday": "2008-11-11",
+    "ip": "64.229.46.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Ground development society safe Democrat take couple. Republican kind statement town moment authority. Popular them rock others. Decide physical rock necessary.\nCell which although over huge event.",
+        "bio": "Around coach feeling tell. Option street last especially amount cold. Agreement citizen address difference.\nBlack decade pass floor race campaign. Method suddenly final available."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
