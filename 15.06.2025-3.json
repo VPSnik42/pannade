@@ -1,0 +1,25 @@
+{
+    "name": "Kirk Vega",
+    "age": 17,
+    "address": {
+        "street": "Michael Creek",
+        "city": "Hallfort",
+        "state": "Georgia",
+        "zip": "46699"
+    },
+    "contact": {
+        "phone": "+1-839-307-3098",
+        "servicePhone": "800984440"
+    },
+    "birthday": "2008-16-09",
+    "ip": "11.163.191.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce cut teach this suddenly evidence remember bar. Option million then. Certainly me guess. Coach set control break raise continue.",
+        "bio": "Nation under reflect themselves right conference."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
