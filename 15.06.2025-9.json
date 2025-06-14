@@ -1,0 +1,25 @@
+{
+    "name": "Robin Campbell",
+    "age": 2,
+    "address": {
+        "street": "Steven Track",
+        "city": "South Coltonborough",
+        "state": "North Dakota",
+        "zip": "63225"
+    },
+    "contact": {
+        "phone": "849-779-8295x005",
+        "servicePhone": "800621556"
+    },
+    "birthday": "2023-16-01",
+    "ip": "173.214.0.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain step international ago claim hotel treat. Question score officer admit business.",
+        "bio": "Use father he sort. Agency pressure collection material from business in. Music reflect include player.\nAlone throw rule identify man every. Reflect day direction city billion put field product."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
