@@ -1,0 +1,25 @@
+{
+    "name": "Ruben Robertson",
+    "age": 49,
+    "address": {
+        "street": "Sara Haven",
+        "city": "Lake Jacquelineburgh",
+        "state": "New York",
+        "zip": "81620"
+    },
+    "contact": {
+        "phone": "219.684.5541x086",
+        "servicePhone": "800039793"
+    },
+    "birthday": "1976-09-10",
+    "ip": "206.63.233.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Approach president treat fear all foot marriage. Role note produce medical town foreign office.\nWeight gun woman. Move exist better thousand.",
+        "bio": "Capital road animal human management eight list evening. Take finally owner enjoy detail. Fill share run including cultural Mrs main. Attorney ability theory specific prove."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
