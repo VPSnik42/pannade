@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Burns",
+    "age": 102,
+    "address": {
+        "street": "Joel Tunnel",
+        "city": "Port Marc",
+        "state": "Connecticut",
+        "zip": "14457"
+    },
+    "contact": {
+        "phone": "897.428.0836x2036",
+        "servicePhone": "800178125"
+    },
+    "birthday": "1923-22-08",
+    "ip": "109.147.189.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Everything increase international. At north analysis push add in career.",
+        "bio": "Rise third issue pay large language Democrat. People dog my through west indicate stock.\nAmerican give stand statement lawyer. Part focus property writer way. Teacher me example local."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
