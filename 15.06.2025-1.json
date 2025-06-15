@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Adams",
+    "age": 8,
+    "address": {
+        "street": "Michael Avenue",
+        "city": "Hernandezchester",
+        "state": "New Mexico",
+        "zip": "52401"
+    },
+    "contact": {
+        "phone": "+1-273-816-1459x5238",
+        "servicePhone": "800172484"
+    },
+    "birthday": "2017-16-04",
+    "ip": "115.116.92.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Little democratic agree surface value black simply purpose. Choice couple energy. Community own identify cup still him at.",
+        "bio": "Toward sport investment great leader light. Million study open see score drug. Professional arrive address guess total stage race.\nProtect conference out area."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
