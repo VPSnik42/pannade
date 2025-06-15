@@ -1,0 +1,25 @@
+{
+    "name": "Phillip Burns",
+    "age": 0,
+    "address": {
+        "street": "Kari Plains",
+        "city": "Karenborough",
+        "state": "Wyoming",
+        "zip": "10132"
+    },
+    "contact": {
+        "phone": "+1-645-533-3150x53822",
+        "servicePhone": "800225695"
+    },
+    "birthday": "2025-19-07",
+    "ip": "70.62.180.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Local business show soldier manage. End left cause here natural. Certain quite allow administration current enter.\nStudy family hot. Computer region fire activity attention plan.",
+        "bio": "Add security sing still police image worker. Really someone later air take."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
