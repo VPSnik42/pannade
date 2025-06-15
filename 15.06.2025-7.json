@@ -1,0 +1,25 @@
+{
+    "name": "Michael Gross",
+    "age": 64,
+    "address": {
+        "street": "Maxwell Cliff",
+        "city": "Moodychester",
+        "state": "Oklahoma",
+        "zip": "89671"
+    },
+    "contact": {
+        "phone": "748.336.1215x62356",
+        "servicePhone": "800078743"
+    },
+    "birthday": "1961-23-03",
+    "ip": "182.160.142.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean accept hundred former. Hospital treat check indeed mouth watch. Executive purpose question act everyone then however.",
+        "bio": "Anything fear class. Level fire company cause read alone either.\nGreen the half training half or couple letter. Tell study money as."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
