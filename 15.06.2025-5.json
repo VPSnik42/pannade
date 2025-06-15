@@ -1,0 +1,25 @@
+{
+    "name": "Susan Hughes",
+    "age": 44,
+    "address": {
+        "street": "Johnson Mission",
+        "city": "Fostermouth",
+        "state": "Vermont",
+        "zip": "44890"
+    },
+    "contact": {
+        "phone": "325-991-7166x64241",
+        "servicePhone": "800811879"
+    },
+    "birthday": "1981-19-09",
+    "ip": "204.255.34.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Technology position explain model. Important space allow build. Paper reason explain type training lose.",
+        "bio": "Where yes western certain build. Tax reveal top life.\nThough design themselves happen. Outside minute you summer bit evening real. Market mention civil never explain."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
