@@ -1,0 +1,25 @@
+{
+    "name": "Erica Cooper",
+    "age": 19,
+    "address": {
+        "street": "Susan Corners",
+        "city": "Carrieburgh",
+        "state": "Michigan",
+        "zip": "67669"
+    },
+    "contact": {
+        "phone": "357.705.0616x975",
+        "servicePhone": "800803629"
+    },
+    "birthday": "2006-12-09",
+    "ip": "81.147.47.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Former pattern agreement election article management garden. Rise recent from reach spend seat learn talk.\nHear yourself somebody analysis. Support traditional nature order build knowledge process.",
+        "bio": "Wrong door player method leg short.\nMeasure official charge major production. Also sort floor no understand create.\nTheory hope same soldier look. President risk high."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
