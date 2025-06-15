@@ -1,0 +1,25 @@
+{
+    "name": "Linda Ewing",
+    "age": 13,
+    "address": {
+        "street": "Morrow Light",
+        "city": "North Dawnburgh",
+        "state": "Virginia",
+        "zip": "95287"
+    },
+    "contact": {
+        "phone": "805-468-4362",
+        "servicePhone": "800194136"
+    },
+    "birthday": "2012-08-12",
+    "ip": "115.51.232.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Both allow explain hot full. Firm difference any exactly receive since base. Property way make identify. Yourself six son summer surface.",
+        "bio": "How wall enough fly test office. Week federal politics happy friend. Always room type.\nChance far million political instead when. Matter power cold order bar. Area music cause career we much."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
