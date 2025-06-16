@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Reed",
+    "age": 6,
+    "address": {
+        "street": "Lopez Track",
+        "city": "New Mary",
+        "state": "New Jersey",
+        "zip": "34454"
+    },
+    "contact": {
+        "phone": "+1-746-408-3521x31760",
+        "servicePhone": "800340910"
+    },
+    "birthday": "2019-27-02",
+    "ip": "125.158.221.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Week travel way begin result story. Total later table dream add window.\nMove human someone. Within hundred charge pass. Area find with long method current.",
+        "bio": "Tend opportunity car develop skin. Hold imagine front. Industry article way.\nFirst tell easy food structure test. Concern determine fear shake."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
