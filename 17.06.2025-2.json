@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Ray",
+    "age": 0,
+    "address": {
+        "street": "Alexander Club",
+        "city": "South Jeffrey",
+        "state": "New Mexico",
+        "zip": "48079"
+    },
+    "contact": {
+        "phone": "001-275-223-1559x610",
+        "servicePhone": "800550325"
+    },
+    "birthday": "2025-08-09",
+    "ip": "195.90.206.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Degree early huge model television.\nSeat institution interest maintain fish support wrong summer. Improve peace pattern.",
+        "bio": "South simple yes memory benefit able all speech. Specific officer a rich win yourself. Ok four set science current."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
