@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Larsen",
+    "age": 86,
+    "address": {
+        "street": "Hobbs Port",
+        "city": "North Mason",
+        "state": "Georgia",
+        "zip": "75673"
+    },
+    "contact": {
+        "phone": "3268368026",
+        "servicePhone": "800139910"
+    },
+    "birthday": "1939-03-05",
+    "ip": "200.90.184.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Star heart sea. Lot exist ten fly young company hour. Better surface tell open action despite.",
+        "bio": "Friend prove morning rich us. Painting bar administration whom win. Hope either article attack notice despite hold success."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
