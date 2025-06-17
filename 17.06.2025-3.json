@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Phillips",
+    "age": 114,
+    "address": {
+        "street": "Daniel Ranch",
+        "city": "West Eric",
+        "state": "West Virginia",
+        "zip": "67726"
+    },
+    "contact": {
+        "phone": "001-944-601-5123x5002",
+        "servicePhone": "800852638"
+    },
+    "birthday": "1911-30-07",
+    "ip": "218.119.11.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Each blue son end economy form middle. Hit ask industry three top quickly manage. Then per pull training whose structure.",
+        "bio": "Republican operation time green culture. Race however already land. Action seem actually statement.\nMany figure onto science several family. President minute price hope admit will such."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
