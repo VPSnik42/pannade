@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Hanson",
+    "age": 28,
+    "address": {
+        "street": "Mccoy Forest",
+        "city": "Lake Mauriceport",
+        "state": "Montana",
+        "zip": "62833"
+    },
+    "contact": {
+        "phone": "200.826.3473",
+        "servicePhone": "800930596"
+    },
+    "birthday": "1997-26-11",
+    "ip": "19.16.221.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Black student sort trade whole play. Side Mrs crime. Garden political never gas heart save method.\nBuild kid party anything family. Affect magazine hair expect wrong series suffer think.",
+        "bio": "Possible cover wrong throughout policy page bag. Four card technology significant dog. Open million anything including resource subject mouth exactly."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
