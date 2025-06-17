@@ -1,0 +1,25 @@
+{
+    "name": "Roberta Butler",
+    "age": 70,
+    "address": {
+        "street": "Seth Squares",
+        "city": "Ellisberg",
+        "state": "Alabama",
+        "zip": "18796"
+    },
+    "contact": {
+        "phone": "371.950.9093x479",
+        "servicePhone": "800974406"
+    },
+    "birthday": "1955-03-01",
+    "ip": "58.47.129.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed personal chance from surface. Article marriage or protect. Traditional issue quickly tell keep approach.",
+        "bio": "Main scientist politics yard true than you although. Citizen audience candidate Mr camera answer by. Future sea discover several."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
