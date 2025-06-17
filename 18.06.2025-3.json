@@ -1,0 +1,25 @@
+{
+    "name": "Keith Chandler",
+    "age": 25,
+    "address": {
+        "street": "Kaufman Shoals",
+        "city": "Kirbytown",
+        "state": "Ohio",
+        "zip": "03231"
+    },
+    "contact": {
+        "phone": "320.419.5228x674",
+        "servicePhone": "800203703"
+    },
+    "birthday": "2000-06-03",
+    "ip": "99.147.5.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Baby white eat list.\nHold care hard help sister. These ahead total opportunity music.",
+        "bio": "Discover medical note physical guess. Social season would property wish. Throw they member price. Son whether decade."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
