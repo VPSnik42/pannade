@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Huff",
+    "age": 83,
+    "address": {
+        "street": "Brianna Camp",
+        "city": "North Robertfurt",
+        "state": "Kansas",
+        "zip": "32259"
+    },
+    "contact": {
+        "phone": "001-597-460-8749",
+        "servicePhone": "800014622"
+    },
+    "birthday": "1942-04-10",
+    "ip": "59.253.155.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Maybe community according wife mother suddenly leader couple. About leader top her get produce any.\nFather onto budget human around. Sort brother reveal street.",
+        "bio": "Actually focus firm author wall. Matter the analysis. Walk try management land drop save."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
