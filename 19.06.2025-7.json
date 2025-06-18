@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Fischer",
+    "age": 43,
+    "address": {
+        "street": "Latoya Passage",
+        "city": "New Arthur",
+        "state": "Connecticut",
+        "zip": "67767"
+    },
+    "contact": {
+        "phone": "(912)687-8268x91898",
+        "servicePhone": "800428112"
+    },
+    "birthday": "1982-28-09",
+    "ip": "212.30.141.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Skill third blue become born doctor. According star opportunity entire possible.\nCheck time available stop relationship itself matter. Rule production prevent.",
+        "bio": "Set finish church me necessary. Another fish figure give if far be read.\nOld simple likely specific. Member TV part.\nKey office report theory tend current. Art season feeling consider memory serve."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
