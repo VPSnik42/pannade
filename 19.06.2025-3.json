@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Lowery DDS",
+    "age": 111,
+    "address": {
+        "street": "Allison Well",
+        "city": "Adammouth",
+        "state": "Vermont",
+        "zip": "54566"
+    },
+    "contact": {
+        "phone": "+1-322-500-0304x612",
+        "servicePhone": "800357953"
+    },
+    "birthday": "1914-16-01",
+    "ip": "153.98.137.205",
+    "foo": "bar",
+    "profile": {
+        "about": "History north analysis suggest. Seat study another moment whom tree some democratic. Amount concern just training paper treat sometimes.\nCreate key instead method.",
+        "bio": "Check like rate man. Eight administration husband now PM.\nGoal if rise child owner once institution than. Approach beat seven movie similar road crime."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
