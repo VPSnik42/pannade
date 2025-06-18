@@ -1,0 +1,25 @@
+{
+    "name": "Amy Clark",
+    "age": 40,
+    "address": {
+        "street": "Garcia Stream",
+        "city": "Port Kevinborough",
+        "state": "New Jersey",
+        "zip": "19803"
+    },
+    "contact": {
+        "phone": "(272)413-7204x310",
+        "servicePhone": "800081534"
+    },
+    "birthday": "1985-02-11",
+    "ip": "106.54.236.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Service plan at environmental per. Scene seven more of parent prepare. Everything or program each probably his.\nBit allow provide may on. Paper project dark future.",
+        "bio": "Type pay story central media. Who almost four final expect condition production.\nAttack look other difficult onto civil. Close dinner remain approach. State prevent experience suggest door."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
