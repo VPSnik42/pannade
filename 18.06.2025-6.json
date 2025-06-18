@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Lee",
+    "age": 4,
+    "address": {
+        "street": "Aaron Glen",
+        "city": "Kaitlinchester",
+        "state": "Colorado",
+        "zip": "46072"
+    },
+    "contact": {
+        "phone": "001-845-421-7832x116",
+        "servicePhone": "800576695"
+    },
+    "birthday": "2021-19-08",
+    "ip": "165.8.24.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Participant cup person east. Help meet approach somebody. Current worker management rock. Ready read product know others.",
+        "bio": "Day wind land everybody might agree beat. Within office benefit eight indeed quality.\nMoney them happy which approach book shoulder. Though baby significant product through commercial citizen."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
