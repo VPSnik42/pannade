@@ -1,0 +1,25 @@
+{
+    "name": "Charlene Padilla",
+    "age": 53,
+    "address": {
+        "street": "Sean Falls",
+        "city": "Lake Colin",
+        "state": "Minnesota",
+        "zip": "30662"
+    },
+    "contact": {
+        "phone": "001-213-364-1126x4446",
+        "servicePhone": "800136038"
+    },
+    "birthday": "1972-11-12",
+    "ip": "13.218.100.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Direction task glass who. Then soldier everyone pressure until enter participant. Wind need painting.\nCollection second here. Oil team most after require arm reflect.",
+        "bio": "Career three maintain ten administration. Woman long pick news win international be. Analysis middle process drop national. Conference add could not road."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
