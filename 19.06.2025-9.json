@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Barrett",
+    "age": 10,
+    "address": {
+        "street": "Jeffrey Fork",
+        "city": "Davisland",
+        "state": "Texas",
+        "zip": "93557"
+    },
+    "contact": {
+        "phone": "(607)941-1117",
+        "servicePhone": "800978667"
+    },
+    "birthday": "2015-17-01",
+    "ip": "131.116.62.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Speech my beat cell event tend yeah source.\nMight they mother enter today green. Yeah add others represent able.",
+        "bio": "Room no growth. Across risk site see town.\nChance describe condition daughter very today. One read in mean various. Change back style letter democratic assume cut stay."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
