@@ -1,0 +1,25 @@
+{
+    "name": "Sean Moore",
+    "age": 106,
+    "address": {
+        "street": "Diana Gateway",
+        "city": "Lake Michaelport",
+        "state": "Iowa",
+        "zip": "61480"
+    },
+    "contact": {
+        "phone": "001-207-815-4762",
+        "servicePhone": "800103748"
+    },
+    "birthday": "1919-21-09",
+    "ip": "20.200.28.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Poor raise history stage surface create yard example. Stop view reveal during foreign.",
+        "bio": "Treatment course message business. Today to ahead office guy federal.\nLevel enter yourself national small. Why Mr western list present."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
