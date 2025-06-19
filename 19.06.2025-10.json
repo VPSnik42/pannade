@@ -1,0 +1,25 @@
+{
+    "name": "Yolanda Hardy",
+    "age": 43,
+    "address": {
+        "street": "Reyes Parkway",
+        "city": "Lake Sean",
+        "state": "Maine",
+        "zip": "10238"
+    },
+    "contact": {
+        "phone": "001-791-814-6057x525",
+        "servicePhone": "800619265"
+    },
+    "birthday": "1982-03-06",
+    "ip": "40.99.211.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Message top heavy some anyone dinner recently. Affect thousand manage anything miss present live turn.",
+        "bio": "Miss thousand recognize lay. Address quite pretty student.\nJoin PM culture leg increase poor peace. Employee year weight high there community. Growth TV rise happen box."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
