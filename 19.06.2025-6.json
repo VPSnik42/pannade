@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Donovan",
+    "age": 71,
+    "address": {
+        "street": "Bailey Vista",
+        "city": "Christophershire",
+        "state": "Florida",
+        "zip": "62153"
+    },
+    "contact": {
+        "phone": "265.462.5500x64579",
+        "servicePhone": "800577868"
+    },
+    "birthday": "1954-15-10",
+    "ip": "128.38.240.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Each the may wife low. Challenge across speak line agency.\nRather local seek various. Thing thought various.\nAttention sit benefit listen. Myself help I ahead.",
+        "bio": "Sport husband far tough why military. Month worker sing society. Memory model oil must.\nMost for east action appear training real."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
