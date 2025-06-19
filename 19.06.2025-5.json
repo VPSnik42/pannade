@@ -1,0 +1,25 @@
+{
+    "name": "Danny Jones",
+    "age": 73,
+    "address": {
+        "street": "Rodriguez Dale",
+        "city": "Lake Jacob",
+        "state": "Nevada",
+        "zip": "28806"
+    },
+    "contact": {
+        "phone": "(906)581-2657",
+        "servicePhone": "800236261"
+    },
+    "birthday": "1952-03-10",
+    "ip": "202.5.125.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Any power fish agree meet.\nBelieve attention a sea drop it news name. Power exactly quickly world soon choice city seat. Responsibility participant close would store should.",
+        "bio": "Able lose together drop notice. Each sister on local. Hair idea yeah tough fund. Candidate at high also fast exactly save make."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
