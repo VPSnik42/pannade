@@ -1,0 +1,25 @@
+{
+    "name": "Natasha Castro",
+    "age": 69,
+    "address": {
+        "street": "Martin Pike",
+        "city": "Adamsberg",
+        "state": "Kansas",
+        "zip": "31583"
+    },
+    "contact": {
+        "phone": "001-659-674-2336x71520",
+        "servicePhone": "800934774"
+    },
+    "birthday": "1956-03-06",
+    "ip": "190.159.229.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Fish future realize season share high price. Dark road but project attack local behavior. Case town foreign their human. Training rather no be answer bit will.",
+        "bio": "Available each citizen trouble either win fight. Understand stay available happen crime hair.\nWall between old receive ground free high. Send knowledge cold middle bank."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
