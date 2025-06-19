@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Gonzalez",
+    "age": 21,
+    "address": {
+        "street": "Steven Loaf",
+        "city": "Fieldsburgh",
+        "state": "Kentucky",
+        "zip": "73182"
+    },
+    "contact": {
+        "phone": "+1-848-977-4478x2933",
+        "servicePhone": "800487496"
+    },
+    "birthday": "2004-03-09",
+    "ip": "195.32.12.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Society my treatment space resource behind material.\nIt skin himself nature star. Wonder reduce against similar artist.\nSenior must approach product. Check special the prepare.",
+        "bio": "Trip raise without become mind full wall consumer. Every I spring research population evening product. Series training sport."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
