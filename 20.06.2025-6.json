@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Gilbert",
+    "age": 88,
+    "address": {
+        "street": "Shannon Land",
+        "city": "Victorburgh",
+        "state": "Hawaii",
+        "zip": "40303"
+    },
+    "contact": {
+        "phone": "688-876-1082",
+        "servicePhone": "800493016"
+    },
+    "birthday": "1937-15-11",
+    "ip": "95.38.188.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Life large decide star year just billion. Center create direction action be statement. Degree onto travel mention take she.",
+        "bio": "Address institution hotel discussion. Education event short common happy although."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
