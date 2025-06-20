@@ -1,0 +1,25 @@
+{
+    "name": "Krystal Riley",
+    "age": 18,
+    "address": {
+        "street": "Sarah Mill",
+        "city": "Jonesmouth",
+        "state": "Kentucky",
+        "zip": "47888"
+    },
+    "contact": {
+        "phone": "+1-629-655-6232x363",
+        "servicePhone": "800834778"
+    },
+    "birthday": "2007-05-10",
+    "ip": "120.187.112.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Fact size institution improve pattern table morning. Institution nice action a black strategy which.\nWhen room poor soldier police source. Risk sense table five common book attorney adult.",
+        "bio": "Behind bring blood box step. Such might experience market. Source name evening. Report piece research husband join."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
