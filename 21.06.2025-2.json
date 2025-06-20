@@ -1,0 +1,25 @@
+{
+    "name": "Susan Silva MD",
+    "age": 5,
+    "address": {
+        "street": "Lopez Knoll",
+        "city": "Lake Alexandraborough",
+        "state": "Vermont",
+        "zip": "32713"
+    },
+    "contact": {
+        "phone": "(389)564-4194",
+        "servicePhone": "800703570"
+    },
+    "birthday": "2020-01-06",
+    "ip": "168.202.96.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Believe space bit believe three. Letter view top step young. Require red find power especially.\nForeign camera final.",
+        "bio": "Bank accept pay audience should difference. Yes race pretty even nice. None look second agree able great establish."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
