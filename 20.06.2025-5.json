@@ -1,0 +1,25 @@
+{
+    "name": "Garrett Singleton",
+    "age": 34,
+    "address": {
+        "street": "Miller Knoll",
+        "city": "Mcintyrefurt",
+        "state": "Montana",
+        "zip": "99612"
+    },
+    "contact": {
+        "phone": "603-579-6861",
+        "servicePhone": "800293402"
+    },
+    "birthday": "1991-24-05",
+    "ip": "57.20.90.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Especially available picture guy if certainly head. Experience color now dream.\nWith know teacher. Maintain including issue. Everybody maintain some decision perhaps open religious.",
+        "bio": "Successful heavy television hold final movement traditional door. Us hit cost hear loss kind serious natural. Put teacher wait lawyer lot."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
