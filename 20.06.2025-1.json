@@ -1,0 +1,25 @@
+{
+    "name": "David Romero",
+    "age": 9,
+    "address": {
+        "street": "Steele Place",
+        "city": "Smithville",
+        "state": "South Dakota",
+        "zip": "13913"
+    },
+    "contact": {
+        "phone": "(534)675-5817x6850",
+        "servicePhone": "800183783"
+    },
+    "birthday": "2016-18-02",
+    "ip": "38.113.163.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Behind what plan car. Investment politics third claim social ten. Indicate allow task ever.",
+        "bio": "Away better glass enjoy let build my. Coach federal difference parent affect lose. Religious treat finally sense.\nWall group always. And better but. Act when hundred turn factor somebody who."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
