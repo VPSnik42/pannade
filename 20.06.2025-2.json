@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Mcmahon",
+    "age": 34,
+    "address": {
+        "street": "Hernandez Alley",
+        "city": "Port Jose",
+        "state": "Louisiana",
+        "zip": "18026"
+    },
+    "contact": {
+        "phone": "267.523.7743x750",
+        "servicePhone": "800152754"
+    },
+    "birthday": "1991-22-05",
+    "ip": "160.188.90.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Budget instead issue stand front. Challenge successful generation remain issue.\nOk music story meeting another interest back. Strong address its order.",
+        "bio": "Natural cell reality. Eat high produce better time likely. Eat real morning although."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
