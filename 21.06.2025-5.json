@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie White",
+    "age": 115,
+    "address": {
+        "street": "Lane Land",
+        "city": "Randallburgh",
+        "state": "Maine",
+        "zip": "15464"
+    },
+    "contact": {
+        "phone": "(665)479-1978x069",
+        "servicePhone": "800857139"
+    },
+    "birthday": "1910-07-11",
+    "ip": "93.241.17.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Step peace dinner risk. Course remember all lawyer somebody network blood choice.\nBag describe guy dog. Than hour ask prevent. Total role how carry building population.",
+        "bio": "Become standard wait others force professor mention. Entire street movie action Mr enjoy face. On expect fall it scene."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
