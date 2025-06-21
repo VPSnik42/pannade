@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Townsend",
+    "age": 88,
+    "address": {
+        "street": "Andrea Ferry",
+        "city": "Lisafurt",
+        "state": "Vermont",
+        "zip": "75996"
+    },
+    "contact": {
+        "phone": "659-347-3557x409",
+        "servicePhone": "800892127"
+    },
+    "birthday": "1937-14-11",
+    "ip": "137.152.174.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Want energy speak today. Product price charge smile.\nDiscover product improve go poor door. Provide remember executive your. Life garden bag.\nThird five feeling decision.",
+        "bio": "Show once guy PM produce often politics visit. Their operation for increase card.\nAnything enjoy give huge people. Especially weight us although. Politics smile man several enough."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
