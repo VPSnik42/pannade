@@ -1,0 +1,25 @@
+{
+    "name": "Justin Blackwell",
+    "age": 12,
+    "address": {
+        "street": "Sheila Mill",
+        "city": "Lake Ashleyburgh",
+        "state": "Indiana",
+        "zip": "00987"
+    },
+    "contact": {
+        "phone": "+1-829-563-0270",
+        "servicePhone": "800741039"
+    },
+    "birthday": "2013-20-11",
+    "ip": "113.58.250.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Nature teacher dark.\nDecide ready always every laugh out available. Standard boy use Democrat actually. Leave eye oil start reflect also few.",
+        "bio": "Yard choice artist. Method ten worker figure hard along between.\nRemain agent ok girl. Bank group generation respond. House question physical plan."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
