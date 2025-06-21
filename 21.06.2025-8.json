@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Rojas",
+    "age": 42,
+    "address": {
+        "street": "Caroline River",
+        "city": "North Patrick",
+        "state": "Minnesota",
+        "zip": "39930"
+    },
+    "contact": {
+        "phone": "873.291.7930",
+        "servicePhone": "800092486"
+    },
+    "birthday": "1983-23-02",
+    "ip": "219.44.186.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Could usually thought set price style. Probably people exist international entire.\nAcross box call throughout yourself both.\nAnd follow city too. Special news sea call.",
+        "bio": "Voice certain product. Old soldier receive consumer also way.\nBody firm central. Term opportunity he. Meeting company form adult."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
