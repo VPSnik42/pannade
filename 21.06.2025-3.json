@@ -1,0 +1,25 @@
+{
+    "name": "Robert Pratt",
+    "age": 97,
+    "address": {
+        "street": "Chris Lock",
+        "city": "Port Gregoryborough",
+        "state": "Washington",
+        "zip": "04207"
+    },
+    "contact": {
+        "phone": "+1-792-559-0760x79053",
+        "servicePhone": "800989828"
+    },
+    "birthday": "1928-20-03",
+    "ip": "128.254.213.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Fire cell expect per chance thing rate discussion. Represent those know rock theory seek.\nStep must your economic require. Bag throughout go book. Nearly answer citizen within.",
+        "bio": "Field down start future worker near. Peace wait necessary man sometimes federal.\nWorry role building consumer whose majority. Every deep someone. Never thus finish never stuff common join both."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
