@@ -1,0 +1,25 @@
+{
+    "name": "Charles Henry",
+    "age": 36,
+    "address": {
+        "street": "Romero Overpass",
+        "city": "South Joshua",
+        "state": "Kansas",
+        "zip": "68734"
+    },
+    "contact": {
+        "phone": "720.627.6636",
+        "servicePhone": "800229655"
+    },
+    "birthday": "1989-17-09",
+    "ip": "159.109.11.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Control American sign argue guy from. Help mouth cup all protect.\nSupport voice recent. Hand own and. Pull follow little various individual score two.",
+        "bio": "Democrat everything month return summer. List radio heavy west past way somebody letter.\nCivil her site small wear sea able. Sort reach southern training everybody then."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
