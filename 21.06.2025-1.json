@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Marquez",
+    "age": 34,
+    "address": {
+        "street": "Molly Avenue",
+        "city": "Lake Deborah",
+        "state": "Colorado",
+        "zip": "41104"
+    },
+    "contact": {
+        "phone": "648-428-1026",
+        "servicePhone": "800303200"
+    },
+    "birthday": "1991-23-12",
+    "ip": "99.226.28.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Sister sometimes speech. Since third officer agency important often war. Network no Democrat black little find partner.",
+        "bio": "Compare effort benefit decide. Language card part physical police gun relate stop."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
