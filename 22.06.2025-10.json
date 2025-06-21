@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Lane",
+    "age": 43,
+    "address": {
+        "street": "Kenneth Oval",
+        "city": "Danielstad",
+        "state": "Hawaii",
+        "zip": "04201"
+    },
+    "contact": {
+        "phone": "(729)453-7194x5397",
+        "servicePhone": "800083917"
+    },
+    "birthday": "1982-03-08",
+    "ip": "111.134.25.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Health week response speak open ten close. School season speech million director beyond big. Lawyer support human town whether network light.",
+        "bio": "Arrive yourself center defense. Always arm dark attorney long.\nNote area control into about cover throw. Try rule fear available front trouble color. Dark mission chance race sound story."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
