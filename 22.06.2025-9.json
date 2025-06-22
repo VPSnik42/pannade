@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Snyder",
+    "age": 87,
+    "address": {
+        "street": "Moore Forest",
+        "city": "Alvaradobury",
+        "state": "Illinois",
+        "zip": "21206"
+    },
+    "contact": {
+        "phone": "(213)876-7425x955",
+        "servicePhone": "800057479"
+    },
+    "birthday": "1938-22-09",
+    "ip": "122.25.175.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Attorney expert anyone moment election the force. Itself former page great country.\nRelationship single somebody morning sense. Blue know wear here skill.",
+        "bio": "Mother experience hotel team memory guess to different. Price sense law use once must news."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
