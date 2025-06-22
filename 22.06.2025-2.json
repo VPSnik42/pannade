@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Graham",
+    "age": 70,
+    "address": {
+        "street": "Smith Mall",
+        "city": "West Joseph",
+        "state": "New York",
+        "zip": "47371"
+    },
+    "contact": {
+        "phone": "001-894-530-3330",
+        "servicePhone": "800793509"
+    },
+    "birthday": "1955-05-06",
+    "ip": "64.58.241.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Represent I trip seek how. Head series happy spend. Shake above happen free.\nClaim result thing rule page. Four and especially term short model. Boy defense hope fact follow.",
+        "bio": "Degree thank race father. Chair national develop nation budget especially car."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
