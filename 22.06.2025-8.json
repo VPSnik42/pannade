@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Cardenas",
+    "age": 1,
+    "address": {
+        "street": "Lori Path",
+        "city": "West Tiffanyview",
+        "state": "Alaska",
+        "zip": "71754"
+    },
+    "contact": {
+        "phone": "573.628.7207x2357",
+        "servicePhone": "800559562"
+    },
+    "birthday": "2024-09-09",
+    "ip": "101.117.234.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Because many rock raise. Anything his many rate really. Next perhaps true stop.\nInteresting put positive benefit ball as. Outside think simply. Easy trip suddenly number.",
+        "bio": "Hotel international only note require religious sometimes. Who both film give option.\nAttention run involve seek. Right guess both process item turn."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
