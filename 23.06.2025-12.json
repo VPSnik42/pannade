@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Burke",
+    "age": 8,
+    "address": {
+        "street": "Suzanne Turnpike",
+        "city": "New Wendy",
+        "state": "Oklahoma",
+        "zip": "37666"
+    },
+    "contact": {
+        "phone": "431-974-1626",
+        "servicePhone": "800238677"
+    },
+    "birthday": "2017-16-08",
+    "ip": "2.143.38.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Behind follow street open. Strategy left media another letter who avoid. Activity tax cost house.",
+        "bio": "Notice off hit surface. Mother job talk score community lot these person.\nPer cover dark. Sound recent about will half money. Mother politics watch remain thing generation."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
