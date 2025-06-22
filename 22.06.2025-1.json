@@ -1,0 +1,25 @@
+{
+    "name": "Dr. William Anthony",
+    "age": 99,
+    "address": {
+        "street": "Sharp Forks",
+        "city": "Stephensstad",
+        "state": "Iowa",
+        "zip": "70433"
+    },
+    "contact": {
+        "phone": "778.851.4323x3523",
+        "servicePhone": "800288033"
+    },
+    "birthday": "1926-17-07",
+    "ip": "150.30.32.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Receive including require morning. Resource less receive president establish be. Upon almost guy past performance.\nMy accept camera rise. Evidence keep pick child whether rate.",
+        "bio": "Thousand board sort up approach forward among food. Glass writer baby deal Mr. Require help key little what season top."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
