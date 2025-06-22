@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Freeman",
+    "age": 11,
+    "address": {
+        "street": "Brian Trail",
+        "city": "Matthewsborough",
+        "state": "Minnesota",
+        "zip": "88096"
+    },
+    "contact": {
+        "phone": "+1-760-661-8326x3764",
+        "servicePhone": "800408309"
+    },
+    "birthday": "2014-23-07",
+    "ip": "24.245.138.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Exist carry life century. Thing party situation know pick others husband. Sit strong appear tonight trip near.\nTwo serve soldier memory owner. Both time owner senior.",
+        "bio": "Happy attorney manage live fly key. Will reduce history.\nInto paper no. The dream compare so power fall store. Allow data himself day type ball.\nProfessional southern control recently summer."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
