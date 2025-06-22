@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Jones",
+    "age": 8,
+    "address": {
+        "street": "Hall Extension",
+        "city": "North Linda",
+        "state": "Utah",
+        "zip": "28631"
+    },
+    "contact": {
+        "phone": "001-281-503-3411x10428",
+        "servicePhone": "800094203"
+    },
+    "birthday": "2017-29-11",
+    "ip": "105.191.216.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Firm director word idea technology give tell. International song newspaper management game fund discuss feel. Style plan when board control born.",
+        "bio": "Painting positive name just art state size. Social story network. Often teach important agree American.\nHistory join lose federal approach group southern. Clear gas official miss face."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
