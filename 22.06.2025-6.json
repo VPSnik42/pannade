@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Horn",
+    "age": 21,
+    "address": {
+        "street": "Kirk Glen",
+        "city": "Bowerston",
+        "state": "New York",
+        "zip": "67567"
+    },
+    "contact": {
+        "phone": "(412)596-2018",
+        "servicePhone": "800286555"
+    },
+    "birthday": "2004-10-11",
+    "ip": "12.210.193.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Deep product staff there science. Drive remain long moment charge during. Follow force almost. Send piece major defense sit government effort.",
+        "bio": "Happy itself go it data prove base. Mrs start couple threat.\nPoint throw situation us hope dinner field sign. Rule during really reduce. Billion professional worker company want customer."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
