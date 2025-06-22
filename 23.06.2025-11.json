@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Johnson",
+    "age": 37,
+    "address": {
+        "street": "Vincent Wall",
+        "city": "North Nicolechester",
+        "state": "Arizona",
+        "zip": "96666"
+    },
+    "contact": {
+        "phone": "265-710-6903",
+        "servicePhone": "800375629"
+    },
+    "birthday": "1988-20-06",
+    "ip": "59.47.225.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Campaign agree budget fact risk property ten. Dark fill simply white look. Most simply common item successful movement.",
+        "bio": "Sport product shake by condition serious assume. Thing south next institution. New prove thank travel safe test fill rate. Return never agent dream woman at."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
