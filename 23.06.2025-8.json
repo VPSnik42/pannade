@@ -1,0 +1,25 @@
+{
+    "name": "Annette Thompson",
+    "age": 111,
+    "address": {
+        "street": "Richard Crest",
+        "city": "Port Kristin",
+        "state": "Iowa",
+        "zip": "14062"
+    },
+    "contact": {
+        "phone": "+1-784-937-8646x7143",
+        "servicePhone": "800062993"
+    },
+    "birthday": "1914-16-12",
+    "ip": "109.157.243.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Commercial strategy government day. Mouth kitchen us raise wait west. Particularly building radio talk around city.",
+        "bio": "Use concern own day. Glass activity particularly eight eat late again improve. Song very staff cut gas participant.\nEat stand instead sure catch. Claim interesting former machine stuff."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
