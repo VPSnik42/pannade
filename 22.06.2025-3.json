@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Taylor",
+    "age": 96,
+    "address": {
+        "street": "Sheila Vista",
+        "city": "New Jonathanfurt",
+        "state": "Delaware",
+        "zip": "81151"
+    },
+    "contact": {
+        "phone": "9642969373",
+        "servicePhone": "800508030"
+    },
+    "birthday": "1929-15-08",
+    "ip": "16.194.57.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Computer cause third bill true her. Bad recent trade. Professor thing race man spend piece.\nStyle world win. Tax rule each property care act.",
+        "bio": "Be artist oil culture writer become car board. Hour old something wife can top police. Western benefit simply."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
