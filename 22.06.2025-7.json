@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Jones",
+    "age": 20,
+    "address": {
+        "street": "Jackie Extension",
+        "city": "West Heatherborough",
+        "state": "Arizona",
+        "zip": "49142"
+    },
+    "contact": {
+        "phone": "001-634-395-4627x7314",
+        "servicePhone": "800723289"
+    },
+    "birthday": "2005-25-09",
+    "ip": "8.94.109.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Even light agreement shake take right. Either voice citizen film mission performance various.",
+        "bio": "Sport majority idea effect anything parent. Accept place call born far determine trouble town.\nSee court even suffer them doctor other. More if good bed."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
