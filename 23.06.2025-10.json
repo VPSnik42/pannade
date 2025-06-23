@@ -1,0 +1,25 @@
+{
+    "name": "Robert Rojas",
+    "age": 63,
+    "address": {
+        "street": "Massey Spring",
+        "city": "Schultzview",
+        "state": "South Dakota",
+        "zip": "70613"
+    },
+    "contact": {
+        "phone": "(994)300-7854",
+        "servicePhone": "800385150"
+    },
+    "birthday": "1962-16-12",
+    "ip": "215.211.23.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Thus seven item learn them place source. Other language majority style.",
+        "bio": "Prove on exactly watch police require painting. Tough cell state check economic coach. Next government seven put peace stay.\nRepresent stuff often nor. Write writer blood lawyer."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
