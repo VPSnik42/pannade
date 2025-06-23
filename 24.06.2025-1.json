@@ -1,0 +1,25 @@
+{
+    "name": "Julia Ochoa",
+    "age": 60,
+    "address": {
+        "street": "Richards Drive",
+        "city": "Port Jennifer",
+        "state": "Missouri",
+        "zip": "80583"
+    },
+    "contact": {
+        "phone": "435.476.8217",
+        "servicePhone": "800045197"
+    },
+    "birthday": "1965-05-01",
+    "ip": "196.68.45.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior think attorney discover. Staff court part according suggest. Tough as economic behavior look professional well reach.",
+        "bio": "Which anything whom popular. Conference up exist decade.\nOk health forward mind of. True dinner bed almost show. Than technology red population run.\nControl them me animal. Exist performance you."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
