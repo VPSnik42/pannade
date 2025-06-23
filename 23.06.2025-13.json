@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Price",
+    "age": 107,
+    "address": {
+        "street": "Tucker Circle",
+        "city": "Jenniferburgh",
+        "state": "Wyoming",
+        "zip": "07771"
+    },
+    "contact": {
+        "phone": "+1-244-236-6716x554",
+        "servicePhone": "800410878"
+    },
+    "birthday": "1918-07-04",
+    "ip": "151.74.116.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Should design eat thus me box.\nProve material line let section behind. Culture explain car west resource might. Type I organization story. Want necessary training heavy heavy.",
+        "bio": "Cause tell vote bed. Price citizen experience trouble maybe start."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
