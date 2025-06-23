@@ -1,0 +1,25 @@
+{
+    "name": "Brian Kim",
+    "age": 38,
+    "address": {
+        "street": "Larsen Rue",
+        "city": "Cameronburgh",
+        "state": "Kansas",
+        "zip": "01872"
+    },
+    "contact": {
+        "phone": "+1-452-528-3940x158",
+        "servicePhone": "800302569"
+    },
+    "birthday": "1987-27-05",
+    "ip": "103.242.123.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Air face report trade each. Far head black evidence sound voice. Ahead fire bit.\nNot check expect back arm add when. Doctor imagine look help realize after design.",
+        "bio": "Couple why guy difficult similar TV imagine.\nShow red market available effect economy chair. Writer bed leave far its make would. World the gas."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
