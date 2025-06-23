@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Thompson",
+    "age": 90,
+    "address": {
+        "street": "Harrison Square",
+        "city": "Joycebury",
+        "state": "West Virginia",
+        "zip": "88776"
+    },
+    "contact": {
+        "phone": "(782)251-1096",
+        "servicePhone": "800504681"
+    },
+    "birthday": "1935-30-09",
+    "ip": "183.75.206.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Star radio letter together watch. Region myself by force personal fact tell others. Main college property floor join plan.\nWay rock lot woman building off. During job stock information mean many out.",
+        "bio": "Tv boy technology blue television. Brother mother wind. Maintain television exist budget approach. Despite green subject its century seem."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
