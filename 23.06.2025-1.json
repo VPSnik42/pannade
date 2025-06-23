@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Pittman",
+    "age": 3,
+    "address": {
+        "street": "Deborah Island",
+        "city": "Wandaborough",
+        "state": "North Dakota",
+        "zip": "19143"
+    },
+    "contact": {
+        "phone": "4099706406",
+        "servicePhone": "800636825"
+    },
+    "birthday": "2022-06-01",
+    "ip": "95.64.8.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Story loss success for. Somebody next there leave. Lose administration spring above federal true enough both.\nReal possible avoid music less. Prove continue level result subject.",
+        "bio": "Fact rule story country baby. Onto event government me. Stuff citizen physical present life.\nBeat energy leave television woman daughter."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
