@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Ball",
+    "age": 96,
+    "address": {
+        "street": "Phillips Viaduct",
+        "city": "Port Lori",
+        "state": "South Carolina",
+        "zip": "98601"
+    },
+    "contact": {
+        "phone": "+1-815-556-1275x555",
+        "servicePhone": "800451611"
+    },
+    "birthday": "1929-24-05",
+    "ip": "186.235.206.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Marriage yourself almost process. Imagine some phone our situation true since. Account budget quickly evidence.",
+        "bio": "Small far table tend leader.\nShould check story control after away. Customer bank style rock establish.\nAmount quickly stay case. Policy list return could career while."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
