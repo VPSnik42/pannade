@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Oliver",
+    "age": 114,
+    "address": {
+        "street": "Miller Mill",
+        "city": "Jonesshire",
+        "state": "North Carolina",
+        "zip": "12682"
+    },
+    "contact": {
+        "phone": "(428)864-4862x66476",
+        "servicePhone": "800835468"
+    },
+    "birthday": "1911-25-03",
+    "ip": "220.249.60.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget operation might before. Mr although outside data bad wide PM.\nStop boy ball once mention century. Old assume role situation.",
+        "bio": "Address message three fire including born color story. Particular think director brother. Up foot seek new difference black.\nWestern decide head continue. View central character serious."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
