@@ -1,0 +1,25 @@
+{
+    "name": "Tara Washington",
+    "age": 107,
+    "address": {
+        "street": "Devon Coves",
+        "city": "Rachelchester",
+        "state": "Tennessee",
+        "zip": "51898"
+    },
+    "contact": {
+        "phone": "(762)507-9389x391",
+        "servicePhone": "800691673"
+    },
+    "birthday": "1918-28-09",
+    "ip": "199.113.100.253",
+    "foo": "bar",
+    "profile": {
+        "about": "With side mean among alone much. Audience trip which spring model consider grow already.",
+        "bio": "Many thus bed save nor common small not.\nOfficer financial spend business instead wrong son. Let sometimes house name."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
