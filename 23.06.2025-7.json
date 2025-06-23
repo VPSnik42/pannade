@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Clark",
+    "age": 56,
+    "address": {
+        "street": "David Junction",
+        "city": "Port Charlesstad",
+        "state": "Tennessee",
+        "zip": "80520"
+    },
+    "contact": {
+        "phone": "275-800-1089x785",
+        "servicePhone": "800651145"
+    },
+    "birthday": "1969-05-03",
+    "ip": "122.157.191.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Into note find attorney spend store. Consumer evidence popular admit but question. Off right seat. Guess trouble seat prove require.",
+        "bio": "Measure economy necessary through others section. Eat never mention them. Meet remember between feel science cup life."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
