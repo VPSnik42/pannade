@@ -1,0 +1,25 @@
+{
+    "name": "Melanie Reed",
+    "age": 31,
+    "address": {
+        "street": "Mason Glens",
+        "city": "Laurenshire",
+        "state": "Connecticut",
+        "zip": "46674"
+    },
+    "contact": {
+        "phone": "2433450474",
+        "servicePhone": "800433462"
+    },
+    "birthday": "1994-10-10",
+    "ip": "14.168.115.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Seek past week follow race painting site why. Sell room across television go contain item.",
+        "bio": "School operation cultural able course.\nEconomy read opportunity miss out close north. Like bed modern of rise lose any. Coach dog agree themselves discuss."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
