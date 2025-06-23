@@ -1,0 +1,25 @@
+{
+    "name": "Brett Fisher",
+    "age": 46,
+    "address": {
+        "street": "Soto Crest",
+        "city": "Harpermouth",
+        "state": "Rhode Island",
+        "zip": "80978"
+    },
+    "contact": {
+        "phone": "(711)472-6735",
+        "servicePhone": "800403381"
+    },
+    "birthday": "1979-16-03",
+    "ip": "134.163.183.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Require evening outside. Along of century decade according consumer attack.\nAnswer win manage point paper industry. Significant whom suddenly name president whom grow.",
+        "bio": "Space key able affect know message table."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
