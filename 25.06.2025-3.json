@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Taylor",
+    "age": 84,
+    "address": {
+        "street": "Love Meadow",
+        "city": "Williamsbury",
+        "state": "South Dakota",
+        "zip": "27009"
+    },
+    "contact": {
+        "phone": "704.541.2876",
+        "servicePhone": "800225946"
+    },
+    "birthday": "1941-22-06",
+    "ip": "219.53.159.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Model according other high. Resource data national experience theory develop hair through.\nHuge father be scene such TV different.\nLife inside true cost situation cut most.",
+        "bio": "Early can entire mention program city rise. Care appear our police.\nHerself they picture movie. Whom development live. Find others million they attack."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
