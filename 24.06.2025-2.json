@@ -1,0 +1,25 @@
+{
+    "name": "Ian Carroll",
+    "age": 51,
+    "address": {
+        "street": "Jeffery Village",
+        "city": "Hartberg",
+        "state": "Montana",
+        "zip": "49913"
+    },
+    "contact": {
+        "phone": "442-346-1325x697",
+        "servicePhone": "800202838"
+    },
+    "birthday": "1974-08-11",
+    "ip": "5.164.37.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist daughter throughout change hour rule. Price network crime far grow notice.",
+        "bio": "Kid specific during decision necessary especially. Quality west government use anyone. Vote project former audience.\nWide simply good face per finish protect other. Republican great kind."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
