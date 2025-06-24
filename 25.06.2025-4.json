@@ -1,0 +1,25 @@
+{
+    "name": "Mary Levy",
+    "age": 108,
+    "address": {
+        "street": "Jeremy Groves",
+        "city": "East Thomas",
+        "state": "New Jersey",
+        "zip": "42258"
+    },
+    "contact": {
+        "phone": "+1-374-928-0611x39612",
+        "servicePhone": "800273348"
+    },
+    "birthday": "1917-31-12",
+    "ip": "205.211.172.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Them guess middle establish. Particular open evening sport central.\nIndustry form mention lead. Always shoulder above grow religious before if seek.",
+        "bio": "Against modern when now nor.\nBox remain despite education window none agree. Speak dream process finish produce consider six whole. Partner quality step much new full."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
