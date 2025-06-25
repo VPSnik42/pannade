@@ -1,0 +1,25 @@
+{
+    "name": "Miss Anna May",
+    "age": 79,
+    "address": {
+        "street": "Miller Crest",
+        "city": "South Austin",
+        "state": "Wisconsin",
+        "zip": "56347"
+    },
+    "contact": {
+        "phone": "(452)952-2979x37493",
+        "servicePhone": "800649992"
+    },
+    "birthday": "1946-13-08",
+    "ip": "22.70.128.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Less against day. Police amount teacher left country admit wind open. Hear benefit argue bar newspaper entire nearly.\nMuch business either business.",
+        "bio": "Daughter president situation everything gas discussion. Often idea list minute drive.\nReach society work heart again. When language letter."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
