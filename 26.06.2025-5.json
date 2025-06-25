@@ -1,0 +1,25 @@
+{
+    "name": "Steve Bauer",
+    "age": 67,
+    "address": {
+        "street": "Hernandez Landing",
+        "city": "Sandrabury",
+        "state": "Illinois",
+        "zip": "62395"
+    },
+    "contact": {
+        "phone": "(530)749-8715x71638",
+        "servicePhone": "800395777"
+    },
+    "birthday": "1958-10-12",
+    "ip": "3.189.183.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Heavy note western south prevent fine. Instead skill natural meet current sea us itself. Open event herself keep.",
+        "bio": "Performance light wish return. Final appear dark hour property study. What know general ok way beyond bit."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
