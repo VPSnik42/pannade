@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Garcia",
+    "age": 62,
+    "address": {
+        "street": "Rice Mountain",
+        "city": "South Dana",
+        "state": "Washington",
+        "zip": "58557"
+    },
+    "contact": {
+        "phone": "(928)450-6337x185",
+        "servicePhone": "800026236"
+    },
+    "birthday": "1963-19-07",
+    "ip": "47.133.94.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Sort picture message.\nHuman authority prepare record per bag. Should tree dream civil matter remain catch. Consumer human parent argue.",
+        "bio": "Peace partner four store. Fine political machine finally now blood.\nMilitary behind single pull local person. Firm soldier study general less. Ten identify policy per card exist six evening."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
