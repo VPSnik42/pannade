@@ -1,0 +1,25 @@
+{
+    "name": "Cristian Allen",
+    "age": 32,
+    "address": {
+        "street": "Lopez Trail",
+        "city": "Juanchester",
+        "state": "Maine",
+        "zip": "27222"
+    },
+    "contact": {
+        "phone": "+1-768-688-2268x00006",
+        "servicePhone": "800293226"
+    },
+    "birthday": "1993-24-05",
+    "ip": "45.84.107.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Realize ago put design hard side outside. Resource two bag soldier. Kid who this. Policy her interview war movie.",
+        "bio": "Head level factor peace. Event true police appear court threat smile.\nWorld your truth red light. Mr fine half fact herself interest debate. Stage drive though remain body government sound."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
