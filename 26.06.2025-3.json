@@ -1,0 +1,25 @@
+{
+    "name": "Sergio Klein",
+    "age": 93,
+    "address": {
+        "street": "Barnett Bridge",
+        "city": "Jeanport",
+        "state": "Kansas",
+        "zip": "18706"
+    },
+    "contact": {
+        "phone": "304.391.1730",
+        "servicePhone": "800505501"
+    },
+    "birthday": "1932-23-04",
+    "ip": "184.91.235.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Major if exist cultural. Without foreign both bank. Civil toward music it country.\nTerm daughter use down dog speak. Important science black management trial mission nor.",
+        "bio": "Clearly across whom nor board. Win pretty else trade thank.\nThreat begin kind born really edge. Represent effort successful."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
