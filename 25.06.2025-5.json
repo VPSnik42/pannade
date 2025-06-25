@@ -1,0 +1,25 @@
+{
+    "name": "Marcus Davis",
+    "age": 22,
+    "address": {
+        "street": "Claire Gardens",
+        "city": "East Brenda",
+        "state": "Nevada",
+        "zip": "83905"
+    },
+    "contact": {
+        "phone": "390-958-9768",
+        "servicePhone": "800739259"
+    },
+    "birthday": "2003-29-10",
+    "ip": "201.155.254.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Close I house play figure loss deep former.\nFact position sit test gas life member one. The treatment pattern at child poor develop per.\nPhone me resource early middle. Think history memory.",
+        "bio": "Film feel bad speech loss. Them early question economy detail station it. Give prevent rise mission.\nAble nothing boy knowledge similar study without."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
