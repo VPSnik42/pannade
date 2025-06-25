@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Wong",
+    "age": 81,
+    "address": {
+        "street": "Larry Course",
+        "city": "Port Joseph",
+        "state": "Illinois",
+        "zip": "71933"
+    },
+    "contact": {
+        "phone": "568.665.9041",
+        "servicePhone": "800610937"
+    },
+    "birthday": "1944-02-09",
+    "ip": "108.197.115.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Almost best into see clearly expect. That behavior house house crime more arrive bed.\nReflect down world spring.\nOfficial consumer seek age three must. Five pick window buy discover three.",
+        "bio": "Maybe some marriage live big special grow. Fast admit contain big.\nGovernment top life painting couple action. People have make itself character buy."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
