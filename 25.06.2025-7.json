@@ -1,0 +1,25 @@
+{
+    "name": "Michael Miller",
+    "age": 35,
+    "address": {
+        "street": "Carol Ford",
+        "city": "North Jesse",
+        "state": "Minnesota",
+        "zip": "03408"
+    },
+    "contact": {
+        "phone": "570.284.7269x66606",
+        "servicePhone": "800436844"
+    },
+    "birthday": "1990-15-05",
+    "ip": "111.24.14.30",
+    "foo": "bar",
+    "profile": {
+        "about": "College cover alone by general there window. Dog chair say data. Then wait develop community TV kid.",
+        "bio": "Answer and day doctor we. Take free political represent tough. Ball fast arrive. Identify claim western fight until know others boy."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
