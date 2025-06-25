@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Adams",
+    "age": 48,
+    "address": {
+        "street": "Jackson Streets",
+        "city": "North James",
+        "state": "South Carolina",
+        "zip": "74013"
+    },
+    "contact": {
+        "phone": "309-284-6164",
+        "servicePhone": "800662166"
+    },
+    "birthday": "1977-22-04",
+    "ip": "104.230.134.240",
+    "foo": "bar",
+    "profile": {
+        "about": "History on music carry beat road.\nSoldier woman arrive. Perform boy nation. His speak sense final trial nature major behavior.",
+        "bio": "Face pretty body add.\nCapital world back particular player claim decide. Staff loss test opportunity benefit tree. Especially time easy especially hit purpose."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
