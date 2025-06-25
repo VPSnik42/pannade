@@ -1,0 +1,25 @@
+{
+    "name": "Deanna Lopez",
+    "age": 113,
+    "address": {
+        "street": "Garcia Light",
+        "city": "Lake Jeffery",
+        "state": "Alaska",
+        "zip": "24575"
+    },
+    "contact": {
+        "phone": "8294383446",
+        "servicePhone": "800391531"
+    },
+    "birthday": "1912-28-03",
+    "ip": "83.155.250.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Last series surface available organization us tax report. Commercial three themselves somebody community cause cover north.",
+        "bio": "Analysis wind we whom. Dark message apply commercial as story live. Author radio thus nature. Bring stock as man.\nJust black lead modern order accept and."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
