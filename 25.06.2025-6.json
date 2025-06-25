@@ -1,0 +1,25 @@
+{
+    "name": "Austin Rogers",
+    "age": 110,
+    "address": {
+        "street": "Brittany Pike",
+        "city": "Michaelborough",
+        "state": "Mississippi",
+        "zip": "39521"
+    },
+    "contact": {
+        "phone": "352-984-7570x09827",
+        "servicePhone": "800514135"
+    },
+    "birthday": "1915-21-06",
+    "ip": "81.184.164.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Box begin physical debate after focus already. Light south one scene statement nation until. Class lot necessary bar artist word.",
+        "bio": "Bank next subject response. Available result generation thousand movie its step.\nFormer allow trouble. Old especially man spend day recently happy table. List place power our condition federal."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
