@@ -1,0 +1,25 @@
+{
+    "name": "Caroline Flores",
+    "age": 6,
+    "address": {
+        "street": "Sandra View",
+        "city": "South Joshua",
+        "state": "Idaho",
+        "zip": "50051"
+    },
+    "contact": {
+        "phone": "353-517-8033",
+        "servicePhone": "800266544"
+    },
+    "birthday": "2019-18-06",
+    "ip": "66.63.105.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Report right theory history woman within government. Foot home long maintain exist interest. Offer speech car.",
+        "bio": "Cell street cell stand unit. Quickly relate particularly morning share appear individual. Lot it also understand science line."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
