@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Montoya",
+    "age": 19,
+    "address": {
+        "street": "Chapman Expressway",
+        "city": "Bryanland",
+        "state": "Iowa",
+        "zip": "73271"
+    },
+    "contact": {
+        "phone": "973-233-2655",
+        "servicePhone": "800609361"
+    },
+    "birthday": "2006-29-10",
+    "ip": "139.113.14.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Bar of environmental movie mouth.\nTeach friend young beautiful health reach. Beat will bad of close fund. Magazine particular rise occur hotel let cell.",
+        "bio": "Value section indicate past. Even professional little down name statement. Institution identify data letter guy air. Will wall dream person day team."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
