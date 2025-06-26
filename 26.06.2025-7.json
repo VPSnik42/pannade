@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Sampson",
+    "age": 76,
+    "address": {
+        "street": "King Walk",
+        "city": "West Donna",
+        "state": "Nebraska",
+        "zip": "89393"
+    },
+    "contact": {
+        "phone": "(285)941-6777x2685",
+        "servicePhone": "800867625"
+    },
+    "birthday": "1949-22-01",
+    "ip": "10.8.194.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Address energy leader way scientist size off. Film discuss present all home.\nFinal turn would blue. Citizen address training college.",
+        "bio": "Check about nor build style.\nWithout crime turn action now also certain. Much customer window picture. Leg on maybe nearly by certainly natural myself."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
