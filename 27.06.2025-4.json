@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Gillespie",
+    "age": 61,
+    "address": {
+        "street": "Hunter Creek",
+        "city": "Port Rodney",
+        "state": "Maryland",
+        "zip": "99184"
+    },
+    "contact": {
+        "phone": "205-846-9092x2077",
+        "servicePhone": "800631436"
+    },
+    "birthday": "1964-18-11",
+    "ip": "85.155.50.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Among could cell reveal Democrat do adult. Bring decide send wall usually fish nation produce.",
+        "bio": "Term away prevent toward move very. Direction tax wide director bill yeah rather song. With attention step line outside population. Include your security reason outside key."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
