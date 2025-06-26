@@ -1,0 +1,25 @@
+{
+    "name": "Amy Warner",
+    "age": 32,
+    "address": {
+        "street": "Arroyo Skyway",
+        "city": "Barbaraville",
+        "state": "Indiana",
+        "zip": "58022"
+    },
+    "contact": {
+        "phone": "001-454-744-1703",
+        "servicePhone": "800017700"
+    },
+    "birthday": "1993-25-05",
+    "ip": "75.225.93.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer key few certain cultural tonight.\nPartner quite late. Care then act whom western bar recent.\nDrop special least spring land. Project protect student catch keep light ready onto.",
+        "bio": "Check society sense question. News always catch second give few trouble. Official heart send prepare."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
