@@ -1,0 +1,25 @@
+{
+    "name": "Mark Garcia",
+    "age": 67,
+    "address": {
+        "street": "Mclaughlin Plaza",
+        "city": "New Christina",
+        "state": "Kentucky",
+        "zip": "09189"
+    },
+    "contact": {
+        "phone": "(241)786-3530x3614",
+        "servicePhone": "800880078"
+    },
+    "birthday": "1958-24-08",
+    "ip": "7.201.57.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Ask offer why agency. Send agency under receive wind on sometimes. Start miss cold.\nGirl less instead also quickly. Threat today tax true.",
+        "bio": "Personal provide model training break not. Business its point paper hand generation. Affect marriage feeling different per leg. Firm by candidate second myself speech."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
