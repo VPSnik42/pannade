@@ -1,0 +1,25 @@
+{
+    "name": "Laura Warner",
+    "age": 49,
+    "address": {
+        "street": "Lucas Course",
+        "city": "East Paigeberg",
+        "state": "Virginia",
+        "zip": "42305"
+    },
+    "contact": {
+        "phone": "001-590-226-1052x29774",
+        "servicePhone": "800483746"
+    },
+    "birthday": "1976-25-11",
+    "ip": "198.166.33.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Ground present week night. Magazine moment large class. Same start each per few.\nThreat anything particular beautiful though.",
+        "bio": "Beat later long bed tonight marriage people. Nearly answer stay. Religious hand save state pretty.\nProfessional long eye yeah himself."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
