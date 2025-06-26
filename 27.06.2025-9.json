@@ -1,0 +1,25 @@
+{
+    "name": "Jaime Benson",
+    "age": 101,
+    "address": {
+        "street": "Katherine Squares",
+        "city": "Michaelberg",
+        "state": "Wyoming",
+        "zip": "57999"
+    },
+    "contact": {
+        "phone": "236-523-5792x5361",
+        "servicePhone": "800019335"
+    },
+    "birthday": "1924-13-08",
+    "ip": "177.232.10.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Network tell fact teacher. Environment worker argue page.\nArea about stop employee physical present. Perhaps attack eight improve throughout hundred. Republican act figure factor.",
+        "bio": "Our young almost couple anyone. Yet himself when civil forget wind teach. Service too system development."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
