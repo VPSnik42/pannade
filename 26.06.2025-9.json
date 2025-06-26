@@ -1,0 +1,25 @@
+{
+    "name": "Terri Navarro",
+    "age": 28,
+    "address": {
+        "street": "Ramirez Center",
+        "city": "Silvatown",
+        "state": "Iowa",
+        "zip": "83742"
+    },
+    "contact": {
+        "phone": "715-616-5514",
+        "servicePhone": "800696890"
+    },
+    "birthday": "1997-27-02",
+    "ip": "86.32.250.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold enjoy her worry like reflect. Reveal her baby hard. Near ago somebody media economy make indeed.",
+        "bio": "Happy whose property place. Mention important spring rise hair be despite. Continue article admit five future."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
