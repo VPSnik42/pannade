@@ -1,0 +1,25 @@
+{
+    "name": "Jessica White",
+    "age": 81,
+    "address": {
+        "street": "Alyssa Heights",
+        "city": "Robertville",
+        "state": "Michigan",
+        "zip": "84423"
+    },
+    "contact": {
+        "phone": "(775)219-3158",
+        "servicePhone": "800167504"
+    },
+    "birthday": "1944-05-10",
+    "ip": "15.117.101.0",
+    "foo": "bar",
+    "profile": {
+        "about": "This tax serve baby. Check hundred maintain read recently.\nNot enough which environment. Since police follow land.",
+        "bio": "Network box mother matter understand just. Hot provide century nothing college many. Glass service become establish significant lead might."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
