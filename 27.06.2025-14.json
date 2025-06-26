@@ -1,0 +1,25 @@
+{
+    "name": "Michael Marsh",
+    "age": 9,
+    "address": {
+        "street": "Andrew Turnpike",
+        "city": "North Lori",
+        "state": "New York",
+        "zip": "89177"
+    },
+    "contact": {
+        "phone": "+1-984-497-6208",
+        "servicePhone": "800046093"
+    },
+    "birthday": "2016-20-06",
+    "ip": "176.7.96.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Camera full study operation should instead prevent. Writer girl travel carry include billion plant. Expert get similar small support leg.",
+        "bio": "Stand board property. Story benefit live area. Agency act garden anyone hot our even. Front stock defense report."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
