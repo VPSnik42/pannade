@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Thompson",
+    "age": 41,
+    "address": {
+        "street": "Robert Meadows",
+        "city": "Woodsberg",
+        "state": "Iowa",
+        "zip": "91338"
+    },
+    "contact": {
+        "phone": "(366)867-3742",
+        "servicePhone": "800797108"
+    },
+    "birthday": "1984-02-08",
+    "ip": "143.229.184.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Positive during choice article phone machine. So describe return.\nRequire everyone central line feeling. Several world candidate task spring. Start head article either whatever notice.",
+        "bio": "Remain ball college strategy often money. Miss treat service imagine. Check manager ask sing lay owner."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
