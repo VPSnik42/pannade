@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Smith",
+    "age": 67,
+    "address": {
+        "street": "Perry Locks",
+        "city": "Schmidtborough",
+        "state": "Washington",
+        "zip": "16027"
+    },
+    "contact": {
+        "phone": "366-646-4516x3829",
+        "servicePhone": "800377906"
+    },
+    "birthday": "1958-05-05",
+    "ip": "89.35.223.17",
+    "foo": "bar",
+    "profile": {
+        "about": "I their field throughout place left read. Blood perform reason country. State foot radio central science book heart.",
+        "bio": "Most manage list guy. Amount federal money president.\nIncluding possible music serious sound impact lead. Painting experience fear reason."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
