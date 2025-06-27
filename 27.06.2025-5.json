@@ -1,0 +1,25 @@
+{
+    "name": "James Ramirez",
+    "age": 86,
+    "address": {
+        "street": "Turner Knoll",
+        "city": "Port Krystal",
+        "state": "Minnesota",
+        "zip": "47498"
+    },
+    "contact": {
+        "phone": "396-542-0214",
+        "servicePhone": "800378890"
+    },
+    "birthday": "1939-18-03",
+    "ip": "12.228.54.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Industry people white kid. Garden prove here opportunity call some security. East understand little break.\nIn sea fall section morning. Behavior tough light human probably.",
+        "bio": "Season cover because season section others. Price energy start worker blood their. Science surface vote late.\nLet animal woman tonight section. Focus identify guess upon against experience color."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
