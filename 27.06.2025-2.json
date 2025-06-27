@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Williams",
+    "age": 111,
+    "address": {
+        "street": "Evans Ranch",
+        "city": "North Robertfort",
+        "state": "Maine",
+        "zip": "40453"
+    },
+    "contact": {
+        "phone": "001-396-260-8867x504",
+        "servicePhone": "800711108"
+    },
+    "birthday": "1914-02-02",
+    "ip": "157.15.179.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Yeah PM read now. Enough power beyond necessary. Pattern lot evidence future management.\nDegree need long evidence piece. Alone first which but. Sport arm everyone church sport edge practice.",
+        "bio": "Democratic according compare main remain.\nModel hit must skin. Will wind official old relate here. Society either customer weight meeting hand return."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
