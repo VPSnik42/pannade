@@ -1,0 +1,25 @@
+{
+    "name": "Michael Cummings",
+    "age": 85,
+    "address": {
+        "street": "Shannon Heights",
+        "city": "Port Joshuaton",
+        "state": "Rhode Island",
+        "zip": "47377"
+    },
+    "contact": {
+        "phone": "+1-623-235-9167",
+        "servicePhone": "800522858"
+    },
+    "birthday": "1940-11-07",
+    "ip": "215.41.66.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready dream attorney measure then author whose. Former beat perform give director real trouble.\nDecade audience child whom significant. Doctor themselves sister.",
+        "bio": "New course top.\nGuy possible investment success explain perhaps everything. Build sell still fall war main.\nBring even growth blood region decade. Think partner across letter social south."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
