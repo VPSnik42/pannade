@@ -1,0 +1,25 @@
+{
+    "name": "Dana Flores",
+    "age": 62,
+    "address": {
+        "street": "Hernandez Radial",
+        "city": "Mirandaberg",
+        "state": "Kentucky",
+        "zip": "39312"
+    },
+    "contact": {
+        "phone": "+1-258-434-1359",
+        "servicePhone": "800844596"
+    },
+    "birthday": "1963-28-01",
+    "ip": "184.233.51.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Class page wear media produce lose. Walk kind whatever consider.\nDeal court little rate enter. Side song audience red. Free field on here according them.\nAvailable some reveal service.",
+        "bio": "Go fine husband key paper begin air. Only grow road adult candidate attention speak.\nStay full others star family fly. Paper moment have. Election campaign ahead civil."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
