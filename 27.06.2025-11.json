@@ -1,0 +1,25 @@
+{
+    "name": "Beth Cain",
+    "age": 96,
+    "address": {
+        "street": "Robin Squares",
+        "city": "North Jamesland",
+        "state": "Kentucky",
+        "zip": "95488"
+    },
+    "contact": {
+        "phone": "686.494.4095",
+        "servicePhone": "800051694"
+    },
+    "birthday": "1929-25-07",
+    "ip": "165.130.89.220",
+    "foo": "bar",
+    "profile": {
+        "about": "List forget third later such perhaps teacher. Difficult project also that end stand class. Must out since despite.\nNatural thought respond site gas. Trip role book yard trial strategy.",
+        "bio": "Place medical energy and crime professional. Shoulder hot air with different all.\nAllow wide any nor letter. Off scene night pick citizen always.\nDrive reduce safe decade seek."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
