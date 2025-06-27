@@ -1,0 +1,25 @@
+{
+    "name": "Michael Williams",
+    "age": 23,
+    "address": {
+        "street": "Stacy Pike",
+        "city": "Crystalshire",
+        "state": "Kentucky",
+        "zip": "85416"
+    },
+    "contact": {
+        "phone": "624-426-0407x8727",
+        "servicePhone": "800778193"
+    },
+    "birthday": "2002-19-06",
+    "ip": "44.69.104.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Brother heart nation leader offer. Data audience together national.\nOut environment around character. Reality thing father.\nLeader child source high serious. Yeah book lay son.",
+        "bio": "And last art to force really.\nFinancial minute significant response prevent. Throughout international many shake later course us several. Him kind could popular quickly important thing."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
