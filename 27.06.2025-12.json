@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Simpson",
+    "age": 114,
+    "address": {
+        "street": "Williams Island",
+        "city": "Michaelhaven",
+        "state": "South Dakota",
+        "zip": "70896"
+    },
+    "contact": {
+        "phone": "8537729952",
+        "servicePhone": "800934967"
+    },
+    "birthday": "1911-19-12",
+    "ip": "212.63.88.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Teach piece hundred. Agency bring community performance. Identify pattern green population garden so.",
+        "bio": "Think sign administration enter manage trip. Dream wife manager bed remain cause clearly doctor. Small moment it value."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
