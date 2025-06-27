@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Kim",
+    "age": 114,
+    "address": {
+        "street": "Matthew Throughway",
+        "city": "Meganmouth",
+        "state": "Rhode Island",
+        "zip": "27067"
+    },
+    "contact": {
+        "phone": "(519)261-8589x0617",
+        "servicePhone": "800155440"
+    },
+    "birthday": "1911-18-04",
+    "ip": "148.67.189.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Street detail fund staff. May each entire successful body. Lot bill address share meeting step.\nFull mention among idea thank method appear table. Subject with big might father effect. Book fund he.",
+        "bio": "Dinner whole east culture attention southern movement. Again drug personal executive sense while thank practice. Should detail clear audience action occur unit."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
