@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Mcpherson",
+    "age": 56,
+    "address": {
+        "street": "Oconnell Viaduct",
+        "city": "East Amanda",
+        "state": "Ohio",
+        "zip": "22669"
+    },
+    "contact": {
+        "phone": "001-689-867-0517x205",
+        "servicePhone": "800807805"
+    },
+    "birthday": "1969-29-10",
+    "ip": "67.42.51.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Data seat leader attention stay no. Sort fine bed already up.\nBar here bad side develop.",
+        "bio": "Around war once be police. Reflect peace what main mission common.\nGuy west bag add. Street throw consider shake production."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
