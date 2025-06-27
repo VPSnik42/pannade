@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Rodriguez",
+    "age": 22,
+    "address": {
+        "street": "April Keys",
+        "city": "New Donna",
+        "state": "Texas",
+        "zip": "48158"
+    },
+    "contact": {
+        "phone": "(668)228-3302x404",
+        "servicePhone": "800258142"
+    },
+    "birthday": "2003-20-08",
+    "ip": "97.224.151.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Better executive large camera international measure television. Course believe quite professional stay indicate. Able simple sort anything.",
+        "bio": "Investment difference already.\nNature before institution nothing understand. Writer new paper record four.\nThough stuff turn development. Do eat fish herself free camera share."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
