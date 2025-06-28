@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Garcia",
+    "age": 23,
+    "address": {
+        "street": "Lindsey Hills",
+        "city": "Kylieside",
+        "state": "Illinois",
+        "zip": "57457"
+    },
+    "contact": {
+        "phone": "(305)477-5361x06411",
+        "servicePhone": "800214585"
+    },
+    "birthday": "2002-20-02",
+    "ip": "110.224.225.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Carry eat list institution away recognize respond. Success main this amount season cost born.",
+        "bio": "Forward concern sense might require commercial decision lot. When defense peace management consider."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
