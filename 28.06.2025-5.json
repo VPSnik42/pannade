@@ -1,0 +1,25 @@
+{
+    "name": "Marc Flores",
+    "age": 24,
+    "address": {
+        "street": "Denise Path",
+        "city": "Kingside",
+        "state": "Rhode Island",
+        "zip": "53262"
+    },
+    "contact": {
+        "phone": "001-905-260-1632x6148",
+        "servicePhone": "800146482"
+    },
+    "birthday": "2001-15-04",
+    "ip": "71.130.15.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent campaign house data. Government at administration sister between though.",
+        "bio": "Read service hotel pretty plant long effect social. Issue administration Mr design amount. Most eye population water.\nRepublican sure short. Between language grow another."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
