@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Wolfe MD",
+    "age": 30,
+    "address": {
+        "street": "Courtney Plaza",
+        "city": "Lake Stephanie",
+        "state": "Tennessee",
+        "zip": "68813"
+    },
+    "contact": {
+        "phone": "499-857-6961",
+        "servicePhone": "800654535"
+    },
+    "birthday": "1995-09-10",
+    "ip": "12.4.67.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Painting else southern black eye tonight our. Admit television oil wall third term party.",
+        "bio": "At assume her consumer. Door moment should car wrong name. Tree its own.\nSource risk fight deep adult gas. College decision go. Lawyer prevent his future city debate.\nTax decide note."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
