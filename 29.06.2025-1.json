@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Oliver",
+    "age": 3,
+    "address": {
+        "street": "Rhonda Tunnel",
+        "city": "South Christine",
+        "state": "Maryland",
+        "zip": "85062"
+    },
+    "contact": {
+        "phone": "889-327-7601",
+        "servicePhone": "800089945"
+    },
+    "birthday": "2022-01-07",
+    "ip": "32.188.83.103",
+    "foo": "bar",
+    "profile": {
+        "about": "General lose cell. Clearly current first. Fill reality stock senior.\nMother star half. Answer page parent particular. Mother generation shake true establish thought.",
+        "bio": "Mean case detail size consumer get decade. Movement along go those her. Less might land suffer stock."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
