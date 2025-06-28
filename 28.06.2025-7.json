@@ -1,0 +1,25 @@
+{
+    "name": "Janice Jones",
+    "age": 105,
+    "address": {
+        "street": "Powell Street",
+        "city": "Johnmouth",
+        "state": "Arkansas",
+        "zip": "13859"
+    },
+    "contact": {
+        "phone": "+1-636-960-8116x5821",
+        "servicePhone": "800497102"
+    },
+    "birthday": "1920-06-08",
+    "ip": "99.203.182.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Always street point. Believe friend special social. Major himself woman.\nAble along budget fund. Thank television impact those local.",
+        "bio": "Direction thousand near window live home. Reason network result head indeed pass if. What easy send president stop network."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
