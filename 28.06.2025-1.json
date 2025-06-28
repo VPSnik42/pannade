@@ -1,0 +1,25 @@
+{
+    "name": "Mary Morrison",
+    "age": 97,
+    "address": {
+        "street": "Elizabeth Plaza",
+        "city": "Grayshire",
+        "state": "Minnesota",
+        "zip": "98908"
+    },
+    "contact": {
+        "phone": "+1-584-755-0831",
+        "servicePhone": "800189395"
+    },
+    "birthday": "1928-07-06",
+    "ip": "203.217.167.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Figure up wish effort real development. Open main keep might season prevent spring.\nI central major goal perform data usually. Age federal beat key claim small magazine. Happen pull always gas only.",
+        "bio": "Time prepare start local student. Tough long about think we information.\nCatch you why main child follow. Investment there culture movement friend. Future wait population."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
