@@ -1,0 +1,25 @@
+{
+    "name": "Craig Bowen",
+    "age": 28,
+    "address": {
+        "street": "Alexandra Drive",
+        "city": "South Michaelton",
+        "state": "Illinois",
+        "zip": "42278"
+    },
+    "contact": {
+        "phone": "582-651-3546",
+        "servicePhone": "800455998"
+    },
+    "birthday": "1997-27-04",
+    "ip": "134.100.121.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Condition son sort remain argue method table citizen. Himself plant yeah dark. Base know wait action standard another loss. Account represent animal make enter many.",
+        "bio": "Of yourself under gas team white evening. Material wife know personal young human. With old marriage person consumer."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
