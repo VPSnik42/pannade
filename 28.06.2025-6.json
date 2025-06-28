@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Wallace",
+    "age": 115,
+    "address": {
+        "street": "Candace Meadows",
+        "city": "Hurstborough",
+        "state": "Maine",
+        "zip": "10814"
+    },
+    "contact": {
+        "phone": "001-991-253-8394x55079",
+        "servicePhone": "800762489"
+    },
+    "birthday": "1910-23-03",
+    "ip": "85.61.69.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Reveal usually star bag. Both listen military stock suggest spend let boy.\nFish stand budget product they. Top agency public father. Make accept region bank gun opportunity check.",
+        "bio": "Kind her protect author. Hospital benefit free campaign. Available culture machine social light quality yet but."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
