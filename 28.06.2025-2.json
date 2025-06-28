@@ -1,0 +1,25 @@
+{
+    "name": "Beth Martinez",
+    "age": 58,
+    "address": {
+        "street": "Sarah Cove",
+        "city": "West Glenburgh",
+        "state": "Hawaii",
+        "zip": "91093"
+    },
+    "contact": {
+        "phone": "317.858.0129x5767",
+        "servicePhone": "800898277"
+    },
+    "birthday": "1967-19-04",
+    "ip": "70.125.126.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Choose require section president reality seven ability. Under would TV movie arrive again state another. Collection several enjoy bank as interest.",
+        "bio": "Son significant detail writer head and few. Market result plant certain none."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
