@@ -1,0 +1,25 @@
+{
+    "name": "Lori Foster",
+    "age": 7,
+    "address": {
+        "street": "Robbins Square",
+        "city": "Michaelshire",
+        "state": "Virginia",
+        "zip": "54164"
+    },
+    "contact": {
+        "phone": "001-760-864-5276x71809",
+        "servicePhone": "800657297"
+    },
+    "birthday": "2018-21-06",
+    "ip": "20.9.98.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Break analysis investment manage south.\nArtist work year stage serious charge. Drive authority son drive.",
+        "bio": "Oil rock page growth find. Item health computer could move participant. To above town condition customer doctor. Generation professor improve floor hear."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
