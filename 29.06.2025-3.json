@@ -1,0 +1,25 @@
+{
+    "name": "David Carr",
+    "age": 9,
+    "address": {
+        "street": "Mark Mission",
+        "city": "Port Robertborough",
+        "state": "Louisiana",
+        "zip": "60395"
+    },
+    "contact": {
+        "phone": "(267)509-0852",
+        "servicePhone": "800861894"
+    },
+    "birthday": "2016-08-01",
+    "ip": "90.237.20.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Federal show crime any consider show. Agency race series reveal contain open leave.",
+        "bio": "Week develop control again. Own establish finish nearly west way admit. He music as by.\nGroup show far. Receive knowledge force. Sometimes attention claim hundred."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
