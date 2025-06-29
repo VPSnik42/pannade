@@ -1,0 +1,25 @@
+{
+    "name": "James Archer",
+    "age": 52,
+    "address": {
+        "street": "Harris Shoal",
+        "city": "Lake Joseph",
+        "state": "Oklahoma",
+        "zip": "75713"
+    },
+    "contact": {
+        "phone": "(235)316-8064",
+        "servicePhone": "800422434"
+    },
+    "birthday": "1973-15-06",
+    "ip": "175.126.99.172",
+    "foo": "bar",
+    "profile": {
+        "about": "For shake protect opportunity. Green central with four quite.\nDebate between ten foot letter around. Debate threat black score manage economy. Around keep so line agent authority.",
+        "bio": "Call gas describe single professor administration include body.\nMachine whether into there sea range perhaps ever. Effect us see free near move."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
