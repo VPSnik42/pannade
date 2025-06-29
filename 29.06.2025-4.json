@@ -1,0 +1,25 @@
+{
+    "name": "James Fowler",
+    "age": 36,
+    "address": {
+        "street": "Stuart Circle",
+        "city": "Kevinshire",
+        "state": "Wisconsin",
+        "zip": "60870"
+    },
+    "contact": {
+        "phone": "672-757-4709",
+        "servicePhone": "800387519"
+    },
+    "birthday": "1989-02-12",
+    "ip": "77.60.118.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Life alone section arrive common there bit. Same half music enjoy sure. Hospital how movement particularly movie result fast.",
+        "bio": "Edge account international artist recognize president raise.\nToo factor land reflect shoulder. Quality any third page strong small. Risk pattern inside cover."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
