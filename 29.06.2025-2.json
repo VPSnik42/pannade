@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Daniels",
+    "age": 78,
+    "address": {
+        "street": "Debbie Prairie",
+        "city": "Williamstown",
+        "state": "Arizona",
+        "zip": "83431"
+    },
+    "contact": {
+        "phone": "756-677-8044",
+        "servicePhone": "800892450"
+    },
+    "birthday": "1947-22-04",
+    "ip": "207.206.71.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Purpose operation move wonder president bad.\nFull should toward approach raise executive public. With single none born. Win left claim manager whether less sit.",
+        "bio": "Experience oil require task. Country listen effort charge last. Step and star.\nMinute throw left. Bad dark collection sort."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
