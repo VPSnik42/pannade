@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Austin",
+    "age": 7,
+    "address": {
+        "street": "Gross Forge",
+        "city": "Mccormickville",
+        "state": "Idaho",
+        "zip": "34363"
+    },
+    "contact": {
+        "phone": "367.697.3006",
+        "servicePhone": "800181646"
+    },
+    "birthday": "2018-13-01",
+    "ip": "160.204.242.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Exactly democratic animal woman war rest mission. Drop low your step charge. Cut local for above mission.\nThrow which professor money five as still. Serious answer final professional should.",
+        "bio": "Responsibility important within consumer policy behavior. Decision protect quality season. Feel behind speech."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
