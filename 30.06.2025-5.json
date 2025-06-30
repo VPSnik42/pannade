@@ -1,0 +1,25 @@
+{
+    "name": "Erin Bell",
+    "age": 104,
+    "address": {
+        "street": "Williams Parks",
+        "city": "South Nancyburgh",
+        "state": "Nebraska",
+        "zip": "27394"
+    },
+    "contact": {
+        "phone": "+1-659-246-3339",
+        "servicePhone": "800824121"
+    },
+    "birthday": "1921-25-08",
+    "ip": "59.113.60.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Evening maintain life stage reach military. Cover one stay particularly value sister. Radio hard those general third spend everybody.",
+        "bio": "Student American money among anyone assume. Break carry arrive black wish. Ago use defense dark physical make mind."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
