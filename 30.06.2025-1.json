@@ -1,0 +1,25 @@
+{
+    "name": "Susan Flores",
+    "age": 113,
+    "address": {
+        "street": "Mary Turnpike",
+        "city": "South Jasminetown",
+        "state": "North Carolina",
+        "zip": "24668"
+    },
+    "contact": {
+        "phone": "537.792.2326x903",
+        "servicePhone": "800211035"
+    },
+    "birthday": "1912-28-06",
+    "ip": "182.11.114.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Difference sister case billion while. Will season pretty condition magazine financial. Look weight southern wind.\nBlood health blood toward energy include control. Night eat he suffer.",
+        "bio": "Traditional wonder agency president any. More teach cover culture indeed indicate.\nMiddle week school within. Cause man type audience. Deep such mouth section white sell."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
