@@ -1,0 +1,25 @@
+{
+    "name": "David Gray",
+    "age": 81,
+    "address": {
+        "street": "Kristen Fords",
+        "city": "Kellymouth",
+        "state": "Ohio",
+        "zip": "29998"
+    },
+    "contact": {
+        "phone": "001-383-482-9069x762",
+        "servicePhone": "800955111"
+    },
+    "birthday": "1944-30-01",
+    "ip": "59.103.145.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Most pattern protect turn expert. Environmental indeed interview science indeed describe.\nOil discover concern rate member several. Act trip drive arrive you toward.",
+        "bio": "Media budget foot ball stay reveal seat. Be speech officer any stop full. Give find shoulder catch later."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
