@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Williams",
+    "age": 29,
+    "address": {
+        "street": "Lloyd Mountains",
+        "city": "North Madisonshire",
+        "state": "Virginia",
+        "zip": "24481"
+    },
+    "contact": {
+        "phone": "001-825-487-2527x8676",
+        "servicePhone": "800317763"
+    },
+    "birthday": "1996-01-07",
+    "ip": "157.24.167.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Sometimes capital like identify smile again. End boy board energy general certainly.\nHot matter pressure sometimes more modern. Resource look even property.",
+        "bio": "South think agree involve TV threat wind.\nShould card building laugh. Condition government box similar fine civil."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
