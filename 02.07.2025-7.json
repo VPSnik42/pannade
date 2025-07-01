@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Hernandez",
+    "age": 18,
+    "address": {
+        "street": "Petersen Freeway",
+        "city": "North Davidshire",
+        "state": "West Virginia",
+        "zip": "54591"
+    },
+    "contact": {
+        "phone": "(787)201-2187x154",
+        "servicePhone": "800087912"
+    },
+    "birthday": "2007-11-12",
+    "ip": "166.22.165.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Professor be worker go on college. Voice director air down. Truth recognize let authority.\nEnergy responsibility area garden this accept seat picture. Color by method camera concern walk sure.",
+        "bio": "Contain color leader read loss cost. Focus occur news care. Nothing claim party property job.\nFact cause pay increase attorney. Back general life lawyer seven rest son."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
