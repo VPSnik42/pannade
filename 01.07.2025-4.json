@@ -1,0 +1,25 @@
+{
+    "name": "Gabrielle Smith",
+    "age": 2,
+    "address": {
+        "street": "Linda River",
+        "city": "Millerstad",
+        "state": "Tennessee",
+        "zip": "26008"
+    },
+    "contact": {
+        "phone": "931-652-5099",
+        "servicePhone": "800925481"
+    },
+    "birthday": "2023-02-04",
+    "ip": "50.26.185.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Class power general machine particularly likely suggest. Wait foreign outside similar case experience according guy. Way loss affect seek raise.",
+        "bio": "Color for president tree. Whatever what check arrive catch life. Fish role general about.\nEvidence owner next agreement worker on speak. Area these perhaps throughout indeed."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
