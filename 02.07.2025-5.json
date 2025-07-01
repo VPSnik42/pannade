@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Mays",
+    "age": 78,
+    "address": {
+        "street": "Andrew Lake",
+        "city": "Jonathanview",
+        "state": "New Jersey",
+        "zip": "45452"
+    },
+    "contact": {
+        "phone": "204.394.8711x299",
+        "servicePhone": "800506831"
+    },
+    "birthday": "1947-08-12",
+    "ip": "46.25.68.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Others customer hour plant forget out with. Term small color. Buy ability hold break will.\nInteresting team course drive. Word artist fear thought middle. Heavy against protect.",
+        "bio": "Though significant mouth different ahead good. Bar another level read sort gas. Authority here sea. Sea everyone quality reach let."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
