@@ -1,0 +1,25 @@
+{
+    "name": "Denise Dalton",
+    "age": 107,
+    "address": {
+        "street": "Mary Roads",
+        "city": "Amandashire",
+        "state": "West Virginia",
+        "zip": "67268"
+    },
+    "contact": {
+        "phone": "(453)775-6586",
+        "servicePhone": "800181485"
+    },
+    "birthday": "1918-12-01",
+    "ip": "114.2.19.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Region also possible cover building win. His relate in.\nOffer simple product. Discussion west impact international time effort red. Event card through work.",
+        "bio": "Simply relate assume can them easy. Box need cause ahead painting month.\nFall gun continue group recent.\nArgue building ability film impact chance. Drop coach director."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
