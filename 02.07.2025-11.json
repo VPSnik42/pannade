@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Rowland",
+    "age": 65,
+    "address": {
+        "street": "Trevor Squares",
+        "city": "Catherinehaven",
+        "state": "Ohio",
+        "zip": "22969"
+    },
+    "contact": {
+        "phone": "954-708-3863",
+        "servicePhone": "800779806"
+    },
+    "birthday": "1960-24-01",
+    "ip": "187.125.228.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Real large might young including Democrat. Local letter easy it police why. Score trial hold team she general.\nRest hotel score skill condition physical.",
+        "bio": "Hear successful affect yet. Center individual spring consumer ready everybody pressure. Grow name want."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
