@@ -1,0 +1,25 @@
+{
+    "name": "Luke Chavez",
+    "age": 50,
+    "address": {
+        "street": "Richard Highway",
+        "city": "Martinezburgh",
+        "state": "Washington",
+        "zip": "66685"
+    },
+    "contact": {
+        "phone": "001-937-576-1872",
+        "servicePhone": "800846930"
+    },
+    "birthday": "1975-04-02",
+    "ip": "109.97.60.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Activity responsibility available sell state itself. Art real paper unit staff reflect resource another.",
+        "bio": "Court so everyone thing program. Force good relate authority. Understand name as season law.\nFree professor development four. Down edge admit. Account head throw occur him single."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
