@@ -1,0 +1,25 @@
+{
+    "name": "Connor Raymond",
+    "age": 25,
+    "address": {
+        "street": "Timothy Field",
+        "city": "New Melissa",
+        "state": "Hawaii",
+        "zip": "41434"
+    },
+    "contact": {
+        "phone": "+1-612-768-7235x54859",
+        "servicePhone": "800857971"
+    },
+    "birthday": "2000-01-01",
+    "ip": "81.105.54.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Almost buy black clear site resource size. Area set part everything task return here.\nHour artist friend conference music room. Point officer also mouth will guess usually.",
+        "bio": "Later shake specific brother market. Hope always include professional market health. Push conference treat fact part eye."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
