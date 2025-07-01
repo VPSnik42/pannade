@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Oconnor",
+    "age": 56,
+    "address": {
+        "street": "Carlos Shoals",
+        "city": "Cruzside",
+        "state": "Alabama",
+        "zip": "11182"
+    },
+    "contact": {
+        "phone": "242-640-4858",
+        "servicePhone": "800930597"
+    },
+    "birthday": "1969-18-01",
+    "ip": "20.104.1.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Item tend use partner. What discussion simple give recent job reality. Clearly role large wonder.",
+        "bio": "Worry safe major response suffer late front sell. Staff leader investment house family around number."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
