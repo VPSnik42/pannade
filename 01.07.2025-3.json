@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Scott",
+    "age": 38,
+    "address": {
+        "street": "Smith Mountain",
+        "city": "Kennethfort",
+        "state": "Delaware",
+        "zip": "18255"
+    },
+    "contact": {
+        "phone": "001-315-574-2791",
+        "servicePhone": "800339153"
+    },
+    "birthday": "1987-10-12",
+    "ip": "141.179.95.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Tree perhaps control expert summer politics. Forward clearly common with minute. Rise theory no must conference.\nCollege I deep share. Education expert green soon fish market.",
+        "bio": "Public area action so reality.\nGlass significant prevent movie positive whole local. Chair war young ok feeling third."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
