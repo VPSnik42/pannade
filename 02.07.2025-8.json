@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Cunningham",
+    "age": 23,
+    "address": {
+        "street": "Hill Lodge",
+        "city": "East Steven",
+        "state": "California",
+        "zip": "78682"
+    },
+    "contact": {
+        "phone": "(288)440-0959",
+        "servicePhone": "800863648"
+    },
+    "birthday": "2002-15-03",
+    "ip": "104.176.203.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Evidence process imagine education stuff. Support prepare ask moment yeah. So approach set identify eye recognize activity.",
+        "bio": "Either however probably myself site. Special forward consumer bag PM the field choose.\nSeason shake benefit low manage opportunity. Its white image group money away. Admit last agreement."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
