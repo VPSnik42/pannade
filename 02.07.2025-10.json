@@ -1,0 +1,25 @@
+{
+    "name": "Courtney James",
+    "age": 28,
+    "address": {
+        "street": "Williams Springs",
+        "city": "Lake Matthewland",
+        "state": "Mississippi",
+        "zip": "91369"
+    },
+    "contact": {
+        "phone": "(985)938-4415x1308",
+        "servicePhone": "800062855"
+    },
+    "birthday": "1997-22-01",
+    "ip": "191.164.151.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Analysis glass wall real degree own. Approach glass itself company. Nation talk fund ever not foot.",
+        "bio": "Cause serious at task oil carry beat. Care board style section me upon history."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
