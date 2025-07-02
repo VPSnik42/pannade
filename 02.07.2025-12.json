@@ -1,0 +1,25 @@
+{
+    "name": "Michael Boyle",
+    "age": 27,
+    "address": {
+        "street": "Graves Court",
+        "city": "North Brettton",
+        "state": "Maryland",
+        "zip": "68786"
+    },
+    "contact": {
+        "phone": "697.649.2505",
+        "servicePhone": "800209055"
+    },
+    "birthday": "1998-30-05",
+    "ip": "83.74.24.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Try often half become town. Wall newspaper join other.\nStyle play artist. Born chance sport all. Me least idea data play.",
+        "bio": "Read building real child rather order. Site office arm goal decision road.\nDark green marriage model wind a plant finish. Someone heart foot church trade."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
