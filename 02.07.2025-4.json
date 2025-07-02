@@ -1,0 +1,25 @@
+{
+    "name": "Michael Miller",
+    "age": 82,
+    "address": {
+        "street": "Russell Court",
+        "city": "East Brian",
+        "state": "Tennessee",
+        "zip": "89409"
+    },
+    "contact": {
+        "phone": "268.654.7796x19354",
+        "servicePhone": "800087929"
+    },
+    "birthday": "1943-01-08",
+    "ip": "162.143.0.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Factor wrong think poor material. Some go on girl according rate.",
+        "bio": "Next however travel room. Majority group child know effect. Natural camera not.\nSpace standard forget. Dinner feel story. Once north local trade four door inside region."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
