@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Montoya",
+    "age": 40,
+    "address": {
+        "street": "Wells Flat",
+        "city": "North Joshuafort",
+        "state": "Utah",
+        "zip": "70543"
+    },
+    "contact": {
+        "phone": "001-857-792-0228x80315",
+        "servicePhone": "800548971"
+    },
+    "birthday": "1985-05-08",
+    "ip": "30.32.224.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Though general option later adult someone eight. Car morning environmental be. Whom big try sister.",
+        "bio": "House interview herself difference thousand event hope outside. Foot sometimes remain raise son. Social line conference positive."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
