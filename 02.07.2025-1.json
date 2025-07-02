@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Barrett",
+    "age": 24,
+    "address": {
+        "street": "Christina Harbor",
+        "city": "Lake Nathan",
+        "state": "Nebraska",
+        "zip": "46917"
+    },
+    "contact": {
+        "phone": "+1-956-642-2472",
+        "servicePhone": "800863058"
+    },
+    "birthday": "2001-09-08",
+    "ip": "164.41.253.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Bed today drop discover.\nNow carry cut particularly girl central newspaper. Minute scene job account challenge. Ask table everybody reduce claim send.",
+        "bio": "In report memory reveal identify fall claim. Beyond threat organization former majority sing loss."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
