@@ -1,0 +1,25 @@
+{
+    "name": "Charles Wiggins",
+    "age": 36,
+    "address": {
+        "street": "Wagner Views",
+        "city": "Catherineview",
+        "state": "Michigan",
+        "zip": "63462"
+    },
+    "contact": {
+        "phone": "001-897-517-7629x167",
+        "servicePhone": "800118573"
+    },
+    "birthday": "1989-23-09",
+    "ip": "47.31.118.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Program red wall she. Woman charge most beat wait throw. Woman wear less general.\nSpecial opportunity control. Enter crime whom. Talk trade close better point want.",
+        "bio": "A prepare attack beautiful between couple. A across section reason move hit save hundred. Film individual deal cause candidate certainly attorney."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
