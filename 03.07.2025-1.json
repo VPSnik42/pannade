@@ -1,0 +1,25 @@
+{
+    "name": "Robert Wang",
+    "age": 10,
+    "address": {
+        "street": "Patrick Village",
+        "city": "Danielville",
+        "state": "Illinois",
+        "zip": "35500"
+    },
+    "contact": {
+        "phone": "+1-975-272-0417x2921",
+        "servicePhone": "800266447"
+    },
+    "birthday": "2015-17-07",
+    "ip": "186.97.54.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Score area card thousand mission look. Child successful party. Character race good west start describe. Note young opportunity market century.",
+        "bio": "Yes four feel explain.\nFather relate eight. Tree practice ok. Possible room always house should learn race."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
