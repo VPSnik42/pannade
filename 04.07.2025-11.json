@@ -1,0 +1,25 @@
+{
+    "name": "Robert Evans",
+    "age": 107,
+    "address": {
+        "street": "Lopez Mount",
+        "city": "Kristenshire",
+        "state": "Wyoming",
+        "zip": "90435"
+    },
+    "contact": {
+        "phone": "968-614-6584x234",
+        "servicePhone": "800736690"
+    },
+    "birthday": "1918-28-11",
+    "ip": "28.10.50.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Another college picture billion environmental. Letter for news article friend bill.\nProduce back as beat vote. Road affect prepare daughter.",
+        "bio": "Born necessary away moment others hundred. Medical yeah size do process commercial. Everything fly reduce understand.\nCollection candidate as job moment thus. Hold three quality fly."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
