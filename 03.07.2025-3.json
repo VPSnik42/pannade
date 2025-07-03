@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Chavez",
+    "age": 9,
+    "address": {
+        "street": "Kristin Square",
+        "city": "Derekburgh",
+        "state": "South Dakota",
+        "zip": "69191"
+    },
+    "contact": {
+        "phone": "587.974.1156",
+        "servicePhone": "800076380"
+    },
+    "birthday": "2016-19-11",
+    "ip": "182.74.26.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Nature allow type. Term toward hundred result top morning.\nCall century cause measure. Never choice old husband born imagine.\nForeign red spend issue ball.",
+        "bio": "Energy send expert while any. Wife eight sea may.\nDiscover budget head near conference fall. Large song contain seven something while who including. Give senior rock pretty because."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
