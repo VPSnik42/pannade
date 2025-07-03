@@ -1,0 +1,25 @@
+{
+    "name": "William Maynard",
+    "age": 15,
+    "address": {
+        "street": "Richardson Centers",
+        "city": "New Omarhaven",
+        "state": "Mississippi",
+        "zip": "20745"
+    },
+    "contact": {
+        "phone": "+1-224-425-0892",
+        "servicePhone": "800121054"
+    },
+    "birthday": "2010-06-01",
+    "ip": "165.49.24.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure American necessary meeting likely. Front catch nature since size that hard know. Item population themselves marriage have.",
+        "bio": "Attorney worker poor cold say our. Tv task develop. None effort reveal west financial operation.\nActually dog research opportunity."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
