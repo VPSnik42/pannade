@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Holloway",
+    "age": 98,
+    "address": {
+        "street": "Williams Drive",
+        "city": "Sherriville",
+        "state": "West Virginia",
+        "zip": "97633"
+    },
+    "contact": {
+        "phone": "001-201-496-9593",
+        "servicePhone": "800907763"
+    },
+    "birthday": "1927-07-12",
+    "ip": "1.21.188.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch third leader. Response relate foreign expect pull travel.\nRed pay hair leg nation. Decade interest market stand.\nOften activity listen bank. Second form security PM.",
+        "bio": "Stage similar can agent.\nMore house rest most director. Gas here a consider particular require."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
