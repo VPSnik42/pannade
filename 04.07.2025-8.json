@@ -1,0 +1,25 @@
+{
+    "name": "Ms. Tabitha Morris",
+    "age": 47,
+    "address": {
+        "street": "Johnson Tunnel",
+        "city": "Port Melindastad",
+        "state": "Minnesota",
+        "zip": "49669"
+    },
+    "contact": {
+        "phone": "356.663.6111x0272",
+        "servicePhone": "800408144"
+    },
+    "birthday": "1978-25-11",
+    "ip": "165.219.54.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Door Republican pressure right. Cause whom form religious event. Fact week common science only analysis catch drive.",
+        "bio": "Wall federal skill law. Member watch good.\nSign occur fact stage camera speak. Produce keep what everybody."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
