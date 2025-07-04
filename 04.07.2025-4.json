@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Pierce",
+    "age": 109,
+    "address": {
+        "street": "Ana Pike",
+        "city": "Stoneport",
+        "state": "Idaho",
+        "zip": "48966"
+    },
+    "contact": {
+        "phone": "8302178593",
+        "servicePhone": "800600723"
+    },
+    "birthday": "1916-24-06",
+    "ip": "95.227.215.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Keep third manager rather country popular drop none. New relate record quite there each.\nService anything hair audience. Gun leave mouth chair.",
+        "bio": "Vote just land film use. Century it push wind pretty.\nAgency star action. Expert can by three environment voice floor. Case your open should idea."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
