@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Little",
+    "age": 71,
+    "address": {
+        "street": "Torres Lodge",
+        "city": "Andrewport",
+        "state": "Colorado",
+        "zip": "30617"
+    },
+    "contact": {
+        "phone": "(621)578-4325x65326",
+        "servicePhone": "800741854"
+    },
+    "birthday": "1954-28-02",
+    "ip": "166.149.167.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Science less news happen wind watch. Let few born family officer.\nMr protect respond point pattern matter administration. Family night mind. Off want sense trial form.",
+        "bio": "Give itself go. Kitchen job charge. Tough population decision eat wife former.\nAway us step. Leg program at how. Growth peace week visit another."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
