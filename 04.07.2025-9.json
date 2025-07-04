@@ -1,0 +1,25 @@
+{
+    "name": "John Jackson",
+    "age": 40,
+    "address": {
+        "street": "Smith Course",
+        "city": "Port Dawn",
+        "state": "New Jersey",
+        "zip": "70466"
+    },
+    "contact": {
+        "phone": "001-263-540-3340x3493",
+        "servicePhone": "800528361"
+    },
+    "birthday": "1985-15-03",
+    "ip": "33.169.255.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Group them energy indeed.\nPay future success participant street certain hundred. Whole pay dark like investment. Less early natural director scientist air.",
+        "bio": "Television against wish thousand. Authority upon spend example."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
