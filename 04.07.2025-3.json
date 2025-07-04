@@ -1,0 +1,25 @@
+{
+    "name": "Heather Rich",
+    "age": 80,
+    "address": {
+        "street": "Amy Garden",
+        "city": "Lake Jerrymouth",
+        "state": "Montana",
+        "zip": "25406"
+    },
+    "contact": {
+        "phone": "(536)222-7666x9728",
+        "servicePhone": "800895061"
+    },
+    "birthday": "1945-08-12",
+    "ip": "106.235.235.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother wall statement green close matter threat.\nEnough police blue manage Mrs article build. College west oil thank add. Include alone less.\nFloor big run thank partner.",
+        "bio": "Chance customer something seem speech fine. Budget probably group suggest. Usually though beyond couple."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
