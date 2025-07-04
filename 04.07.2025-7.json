@@ -1,0 +1,25 @@
+{
+    "name": "John Hutchinson",
+    "age": 102,
+    "address": {
+        "street": "Maurice Lock",
+        "city": "East Daniel",
+        "state": "Hawaii",
+        "zip": "31151"
+    },
+    "contact": {
+        "phone": "(686)507-4810x58940",
+        "servicePhone": "800261154"
+    },
+    "birthday": "1923-28-05",
+    "ip": "210.22.215.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Republican money center site product. There build follow kitchen she establish section wide.\nBring fear several leg.",
+        "bio": "Girl stay back fight. Professional environment myself him.\nPresident to while. Foreign alone own difference take. Medical style last direction although put certain."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
