@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Obrien",
+    "age": 47,
+    "address": {
+        "street": "Taylor Mount",
+        "city": "Ibarraside",
+        "state": "Utah",
+        "zip": "44203"
+    },
+    "contact": {
+        "phone": "+1-302-573-5965x783",
+        "servicePhone": "800103599"
+    },
+    "birthday": "1978-29-07",
+    "ip": "199.165.1.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Throw hear require image church.\nMachine letter leave car election we man. Say them professor city break. At chance industry together step study full describe.",
+        "bio": "Its medical side recently. Two once window. Thank cell head mention require ever."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
