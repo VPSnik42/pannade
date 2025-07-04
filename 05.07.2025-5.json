@@ -1,0 +1,25 @@
+{
+    "name": "Michael Molina",
+    "age": 96,
+    "address": {
+        "street": "Katrina Overpass",
+        "city": "Pettyton",
+        "state": "Utah",
+        "zip": "34367"
+    },
+    "contact": {
+        "phone": "705.937.2484x2797",
+        "servicePhone": "800976906"
+    },
+    "birthday": "1929-02-07",
+    "ip": "223.198.220.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Business area store room vote after ok. Popular feel across reach fast list similar.\nTax professional bed. Worry low sometimes traditional at start she.",
+        "bio": "Tv staff myself teacher threat itself. Fear lot west develop. Fear director standard report.\nDrug eye enjoy.\nMight culture event state throughout. You general certainly partner affect own size."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
