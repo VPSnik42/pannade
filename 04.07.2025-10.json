@@ -1,0 +1,25 @@
+{
+    "name": "Emily Mcgee",
+    "age": 56,
+    "address": {
+        "street": "Morgan Ville",
+        "city": "Sullivanshire",
+        "state": "North Carolina",
+        "zip": "54277"
+    },
+    "contact": {
+        "phone": "+1-762-272-6381x002",
+        "servicePhone": "800377889"
+    },
+    "birthday": "1969-08-12",
+    "ip": "34.147.67.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Manage her be everything lose. Usually instead study explain easy trip white.\nQuality reveal ready artist lose one by probably. Early color range try.",
+        "bio": "Glass write this prepare coach. Really talk man young sometimes direction every reduce. Thought investment law.\nReturn seven away fly music night."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
