@@ -1,0 +1,25 @@
+{
+    "name": "Jason Johnson MD",
+    "age": 3,
+    "address": {
+        "street": "Mackenzie Centers",
+        "city": "Terrellburgh",
+        "state": "Iowa",
+        "zip": "56523"
+    },
+    "contact": {
+        "phone": "298-404-4758",
+        "servicePhone": "800834485"
+    },
+    "birthday": "2022-04-07",
+    "ip": "58.157.239.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Wide role within.\nOpen scene likely theory prove. Leader modern education agree successful treatment talk. Particularly at light report require well.",
+        "bio": "Coach agency always child. Suggest case drop participant send.\nLot return baby tell. Car run eight suggest if other after. New friend heart each arm prepare."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
