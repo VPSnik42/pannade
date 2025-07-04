@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Jimenez",
+    "age": 32,
+    "address": {
+        "street": "Horn Oval",
+        "city": "East Michaelstad",
+        "state": "Idaho",
+        "zip": "60164"
+    },
+    "contact": {
+        "phone": "(835)620-8914",
+        "servicePhone": "800867507"
+    },
+    "birthday": "1993-29-05",
+    "ip": "211.199.208.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Agree hard town building. Join well decide.\nFinally way market since. Kid onto central per. Over more marriage decade.",
+        "bio": "Allow billion hot expect according no ten. His window write. There chance cost green.\nHis health something affect weight trial. Everyone program media executive world camera blood."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
