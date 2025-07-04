@@ -1,0 +1,25 @@
+{
+    "name": "Jorge Davidson",
+    "age": 64,
+    "address": {
+        "street": "Luna Lane",
+        "city": "Salazartown",
+        "state": "North Dakota",
+        "zip": "73577"
+    },
+    "contact": {
+        "phone": "(239)844-1179x5513",
+        "servicePhone": "800061765"
+    },
+    "birthday": "1961-09-07",
+    "ip": "77.30.79.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Kitchen beautiful again happy. Them much off remain. Base area suddenly growth someone on.",
+        "bio": "By total father dinner organization bill class win. Method single own today rate smile man.\nJust last maybe. With three room capital.\nNor exist him book. Design since company happen serious."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
