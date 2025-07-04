@@ -1,0 +1,25 @@
+{
+    "name": "Andrew House",
+    "age": 43,
+    "address": {
+        "street": "Williams Junctions",
+        "city": "Joshualand",
+        "state": "Nebraska",
+        "zip": "74708"
+    },
+    "contact": {
+        "phone": "724.532.5422x66842",
+        "servicePhone": "800856406"
+    },
+    "birthday": "1982-28-05",
+    "ip": "7.108.9.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge build next. Still take mention.\nBillion image wrong involve performance understand. Even evening consider plan term fall home.",
+        "bio": "Save watch try house fight win simply Mrs. Must open technology throughout attack. Able color plan usually kid popular training. Watch evidence catch wear those receive later."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
