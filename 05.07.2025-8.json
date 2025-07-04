@@ -1,0 +1,25 @@
+{
+    "name": "Christy Thompson",
+    "age": 105,
+    "address": {
+        "street": "Shannon Grove",
+        "city": "Wilsonburgh",
+        "state": "Michigan",
+        "zip": "76679"
+    },
+    "contact": {
+        "phone": "(929)470-3788x270",
+        "servicePhone": "800867655"
+    },
+    "birthday": "1920-14-02",
+    "ip": "123.213.220.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Population fill ago language wide discuss last. Put through situation order city lawyer.\nBoy center foot financial. Hand how unit decision. Effort difficult head role their image.",
+        "bio": "Pay opportunity answer figure no east. Magazine pattern approach either.\nUs role out do. Cover amount eat poor long entire I. Real enough experience whatever box production."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
