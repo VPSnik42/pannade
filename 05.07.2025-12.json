@@ -1,0 +1,25 @@
+{
+    "name": "John Mclaughlin",
+    "age": 7,
+    "address": {
+        "street": "Jermaine Mountain",
+        "city": "Longmouth",
+        "state": "Virginia",
+        "zip": "21067"
+    },
+    "contact": {
+        "phone": "+1-799-706-5612",
+        "servicePhone": "800837709"
+    },
+    "birthday": "2018-23-12",
+    "ip": "158.73.146.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Quality traditional record person major. Pm class medical nature though happen.\nUse strong child page describe car. Argue four southern avoid nearly. Let certain how her he.",
+        "bio": "Force might candidate citizen side. Describe nor down up. Not key leader toward close they.\nCompare toward eat buy not arm."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
