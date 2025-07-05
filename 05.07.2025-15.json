@@ -1,0 +1,25 @@
+{
+    "name": "William Haley",
+    "age": 111,
+    "address": {
+        "street": "Nicole Glen",
+        "city": "Lake Jon",
+        "state": "South Carolina",
+        "zip": "97151"
+    },
+    "contact": {
+        "phone": "001-290-471-7908x01918",
+        "servicePhone": "800550489"
+    },
+    "birthday": "1914-14-05",
+    "ip": "85.225.187.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Continue career hear thing miss build. Prevent pretty response use only or likely. Century throughout practice executive any guy yes.",
+        "bio": "Technology position summer through hope industry south try. Possible successful remain wind within hard add customer.\nMore career small team. Reason protect talk."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
