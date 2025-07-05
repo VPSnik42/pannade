@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Herring",
+    "age": 56,
+    "address": {
+        "street": "Anthony Streets",
+        "city": "Jermainehaven",
+        "state": "Michigan",
+        "zip": "32630"
+    },
+    "contact": {
+        "phone": "273-500-4817x3779",
+        "servicePhone": "800703103"
+    },
+    "birthday": "1969-28-04",
+    "ip": "60.113.217.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Head difficult another player. Accept society impact statement only student image. Research yeah he common college fine.",
+        "bio": "Memory born new if. Each college always seem. Up where help how hope central lawyer."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
