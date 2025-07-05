@@ -1,0 +1,25 @@
+{
+    "name": "Sydney Russell",
+    "age": 53,
+    "address": {
+        "street": "Robert Ramp",
+        "city": "Melvinshire",
+        "state": "Rhode Island",
+        "zip": "76079"
+    },
+    "contact": {
+        "phone": "971-769-3217",
+        "servicePhone": "800826598"
+    },
+    "birthday": "1972-18-05",
+    "ip": "204.170.104.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Boy plan kitchen bring his check. Focus dream audience artist relationship test kid.\nNumber as kind center husband. Can serve morning.",
+        "bio": "Friend red opportunity positive capital serve likely. Mrs range get goal find treat wish."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
