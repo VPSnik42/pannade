@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Simpson",
+    "age": 22,
+    "address": {
+        "street": "Mitchell Islands",
+        "city": "West Cassandraville",
+        "state": "North Dakota",
+        "zip": "82575"
+    },
+    "contact": {
+        "phone": "610-243-5686x65204",
+        "servicePhone": "800338574"
+    },
+    "birthday": "2003-31-08",
+    "ip": "74.91.45.222",
+    "foo": "bar",
+    "profile": {
+        "about": "The spend manage central hour. Very participant natural sometimes glass such.\nThroughout radio option age available. Food work smile will.",
+        "bio": "Case which letter continue company. Bag successful marriage all before degree. Issue fact contain low successful thing. Meeting option thousand its least next."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
