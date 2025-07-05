@@ -1,0 +1,25 @@
+{
+    "name": "Sheila Johnson",
+    "age": 15,
+    "address": {
+        "street": "Jesse Way",
+        "city": "Patriciaville",
+        "state": "Texas",
+        "zip": "76277"
+    },
+    "contact": {
+        "phone": "001-586-907-7460x5564",
+        "servicePhone": "800221149"
+    },
+    "birthday": "2010-08-11",
+    "ip": "138.111.108.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Town tend system threat run. Effort recently professional true something decision.\nAt mention control. Success whom represent focus off. Turn only PM question later.",
+        "bio": "Fast economic weight value sell relate eight. Soldier plant ability window. Rise candidate beautiful gun."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
