@@ -1,0 +1,25 @@
+{
+    "name": "Scott Wagner",
+    "age": 8,
+    "address": {
+        "street": "Sharon Flats",
+        "city": "Sanfordchester",
+        "state": "California",
+        "zip": "29853"
+    },
+    "contact": {
+        "phone": "470-519-6014x952",
+        "servicePhone": "800686671"
+    },
+    "birthday": "2017-10-09",
+    "ip": "153.29.117.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Number especially yet lawyer walk physical. Identify onto whole painting. Artist politics my car business area middle.",
+        "bio": "Usually others job however cell popular final. Under argue appear suffer speak. Become candidate poor magazine police firm election."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
