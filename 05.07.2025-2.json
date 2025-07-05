@@ -1,0 +1,25 @@
+{
+    "name": "Russell Crosby",
+    "age": 105,
+    "address": {
+        "street": "Howard Knoll",
+        "city": "West Natalieburgh",
+        "state": "Iowa",
+        "zip": "52586"
+    },
+    "contact": {
+        "phone": "001-809-661-2228x658",
+        "servicePhone": "800437148"
+    },
+    "birthday": "1920-09-10",
+    "ip": "85.167.205.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Couple miss account piece yes stand fund. Three night behavior cell several change look. Here practice kitchen. Mouth sure senior item.",
+        "bio": "Fly sort drop late but. Seven tough day strong happen interview.\nCourt apply food despite. Form school do individual friend weight."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
