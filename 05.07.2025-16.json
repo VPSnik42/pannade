@@ -1,0 +1,25 @@
+{
+    "name": "Dustin Garcia",
+    "age": 111,
+    "address": {
+        "street": "Richard Pine",
+        "city": "Fosterton",
+        "state": "Arkansas",
+        "zip": "43866"
+    },
+    "contact": {
+        "phone": "+1-228-803-0352x9538",
+        "servicePhone": "800815882"
+    },
+    "birthday": "1914-03-03",
+    "ip": "180.11.110.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Grow administration improve whom team play. Seem industry behind.\nComputer interview wish green too special level. Something hotel beat position to fast best important.",
+        "bio": "Company boy when against. Game my service series central arrive. Without write ready act. Federal institution recently I."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
