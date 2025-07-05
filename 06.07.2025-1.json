@@ -1,0 +1,25 @@
+{
+    "name": "Natalie Johnson",
+    "age": 29,
+    "address": {
+        "street": "Owens Forges",
+        "city": "Port Katieburgh",
+        "state": "New Hampshire",
+        "zip": "66684"
+    },
+    "contact": {
+        "phone": "721.546.2933x9032",
+        "servicePhone": "800485193"
+    },
+    "birthday": "1996-14-07",
+    "ip": "67.67.90.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Despite expect view practice both alone strong. People idea half. Simple player box rule.\nLand almost fast be.\nLittle where trip bring. Support involve opportunity it capital doctor police.",
+        "bio": "Body lead factor send. Deep through clearly.\nThis find easy. Keep like consider live commercial off."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
