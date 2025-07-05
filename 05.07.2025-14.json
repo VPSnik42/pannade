@@ -1,0 +1,25 @@
+{
+    "name": "Curtis Johnson",
+    "age": 63,
+    "address": {
+        "street": "Shelby Canyon",
+        "city": "Sawyermouth",
+        "state": "Alabama",
+        "zip": "77779"
+    },
+    "contact": {
+        "phone": "(314)776-3417",
+        "servicePhone": "800453805"
+    },
+    "birthday": "1962-31-12",
+    "ip": "77.230.177.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Line cover food very those industry situation travel. Work radio travel quite feel term.\nRecord behavior nice customer stay network Mr notice. Opportunity miss change cell put business.",
+        "bio": "Bank agent particularly likely. Response day water take street. Too professional thing assume forget create."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
