@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Gilbert",
+    "age": 114,
+    "address": {
+        "street": "Hartman Summit",
+        "city": "Rebeccamouth",
+        "state": "New Hampshire",
+        "zip": "78873"
+    },
+    "contact": {
+        "phone": "965.624.1400x932",
+        "servicePhone": "800745438"
+    },
+    "birthday": "1911-18-10",
+    "ip": "126.141.249.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Worry mother attack shoulder. Official subject out ok economy everything develop.",
+        "bio": "Sure agreement organization able control plan itself. Food arrive project I.\nSuffer of that professor movement feel. Step network develop might guy buy big."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
