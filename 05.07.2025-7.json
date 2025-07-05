@@ -1,0 +1,25 @@
+{
+    "name": "Travis Shaw",
+    "age": 103,
+    "address": {
+        "street": "Jacobs River",
+        "city": "Derrickbury",
+        "state": "Mississippi",
+        "zip": "81029"
+    },
+    "contact": {
+        "phone": "(510)326-7012",
+        "servicePhone": "800091462"
+    },
+    "birthday": "1922-22-08",
+    "ip": "12.254.40.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Break community fire miss south thank reflect. Know through under serve customer activity.",
+        "bio": "Room system than machine. Lawyer better town market interest six. Everyone team focus structure."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
