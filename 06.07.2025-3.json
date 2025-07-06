@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Vaughan",
+    "age": 63,
+    "address": {
+        "street": "Newton Circle",
+        "city": "East Brittanyville",
+        "state": "Missouri",
+        "zip": "20069"
+    },
+    "contact": {
+        "phone": "229-953-8084",
+        "servicePhone": "800001913"
+    },
+    "birthday": "1962-26-12",
+    "ip": "23.180.248.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Security as baby good instead pattern. Should knowledge decide station forget series.\nAway mention can. Officer future coach ago others probably send win. Property foreign up fund stand.",
+        "bio": "Ok show political pretty race. Center degree price often past. Of treat out article care finally. Sell matter a per.\nPlay at something. Wear that section low social. Two fear hotel."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
