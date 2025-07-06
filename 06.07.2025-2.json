@@ -1,0 +1,25 @@
+{
+    "name": "Cory Cardenas",
+    "age": 15,
+    "address": {
+        "street": "Danielle Flats",
+        "city": "Tommymouth",
+        "state": "Wisconsin",
+        "zip": "17010"
+    },
+    "contact": {
+        "phone": "001-288-833-9764x6658",
+        "servicePhone": "800301054"
+    },
+    "birthday": "2010-25-09",
+    "ip": "151.250.138.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Here how suffer security official community. Oil goal week girl. Guess cell somebody.\nFollow alone onto focus several weight never computer. Deep grow let different forget off administration.",
+        "bio": "Successful room policy too parent share art appear. You behavior off for think woman research. Reason how impact. Authority company near ability glass rise."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
