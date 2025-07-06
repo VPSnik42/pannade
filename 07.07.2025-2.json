@@ -1,0 +1,25 @@
+{
+    "name": "Alicia Costa",
+    "age": 8,
+    "address": {
+        "street": "Michael Rapid",
+        "city": "Lake Erichaven",
+        "state": "Delaware",
+        "zip": "88526"
+    },
+    "contact": {
+        "phone": "001-526-356-0889x5554",
+        "servicePhone": "800787344"
+    },
+    "birthday": "2017-01-05",
+    "ip": "73.180.246.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Answer more condition again and sense cold. Both throughout product show drive themselves probably partner. Hot evidence remain Republican office.",
+        "bio": "Drive sister election hold. Turn but two capital candidate. Green yard think modern clearly dinner mean.\nPlay seem policy not structure test. Break boy certain voice cup. Popular reflect laugh thing."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
