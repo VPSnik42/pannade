@@ -1,0 +1,25 @@
+{
+    "name": "Christina Mills",
+    "age": 60,
+    "address": {
+        "street": "Wallace Run",
+        "city": "North Matthewborough",
+        "state": "Delaware",
+        "zip": "56374"
+    },
+    "contact": {
+        "phone": "(641)789-0869x1247",
+        "servicePhone": "800472268"
+    },
+    "birthday": "1965-21-04",
+    "ip": "105.148.121.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Central represent upon around mean.\nKey behind claim value admit way reflect.\nAt low administration show. Prove ok responsibility guy whether production.",
+        "bio": "Scientist also interest member example building send building. Energy must beautiful until nature.\nAround whole step first. Various provide full answer challenge move management student."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
