@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Fox",
+    "age": 51,
+    "address": {
+        "street": "Johnson Landing",
+        "city": "West Kevinside",
+        "state": "Alabama",
+        "zip": "71435"
+    },
+    "contact": {
+        "phone": "3562527935",
+        "servicePhone": "800282264"
+    },
+    "birthday": "1974-15-01",
+    "ip": "29.245.22.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Right give operation those under agree.\nDiscover if day together card. Seem would term us financial.\nEye box resource others care book. Single long before amount see shoulder window.",
+        "bio": "Politics want financial. Source trade herself sister establish. Without notice color affect deep."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
