@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Lee Blevins",
+    "age": 29,
+    "address": {
+        "street": "Porter Springs",
+        "city": "Sanchezbury",
+        "state": "Utah",
+        "zip": "68489"
+    },
+    "contact": {
+        "phone": "(706)226-1610",
+        "servicePhone": "800818363"
+    },
+    "birthday": "1996-15-12",
+    "ip": "42.132.172.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Tax place check. Price act whatever give better station beat. Be according trouble I lawyer. Edge by ball tend blood deal side.",
+        "bio": "Score toward court yes rich name cost store. Protect career road.\nAbout food interest anyone quickly. Those matter case machine total choose."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
