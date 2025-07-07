@@ -1,0 +1,25 @@
+{
+    "name": "Tanya Mcgee",
+    "age": 75,
+    "address": {
+        "street": "Melissa Forges",
+        "city": "Tracyville",
+        "state": "Alaska",
+        "zip": "90200"
+    },
+    "contact": {
+        "phone": "+1-985-637-3825x71346",
+        "servicePhone": "800643524"
+    },
+    "birthday": "1950-20-05",
+    "ip": "139.207.246.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Something thousand human people whom some. When ever always yes forward mind series goal.\nCould treatment order miss sound both. Sport impact your after wind federal.",
+        "bio": "Degree how support near else. Hospital interest edge firm city.\nHead mind suddenly expert alone. Ever training member building sometimes age opportunity challenge."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
