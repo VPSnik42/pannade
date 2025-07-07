@@ -1,0 +1,25 @@
+{
+    "name": "Juan Macias",
+    "age": 101,
+    "address": {
+        "street": "Michael Harbor",
+        "city": "Caroltown",
+        "state": "Massachusetts",
+        "zip": "21904"
+    },
+    "contact": {
+        "phone": "611.696.3016x117",
+        "servicePhone": "800481291"
+    },
+    "birthday": "1924-07-02",
+    "ip": "138.42.254.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Player strategy federal. Notice price consumer Republican all begin. Today source together grow over especially. Fall call help heavy build.",
+        "bio": "Hope eye financial professional study. Manager week issue what financial value.\nAccording wrong too relate. Join she bad simple free reach. Call run cultural red compare degree front consumer."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
