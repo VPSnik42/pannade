@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Burns",
+    "age": 50,
+    "address": {
+        "street": "Brian Park",
+        "city": "Escobarchester",
+        "state": "West Virginia",
+        "zip": "40375"
+    },
+    "contact": {
+        "phone": "7225589487",
+        "servicePhone": "800689310"
+    },
+    "birthday": "1975-21-01",
+    "ip": "181.43.118.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Race mean news pass heavy structure. Information civil stock world.\nI sure serve friend. Finally make information professional blood senior. Recently blue rich officer analysis loss become.",
+        "bio": "Line respond position hotel industry education. Three director data pass.\nDirector against view necessary receive Mr. Road head half reach moment."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
