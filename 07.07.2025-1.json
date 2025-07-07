@@ -1,0 +1,25 @@
+{
+    "name": "Heather Johns",
+    "age": 77,
+    "address": {
+        "street": "Russo Alley",
+        "city": "Port Davidbury",
+        "state": "North Carolina",
+        "zip": "03079"
+    },
+    "contact": {
+        "phone": "+1-636-787-0200x838",
+        "servicePhone": "800658206"
+    },
+    "birthday": "1948-18-10",
+    "ip": "72.196.21.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Issue standard stock collection leave. Deep build room month crime billion fire service.",
+        "bio": "Treat story close can. Discuss environment ball. Item physical admit range act itself sort."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
