@@ -1,0 +1,25 @@
+{
+    "name": "Jack Mathews",
+    "age": 105,
+    "address": {
+        "street": "Walker Springs",
+        "city": "Dominiquetown",
+        "state": "Vermont",
+        "zip": "71784"
+    },
+    "contact": {
+        "phone": "+1-280-584-5753x76765",
+        "servicePhone": "800162515"
+    },
+    "birthday": "1920-28-01",
+    "ip": "102.111.148.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist than lose figure. Direction conference meeting include.\nSea none return choose at. Walk institution notice yard economy already. Community how question long case many shoulder.",
+        "bio": "Try garden prevent yard itself step everybody. Decide race along interest federal good growth.\nExperience fast art. Lose notice civil population believe environmental. Ability accept build exist."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
