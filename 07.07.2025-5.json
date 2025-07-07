@@ -1,0 +1,25 @@
+{
+    "name": "Todd Wood DDS",
+    "age": 32,
+    "address": {
+        "street": "Danielle Glens",
+        "city": "South Frances",
+        "state": "Hawaii",
+        "zip": "35224"
+    },
+    "contact": {
+        "phone": "001-437-413-7051x962",
+        "servicePhone": "800916387"
+    },
+    "birthday": "1993-04-01",
+    "ip": "98.220.29.132",
+    "foo": "bar",
+    "profile": {
+        "about": "International win specific. Figure collection inside live.\nStation billion choice this wonder many. Social yeah should put piece. Owner successful may.",
+        "bio": "All operation though particularly food season high success. Care need senior none woman."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
