@@ -1,0 +1,25 @@
+{
+    "name": "Evelyn Allen",
+    "age": 45,
+    "address": {
+        "street": "Patricia Causeway",
+        "city": "Walkerfort",
+        "state": "Maine",
+        "zip": "35095"
+    },
+    "contact": {
+        "phone": "+1-640-415-3291x326",
+        "servicePhone": "800375955"
+    },
+    "birthday": "1980-08-12",
+    "ip": "91.120.242.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Couple week people. Leg say treatment recent war soldier form federal. Four cut network seat however fly.\nTest chair upon parent medical. Yes ten green fast half hope.",
+        "bio": "Home red way cut will role significant throughout.\nSimple item talk expert produce ball concern."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
