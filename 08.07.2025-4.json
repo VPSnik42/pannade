@@ -1,0 +1,25 @@
+{
+    "name": "Ronnie Hamilton",
+    "age": 3,
+    "address": {
+        "street": "Thomas Hill",
+        "city": "Ruizburgh",
+        "state": "Minnesota",
+        "zip": "51742"
+    },
+    "contact": {
+        "phone": "(204)854-6825x05958",
+        "servicePhone": "800134777"
+    },
+    "birthday": "2022-08-09",
+    "ip": "104.204.195.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Seven born for seek coach painting art. Month whole expert service pull strong. Imagine measure public save. Instead officer everyone.\nAway so action fly. Soon debate lose piece.\nGrow firm blue.",
+        "bio": "Growth society book western bad. Truth peace know raise expect. Amount her keep.\nAfter resource democratic. Purpose agent leader media American create. Heavy game open material last."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
