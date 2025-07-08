@@ -1,0 +1,25 @@
+{
+    "name": "Miranda Jacobs",
+    "age": 69,
+    "address": {
+        "street": "Steven Fall",
+        "city": "New Andreachester",
+        "state": "New Hampshire",
+        "zip": "92124"
+    },
+    "contact": {
+        "phone": "828.516.5987",
+        "servicePhone": "800095577"
+    },
+    "birthday": "1956-02-05",
+    "ip": "122.15.160.232",
+    "foo": "bar",
+    "profile": {
+        "about": "After third listen feel program specific we maintain. Her impact good these event push.\nCut vote main five west. Together right night happy figure. Measure entire data guy.",
+        "bio": "May apply your letter end.\nEnough western behavior party agreement benefit. Each sort if message interesting live image. Kid remain however conference affect foot stand."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
