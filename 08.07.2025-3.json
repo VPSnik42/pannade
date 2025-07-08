@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Durham",
+    "age": 21,
+    "address": {
+        "street": "Melissa Forks",
+        "city": "Garciamouth",
+        "state": "Wyoming",
+        "zip": "27946"
+    },
+    "contact": {
+        "phone": "477-527-6565x4867",
+        "servicePhone": "800407435"
+    },
+    "birthday": "2004-22-11",
+    "ip": "74.65.172.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Above worry fall far order party. Two perhaps talk young.\nBoy food control apply. Hard catch group blue.\nProtect east could tell.",
+        "bio": "Purpose both as. Fact nearly green table movie.\nAvailable event over ability. National director take type should return edge."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
