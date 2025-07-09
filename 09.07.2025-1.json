@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Smith",
+    "age": 104,
+    "address": {
+        "street": "Holden Motorway",
+        "city": "Smithhaven",
+        "state": "Arizona",
+        "zip": "43739"
+    },
+    "contact": {
+        "phone": "+1-629-634-6426x1891",
+        "servicePhone": "800854543"
+    },
+    "birthday": "1921-23-07",
+    "ip": "112.145.188.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Onto ahead suggest picture value return return. Beat east want spend how.\nExist article develop next point. Recognize line American know although a.",
+        "bio": "Choice nor model business. Cultural affect almost blue Democrat top.\nTheir garden little fight wait certain standard. Investment approach bring best. Team professional better."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
