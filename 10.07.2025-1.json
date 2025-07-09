@@ -1,0 +1,25 @@
+{
+    "name": "Michael Stewart",
+    "age": 77,
+    "address": {
+        "street": "Price Spring",
+        "city": "Osbornebury",
+        "state": "Arkansas",
+        "zip": "51100"
+    },
+    "contact": {
+        "phone": "001-354-381-8533x5181",
+        "servicePhone": "800790066"
+    },
+    "birthday": "1948-11-11",
+    "ip": "178.136.156.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Risk general accept trouble Congress skill page industry. Single want already garden conference represent budget.",
+        "bio": "Stay think through fill chair. Mean amount ever not at beautiful increase. Old area clear one this such when stand. Foot evidence college society personal guess challenge."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
