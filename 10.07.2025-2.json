@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Grant",
+    "age": 52,
+    "address": {
+        "street": "Alvarado Port",
+        "city": "West Tracyburgh",
+        "state": "Alabama",
+        "zip": "37056"
+    },
+    "contact": {
+        "phone": "923-876-4658",
+        "servicePhone": "800194687"
+    },
+    "birthday": "1973-06-12",
+    "ip": "48.33.158.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Voice three deal decide dog on operation. Environmental his author others.\nGas tend too. Many move account happen fact beautiful join ability. Cover raise begin name top certainly.",
+        "bio": "Probably operation line oil area nothing. Congress mean first fish them score.\nYeah drug senior only. Continue economy TV decide change vote."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
