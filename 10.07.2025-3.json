@@ -1,0 +1,25 @@
+{
+    "name": "Martha Rodriguez",
+    "age": 68,
+    "address": {
+        "street": "Carol Points",
+        "city": "Port Jackberg",
+        "state": "Colorado",
+        "zip": "70992"
+    },
+    "contact": {
+        "phone": "(922)228-2987x057",
+        "servicePhone": "800133070"
+    },
+    "birthday": "1957-20-05",
+    "ip": "76.73.176.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Election claim Democrat air force cause group firm. Pretty heavy politics current life name paper reality.\nSingle late return term my. Necessary wish not probably still seek.",
+        "bio": "Hotel represent high past bag eight wall life. Me material kid behavior who law. American until thousand local young choice.\nFilm others image tough. Summer available month blood year citizen."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
