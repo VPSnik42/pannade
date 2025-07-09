@@ -1,0 +1,25 @@
+{
+    "name": "Felicia Flores",
+    "age": 95,
+    "address": {
+        "street": "Melissa Walks",
+        "city": "Brittneyshire",
+        "state": "Oklahoma",
+        "zip": "86536"
+    },
+    "contact": {
+        "phone": "6393735934",
+        "servicePhone": "800404576"
+    },
+    "birthday": "1930-01-05",
+    "ip": "9.180.79.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone professional exactly.\nNext between look say particular kind class. Enjoy reality former strategy.\nSon into wall raise rock kitchen. Industry only hear big sort. Guy road method writer bad.",
+        "bio": "Hot difference early party. Strong list draw section. Ball threat quite miss.\nSafe drop also particularly. Modern learn serve decide final. Part morning media significant hotel government."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
