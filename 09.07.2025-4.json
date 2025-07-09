@@ -1,0 +1,25 @@
+{
+    "name": "John Johnson",
+    "age": 102,
+    "address": {
+        "street": "Alexander Lights",
+        "city": "South Brittany",
+        "state": "South Dakota",
+        "zip": "18868"
+    },
+    "contact": {
+        "phone": "(457)798-6412x10194",
+        "servicePhone": "800971032"
+    },
+    "birthday": "1923-08-06",
+    "ip": "178.108.238.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Ten discover respond style. Describe truth effect staff site. Water per best by control amount.\nChild hold decision goal. Of use low laugh arrive effect.",
+        "bio": "Hour according political effect relate window ready. Cold of these eight manage high base. Notice concern couple exactly hold sometimes. Notice friend four country mention build discussion."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
