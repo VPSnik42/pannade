@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hale",
+    "age": 6,
+    "address": {
+        "street": "Duncan Inlet",
+        "city": "West Dylan",
+        "state": "Florida",
+        "zip": "39487"
+    },
+    "contact": {
+        "phone": "+1-735-308-8298x92361",
+        "servicePhone": "800670729"
+    },
+    "birthday": "2019-15-03",
+    "ip": "107.8.162.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside spend level glass. Body speak fall environmental oil police design. Sound assume garden agency.\nType thing capital front civil sing trial.",
+        "bio": "Within gas oil assume bit view. Its close agency share least yourself three. Must laugh rest none what because development. Everybody accept language feeling color."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
