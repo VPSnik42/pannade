@@ -1,0 +1,25 @@
+{
+    "name": "Briana Williams",
+    "age": 53,
+    "address": {
+        "street": "Thomas Fields",
+        "city": "Lake Michael",
+        "state": "West Virginia",
+        "zip": "35447"
+    },
+    "contact": {
+        "phone": "+1-468-419-3501",
+        "servicePhone": "800874343"
+    },
+    "birthday": "1972-03-12",
+    "ip": "200.79.240.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Approach will phone find five. Tree president focus create network will.\nTop require social throw exist these newspaper television. Speech show really manage detail.",
+        "bio": "Music offer music dark simply ball. Piece term born check successful table role."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
