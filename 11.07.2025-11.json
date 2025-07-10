@@ -1,0 +1,25 @@
+{
+    "name": "Jorge Johnson",
+    "age": 12,
+    "address": {
+        "street": "Hernandez Park",
+        "city": "Michaelstad",
+        "state": "Pennsylvania",
+        "zip": "38803"
+    },
+    "contact": {
+        "phone": "750.228.2415x7211",
+        "servicePhone": "800547251"
+    },
+    "birthday": "2013-28-11",
+    "ip": "154.171.15.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Available thing quite race rest top. Hard game certainly forget evidence factor PM.\nSpace protect image real right pick investment seat.",
+        "bio": "Plant night either town avoid safe big state. South magazine note available prevent cold. Open free start can. Step itself adult interesting major what owner."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
