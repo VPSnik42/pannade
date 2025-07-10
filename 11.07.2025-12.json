@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Carter",
+    "age": 29,
+    "address": {
+        "street": "Ronald Green",
+        "city": "Lorimouth",
+        "state": "Oregon",
+        "zip": "63153"
+    },
+    "contact": {
+        "phone": "356-965-4280x238",
+        "servicePhone": "800954900"
+    },
+    "birthday": "1996-18-11",
+    "ip": "184.130.103.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Before leave free fill assume measure. Establish perhaps agent with bag federal certainly. Keep forward try director age company receive discover.",
+        "bio": "Rate box bit conference anything continue I. Ball ask simply really.\nAdd least college leader. Organization arm federal option fund language. Forward else not audience method force which."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
