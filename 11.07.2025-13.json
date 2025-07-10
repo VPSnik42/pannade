@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Donovan",
+    "age": 14,
+    "address": {
+        "street": "Sloan Branch",
+        "city": "Jessicafurt",
+        "state": "Nevada",
+        "zip": "03722"
+    },
+    "contact": {
+        "phone": "968-275-4953",
+        "servicePhone": "800636847"
+    },
+    "birthday": "2011-14-08",
+    "ip": "97.12.64.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Everybody admit rich push mouth anyone create wide. Mean camera push sister instead too fish. Conference forward employee since bill social cause.",
+        "bio": "Year music among travel join executive. Throughout special control media remember him."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
