@@ -1,0 +1,25 @@
+{
+    "name": "Brian Garza",
+    "age": 106,
+    "address": {
+        "street": "Hall Plains",
+        "city": "North Chelsea",
+        "state": "South Carolina",
+        "zip": "51647"
+    },
+    "contact": {
+        "phone": "(509)817-9594x061",
+        "servicePhone": "800819620"
+    },
+    "birthday": "1919-16-08",
+    "ip": "105.240.217.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat cut down finish up mention. Reduce hope his.\nEveryone remain seek those. Feel upon western choose alone.\nSomebody road create. Occur along city.",
+        "bio": "Season whether board south Mrs heavy change. Million time employee. Realize economic box my meet would.\nYoung bank medical prove article attention."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
