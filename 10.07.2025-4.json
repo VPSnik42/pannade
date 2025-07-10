@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Carter",
+    "age": 67,
+    "address": {
+        "street": "David Plains",
+        "city": "Port Oliviaville",
+        "state": "Massachusetts",
+        "zip": "91254"
+    },
+    "contact": {
+        "phone": "591-347-0707",
+        "servicePhone": "800644460"
+    },
+    "birthday": "1958-27-10",
+    "ip": "28.212.114.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Situation themselves positive prove she second walk.\nWalk challenge page will concern coach cultural deal. Real raise leader according item.",
+        "bio": "Down less understand want party less. Senior this under usually ready.\nWould school buy store heavy."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
