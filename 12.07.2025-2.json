@@ -1,0 +1,25 @@
+{
+    "name": "Sonya Holt",
+    "age": 34,
+    "address": {
+        "street": "Frost Plains",
+        "city": "East Danielle",
+        "state": "Connecticut",
+        "zip": "99320"
+    },
+    "contact": {
+        "phone": "(249)356-5447x1111",
+        "servicePhone": "800147375"
+    },
+    "birthday": "1991-28-12",
+    "ip": "32.12.34.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Certainly explain ground process major deal door. Long health friend. Address until seek film.\nCare seem authority consider film. East number more network. Deep perform vote.",
+        "bio": "Reach customer discussion indeed.\nVery game best morning. Thing past building sea star college or right. Trip price step."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
