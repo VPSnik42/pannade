@@ -1,0 +1,25 @@
+{
+    "name": "Megan Murphy",
+    "age": 25,
+    "address": {
+        "street": "Bond Place",
+        "city": "Lake Tamarafort",
+        "state": "Hawaii",
+        "zip": "34671"
+    },
+    "contact": {
+        "phone": "2073069524",
+        "servicePhone": "800225695"
+    },
+    "birthday": "2000-18-12",
+    "ip": "119.175.12.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Account fear trade. Program girl fast possible under. Million design age tough nature.\nUp practice can life investment involve. Past provide hope house. Line result center serious hour this sea.",
+        "bio": "Accept pressure student great. Law almost seem kitchen finally clear trade board. Other per really key southern enough."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
