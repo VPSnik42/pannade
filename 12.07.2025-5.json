@@ -1,0 +1,25 @@
+{
+    "name": "Justin Jones",
+    "age": 91,
+    "address": {
+        "street": "Patterson Street",
+        "city": "Collinsport",
+        "state": "Kentucky",
+        "zip": "23155"
+    },
+    "contact": {
+        "phone": "389-255-4109x980",
+        "servicePhone": "800676430"
+    },
+    "birthday": "1934-17-09",
+    "ip": "192.135.101.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Relate make might five poor. One two enter stay. His carry religious travel live. Program girl recognize so serious.",
+        "bio": "Spring house son include news identify base say. Professional list technology what necessary nor. Rather their woman evidence offer."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
