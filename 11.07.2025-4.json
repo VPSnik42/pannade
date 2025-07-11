@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Walker",
+    "age": 59,
+    "address": {
+        "street": "Benjamin Courts",
+        "city": "Newmantown",
+        "state": "North Carolina",
+        "zip": "00776"
+    },
+    "contact": {
+        "phone": "(311)558-0917",
+        "servicePhone": "800788154"
+    },
+    "birthday": "1966-02-02",
+    "ip": "37.129.187.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Like act book democratic successful.\nDetail decade value window. College institution beat important. Pretty down interest.\nPast certain create activity yard soldier sport.",
+        "bio": "Dog painting pay. Deep subject chance action.\nProfessional show civil. Style claim long ready. Assume see again thus may."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
