@@ -1,0 +1,25 @@
+{
+    "name": "Geoffrey Wells",
+    "age": 17,
+    "address": {
+        "street": "Cameron Tunnel",
+        "city": "North Michael",
+        "state": "Kentucky",
+        "zip": "74616"
+    },
+    "contact": {
+        "phone": "464.882.7519x1541",
+        "servicePhone": "800119486"
+    },
+    "birthday": "2008-28-01",
+    "ip": "93.67.93.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Put full everything reason light half include. Door fear develop use.\nProbably mention treatment ask board know. Budget include sound citizen.\nLet many stuff. Me stock own ball. Boy collection final.",
+        "bio": "Instead arm energy kind begin necessary. Seek yes over fill small party.\nTelevision new soon bit much feel citizen first. Whose get perform mind idea.\nBrother glass news fear network design when."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
