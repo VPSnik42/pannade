@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Jackson",
+    "age": 74,
+    "address": {
+        "street": "Robert Light",
+        "city": "North Bethstad",
+        "state": "Vermont",
+        "zip": "07462"
+    },
+    "contact": {
+        "phone": "(618)985-3111",
+        "servicePhone": "800678050"
+    },
+    "birthday": "1951-19-01",
+    "ip": "184.147.133.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Maintain hour amount child democratic reveal. Theory instead similar significant begin cut shake they. Affect but in language mean.",
+        "bio": "Poor husband view me very maintain peace several. Whole now federal leader meeting. Send nothing week budget again that campaign. I live position this."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
