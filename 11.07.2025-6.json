@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Richardson",
+    "age": 58,
+    "address": {
+        "street": "Brown Ranch",
+        "city": "Wesleyburgh",
+        "state": "Colorado",
+        "zip": "42429"
+    },
+    "contact": {
+        "phone": "9258759284",
+        "servicePhone": "800564538"
+    },
+    "birthday": "1967-24-03",
+    "ip": "1.64.0.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Suddenly serve policy guy. Environment take east lead red about investment.\nWest company yeah hot game television. Education myself catch indicate third final develop. Heart war soon least attention.",
+        "bio": "Common and body recent oil interview account myself.\nKey expect rich will until.\nFour town particular organization whether yet ground very. Art air have market well. Here trip newspaper left dark."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
