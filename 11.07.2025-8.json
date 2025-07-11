@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Murray",
+    "age": 8,
+    "address": {
+        "street": "Jennifer Pines",
+        "city": "Stokesland",
+        "state": "Arizona",
+        "zip": "68367"
+    },
+    "contact": {
+        "phone": "350-559-2898",
+        "servicePhone": "800262896"
+    },
+    "birthday": "2017-28-03",
+    "ip": "132.216.60.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Parent election since. Guess concern smile both.\nFront increase age article. Area call home think as budget.\nMy anyone away owner fly.\nKey picture well eye. Address different or value water of time.",
+        "bio": "Attention you truth speak. Line letter two player thought important drop. Enough police can.\nAlong mother feel campaign window simple easy body."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
