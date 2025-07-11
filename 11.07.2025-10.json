@@ -1,0 +1,25 @@
+{
+    "name": "Emily Merritt",
+    "age": 101,
+    "address": {
+        "street": "Johnson Skyway",
+        "city": "North Andrew",
+        "state": "Wisconsin",
+        "zip": "38765"
+    },
+    "contact": {
+        "phone": "608.612.2370x544",
+        "servicePhone": "800046739"
+    },
+    "birthday": "1924-02-02",
+    "ip": "94.30.117.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Site well we hotel on age. Soon argue free. President specific media age understand vote.\nJob share really. Whose force guess. Several if amount left speak fill service world.",
+        "bio": "Floor stand me. Start table company pressure occur. Matter tough whom voice we teach any.\nBelieve theory upon. Game perform happen outside include range."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
