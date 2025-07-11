@@ -1,0 +1,25 @@
+{
+    "name": "James Romero",
+    "age": 84,
+    "address": {
+        "street": "Campbell Plain",
+        "city": "Landryfurt",
+        "state": "Kentucky",
+        "zip": "07758"
+    },
+    "contact": {
+        "phone": "+1-464-206-1469x659",
+        "servicePhone": "800397891"
+    },
+    "birthday": "1941-10-12",
+    "ip": "212.144.78.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Throughout support one check public common argue. Unit enough must eight church law. Stop form country mother focus from quite. Arrive four behind accept themselves.",
+        "bio": "Rest second health term assume that former. So treatment person west operation away capital. Theory those bag we.\nLight all mouth law. Assume score many pay."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
