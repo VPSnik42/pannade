@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Ramsey",
+    "age": 21,
+    "address": {
+        "street": "Amber Green",
+        "city": "Lake Ericatown",
+        "state": "Colorado",
+        "zip": "80247"
+    },
+    "contact": {
+        "phone": "(542)249-7650",
+        "servicePhone": "800585072"
+    },
+    "birthday": "2004-11-09",
+    "ip": "33.151.63.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly fund watch floor. Main rest yeah may candidate off. Protect above keep. Property American build.\nGun themselves air any. Past offer little her front particularly.",
+        "bio": "Nor arrive better rock avoid. Write bed pretty could check rich.\nThree blood teach of success. According suddenly only positive."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
