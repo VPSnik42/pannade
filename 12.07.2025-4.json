@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Myers",
+    "age": 107,
+    "address": {
+        "street": "Rebecca Loop",
+        "city": "Foxfurt",
+        "state": "Nebraska",
+        "zip": "44744"
+    },
+    "contact": {
+        "phone": "312.613.7801x4918",
+        "servicePhone": "800858037"
+    },
+    "birthday": "1918-25-10",
+    "ip": "221.56.4.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Third watch sign price food example season agency. Be why health protect.\nEvent law turn rich summer check hope. Evening prove sound low country two.",
+        "bio": "Serious game husband century most certainly. Owner eat game throw growth door school indeed. Of large various develop."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
