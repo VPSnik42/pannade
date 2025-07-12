@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Donovan",
+    "age": 58,
+    "address": {
+        "street": "Camacho Bridge",
+        "city": "Wellshaven",
+        "state": "New York",
+        "zip": "39109"
+    },
+    "contact": {
+        "phone": "+1-365-535-4464x067",
+        "servicePhone": "800562414"
+    },
+    "birthday": "1967-13-05",
+    "ip": "168.41.65.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Specific too job site stand hold. Sound before involve organization respond.\nField until sense break fear step. Instead tax themselves high weight.",
+        "bio": "In hour student during social military represent. Picture purpose door he risk.\nWorld inside Mrs environment hotel check small. Mind dog city wind physical management bar."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
