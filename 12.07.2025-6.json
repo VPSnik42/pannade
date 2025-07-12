@@ -1,0 +1,25 @@
+{
+    "name": "Steven Haynes",
+    "age": 95,
+    "address": {
+        "street": "Nash Tunnel",
+        "city": "Laurenshire",
+        "state": "Oklahoma",
+        "zip": "49397"
+    },
+    "contact": {
+        "phone": "698-731-4953x1551",
+        "servicePhone": "800236520"
+    },
+    "birthday": "1930-10-06",
+    "ip": "72.133.21.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Notice remain southern. Administration concern catch four box.\nDesign month attention buy give final admit. Prepare control bar fine. Method lot itself kitchen public she too.",
+        "bio": "Another consider article region. Nearly section push before blood Democrat. Child pretty great sometimes sit off factor.\nHuman before loss loss rest. Range inside assume task dark worker cut part."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
