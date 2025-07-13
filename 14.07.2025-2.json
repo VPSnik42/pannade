@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Flores",
+    "age": 21,
+    "address": {
+        "street": "Perez Unions",
+        "city": "Bellmouth",
+        "state": "Colorado",
+        "zip": "94937"
+    },
+    "contact": {
+        "phone": "001-247-381-8037",
+        "servicePhone": "800886235"
+    },
+    "birthday": "2004-25-10",
+    "ip": "133.20.102.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Religious arrive if over know. Per you power draw less table. Beat skill another still place activity.\nCreate candidate answer impact material fast.",
+        "bio": "Work maintain concern forget red Mrs those. Money affect threat TV garden agreement.\nSame artist attorney another financial control step. Across machine if fear way enjoy within."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
