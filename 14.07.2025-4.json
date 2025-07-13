@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Guerrero",
+    "age": 105,
+    "address": {
+        "street": "Mendoza Field",
+        "city": "Aguilarview",
+        "state": "Kentucky",
+        "zip": "37449"
+    },
+    "contact": {
+        "phone": "+1-635-803-8508x376",
+        "servicePhone": "800726839"
+    },
+    "birthday": "1920-05-05",
+    "ip": "98.21.252.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Your picture lay gas. Book reality office hand level. Popular west blue little leave scene office.\nEven reduce beat do source. Summer possible media sell. She watch training media any.",
+        "bio": "President feeling national big. At really operation eight forward. Represent season range light into city."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
