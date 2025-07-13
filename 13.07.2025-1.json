@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Cunningham",
+    "age": 50,
+    "address": {
+        "street": "Nancy Shore",
+        "city": "East Julia",
+        "state": "Minnesota",
+        "zip": "05884"
+    },
+    "contact": {
+        "phone": "(312)949-2508",
+        "servicePhone": "800741391"
+    },
+    "birthday": "1975-08-07",
+    "ip": "191.215.128.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Office design special morning assume everything. Sure he sea especially drug there. War reach start sport beautiful.\nAgency explain open pass.\nMajor adult scientist protect how goal.",
+        "bio": "Best billion system offer. Go different reduce heart road save value improve. Rule wife available rather."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
