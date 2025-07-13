@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Armstrong",
+    "age": 78,
+    "address": {
+        "street": "Sellers Shore",
+        "city": "New Michael",
+        "state": "Vermont",
+        "zip": "65704"
+    },
+    "contact": {
+        "phone": "(679)256-8894x61819",
+        "servicePhone": "800161970"
+    },
+    "birthday": "1947-05-09",
+    "ip": "99.87.105.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Design general trade attorney individual reason. Own fish task their. Eye interesting season young these win team.\nFull about claim camera.",
+        "bio": "Difference day suggest.\nPm three rule window baby service argue. Agreement over none than."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
