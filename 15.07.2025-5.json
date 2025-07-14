@@ -1,0 +1,25 @@
+{
+    "name": "Steven Miller",
+    "age": 73,
+    "address": {
+        "street": "Benson Fort",
+        "city": "East Jennifer",
+        "state": "Maine",
+        "zip": "86616"
+    },
+    "contact": {
+        "phone": "+1-531-879-8892x5856",
+        "servicePhone": "800291164"
+    },
+    "birthday": "1952-12-01",
+    "ip": "180.159.170.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Give floor interesting fill good explain. Care unit example indicate entire. Team play into brother adult network case my.",
+        "bio": "Physical forward read middle join. Exist away fill it walk culture allow. Central many never of movement only lay ever.\nTen open million individual. Situation particular own them history contain."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
