@@ -1,0 +1,25 @@
+{
+    "name": "Lynn Parker",
+    "age": 91,
+    "address": {
+        "street": "Watson Junctions",
+        "city": "West Julia",
+        "state": "Alaska",
+        "zip": "38278"
+    },
+    "contact": {
+        "phone": "755.944.0764x10621",
+        "servicePhone": "800043358"
+    },
+    "birthday": "1934-25-05",
+    "ip": "82.120.171.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Senior just eight present compare bill. Marriage station act red. Me team think list.\nSerious tax their form. Series tax per trial rock. Late many risk next.",
+        "bio": "Standard public body. Important for type. Around bill return see will."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
