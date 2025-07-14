@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Lang",
+    "age": 97,
+    "address": {
+        "street": "Brown Hill",
+        "city": "Beckermouth",
+        "state": "Connecticut",
+        "zip": "44143"
+    },
+    "contact": {
+        "phone": "762-632-6812x296",
+        "servicePhone": "800482860"
+    },
+    "birthday": "1928-22-08",
+    "ip": "217.237.236.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound east song though media. Analysis again less land energy notice.",
+        "bio": "Agreement money participant page. No that to great success travel material. Gas strategy wear main above."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
