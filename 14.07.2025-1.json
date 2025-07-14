@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Buck",
+    "age": 67,
+    "address": {
+        "street": "Tran Track",
+        "city": "Johnsonhaven",
+        "state": "Nevada",
+        "zip": "89122"
+    },
+    "contact": {
+        "phone": "608.664.3576",
+        "servicePhone": "800560965"
+    },
+    "birthday": "1958-22-05",
+    "ip": "219.25.221.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Scene television discussion whom rest myself agree fact. Total send must across bank people.",
+        "bio": "Mouth budget spring onto. Expert seek determine threat expert.\nField common reflect kitchen partner another current gas. Open analysis according. Lead political real small together TV."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
