@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Williams",
+    "age": 111,
+    "address": {
+        "street": "Bishop Pines",
+        "city": "Emilyberg",
+        "state": "Michigan",
+        "zip": "16567"
+    },
+    "contact": {
+        "phone": "001-993-525-8751x810",
+        "servicePhone": "800662575"
+    },
+    "birthday": "1914-30-12",
+    "ip": "33.141.210.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Still if without person find standard less. Yeah cold chair century money possible air. Benefit support dinner four run.",
+        "bio": "Exist pull window pass over spend year.\nDoor from down election nor take actually before.\nSince off his deep ago. Once keep concern."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
