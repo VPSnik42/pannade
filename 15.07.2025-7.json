@@ -1,0 +1,25 @@
+{
+    "name": "Roger Hines",
+    "age": 1,
+    "address": {
+        "street": "Schmidt Forges",
+        "city": "South Emilymouth",
+        "state": "New Jersey",
+        "zip": "48480"
+    },
+    "contact": {
+        "phone": "451-290-6672x46039",
+        "servicePhone": "800212814"
+    },
+    "birthday": "2024-05-01",
+    "ip": "35.126.185.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Job tend letter stop near ability. Current Mrs people civil.\nMuch exist Democrat second. Among wind ever. Set report history fall benefit heart behind.",
+        "bio": "Me report fall former than themselves between. Simply none usually particularly make."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
