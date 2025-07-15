@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Schmidt",
+    "age": 88,
+    "address": {
+        "street": "Thompson Forge",
+        "city": "North Patrickborough",
+        "state": "Kentucky",
+        "zip": "41243"
+    },
+    "contact": {
+        "phone": "534.818.0710x95786",
+        "servicePhone": "800072983"
+    },
+    "birthday": "1937-02-08",
+    "ip": "160.109.25.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Some consider move investment five fill. Type quality soon picture join economy beautiful arm.\nEvening southern per our. Example lead drop which cut enough.",
+        "bio": "Fine whatever order beautiful claim home think. Certain song both general new.\nMain full few pretty science field affect. Near perform ready Mr. Sit drug data forget loss."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
