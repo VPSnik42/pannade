@@ -1,0 +1,25 @@
+{
+    "name": "John White",
+    "age": 29,
+    "address": {
+        "street": "James Greens",
+        "city": "North Christinashire",
+        "state": "New Jersey",
+        "zip": "57814"
+    },
+    "contact": {
+        "phone": "416-318-3505",
+        "servicePhone": "800543709"
+    },
+    "birthday": "1996-10-12",
+    "ip": "176.149.193.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat science lose final.\nHand yet across every other among available. Guess also kitchen institution animal various PM.",
+        "bio": "Congress answer eye cell ahead officer. Its face growth similar character. Short standard put education cause just detail forget."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
