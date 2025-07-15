@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Armstrong",
+    "age": 77,
+    "address": {
+        "street": "Riley Pine",
+        "city": "Port David",
+        "state": "Indiana",
+        "zip": "98286"
+    },
+    "contact": {
+        "phone": "615-883-2010x304",
+        "servicePhone": "800179974"
+    },
+    "birthday": "1948-03-08",
+    "ip": "30.44.157.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Room southern budget tough reality knowledge pick. Mission analysis design six size resource student pretty. Stock little trip entire under somebody pattern.",
+        "bio": "Push as fill leg if anyone yourself. Maintain owner deep accept send direction country."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
