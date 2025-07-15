@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Sanchez",
+    "age": 50,
+    "address": {
+        "street": "Mary Crest",
+        "city": "North Dustinstad",
+        "state": "Delaware",
+        "zip": "77964"
+    },
+    "contact": {
+        "phone": "(981)777-1624",
+        "servicePhone": "800255401"
+    },
+    "birthday": "1975-10-08",
+    "ip": "148.131.12.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Computer perhaps particular defense organization painting. Just some develop. Wall street wear night service also down. Physical base whole leg attack check visit others.",
+        "bio": "Hold address account well above live address. Member sell rate between class quality safe. Sing finish act something."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
