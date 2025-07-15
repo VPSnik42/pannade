@@ -1,0 +1,25 @@
+{
+    "name": "Heather Roy",
+    "age": 110,
+    "address": {
+        "street": "Emily Bypass",
+        "city": "Lake Allen",
+        "state": "Hawaii",
+        "zip": "64381"
+    },
+    "contact": {
+        "phone": "+1-377-213-6970",
+        "servicePhone": "800496707"
+    },
+    "birthday": "1915-05-01",
+    "ip": "10.67.77.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Over paper improve stage. City rock design specific even tend eight.\nNice measure inside peace effort. Protect training myself free.\nBuy science lay address.",
+        "bio": "Paper environmental dinner half short full. Free choose down vote subject group wonder."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
