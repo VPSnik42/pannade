@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Carroll",
+    "age": 45,
+    "address": {
+        "street": "Tyler Locks",
+        "city": "Port Elizabethhaven",
+        "state": "New York",
+        "zip": "08681"
+    },
+    "contact": {
+        "phone": "421.895.8512x17650",
+        "servicePhone": "800408175"
+    },
+    "birthday": "1980-27-08",
+    "ip": "18.4.162.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Soldier cut family fish skin short might son. Family rock girl pull ago. Everyone church style process particularly.",
+        "bio": "Conference left defense author leg someone meeting fact.\nSeek movement truth. Spend too oil vote. Believe become treatment letter rock build together."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
