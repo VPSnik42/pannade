@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Collins",
+    "age": 94,
+    "address": {
+        "street": "Angela Row",
+        "city": "Weberview",
+        "state": "Pennsylvania",
+        "zip": "79439"
+    },
+    "contact": {
+        "phone": "001-961-210-5390x743",
+        "servicePhone": "800180083"
+    },
+    "birthday": "1931-01-11",
+    "ip": "111.209.170.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Organization believe next certainly. Responsibility pressure for. Letter name especially song arrive road do.",
+        "bio": "International as response food despite receive article. From old gas cultural right way well.\nDirector day talk body fill."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
