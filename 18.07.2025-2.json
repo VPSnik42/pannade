@@ -1,0 +1,25 @@
+{
+    "name": "Jake Wyatt",
+    "age": 92,
+    "address": {
+        "street": "Porter Bridge",
+        "city": "Grayfort",
+        "state": "Utah",
+        "zip": "95712"
+    },
+    "contact": {
+        "phone": "966.590.8373",
+        "servicePhone": "800816049"
+    },
+    "birthday": "1933-21-02",
+    "ip": "167.93.69.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Pretty woman church. Book buy source. Personal could home total kitchen. Contain later production change able gun final face.",
+        "bio": "All mission really break. Know attorney or. What off finally body project draw.\nSong story six impact management run task. Garden fear throughout task pay add."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
