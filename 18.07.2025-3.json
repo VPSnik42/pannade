@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Brittany Jacobs",
+    "age": 35,
+    "address": {
+        "street": "Simpson Fall",
+        "city": "Port Hollyport",
+        "state": "Maryland",
+        "zip": "40054"
+    },
+    "contact": {
+        "phone": "3976851493",
+        "servicePhone": "800023975"
+    },
+    "birthday": "1990-31-05",
+    "ip": "96.93.74.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Positive material all exist area director resource between. Reveal pick professional your somebody effort within.\nExperience take perform. Stock site choose every nation both part compare.",
+        "bio": "Drop artist hundred young. Protect phone you fine. Own huge leg accept.\nRadio much both machine kid. Ever teacher customer against forget agree travel."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
