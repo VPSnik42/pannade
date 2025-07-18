@@ -1,0 +1,25 @@
+{
+    "name": "Paul Zimmerman",
+    "age": 86,
+    "address": {
+        "street": "Harper Vista",
+        "city": "Lopezmouth",
+        "state": "Massachusetts",
+        "zip": "74177"
+    },
+    "contact": {
+        "phone": "594-595-2302x5379",
+        "servicePhone": "800648992"
+    },
+    "birthday": "1939-31-07",
+    "ip": "16.146.201.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Down billion audience a situation no organization until. Hotel mean bag fast compare music quality.\nHerself where recent two management. Employee section magazine window suddenly half.",
+        "bio": "Role even season listen growth. Point mother light.\nMonth list future pretty large effect particular. Church next face interest scientist. Establish protect possible last any thought wait skill."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
