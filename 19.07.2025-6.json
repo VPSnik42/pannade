@@ -1,0 +1,25 @@
+{
+    "name": "Tina Coleman",
+    "age": 40,
+    "address": {
+        "street": "Tom Viaduct",
+        "city": "Jonesshire",
+        "state": "Delaware",
+        "zip": "43405"
+    },
+    "contact": {
+        "phone": "001-705-290-2731x545",
+        "servicePhone": "800785235"
+    },
+    "birthday": "1985-15-09",
+    "ip": "63.135.81.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Author hand attention local. Century join official action.",
+        "bio": "Fire wonder network total others prevent run. Piece the summer.\nStar support research enjoy. Clear management author positive know perform see."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
