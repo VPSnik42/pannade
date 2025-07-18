@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Goodwin",
+    "age": 2,
+    "address": {
+        "street": "Perkins Meadow",
+        "city": "Patrickville",
+        "state": "Kentucky",
+        "zip": "67465"
+    },
+    "contact": {
+        "phone": "001-436-629-2018x22314",
+        "servicePhone": "800594228"
+    },
+    "birthday": "2023-16-09",
+    "ip": "179.92.15.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Page market computer door protect important behind imagine. Entire short along defense apply including interview. Ready black manage. Whatever wife report spend.",
+        "bio": "Form within physical name not.\nLine many employee subject level ability. Else approach guy fill painting reality red. Cup nearly meeting green talk."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
