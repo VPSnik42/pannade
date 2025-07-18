@@ -1,0 +1,25 @@
+{
+    "name": "John Greene",
+    "age": 38,
+    "address": {
+        "street": "Benjamin Brook",
+        "city": "Lake Johnberg",
+        "state": "North Dakota",
+        "zip": "33341"
+    },
+    "contact": {
+        "phone": "736-976-5507x04753",
+        "servicePhone": "800120503"
+    },
+    "birthday": "1987-09-11",
+    "ip": "27.162.121.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Increase across edge return painting similar. Tax enter situation consumer. Office culture which think. Really Republican bring.",
+        "bio": "Role interview table learn miss. Contain wear and recent room. Scientist night occur.\nDecide home clearly customer town. Seek without turn. Into share meet card role of message."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
