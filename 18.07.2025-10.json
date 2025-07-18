@@ -1,0 +1,25 @@
+{
+    "name": "Brett Fernandez",
+    "age": 55,
+    "address": {
+        "street": "Rangel Run",
+        "city": "East Amy",
+        "state": "Georgia",
+        "zip": "15147"
+    },
+    "contact": {
+        "phone": "706-849-9278",
+        "servicePhone": "800608309"
+    },
+    "birthday": "1970-10-08",
+    "ip": "151.78.101.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Know degree talk show. Guess fish theory agreement allow.\nSit blue few political. Million environmental claim whatever.",
+        "bio": "History subject ten ball attention sound young. Hit huge reveal scientist front various this card. Upon respond body sell. Able purpose and also family specific office friend."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
