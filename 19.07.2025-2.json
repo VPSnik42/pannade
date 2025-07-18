@@ -1,0 +1,25 @@
+{
+    "name": "Sharon White",
+    "age": 93,
+    "address": {
+        "street": "David Mountains",
+        "city": "West Jason",
+        "state": "Rhode Island",
+        "zip": "02476"
+    },
+    "contact": {
+        "phone": "254.371.9307",
+        "servicePhone": "800581791"
+    },
+    "birthday": "1932-07-10",
+    "ip": "58.172.195.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Another hot goal whether training lose year. Every must day weight its top plan.\nInclude store some prove collection.\nYoung give source staff step region. Around among condition.",
+        "bio": "Right employee name magazine. Outside look however cup big door card song. Language attorney or.\nArticle rock paper ten bad. Old him source free cultural."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
