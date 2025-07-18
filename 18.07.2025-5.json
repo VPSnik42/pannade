@@ -1,0 +1,25 @@
+{
+    "name": "Jeff Scott",
+    "age": 65,
+    "address": {
+        "street": "Meagan Expressway",
+        "city": "Michaelbury",
+        "state": "Hawaii",
+        "zip": "52756"
+    },
+    "contact": {
+        "phone": "652.259.0795",
+        "servicePhone": "800912412"
+    },
+    "birthday": "1960-07-11",
+    "ip": "34.197.93.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Sort reflect some social laugh product bag. Beautiful offer last skin. Others property magazine develop subject along cause. Add professor coach cold one record within.",
+        "bio": "Part election into environment. Play form question learn understand reduce.\nAllow increase music should discussion pattern. Program past general today."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
