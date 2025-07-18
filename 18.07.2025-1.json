@@ -1,0 +1,25 @@
+{
+    "name": "Richard Watts",
+    "age": 34,
+    "address": {
+        "street": "Miller Drive",
+        "city": "New Meredith",
+        "state": "Tennessee",
+        "zip": "68644"
+    },
+    "contact": {
+        "phone": "976-980-1607",
+        "servicePhone": "800836543"
+    },
+    "birthday": "1991-22-08",
+    "ip": "183.73.163.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager should cell rich here maybe system. Big capital international within.",
+        "bio": "Civil man road most. I focus share allow benefit style others involve.\nOwner suddenly security trade rise just positive. Boy sure know bar simple dark."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
