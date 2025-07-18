@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Massey",
+    "age": 2,
+    "address": {
+        "street": "Coleman Ports",
+        "city": "Lake Stephanie",
+        "state": "New Jersey",
+        "zip": "83267"
+    },
+    "contact": {
+        "phone": "001-806-634-2062x5758",
+        "servicePhone": "800426792"
+    },
+    "birthday": "2023-12-08",
+    "ip": "9.210.203.41",
+    "foo": "bar",
+    "profile": {
+        "about": "White policy edge son sister. Culture there animal sign. Represent might woman no maintain.\nProtect large entire say top him letter wear. Throughout shake modern hotel drug.",
+        "bio": "Energy instead join those since. Case daughter company every.\nScience style television speech. Many detail consumer science leave value career force. Seat south budget hair leave environment."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
