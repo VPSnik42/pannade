@@ -1,0 +1,25 @@
+{
+    "name": "Vincent Brooks",
+    "age": 106,
+    "address": {
+        "street": "Debra Vista",
+        "city": "New Kennethburgh",
+        "state": "Nevada",
+        "zip": "42652"
+    },
+    "contact": {
+        "phone": "(238)480-3635x40856",
+        "servicePhone": "800871103"
+    },
+    "birthday": "1919-25-02",
+    "ip": "185.237.146.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Fly magazine close new describe. Ten tend never family race admit. In issue hot light fly.\nWin meeting may early. Institution population black minute office well.",
+        "bio": "Toward each when early American. Budget food last third. Soldier fact chance if.\nMiss arrive artist make. Population they keep mission discover present Mr. Baby history meet pass true."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
