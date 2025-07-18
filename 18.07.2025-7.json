@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Garcia",
+    "age": 25,
+    "address": {
+        "street": "Hutchinson Groves",
+        "city": "East Joseview",
+        "state": "Vermont",
+        "zip": "60954"
+    },
+    "contact": {
+        "phone": "730.982.9375",
+        "servicePhone": "800942190"
+    },
+    "birthday": "2000-25-03",
+    "ip": "130.58.93.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Fine decision prevent send Congress. Or question unit stand various. Year however shoulder other simply. Defense often participant local goal head.",
+        "bio": "Agreement drug there early. There much friend house.\nLate hundred medical first energy trip international. Civil report tend story."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
