@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Pham",
+    "age": 81,
+    "address": {
+        "street": "Joseph Prairie",
+        "city": "South Edward",
+        "state": "Maryland",
+        "zip": "61380"
+    },
+    "contact": {
+        "phone": "426-809-0003x777",
+        "servicePhone": "800447390"
+    },
+    "birthday": "1944-25-01",
+    "ip": "185.205.96.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Including choose human company word. Measure management clearly experience act nice speech. Could yourself speak.\nProperty wall surface require law. Poor large war level.",
+        "bio": "Morning language while cup range weight. Financial eat sense that born debate. Will media debate first mind detail something."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
