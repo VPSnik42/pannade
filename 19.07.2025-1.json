@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Hayes",
+    "age": 110,
+    "address": {
+        "street": "Sandra Turnpike",
+        "city": "Hickston",
+        "state": "Iowa",
+        "zip": "37060"
+    },
+    "contact": {
+        "phone": "001-246-491-4555",
+        "servicePhone": "800046154"
+    },
+    "birthday": "1915-11-12",
+    "ip": "62.72.149.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Total lose accept good expect. Senior life attention surface amount respond drug. Tend situation agreement woman ago certain writer.",
+        "bio": "Three family stand image they step bed. Cold skill high enjoy building organization.\nStuff animal TV. Inside fly if check information fear off. Ahead so lead decade certain blue."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
