@@ -1,0 +1,25 @@
+{
+    "name": "Heather Thomas",
+    "age": 40,
+    "address": {
+        "street": "Tucker Vista",
+        "city": "Shawnmouth",
+        "state": "Louisiana",
+        "zip": "10892"
+    },
+    "contact": {
+        "phone": "+1-519-590-8358x9759",
+        "servicePhone": "800010067"
+    },
+    "birthday": "1985-03-12",
+    "ip": "69.204.95.129",
+    "foo": "bar",
+    "profile": {
+        "about": "None develop course political either fire finally. Thousand defense defense suggest.\nValue page future head final force painting month. Rock several audience key painting shoulder seat.",
+        "bio": "Serious need environmental everyone space son draw song. She defense read sea. Where money take water compare two sport."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
