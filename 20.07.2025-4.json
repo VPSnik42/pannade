@@ -1,0 +1,25 @@
+{
+    "name": "Terri Jensen",
+    "age": 88,
+    "address": {
+        "street": "Jason Rapids",
+        "city": "Davisberg",
+        "state": "New Hampshire",
+        "zip": "13050"
+    },
+    "contact": {
+        "phone": "257.956.9946x7590",
+        "servicePhone": "800603711"
+    },
+    "birthday": "1937-16-08",
+    "ip": "171.180.222.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Seat generation left imagine assume. Across name sign natural blue woman.\nUsually garden behavior pick. Draw prove success degree stage sister minute training. Read sing smile second.",
+        "bio": "Management really election. Land approach buy parent. Husband past career should fund. Degree well arrive mouth office husband."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
