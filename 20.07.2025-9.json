@@ -1,0 +1,25 @@
+{
+    "name": "Chad Thomas",
+    "age": 68,
+    "address": {
+        "street": "Luis Mountain",
+        "city": "Gibsonshire",
+        "state": "Nevada",
+        "zip": "05162"
+    },
+    "contact": {
+        "phone": "538.884.8809x009",
+        "servicePhone": "800513366"
+    },
+    "birthday": "1957-06-12",
+    "ip": "172.223.103.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Smile usually if positive system. Politics seek quickly night order. Want blood require into serious.",
+        "bio": "Note color three person type voice. Arm leave order admit dinner trial receive between.\nThought you leave. Including north American own also detail attack social."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
