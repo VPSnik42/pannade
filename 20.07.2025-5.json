@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Payne",
+    "age": 59,
+    "address": {
+        "street": "Mark Meadow",
+        "city": "Bettybury",
+        "state": "Oregon",
+        "zip": "08977"
+    },
+    "contact": {
+        "phone": "858-574-5388",
+        "servicePhone": "800832225"
+    },
+    "birthday": "1966-13-09",
+    "ip": "118.24.116.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Its interview meeting different pass increase as act. Article poor too certainly nature sister.",
+        "bio": "Main accept name single last son. Item American stock side agreement mission. Try something impact."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
