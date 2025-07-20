@@ -1,0 +1,25 @@
+{
+    "name": "Edward Jenkins",
+    "age": 19,
+    "address": {
+        "street": "Frazier Key",
+        "city": "Martinezside",
+        "state": "Idaho",
+        "zip": "29813"
+    },
+    "contact": {
+        "phone": "001-660-267-0789x61589",
+        "servicePhone": "800118353"
+    },
+    "birthday": "2006-24-05",
+    "ip": "12.123.246.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Reality weight certainly grow next. Teach chair should company site arm serve. Almost how draw wide find happy yard follow.\nContain thing eight clearly represent section life paper.",
+        "bio": "Themselves say money more court.\nTheir white financial wish term.\nSong radio alone. Seven suggest safe control candidate."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
