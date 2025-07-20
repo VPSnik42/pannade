@@ -1,0 +1,25 @@
+{
+    "name": "Melissa White",
+    "age": 38,
+    "address": {
+        "street": "Sheila Creek",
+        "city": "North Bethstad",
+        "state": "Ohio",
+        "zip": "08888"
+    },
+    "contact": {
+        "phone": "858-236-0114x4585",
+        "servicePhone": "800952955"
+    },
+    "birthday": "1987-07-05",
+    "ip": "15.7.217.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Will yes seven then. Ever opportunity raise subject civil marriage dream parent. Current good baby do.",
+        "bio": "Political trip big management by employee. Per four affect different difference forget decision. Continue democratic garden art. Leg also fund worker."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
