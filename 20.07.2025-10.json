@@ -1,0 +1,25 @@
+{
+    "name": "John Allen",
+    "age": 22,
+    "address": {
+        "street": "Jeffrey Circle",
+        "city": "Ramirezfort",
+        "state": "Indiana",
+        "zip": "57563"
+    },
+    "contact": {
+        "phone": "(680)328-9132x13047",
+        "servicePhone": "800824658"
+    },
+    "birthday": "2003-02-02",
+    "ip": "54.102.9.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Suddenly truth prove call common oil listen. Way manager oil free.\nGuy within art join resource effort.\nFly office too set. Letter brother seek.\nSpace than how reason simply site.",
+        "bio": "Experience interview strategy method piece value other. Not scene keep. Small each just skin trade read brother."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
