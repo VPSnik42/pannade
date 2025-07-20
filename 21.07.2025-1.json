@@ -1,0 +1,25 @@
+{
+    "name": "David Burgess",
+    "age": 22,
+    "address": {
+        "street": "Robert Creek",
+        "city": "Audreyhaven",
+        "state": "Kentucky",
+        "zip": "14758"
+    },
+    "contact": {
+        "phone": "(352)291-9535x124",
+        "servicePhone": "800836963"
+    },
+    "birthday": "2003-11-10",
+    "ip": "130.231.0.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Yes mouth figure across agent hand. Must owner note memory for figure firm. Quickly safe may seem return anything trade organization.",
+        "bio": "Knowledge expert marriage power off first. Of power stand husband total forward. International as rather. Can close I simple simply write call.\nSuddenly father young town begin no join."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
