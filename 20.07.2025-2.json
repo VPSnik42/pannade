@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Garcia",
+    "age": 59,
+    "address": {
+        "street": "David Loop",
+        "city": "New Markberg",
+        "state": "Virginia",
+        "zip": "04354"
+    },
+    "contact": {
+        "phone": "001-404-611-1684x2634",
+        "servicePhone": "800839602"
+    },
+    "birthday": "1966-07-09",
+    "ip": "83.190.214.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Leader trade receive partner good. International draw life political around throw land. Subject cell family project article try nature the.",
+        "bio": "Game network my reality control consider. Forward moment network. Degree else majority your clearly moment on."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
