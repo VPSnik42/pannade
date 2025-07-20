@@ -1,0 +1,25 @@
+{
+    "name": "Erica Boone",
+    "age": 66,
+    "address": {
+        "street": "Williams Key",
+        "city": "Daybury",
+        "state": "South Dakota",
+        "zip": "55482"
+    },
+    "contact": {
+        "phone": "001-845-901-8816x52348",
+        "servicePhone": "800954308"
+    },
+    "birthday": "1959-26-12",
+    "ip": "203.108.210.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Final bar development ability boy produce deep.\nBox seven make pattern. Show billion cost worry walk. Brother citizen project record point reach.",
+        "bio": "Century hold shoulder speech time detail paper."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
