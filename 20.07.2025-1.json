@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Garcia",
+    "age": 59,
+    "address": {
+        "street": "Hayes Cliffs",
+        "city": "Danielmouth",
+        "state": "Alaska",
+        "zip": "39996"
+    },
+    "contact": {
+        "phone": "401-595-4551",
+        "servicePhone": "800026895"
+    },
+    "birthday": "1966-23-01",
+    "ip": "163.37.152.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Program none law treatment today outside. Democratic action TV big might take off. Represent try according gas reason building apply. Student half one tend run rest.",
+        "bio": "Recognize effect food budget people. Involve hundred right fund heavy that television material.\nKid really face anyone no. Its debate defense increase foreign movie score. It eight hair what right."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
