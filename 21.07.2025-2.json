@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Little",
+    "age": 64,
+    "address": {
+        "street": "Michael Island",
+        "city": "Melissaland",
+        "state": "South Carolina",
+        "zip": "83443"
+    },
+    "contact": {
+        "phone": "(556)552-0140x287",
+        "servicePhone": "800864914"
+    },
+    "birthday": "1961-22-05",
+    "ip": "37.38.24.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Strong have on like board along argue anyone.\nCover catch produce everybody gun before cell.",
+        "bio": "Keep dream word anything radio member. May by treat list debate after. Some return enter push. Interesting read cold ago go test return."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
