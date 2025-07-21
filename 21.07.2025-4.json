@@ -1,0 +1,25 @@
+{
+    "name": "Laura Lowe",
+    "age": 52,
+    "address": {
+        "street": "Nguyen Crossing",
+        "city": "East Joshua",
+        "state": "Utah",
+        "zip": "11576"
+    },
+    "contact": {
+        "phone": "(483)265-0182",
+        "servicePhone": "800862276"
+    },
+    "birthday": "1973-17-02",
+    "ip": "204.129.236.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Almost move continue success medical. Couple about citizen like life.\nConcern standard machine. Alone director head.",
+        "bio": "Top story along we would.\nMight seem nice charge else deal.\nSport gun determine air question. Weight Mr significant technology ago Republican when.\nDemocratic from sister attention. Deep step have."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
