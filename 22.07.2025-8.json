@@ -1,0 +1,25 @@
+{
+    "name": "Scott Soto",
+    "age": 89,
+    "address": {
+        "street": "Jennifer Pass",
+        "city": "Thompsonfort",
+        "state": "Iowa",
+        "zip": "25404"
+    },
+    "contact": {
+        "phone": "574.614.4506x0834",
+        "servicePhone": "800492385"
+    },
+    "birthday": "1936-27-05",
+    "ip": "187.91.5.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Buy dream party either even. Exist five deal eye not apply.\nGas among rather paper perhaps always better. Alone house involve.",
+        "bio": "Easy officer give American.\nSince scientist evening. Sea during it music address never eight. Floor someone call imagine technology order.\nEarly send most blue letter share."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
