@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Hensley",
+    "age": 52,
+    "address": {
+        "street": "Jennifer Throughway",
+        "city": "Kleinmouth",
+        "state": "Indiana",
+        "zip": "64554"
+    },
+    "contact": {
+        "phone": "553-276-3613",
+        "servicePhone": "800977451"
+    },
+    "birthday": "1973-22-11",
+    "ip": "80.52.112.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Add us team know few may. Sport decision whose government during professor action traditional. Indicate beyond with total body.",
+        "bio": "Girl should as since leader once world. At water suddenly PM feel worry. He give purpose find program likely information."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
