@@ -1,0 +1,25 @@
+{
+    "name": "James Hines",
+    "age": 3,
+    "address": {
+        "street": "Jose Trafficway",
+        "city": "Mcdonaldberg",
+        "state": "Iowa",
+        "zip": "39522"
+    },
+    "contact": {
+        "phone": "+1-884-654-0155x8454",
+        "servicePhone": "800979678"
+    },
+    "birthday": "2022-01-01",
+    "ip": "23.12.242.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Your drop good toward call religious. Carry quite pay order most institution. Moment size star campaign treat bad.\nDecade money serve these yeah. Gun apply front.",
+        "bio": "Town establish edge several town detail. Become ahead decision lay north whether within.\nMost feel charge but. Include perform race scientist student special what."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
