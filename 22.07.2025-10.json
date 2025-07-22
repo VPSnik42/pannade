@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Marquez",
+    "age": 91,
+    "address": {
+        "street": "Mark Walk",
+        "city": "Hawkinschester",
+        "state": "Oregon",
+        "zip": "88361"
+    },
+    "contact": {
+        "phone": "549-213-8127x40171",
+        "servicePhone": "800885887"
+    },
+    "birthday": "1934-06-07",
+    "ip": "59.166.59.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Accept build article wonder. Pull also so.\nPractice deal foot relate. Mrs central left make main reason modern national. Just west not daughter among response.",
+        "bio": "Again own account rise. Word science need situation even. Thought sometimes security us partner.\nBehind that human foot."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
