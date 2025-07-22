@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Walter",
+    "age": 44,
+    "address": {
+        "street": "Simpson Mountain",
+        "city": "West Eric",
+        "state": "Kentucky",
+        "zip": "68686"
+    },
+    "contact": {
+        "phone": "(233)856-7239x6322",
+        "servicePhone": "800413441"
+    },
+    "birthday": "1981-29-03",
+    "ip": "14.123.238.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Color value purpose all. Her first ball morning some. Determine him sit produce outside prepare wrong.\nAvoid that create Congress maintain trouble. Food particularly set cell I sometimes however.",
+        "bio": "Edge institution response recent practice new. Team attack treat human some.\nBy grow kid sign. Participant outside pay prove himself behind away which. Those brother stage risk establish seven list."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
