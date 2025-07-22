@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Brown",
+    "age": 53,
+    "address": {
+        "street": "Gary Inlet",
+        "city": "Davidfurt",
+        "state": "South Carolina",
+        "zip": "71151"
+    },
+    "contact": {
+        "phone": "001-343-404-5776",
+        "servicePhone": "800977845"
+    },
+    "birthday": "1972-14-11",
+    "ip": "82.49.159.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Term candidate sit beautiful tonight pressure table. Wear next look Republican. Population never mission factor clearly trip decade but. Itself ago partner.",
+        "bio": "Relationship action book board color good. Quality nature agree gas station. Brother region building training."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
