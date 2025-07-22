@@ -1,0 +1,25 @@
+{
+    "name": "Robert Cross",
+    "age": 68,
+    "address": {
+        "street": "Wiley Turnpike",
+        "city": "West Jessica",
+        "state": "Utah",
+        "zip": "66871"
+    },
+    "contact": {
+        "phone": "287.260.4200x0781",
+        "servicePhone": "800266162"
+    },
+    "birthday": "1957-24-06",
+    "ip": "157.91.230.228",
+    "foo": "bar",
+    "profile": {
+        "about": "But science wonder they experience international per. Pick some entire product ten. Within statement left reality special must.\nMother pull mouth baby newspaper.",
+        "bio": "Happen respond government too consumer blue.\nExplain special feeling tough. Benefit policy business. Speech minute door high away never short."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
