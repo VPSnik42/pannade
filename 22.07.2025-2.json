@@ -1,0 +1,25 @@
+{
+    "name": "Michael Mckinney",
+    "age": 75,
+    "address": {
+        "street": "Dylan Trafficway",
+        "city": "North Shelly",
+        "state": "Arizona",
+        "zip": "65299"
+    },
+    "contact": {
+        "phone": "985.848.7208x6624",
+        "servicePhone": "800962884"
+    },
+    "birthday": "1950-18-02",
+    "ip": "170.243.146.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Section able however. Design purpose worker eat popular sea or them. Prove difficult simply everybody design of feeling. Serious situation black remember piece form.",
+        "bio": "Kind TV more reason can growth explain always. Force create rule loss ever far already. Tell dog outside every month at.\nChair build blood air. Great head stuff activity."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
