@@ -1,0 +1,25 @@
+{
+    "name": "Donna Noble",
+    "age": 84,
+    "address": {
+        "street": "Lori Square",
+        "city": "Cunninghamtown",
+        "state": "Arizona",
+        "zip": "14299"
+    },
+    "contact": {
+        "phone": "599-875-4131x2102",
+        "servicePhone": "800101083"
+    },
+    "birthday": "1941-15-02",
+    "ip": "7.169.165.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Chance thus big to two. By plant range culture.\nNorth later discussion analysis. Role again chance whether party financial. Share day top democratic.",
+        "bio": "Believe suffer pay view today interesting. Key six build room fast.\nWest whole why. Happen Mrs fly figure eye source.\nLeast avoid it like drop how animal. Quality their nice. Commercial simple gun."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
