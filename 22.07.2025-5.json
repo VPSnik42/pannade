@@ -1,0 +1,25 @@
+{
+    "name": "Jared Johnson",
+    "age": 55,
+    "address": {
+        "street": "Bryant Valleys",
+        "city": "North Melissa",
+        "state": "Wyoming",
+        "zip": "74162"
+    },
+    "contact": {
+        "phone": "(330)744-1728x2027",
+        "servicePhone": "800963482"
+    },
+    "birthday": "1970-25-05",
+    "ip": "113.189.24.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Security generation stuff cell around notice hard knowledge. Option account partner well. Produce dog poor area.\nDog listen series himself. Computer brother shake bag ready small.",
+        "bio": "Election task perhaps particularly for respond billion young. Close again dog away network anyone. Where rise amount.\nDeal really wide our blue center. Chance Democrat artist book."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
