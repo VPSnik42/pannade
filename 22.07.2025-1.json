@@ -1,0 +1,25 @@
+{
+    "name": "Cody Dunn",
+    "age": 63,
+    "address": {
+        "street": "Jennifer Green",
+        "city": "Port Patrickburgh",
+        "state": "Arkansas",
+        "zip": "46443"
+    },
+    "contact": {
+        "phone": "731.364.5902",
+        "servicePhone": "800859401"
+    },
+    "birthday": "1962-29-11",
+    "ip": "181.47.233.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Government interesting according executive difference.\nSenior citizen team magazine others majority war. Character free ask show economic mean morning.",
+        "bio": "Suddenly must window box success. Hot program only role from task different rule. Simply production such between shake reach have."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
