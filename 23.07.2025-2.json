@@ -1,0 +1,25 @@
+{
+    "name": "Suzanne Brown",
+    "age": 24,
+    "address": {
+        "street": "Santos Highway",
+        "city": "Freymouth",
+        "state": "Kansas",
+        "zip": "90500"
+    },
+    "contact": {
+        "phone": "(246)506-7943x140",
+        "servicePhone": "800630698"
+    },
+    "birthday": "2001-16-04",
+    "ip": "185.246.215.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Could recently analysis reason. Main election authority little open toward or.\nSuch film huge wrong. Skin few tend question wrong read last. Song camera soon low.",
+        "bio": "Father set major well member take month. Factor rich sort listen war. Really even local thought less.\nAll leader meet whose couple. Pressure me as little cover course under."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
