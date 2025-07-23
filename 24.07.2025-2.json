@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Andrews",
+    "age": 36,
+    "address": {
+        "street": "Pruitt Unions",
+        "city": "Lake Patrick",
+        "state": "Texas",
+        "zip": "93691"
+    },
+    "contact": {
+        "phone": "+1-406-936-5910",
+        "servicePhone": "800739283"
+    },
+    "birthday": "1989-11-05",
+    "ip": "136.242.102.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Interest various show expert investment win better.\nAlso develop hour. Tonight real value coach. His me back very. After bad occur whole trouble leave type doctor.",
+        "bio": "Dog at glass which way player lead. Now shoulder record Mrs. Day answer determine out rule day.\nAgainst law major arm there bar. You prove newspaper thus involve party."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
