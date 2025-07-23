@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Wu",
+    "age": 108,
+    "address": {
+        "street": "Mccall Stream",
+        "city": "Lindseyview",
+        "state": "Hawaii",
+        "zip": "95396"
+    },
+    "contact": {
+        "phone": "001-417-993-0137",
+        "servicePhone": "800695441"
+    },
+    "birthday": "1917-08-11",
+    "ip": "55.89.24.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Green direction involve put conference candidate southern. Machine region program woman.\nWithin strong throw need. Dog type hold rather skill.",
+        "bio": "Set worry above carry. Hand effect choose process red tree smile. Ask do task film color large consider."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
