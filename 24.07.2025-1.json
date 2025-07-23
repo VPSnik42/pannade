@@ -1,0 +1,25 @@
+{
+    "name": "Richard Kelly",
+    "age": 59,
+    "address": {
+        "street": "Robinson Squares",
+        "city": "Port Kristi",
+        "state": "Wyoming",
+        "zip": "80379"
+    },
+    "contact": {
+        "phone": "(926)462-3339x297",
+        "servicePhone": "800643116"
+    },
+    "birthday": "1966-09-03",
+    "ip": "149.215.180.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Research number forward begin. Wish within medical rest during six.\nEnjoy language save then.\nReflect yes career his one. Do imagine avoid. Tough cup fill manager there.",
+        "bio": "Industry as box financial push hit.\nBag mean risk happy. Culture during it. Win buy body today."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
