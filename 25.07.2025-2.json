@@ -1,0 +1,25 @@
+{
+    "name": "Gavin Johnson",
+    "age": 87,
+    "address": {
+        "street": "Heather Track",
+        "city": "Oscarport",
+        "state": "Texas",
+        "zip": "79709"
+    },
+    "contact": {
+        "phone": "+1-682-892-6774x0992",
+        "servicePhone": "800602996"
+    },
+    "birthday": "1938-17-02",
+    "ip": "207.249.184.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Recently stock heart where national. Nature movement information chance statement.\nWhen recognize information medical mission seven. Station occur represent concern.\nOffer job author baby sing save.",
+        "bio": "Remain personal officer attack husband Mr carry. Surface race season relationship ok. System meet bad evidence good dog. Management company for.\nUse develop but a amount second."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
