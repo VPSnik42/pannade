@@ -1,0 +1,25 @@
+{
+    "name": "Rodney Anderson",
+    "age": 28,
+    "address": {
+        "street": "Kathryn Islands",
+        "city": "North Nicholas",
+        "state": "Oklahoma",
+        "zip": "28237"
+    },
+    "contact": {
+        "phone": "001-298-974-9239x92075",
+        "servicePhone": "800551654"
+    },
+    "birthday": "1997-19-07",
+    "ip": "174.182.13.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Stay positive report whom believe effect theory my.\nShake ok poor thank subject only scientist. Son environment rise century president check. Matter wonder deal yard return surface thought.",
+        "bio": "Purpose to commercial write woman suggest health. Certain mission big low cup news. Remember doctor shoulder event strong unit line."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
