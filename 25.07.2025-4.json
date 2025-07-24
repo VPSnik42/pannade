@@ -1,0 +1,25 @@
+{
+    "name": "Jeremiah Dudley",
+    "age": 107,
+    "address": {
+        "street": "Dean Ramp",
+        "city": "Cannonchester",
+        "state": "Massachusetts",
+        "zip": "56751"
+    },
+    "contact": {
+        "phone": "+1-933-738-8310x5050",
+        "servicePhone": "800188328"
+    },
+    "birthday": "1918-18-08",
+    "ip": "39.151.164.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Different difficult though approach. Out take fall letter term now take. Focus speech sometimes.\nNecessary yes age chance third. Road for area me science above.",
+        "bio": "Evening show government difficult dinner feeling. Paper special then across.\nDecision show drop success. Foot whatever parent team interesting reduce find. Type fear pick."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
