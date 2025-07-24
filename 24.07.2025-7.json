@@ -1,0 +1,25 @@
+{
+    "name": "Monique Dodson",
+    "age": 34,
+    "address": {
+        "street": "Tiffany Spurs",
+        "city": "Natalieton",
+        "state": "Oregon",
+        "zip": "98813"
+    },
+    "contact": {
+        "phone": "001-774-901-9485x3937",
+        "servicePhone": "800277277"
+    },
+    "birthday": "1991-09-01",
+    "ip": "155.88.195.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Less such forget speak although despite air.\nRelationship later bag health. Author none if image other push go one. Once yes worker care.",
+        "bio": "Age treat up foreign knowledge listen word. Parent pretty question peace. Market local enough stage.\nHope final stuff fine. Tree may study kid scientist skill."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
