@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Campos",
+    "age": 5,
+    "address": {
+        "street": "Walls Park",
+        "city": "Robertside",
+        "state": "Wisconsin",
+        "zip": "16641"
+    },
+    "contact": {
+        "phone": "815.733.5141x268",
+        "servicePhone": "800436911"
+    },
+    "birthday": "2020-13-06",
+    "ip": "10.143.121.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Memory someone national material. None what leave news message these that.",
+        "bio": "Degree affect week analysis moment size. Hope yard money skin along finally. International true program. Sit can collection account which black."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
