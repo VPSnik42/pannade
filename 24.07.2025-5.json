@@ -1,0 +1,25 @@
+{
+    "name": "Amy White",
+    "age": 114,
+    "address": {
+        "street": "Ware Parkway",
+        "city": "Webermouth",
+        "state": "Illinois",
+        "zip": "72023"
+    },
+    "contact": {
+        "phone": "(583)903-8263",
+        "servicePhone": "800415827"
+    },
+    "birthday": "1911-11-10",
+    "ip": "23.131.207.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Senior support finish option clear around red than. Early report approach member well much. Structure over year leg marriage. Your for democratic could.",
+        "bio": "Card before best arrive offer decision. Expect child west determine. Office bit traditional with crime water very education.\nPhysical skin nearly bring. Cold participant final scientist."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
