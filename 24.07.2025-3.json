@@ -1,0 +1,25 @@
+{
+    "name": "Jodi Rodriguez",
+    "age": 34,
+    "address": {
+        "street": "Frank Walk",
+        "city": "Lake Johnport",
+        "state": "West Virginia",
+        "zip": "07909"
+    },
+    "contact": {
+        "phone": "294.559.5337x265",
+        "servicePhone": "800944109"
+    },
+    "birthday": "1991-11-06",
+    "ip": "81.51.197.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother them require party lawyer anything shoulder. Which energy win successful thing process difference. Else list pretty talk final answer.",
+        "bio": "Budget never game idea radio end mind. Card road sort serious usually maintain movie. Leg third else enter question open. More hundred beat including."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
