@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Davis",
+    "age": 45,
+    "address": {
+        "street": "Anderson Bypass",
+        "city": "New Michael",
+        "state": "Delaware",
+        "zip": "08361"
+    },
+    "contact": {
+        "phone": "908.541.9335x975",
+        "servicePhone": "800468457"
+    },
+    "birthday": "1980-02-10",
+    "ip": "140.248.21.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Say behavior so science want.\nMiddle change director along unit. Surface old dinner after two true hand. Too current training never life consider.",
+        "bio": "Agent scientist investment laugh second seven design head. Each fight item too piece it."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
