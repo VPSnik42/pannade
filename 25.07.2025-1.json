@@ -1,0 +1,25 @@
+{
+    "name": "Leah Mckay",
+    "age": 42,
+    "address": {
+        "street": "Dustin Centers",
+        "city": "Alvarezhaven",
+        "state": "Georgia",
+        "zip": "94587"
+    },
+    "contact": {
+        "phone": "+1-719-416-7082x75574",
+        "servicePhone": "800406328"
+    },
+    "birthday": "1983-26-08",
+    "ip": "28.2.42.231",
+    "foo": "bar",
+    "profile": {
+        "about": "On economic view six yard result. Develop big ever into government audience bed. Big available toward step follow could measure bag.\nAny live check rise cold food record power.",
+        "bio": "Father cut maintain. Mother miss outside agreement school fish.\nPolice purpose for consider capital. Will later four world."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
