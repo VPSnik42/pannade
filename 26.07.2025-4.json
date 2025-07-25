@@ -1,0 +1,25 @@
+{
+    "name": "Michael Chung",
+    "age": 96,
+    "address": {
+        "street": "Anne Overpass",
+        "city": "Gonzalezside",
+        "state": "Kentucky",
+        "zip": "21166"
+    },
+    "contact": {
+        "phone": "(555)882-1666x120",
+        "servicePhone": "800365499"
+    },
+    "birthday": "1929-31-07",
+    "ip": "56.52.26.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Father commercial maintain skill. Than word Republican. Possible art become great learn.\nFact eye watch suddenly your plan contain.",
+        "bio": "Campaign practice size political director wonder view. Sea always collection fall grow practice. By church baby from education wish next. For ever trip consider general."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
