@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Fischer",
+    "age": 6,
+    "address": {
+        "street": "Schwartz Mission",
+        "city": "Daviston",
+        "state": "Texas",
+        "zip": "51915"
+    },
+    "contact": {
+        "phone": "001-735-602-0404x5147",
+        "servicePhone": "800554581"
+    },
+    "birthday": "2019-28-09",
+    "ip": "24.37.146.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Military realize fire kind special court that. Story commercial discuss until.\nForm blue certain reach how guess start. Common experience mind about radio.",
+        "bio": "Walk south arrive firm whether trial parent. Fire all evidence stay current. Something determine western middle short clear have. Base situation allow including."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
