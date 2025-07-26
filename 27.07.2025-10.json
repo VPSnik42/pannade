@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Santos",
+    "age": 69,
+    "address": {
+        "street": "Lewis Islands",
+        "city": "Martinezhaven",
+        "state": "Alaska",
+        "zip": "85614"
+    },
+    "contact": {
+        "phone": "+1-661-847-2318x8212",
+        "servicePhone": "800505355"
+    },
+    "birthday": "1956-01-10",
+    "ip": "4.231.94.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Half eat debate maybe. Western reality store great case go very. Media address technology onto game.\nSimply pay know serve walk possible. Situation peace model may. Student short billion fight.",
+        "bio": "Modern position you teacher candidate try even. Seven various role. Record doctor writer six."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
