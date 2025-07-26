@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Castillo",
+    "age": 108,
+    "address": {
+        "street": "Elizabeth Plain",
+        "city": "Bensonburgh",
+        "state": "North Carolina",
+        "zip": "42613"
+    },
+    "contact": {
+        "phone": "9765003256",
+        "servicePhone": "800213145"
+    },
+    "birthday": "1917-09-03",
+    "ip": "178.108.242.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Throughout TV fear manager attack media. Sometimes on feeling rule father enough apply message. Financial range entire.\nAnyone threat nation left. Wrong more somebody buy.",
+        "bio": "Tax next treat bag. Step mind early might pattern leader season.\nWide arrive land something. Beat push boy practice picture international focus. Cup set school against.\nCourt name impact perhaps."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
