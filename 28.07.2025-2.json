@@ -1,0 +1,25 @@
+{
+    "name": "Henry Mendoza",
+    "age": 81,
+    "address": {
+        "street": "Zamora Dam",
+        "city": "Millerfort",
+        "state": "Tennessee",
+        "zip": "27900"
+    },
+    "contact": {
+        "phone": "666-629-8137x5487",
+        "servicePhone": "800761807"
+    },
+    "birthday": "1944-06-05",
+    "ip": "12.50.154.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Camera develop must stuff skill scientist. Artist general spend cup later matter. Traditional blood market inside lead fear.",
+        "bio": "Figure indeed ever herself paper carry check. Buy clear support miss.\nFar market information area pretty each tell. Senior break ability son.\nRead feel two away. Building law break product."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
