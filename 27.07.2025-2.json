@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Brown",
+    "age": 4,
+    "address": {
+        "street": "Claudia Tunnel",
+        "city": "Ashleyburgh",
+        "state": "Tennessee",
+        "zip": "82859"
+    },
+    "contact": {
+        "phone": "+1-774-737-9118x896",
+        "servicePhone": "800967803"
+    },
+    "birthday": "2021-12-02",
+    "ip": "205.241.0.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Glass reflect analysis. Evidence social research rise recent maybe serious.",
+        "bio": "Own resource turn fall education western movie. State apply nor series before people.\nGovernment knowledge marriage. Relate expert reflect man week experience.\nTown already public off."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
