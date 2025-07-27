@@ -1,0 +1,25 @@
+{
+    "name": "Laura Woods",
+    "age": 8,
+    "address": {
+        "street": "Rachael Well",
+        "city": "Veronicashire",
+        "state": "Arizona",
+        "zip": "64708"
+    },
+    "contact": {
+        "phone": "+1-881-414-4758x2158",
+        "servicePhone": "800342678"
+    },
+    "birthday": "2017-23-11",
+    "ip": "214.12.11.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Compare may statement itself us. First possible number send sign direction defense.\nThat lot from trip explain he carry. Interesting bring him hold similar.",
+        "bio": "Election myself final single sometimes coach. A call impact agency whether blue.\nFish right smile our amount hospital. Style item kind tend. Hope us news whom American responsibility idea high."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
