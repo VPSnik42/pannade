@@ -1,0 +1,25 @@
+{
+    "name": "Alan Green",
+    "age": 98,
+    "address": {
+        "street": "Monica Plains",
+        "city": "Lake Vanessa",
+        "state": "South Carolina",
+        "zip": "14380"
+    },
+    "contact": {
+        "phone": "378-807-5021x6141",
+        "servicePhone": "800687738"
+    },
+    "birthday": "1927-26-12",
+    "ip": "146.174.142.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Condition benefit behavior begin. Only guess use. Range serious mother bill.\nAgreement book about attention term approach. Country material think hope cold ok direction until. Protect race mean hard.",
+        "bio": "Structure research position your nice. These couple off culture address most admit draw. Father result summer subject of capital serve."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
