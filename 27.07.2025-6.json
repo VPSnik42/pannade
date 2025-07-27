@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Mcbride",
+    "age": 50,
+    "address": {
+        "street": "Obrien Islands",
+        "city": "Stacyburgh",
+        "state": "Vermont",
+        "zip": "64253"
+    },
+    "contact": {
+        "phone": "9486236658",
+        "servicePhone": "800017347"
+    },
+    "birthday": "1975-01-07",
+    "ip": "157.197.15.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Provide focus blue close miss last teacher she. Society wear who position wife modern. Nearly just side lose. Past west different believe total majority.",
+        "bio": "Feel because community shoulder analysis that. War fly certainly rock brother address whose. Stuff girl site such person."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
