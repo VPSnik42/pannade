@@ -1,0 +1,25 @@
+{
+    "name": "Scott Huber",
+    "age": 45,
+    "address": {
+        "street": "Ramos Haven",
+        "city": "New Shawnside",
+        "state": "Georgia",
+        "zip": "37455"
+    },
+    "contact": {
+        "phone": "+1-955-914-8112x16840",
+        "servicePhone": "800862621"
+    },
+    "birthday": "1980-17-05",
+    "ip": "129.16.222.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Yet wall know Democrat media. Another manager type particular still.\nMusic school buy nothing husband staff think. Enter final artist far.\nApproach become store chair sit.\nFeel she drive.",
+        "bio": "Star include work modern often lose. War recent six send system baby. Huge ball must night hour.\nFinal other spring read one agreement learn. Food check health million page. Sea activity little any."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
