@@ -1,0 +1,25 @@
+{
+    "name": "Bethany Mcbride",
+    "age": 63,
+    "address": {
+        "street": "Joan Shores",
+        "city": "East Deborah",
+        "state": "North Dakota",
+        "zip": "86008"
+    },
+    "contact": {
+        "phone": "+1-669-360-0084",
+        "servicePhone": "800574685"
+    },
+    "birthday": "1962-05-11",
+    "ip": "189.192.178.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Money yet thus test record simple. Before series design heavy. Leg rock gas describe care let.\nSimply than fund trial eye analysis. Up significant body.",
+        "bio": "Executive continue dog win. Author simply young heavy painting soldier. Measure politics country line keep start."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
