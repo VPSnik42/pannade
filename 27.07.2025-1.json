@@ -1,0 +1,25 @@
+{
+    "name": "Michael Ellis",
+    "age": 115,
+    "address": {
+        "street": "Torres Skyway",
+        "city": "Joshuaborough",
+        "state": "Texas",
+        "zip": "14435"
+    },
+    "contact": {
+        "phone": "001-265-904-2320x893",
+        "servicePhone": "800262520"
+    },
+    "birthday": "1910-31-08",
+    "ip": "40.82.209.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Well lose suggest vote store. Task close life large.\nWord maybe discover truth particularly. Mr try side its page such. Late recently begin door want almost.",
+        "bio": "Agreement computer foot major simply rest process usually. Recognize finally research. Option magazine arm human."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
