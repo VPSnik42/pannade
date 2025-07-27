@@ -1,0 +1,25 @@
+{
+    "name": "Brian Lane",
+    "age": 47,
+    "address": {
+        "street": "Thomas Oval",
+        "city": "Amyhaven",
+        "state": "Minnesota",
+        "zip": "90710"
+    },
+    "contact": {
+        "phone": "420.308.7340x38759",
+        "servicePhone": "800517072"
+    },
+    "birthday": "1978-06-12",
+    "ip": "166.144.145.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Leader paper on best hear. Positive understand future.\nAgain rest smile account though arrive. Claim president Democrat exactly Congress Democrat anyone. Strong eight well step should.",
+        "bio": "Church any wrong growth above. Have when game really prove rise. Thank leave painting life town far race.\nSystem image young gun hair want possible."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
