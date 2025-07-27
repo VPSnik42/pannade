@@ -1,0 +1,25 @@
+{
+    "name": "Gina Mclaughlin",
+    "age": 39,
+    "address": {
+        "street": "Debra Harbors",
+        "city": "North Mary",
+        "state": "New York",
+        "zip": "55648"
+    },
+    "contact": {
+        "phone": "243.936.3324",
+        "servicePhone": "800396141"
+    },
+    "birthday": "1986-16-08",
+    "ip": "8.52.194.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Begin also song professor no general. Provide window phone through offer product. Already argue business heavy source build.",
+        "bio": "Mean goal big start. Than level enough agree less American role."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
