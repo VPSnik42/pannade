@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Wilson",
+    "age": 2,
+    "address": {
+        "street": "Victoria Terrace",
+        "city": "Beckport",
+        "state": "West Virginia",
+        "zip": "36895"
+    },
+    "contact": {
+        "phone": "+1-288-918-8858x937",
+        "servicePhone": "800005247"
+    },
+    "birthday": "2023-18-12",
+    "ip": "52.33.1.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Sense four soon physical make rather mouth. Door military there street.\nWhatever either example station simply only. Personal among something realize in hot close. Six learn common final my push.",
+        "bio": "One city four high. Create party mind avoid.\nCompare remember deal art. Future west for industry.\nEstablish only middle event who. Vote tonight former door meet read hope."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
