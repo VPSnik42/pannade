@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Johnson",
+    "age": 49,
+    "address": {
+        "street": "Scott Estates",
+        "city": "South Michael",
+        "state": "Colorado",
+        "zip": "30250"
+    },
+    "contact": {
+        "phone": "507.911.6285x8584",
+        "servicePhone": "800347299"
+    },
+    "birthday": "1976-20-02",
+    "ip": "83.51.169.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Particular office service officer late. Cover message TV small.",
+        "bio": "Government he many Mr strategy.\nSkin game between a.\nTo game claim top someone similar image. Best ok wear. Could region write certainly."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
