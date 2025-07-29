@@ -1,0 +1,25 @@
+{
+    "name": "Jodi Aguilar",
+    "age": 49,
+    "address": {
+        "street": "Matthew Drive",
+        "city": "East Christopher",
+        "state": "Louisiana",
+        "zip": "46065"
+    },
+    "contact": {
+        "phone": "+1-452-211-6227x7090",
+        "servicePhone": "800564899"
+    },
+    "birthday": "1976-15-02",
+    "ip": "34.138.117.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Join name to he space grow cut. Help chair old raise science. Into become stand each condition choice provide. Mission start fire voice piece within cup.",
+        "bio": "Stay tree big law raise those arrive. Check appear ability wide a continue. Main campaign look officer democratic."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
