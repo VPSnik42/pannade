@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Contreras",
+    "age": 103,
+    "address": {
+        "street": "Smith Run",
+        "city": "Lake Theresa",
+        "state": "Louisiana",
+        "zip": "61792"
+    },
+    "contact": {
+        "phone": "(689)237-7718",
+        "servicePhone": "800890763"
+    },
+    "birthday": "1922-21-11",
+    "ip": "83.173.198.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Necessary operation service someone build western large. Cup enjoy per not discussion hundred cultural.\nNation according entire her feeling media wonder.",
+        "bio": "Lot position return bank political campaign listen theory. Chair usually consumer eat look probably. Discussion question simple concern common newspaper make."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
