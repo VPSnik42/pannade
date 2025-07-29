@@ -1,0 +1,25 @@
+{
+    "name": "Peter Martin",
+    "age": 75,
+    "address": {
+        "street": "Mary Ports",
+        "city": "Lake Josephberg",
+        "state": "Wisconsin",
+        "zip": "47460"
+    },
+    "contact": {
+        "phone": "+1-761-610-5714",
+        "servicePhone": "800882957"
+    },
+    "birthday": "1950-27-11",
+    "ip": "160.109.84.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Participant among become sell play. Main position history. Model eat seem change.\nArt floor account couple. Film politics during at cold far.",
+        "bio": "Board strong market generation believe could true. Very Mr compare commercial gun up. Compare moment admit choice. Me follow agent once really painting information through."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
