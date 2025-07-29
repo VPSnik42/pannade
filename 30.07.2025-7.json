@@ -1,0 +1,25 @@
+{
+    "name": "George Robinson",
+    "age": 95,
+    "address": {
+        "street": "Lin Falls",
+        "city": "Amandatown",
+        "state": "Minnesota",
+        "zip": "41504"
+    },
+    "contact": {
+        "phone": "736.216.0317",
+        "servicePhone": "800037669"
+    },
+    "birthday": "1930-14-04",
+    "ip": "157.166.9.207",
+    "foo": "bar",
+    "profile": {
+        "about": "His allow policy time teacher make stay. Reveal system east difference gun when.\nCause how local product little.",
+        "bio": "Anyone contain face. System their surface pressure sense coach statement.\nLarge free analysis step human. Crime important actually her activity make must."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
