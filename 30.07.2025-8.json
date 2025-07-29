@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Sanchez",
+    "age": 75,
+    "address": {
+        "street": "Conrad Square",
+        "city": "Port Scott",
+        "state": "Georgia",
+        "zip": "71536"
+    },
+    "contact": {
+        "phone": "548.520.1296x60586",
+        "servicePhone": "800623423"
+    },
+    "birthday": "1950-27-11",
+    "ip": "119.205.245.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Hard finally course him walk court success center. Source onto place station life argue. Old president wish analysis else. Weight we brother operation.",
+        "bio": "Ball science say finally hour various. End must financial quite amount drive. Put summer address material include magazine."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
