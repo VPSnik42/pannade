@@ -1,0 +1,25 @@
+{
+    "name": "Robert Johnson",
+    "age": 66,
+    "address": {
+        "street": "Wood Estates",
+        "city": "East Jennifer",
+        "state": "Mississippi",
+        "zip": "84050"
+    },
+    "contact": {
+        "phone": "(644)474-2970x825",
+        "servicePhone": "800697698"
+    },
+    "birthday": "1959-18-11",
+    "ip": "73.113.204.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Three some certainly give myself. While kid author middle.\nPage source three win bag hope yourself. American country suffer plan know cover. Half draw care.",
+        "bio": "Suddenly popular risk scientist watch. Parent company run theory instead hour. Decide town list wrong scene what guess."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
