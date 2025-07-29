@@ -1,0 +1,25 @@
+{
+    "name": "Ryan West",
+    "age": 46,
+    "address": {
+        "street": "Kimberly Brook",
+        "city": "Lake Marvin",
+        "state": "Maryland",
+        "zip": "86582"
+    },
+    "contact": {
+        "phone": "5999183174",
+        "servicePhone": "800559819"
+    },
+    "birthday": "1979-24-12",
+    "ip": "27.151.73.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Simply majority treatment key question participant accept. Win choose too training seven. Over network parent easy situation box matter.",
+        "bio": "Power fight yeah left. Today operation side.\nDream drop such now century get church. Three sell commercial visit technology wide. Opportunity others scientist effort itself total go."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
