@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Diaz",
+    "age": 58,
+    "address": {
+        "street": "Angela Coves",
+        "city": "East Michealmouth",
+        "state": "Vermont",
+        "zip": "93152"
+    },
+    "contact": {
+        "phone": "857-826-8137",
+        "servicePhone": "800901548"
+    },
+    "birthday": "1967-04-10",
+    "ip": "147.248.88.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Officer mention politics check here speech your. Group memory look decade.\nOver special hair south factor character adult.",
+        "bio": "Situation cover project painting hope together. Politics art low nor other protect offer."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
