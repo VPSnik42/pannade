@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Conway",
+    "age": 110,
+    "address": {
+        "street": "Stephanie Stravenue",
+        "city": "South Brandyton",
+        "state": "Oklahoma",
+        "zip": "27709"
+    },
+    "contact": {
+        "phone": "001-306-926-1527",
+        "servicePhone": "800302402"
+    },
+    "birthday": "1915-27-04",
+    "ip": "57.53.191.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Customer foreign high sure. Learn forward five service later catch. Consumer production new.\nGreen doctor while suddenly other kitchen war treatment. Pay theory large dinner.",
+        "bio": "Past become my gas style. Three make there rise enough should.\nOr beat state physical. Year whatever begin present time. Worry property hospital."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
