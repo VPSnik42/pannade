@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Perez",
+    "age": 30,
+    "address": {
+        "street": "Susan Mission",
+        "city": "Port Michele",
+        "state": "Oregon",
+        "zip": "50395"
+    },
+    "contact": {
+        "phone": "(823)673-2379x55509",
+        "servicePhone": "800628572"
+    },
+    "birthday": "1995-19-06",
+    "ip": "135.238.162.187",
+    "foo": "bar",
+    "profile": {
+        "about": "May quite would wonder difference subject. Floor carry candidate question recently technology process already.\nWhat child focus. Action product environmental both yard media.",
+        "bio": "That behavior public mouth really speech argue. Factor describe side fact assume become.\nAnalysis hospital cold bad. Leader pattern this either south success staff these."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
