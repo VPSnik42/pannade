@@ -1,0 +1,25 @@
+{
+    "name": "Eric Lewis",
+    "age": 18,
+    "address": {
+        "street": "Alexander Forest",
+        "city": "Oconnellfurt",
+        "state": "Ohio",
+        "zip": "36112"
+    },
+    "contact": {
+        "phone": "737-861-0123",
+        "servicePhone": "800849597"
+    },
+    "birthday": "2007-28-04",
+    "ip": "5.149.145.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Enter time candidate far use goal require. Maybe drive job before week place.\nHow often leg in real hold.\nMiss administration article best kitchen work capital argue. Story PM science.",
+        "bio": "Address easy inside relationship term he. Option impact best game school common. Doctor since kid southern join network board range."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
