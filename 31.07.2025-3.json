@@ -1,0 +1,25 @@
+{
+    "name": "Eric Collins",
+    "age": 115,
+    "address": {
+        "street": "Mays Dale",
+        "city": "Josephburgh",
+        "state": "Illinois",
+        "zip": "56503"
+    },
+    "contact": {
+        "phone": "001-932-522-2848x565",
+        "servicePhone": "800135481"
+    },
+    "birthday": "1910-19-10",
+    "ip": "193.10.0.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Until I list seven tough result. Contain attention direction your statement. Property off pay strong.",
+        "bio": "Expect forward build particularly. Majority economy prepare. Blue particularly make.\nWord sometimes again trouble lead. Represent agency memory right build. Else many remember leader."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
