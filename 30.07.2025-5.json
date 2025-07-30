@@ -1,0 +1,25 @@
+{
+    "name": "Johnathan Gilbert",
+    "age": 98,
+    "address": {
+        "street": "Brian Loop",
+        "city": "Randolphport",
+        "state": "Rhode Island",
+        "zip": "41433"
+    },
+    "contact": {
+        "phone": "001-332-590-9267x627",
+        "servicePhone": "800827224"
+    },
+    "birthday": "1927-26-01",
+    "ip": "73.199.210.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Staff most side order space apply best.\nPerformance claim price sing. Month item he.",
+        "bio": "Training down conference source join music. Pick head board matter short really. Federal final factor show.\nChoose Democrat effect ground newspaper."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
