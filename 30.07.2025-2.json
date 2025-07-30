@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Myers",
+    "age": 83,
+    "address": {
+        "street": "Clark Mount",
+        "city": "Edwardschester",
+        "state": "Rhode Island",
+        "zip": "18056"
+    },
+    "contact": {
+        "phone": "+1-792-370-7575x88207",
+        "servicePhone": "800415544"
+    },
+    "birthday": "1942-28-03",
+    "ip": "171.20.90.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Trouble apply cold manager south show each. Rather very deep away point.\nMajor mouth tend fill require quickly performance. Apply the name. Oil difficult court character. Task begin film.",
+        "bio": "Religious speak rule hard side. Worry election across seem difference we."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
