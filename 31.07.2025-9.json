@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Craig",
+    "age": 15,
+    "address": {
+        "street": "Dodson Port",
+        "city": "West Christineshire",
+        "state": "New Mexico",
+        "zip": "05035"
+    },
+    "contact": {
+        "phone": "001-944-524-8443x6069",
+        "servicePhone": "800745196"
+    },
+    "birthday": "2010-30-10",
+    "ip": "150.237.199.123",
+    "foo": "bar",
+    "profile": {
+        "about": "It visit add very. Wrong general wonder land even improve chance whether.",
+        "bio": "Him thought upon project radio risk decision. Town speak strategy any painting experience environment machine. Although clearly change event majority score already west."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
