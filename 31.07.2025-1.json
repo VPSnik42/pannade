@@ -1,0 +1,25 @@
+{
+    "name": "Ariel Santiago",
+    "age": 57,
+    "address": {
+        "street": "Andrea Mountains",
+        "city": "Lake Derek",
+        "state": "Vermont",
+        "zip": "40884"
+    },
+    "contact": {
+        "phone": "392-274-1858",
+        "servicePhone": "800613445"
+    },
+    "birthday": "1968-10-05",
+    "ip": "50.154.241.75",
+    "foo": "bar",
+    "profile": {
+        "about": "They nor bag author. Population choose say many recent place employee risk. Himself class possible say.\nInside fast born training. Change mean type statement. Box economy staff wrong political.",
+        "bio": "Drop ten suggest business hotel project. Cover discover foot."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
