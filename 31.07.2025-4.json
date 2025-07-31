@@ -1,0 +1,25 @@
+{
+    "name": "Carmen Valdez",
+    "age": 73,
+    "address": {
+        "street": "Julie Prairie",
+        "city": "West Audrey",
+        "state": "Indiana",
+        "zip": "58384"
+    },
+    "contact": {
+        "phone": "(788)993-8349x5273",
+        "servicePhone": "800430336"
+    },
+    "birthday": "1952-25-12",
+    "ip": "146.234.43.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Above mention town history wall. Group shake century off. Rule ago rock person ok information operation. First forward happen animal every measure risk.",
+        "bio": "Check I need support first question program. Case star guy pass give certainly scene. Article along world son turn begin left."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
