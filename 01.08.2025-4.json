@@ -1,0 +1,25 @@
+{
+    "name": "Kristie Huff",
+    "age": 55,
+    "address": {
+        "street": "Joseph Shoals",
+        "city": "Smithfort",
+        "state": "West Virginia",
+        "zip": "51755"
+    },
+    "contact": {
+        "phone": "+1-314-375-5037",
+        "servicePhone": "800550219"
+    },
+    "birthday": "1970-02-08",
+    "ip": "7.146.34.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Discuss thus million provide area where. Improve provide worker let. Set left learn however time.\nCar number mind in wife administration account work. Everybody do national Mr line federal oil.",
+        "bio": "Appear mind on light option.\nProtect how fire eye short without hope. Product card plan team involve federal. Defense catch act voice."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
