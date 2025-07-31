@@ -1,0 +1,25 @@
+{
+    "name": "David Williams",
+    "age": 58,
+    "address": {
+        "street": "Wolfe Cape",
+        "city": "Michaelmouth",
+        "state": "Louisiana",
+        "zip": "84854"
+    },
+    "contact": {
+        "phone": "001-470-645-6572x2995",
+        "servicePhone": "800515358"
+    },
+    "birthday": "1967-19-06",
+    "ip": "108.244.85.201",
+    "foo": "bar",
+    "profile": {
+        "about": "System still together tend scene direction feeling. High marriage especially important lay seek small able. Good doctor tonight rate expert check inside choice.",
+        "bio": "Stuff prevent though newspaper back often information standard. Want produce send forget paper meet box agent.\nLast cup then he. Story red job. Surface statement receive carry."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
