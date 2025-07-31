@@ -1,0 +1,25 @@
+{
+    "name": "Lee Thomas",
+    "age": 87,
+    "address": {
+        "street": "Callahan Ridge",
+        "city": "Thompsonshire",
+        "state": "South Dakota",
+        "zip": "32923"
+    },
+    "contact": {
+        "phone": "205-309-5439x47211",
+        "servicePhone": "800466019"
+    },
+    "birthday": "1938-15-11",
+    "ip": "172.72.24.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Land development school wrong ahead example purpose. Type approach continue. Himself themselves full his message. Animal force series language serve into modern magazine.",
+        "bio": "Shoulder daughter may off. Natural spend nearly than affect measure. Believe third difference book decade. Happen style growth I place operation."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
