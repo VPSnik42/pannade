@@ -1,0 +1,25 @@
+{
+    "name": "Annette Crawford",
+    "age": 106,
+    "address": {
+        "street": "Carolyn Fords",
+        "city": "Katherineberg",
+        "state": "Idaho",
+        "zip": "78777"
+    },
+    "contact": {
+        "phone": "253.966.7713x15413",
+        "servicePhone": "800826033"
+    },
+    "birthday": "1919-18-06",
+    "ip": "200.220.201.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Fly camera reason wonder sister social fund. Game pull necessary couple risk effort.\nHerself town may heavy fly. Laugh arm thing data wide. Wonder he would school light use produce.",
+        "bio": "Many help seem notice three far offer. Current several race study society own. Traditional she computer address everything military."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
