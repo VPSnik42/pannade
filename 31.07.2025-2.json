@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Jones",
+    "age": 85,
+    "address": {
+        "street": "King Mountains",
+        "city": "Patrickhaven",
+        "state": "Maryland",
+        "zip": "44675"
+    },
+    "contact": {
+        "phone": "640.621.8235",
+        "servicePhone": "800550451"
+    },
+    "birthday": "1940-29-05",
+    "ip": "19.176.116.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Number deep arrive article. Wife condition close nor.\nSave memory read either about. Meeting work else interesting enter win.",
+        "bio": "Camera prepare north whose truth news. Enter house good hit. Possible themselves this several party. Traditional forget area data glass."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
