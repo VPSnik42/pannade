@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Brooks",
+    "age": 61,
+    "address": {
+        "street": "Baker Harbor",
+        "city": "Williamsshire",
+        "state": "Georgia",
+        "zip": "40820"
+    },
+    "contact": {
+        "phone": "951-358-6932x6195",
+        "servicePhone": "800093883"
+    },
+    "birthday": "1964-02-10",
+    "ip": "97.152.3.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion glass he trial east reduce. Question style eight it. Be always up best better.\nFor almost fight bad strong ready American keep. Baby concern once deep local spring.",
+        "bio": "Particular eye himself lay growth himself. Particularly where within street region carry allow. Television tax standard lay."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
