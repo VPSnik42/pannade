@@ -1,0 +1,25 @@
+{
+    "name": "Grant Hill",
+    "age": 105,
+    "address": {
+        "street": "Ernest Burg",
+        "city": "New Pamelaton",
+        "state": "Michigan",
+        "zip": "12843"
+    },
+    "contact": {
+        "phone": "8304303188",
+        "servicePhone": "800387923"
+    },
+    "birthday": "1920-05-09",
+    "ip": "67.166.145.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Government recent in culture describe cut. Professional talk fly two magazine.",
+        "bio": "Teacher offer live subject. Else throw year born throughout short himself. Mrs military little attack attorney."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
