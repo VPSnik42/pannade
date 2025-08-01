@@ -1,0 +1,25 @@
+{
+    "name": "Edward Wells",
+    "age": 18,
+    "address": {
+        "street": "Harris Fords",
+        "city": "Hunterside",
+        "state": "Louisiana",
+        "zip": "22647"
+    },
+    "contact": {
+        "phone": "+1-309-692-3004x929",
+        "servicePhone": "800111322"
+    },
+    "birthday": "2007-05-07",
+    "ip": "49.248.212.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Write glass include help only source road treatment. Various project experience true like interesting mother research. Culture floor worry positive evidence success.",
+        "bio": "I reveal send finish trial around. Smile themselves family key option player any. Family level hard five rich computer."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
