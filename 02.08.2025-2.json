@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Patel",
+    "age": 8,
+    "address": {
+        "street": "Cabrera Wall",
+        "city": "Richardchester",
+        "state": "Georgia",
+        "zip": "11082"
+    },
+    "contact": {
+        "phone": "+1-495-448-1682",
+        "servicePhone": "800757860"
+    },
+    "birthday": "2017-05-10",
+    "ip": "92.188.135.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Foreign technology top pattern west. Explain simple water cause back safe. Actually news few tax outside.\nHave feeling number likely job military your. Such owner notice top blue hear.",
+        "bio": "Power information husband prepare. Individual travel financial guess future pretty expect.\nUpon open more site word trade. Choose attorney pretty my others age."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
