@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Burnett",
+    "age": 31,
+    "address": {
+        "street": "Thomas Divide",
+        "city": "Jeremyfurt",
+        "state": "Wyoming",
+        "zip": "08127"
+    },
+    "contact": {
+        "phone": "884.612.8853",
+        "servicePhone": "800791573"
+    },
+    "birthday": "1994-11-01",
+    "ip": "147.253.168.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Work mind easy station whatever according. Hot age financial far conference attention. Notice carry second prepare contain same.",
+        "bio": "Opportunity enough attention money. Concern forward move do account.\nNo decide improve before painting. Soldier former pretty home report billion loss drop. Heart provide art newspaper."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
