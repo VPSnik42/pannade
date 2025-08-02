@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Wilson",
+    "age": 98,
+    "address": {
+        "street": "Russell Tunnel",
+        "city": "New Melissa",
+        "state": "Illinois",
+        "zip": "19098"
+    },
+    "contact": {
+        "phone": "594.217.3281",
+        "servicePhone": "800163714"
+    },
+    "birthday": "1927-07-09",
+    "ip": "60.223.135.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Moment smile ok as blood official around almost. Young machine decision heavy. Room throw trouble bank discover.",
+        "bio": "Knowledge new program. Budget authority perform class.\nKitchen husband current manage whether why. Party information suggest former young day."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
