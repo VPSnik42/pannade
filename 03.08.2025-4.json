@@ -1,0 +1,25 @@
+{
+    "name": "Diana Miller",
+    "age": 60,
+    "address": {
+        "street": "Philip Common",
+        "city": "Heatherview",
+        "state": "Illinois",
+        "zip": "53479"
+    },
+    "contact": {
+        "phone": "001-911-758-8412x39351",
+        "servicePhone": "800792914"
+    },
+    "birthday": "1965-08-12",
+    "ip": "27.102.252.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Boy compare trouble now. Sign capital also president them.\nTerm effect through machine result him sure. Generation life significant learn.",
+        "bio": "Lead capital enter career serious foreign seek. And kind feeling need away.\nStep data himself wall moment a speak. Power large bring pass central.\nBenefit great move recognize physical glass."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
