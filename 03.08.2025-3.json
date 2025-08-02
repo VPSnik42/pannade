@@ -1,0 +1,25 @@
+{
+    "name": "Mark Hamilton",
+    "age": 45,
+    "address": {
+        "street": "Scott Isle",
+        "city": "South Sierra",
+        "state": "Washington",
+        "zip": "98907"
+    },
+    "contact": {
+        "phone": "+1-498-713-7321x2707",
+        "servicePhone": "800766388"
+    },
+    "birthday": "1980-05-08",
+    "ip": "20.167.52.79",
+    "foo": "bar",
+    "profile": {
+        "about": "First benefit radio hand ever fire. Travel artist despite official college. Perhaps magazine anything reason system physical conference data.",
+        "bio": "And type week and add exist wonder would. Impact do area eight. Million team than cost keep exist.\nProcess affect party skill seem upon concern."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
