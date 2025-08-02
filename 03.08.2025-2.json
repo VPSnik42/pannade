@@ -1,0 +1,25 @@
+{
+    "name": "Julie Park",
+    "age": 58,
+    "address": {
+        "street": "Robert Roads",
+        "city": "Walkerberg",
+        "state": "New Mexico",
+        "zip": "37820"
+    },
+    "contact": {
+        "phone": "(791)354-3425x047",
+        "servicePhone": "800119823"
+    },
+    "birthday": "1967-15-06",
+    "ip": "9.50.64.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Imagine might miss easy free section reflect rock. Together your glass. Writer send agency staff.",
+        "bio": "Various learn team do performance. Race if join fast recognize role politics. Watch cold few.\nPhone trial left whose staff seven society company. Bank already more alone. Onto community third."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
