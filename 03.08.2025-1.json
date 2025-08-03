@@ -1,0 +1,25 @@
+{
+    "name": "Monica Hernandez",
+    "age": 16,
+    "address": {
+        "street": "Tracy Harbors",
+        "city": "West Julie",
+        "state": "Arkansas",
+        "zip": "77846"
+    },
+    "contact": {
+        "phone": "+1-766-591-9907x09899",
+        "servicePhone": "800084606"
+    },
+    "birthday": "2009-20-12",
+    "ip": "219.235.26.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Civil century speech less. Whom who site charge prepare. Risk respond keep current.\nFly man us our. Long as themselves various. Their thank deep.",
+        "bio": "Treatment be effort make agent. Order for enjoy white week drop sport. That week staff feeling way notice official."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
