@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Holden",
+    "age": 9,
+    "address": {
+        "street": "Rogers Circles",
+        "city": "Johnsonburgh",
+        "state": "Utah",
+        "zip": "49706"
+    },
+    "contact": {
+        "phone": "(349)551-4653x1987",
+        "servicePhone": "800001953"
+    },
+    "birthday": "2016-15-06",
+    "ip": "200.60.58.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Police morning ahead after customer wrong share why. Watch important director anyone price fill usually.",
+        "bio": "One clear evening structure daughter any great. Art majority remain feel. Relationship nearly practice successful reflect single soldier magazine.\nAs enter forward. Individual if technology theory."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
