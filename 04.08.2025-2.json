@@ -1,0 +1,25 @@
+{
+    "name": "Erika Campbell",
+    "age": 74,
+    "address": {
+        "street": "Kevin Loaf",
+        "city": "South Johnmouth",
+        "state": "Delaware",
+        "zip": "45770"
+    },
+    "contact": {
+        "phone": "001-998-965-8224x0856",
+        "servicePhone": "800039098"
+    },
+    "birthday": "1951-13-02",
+    "ip": "81.145.137.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Model four this. Third house dark maintain. Attorney she mother building evening control challenge. Director sport particular word modern reason charge.",
+        "bio": "Of to team our discuss soon month.\nBetween our operation.\nPolitics street not generation life exist account line. Political stand environment image language finally activity."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
