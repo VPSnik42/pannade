@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Lee",
+    "age": 99,
+    "address": {
+        "street": "Elizabeth Shoals",
+        "city": "East Michelle",
+        "state": "Wyoming",
+        "zip": "32403"
+    },
+    "contact": {
+        "phone": "001-640-618-2375",
+        "servicePhone": "800369009"
+    },
+    "birthday": "1926-30-04",
+    "ip": "196.99.90.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Talk stand drug heart however. Serious easy book free notice arm political. Base purpose above relationship the wear science.",
+        "bio": "Improve source drug field six break finish. Authority job commercial eye discuss. Long experience seat again.\nWind approach picture pass project throw reduce. In director Congress bank weight."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
