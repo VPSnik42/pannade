@@ -1,0 +1,25 @@
+{
+    "name": "Brian Barnes",
+    "age": 23,
+    "address": {
+        "street": "Lewis Canyon",
+        "city": "Smithstad",
+        "state": "Nevada",
+        "zip": "66137"
+    },
+    "contact": {
+        "phone": "+1-622-398-4862",
+        "servicePhone": "800414115"
+    },
+    "birthday": "2002-20-01",
+    "ip": "97.206.186.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Event partner vote most because. Thing goal end.\nReturn receive skin soon become attention direction any. Fly close close beautiful notice form policy.",
+        "bio": "From save call off put dinner. Enough some resource smile organization including allow end. Position plan subject rise on. Report defense professor question current."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
