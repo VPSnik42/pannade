@@ -1,0 +1,25 @@
+{
+    "name": "Howard Ramirez",
+    "age": 45,
+    "address": {
+        "street": "Sandra Forks",
+        "city": "West Alexandria",
+        "state": "New Hampshire",
+        "zip": "65356"
+    },
+    "contact": {
+        "phone": "001-226-404-1058x6376",
+        "servicePhone": "800323003"
+    },
+    "birthday": "1980-06-05",
+    "ip": "151.25.241.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Never office effort by take its. Short character three. Simply happen race various almost of.\nThrow customer black north growth baby shake reality. Send response understand begin.",
+        "bio": "Personal without fine impact.\nDog magazine white general sure. Produce power factor friend forget center would."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
