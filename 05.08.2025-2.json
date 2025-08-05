@@ -1,0 +1,25 @@
+{
+    "name": "Joe Sullivan",
+    "age": 63,
+    "address": {
+        "street": "Miranda Courts",
+        "city": "North Stacystad",
+        "state": "Florida",
+        "zip": "23290"
+    },
+    "contact": {
+        "phone": "001-228-330-4899x84140",
+        "servicePhone": "800261283"
+    },
+    "birthday": "1962-25-12",
+    "ip": "92.12.152.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Write always law model region. Assume few still.\nField suddenly realize lot. Happy draw kind material happen remain court. Should material return clear writer.",
+        "bio": "Explain add white walk. Risk if future than.\nCommercial over must. Must agent Republican why everything situation girl."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
