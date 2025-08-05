@@ -1,0 +1,25 @@
+{
+    "name": "Laura Hamilton",
+    "age": 110,
+    "address": {
+        "street": "Sandra Extensions",
+        "city": "North Jilliantown",
+        "state": "South Carolina",
+        "zip": "39261"
+    },
+    "contact": {
+        "phone": "001-798-675-3397x381",
+        "servicePhone": "800259376"
+    },
+    "birthday": "1915-28-12",
+    "ip": "118.150.230.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Cause world conference source agreement of. Structure need sit sound grow later. Season serve something modern.",
+        "bio": "Prepare from various religious almost.\nSide production information total. Especially member task. Son most increase heart occur nation ask."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
