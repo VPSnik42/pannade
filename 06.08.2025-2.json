@@ -1,0 +1,25 @@
+{
+    "name": "Leslie Schmidt",
+    "age": 56,
+    "address": {
+        "street": "Chavez Harbor",
+        "city": "New Rebeccachester",
+        "state": "Mississippi",
+        "zip": "32058"
+    },
+    "contact": {
+        "phone": "(748)859-5734",
+        "servicePhone": "800605632"
+    },
+    "birthday": "1969-28-04",
+    "ip": "30.34.162.23",
+    "foo": "bar",
+    "profile": {
+        "about": "There nor run itself marriage father trial. Red instead authority next college main. Play establish condition language research his church.",
+        "bio": "Success like become dream administration among of. Trip movement design owner.\nAgent low value phone fund. Though majority speech instead body nation. Television develop ago participant claim."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
