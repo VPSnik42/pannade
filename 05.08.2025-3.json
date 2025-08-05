@@ -1,0 +1,25 @@
+{
+    "name": "Robert Howell",
+    "age": 24,
+    "address": {
+        "street": "Jessica Ramp",
+        "city": "Lake Michaelhaven",
+        "state": "Missouri",
+        "zip": "97083"
+    },
+    "contact": {
+        "phone": "931-920-6152",
+        "servicePhone": "800261157"
+    },
+    "birthday": "2001-13-11",
+    "ip": "134.244.102.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Fly remain though discover economic language. Should attack rather rate only. Police customer day recognize.",
+        "bio": "Around soon fish person organization become rich risk. Everything society officer. Policy low short throw finish.\nEye property similar always sometimes."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
