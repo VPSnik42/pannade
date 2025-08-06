@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Gonzalez",
+    "age": 87,
+    "address": {
+        "street": "Kathy Square",
+        "city": "East Lauraborough",
+        "state": "New Mexico",
+        "zip": "68036"
+    },
+    "contact": {
+        "phone": "001-690-804-9356x867",
+        "servicePhone": "800975205"
+    },
+    "birthday": "1938-13-08",
+    "ip": "119.149.94.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Church see can inside drive them. Central live son total perhaps between among. Effort happen fact ten stand test voice international.",
+        "bio": "Guy suddenly science never growth product. Third new write than.\nEven tell study east measure trade. Leader minute add very as exist."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
