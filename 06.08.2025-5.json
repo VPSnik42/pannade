@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Robbins",
+    "age": 83,
+    "address": {
+        "street": "Anthony Circles",
+        "city": "West Randy",
+        "state": "Michigan",
+        "zip": "21960"
+    },
+    "contact": {
+        "phone": "563.228.3214x6106",
+        "servicePhone": "800119537"
+    },
+    "birthday": "1942-27-03",
+    "ip": "51.188.196.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Three camera PM analysis. Development show usually career analysis think teacher. Individual federal political word religious.",
+        "bio": "Lose serve against interesting real. North state far success executive. Several lot environment suddenly follow interesting ago."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
