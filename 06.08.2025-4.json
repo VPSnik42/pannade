@@ -1,0 +1,25 @@
+{
+    "name": "William Garcia",
+    "age": 45,
+    "address": {
+        "street": "Eric Centers",
+        "city": "Denisefurt",
+        "state": "Indiana",
+        "zip": "27155"
+    },
+    "contact": {
+        "phone": "(719)838-4848",
+        "servicePhone": "800684504"
+    },
+    "birthday": "1980-28-03",
+    "ip": "39.132.126.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Sport fire already under station. Night into attorney outside firm.\nCampaign smile say. That likely new drug cause test image.",
+        "bio": "Significant free call. Control build will too affect weight. Focus memory more employee.\nWhich life record. Five help professor address set.\nSerious leg center. Wall mother once protect."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
