@@ -1,0 +1,25 @@
+{
+    "name": "Gary Hale",
+    "age": 60,
+    "address": {
+        "street": "Tabitha Crossroad",
+        "city": "West Lorraine",
+        "state": "Oklahoma",
+        "zip": "47477"
+    },
+    "contact": {
+        "phone": "+1-784-428-4188",
+        "servicePhone": "800773343"
+    },
+    "birthday": "1965-25-03",
+    "ip": "182.136.162.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Significant paper member away return. Bring option evidence as discussion prove purpose front. That success age hear pay.",
+        "bio": "Risk green out. Push ball painting worry body dog debate.\nToward close tough sort month. Reveal yeah find field address road policy."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
