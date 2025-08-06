@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Lee",
+    "age": 103,
+    "address": {
+        "street": "Benjamin Manors",
+        "city": "Jacquelinefort",
+        "state": "Arizona",
+        "zip": "26154"
+    },
+    "contact": {
+        "phone": "335-386-6313x506",
+        "servicePhone": "800378712"
+    },
+    "birthday": "1922-12-11",
+    "ip": "120.106.230.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Director protect teacher serve evening these international talk. Chair author including protect foreign. Commercial defense job with.",
+        "bio": "Test right politics stock do important anyone. Last institution focus house.\nAgency if decade receive. At world join hospital cold situation fund keep. A purpose concern visit get executive now too."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
