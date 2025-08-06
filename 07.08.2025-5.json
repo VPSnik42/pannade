@@ -1,0 +1,25 @@
+{
+    "name": "Julian Chavez",
+    "age": 53,
+    "address": {
+        "street": "Jacobs Fall",
+        "city": "Kingborough",
+        "state": "North Carolina",
+        "zip": "47803"
+    },
+    "contact": {
+        "phone": "835.880.2793",
+        "servicePhone": "800277766"
+    },
+    "birthday": "1972-04-02",
+    "ip": "205.144.132.178",
+    "foo": "bar",
+    "profile": {
+        "about": "There spend modern food plant tell. Happen do so student sort. Quality above family mean past bank amount. South dream would you.",
+        "bio": "Fly report character term board bed. Present middle them decade Congress mention put.\nProduction those modern level law fight yet. Heart writer fight day."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
