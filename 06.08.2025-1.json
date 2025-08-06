@@ -1,0 +1,25 @@
+{
+    "name": "Lance Stuart",
+    "age": 27,
+    "address": {
+        "street": "Scott Parkways",
+        "city": "Charlesside",
+        "state": "Kansas",
+        "zip": "51922"
+    },
+    "contact": {
+        "phone": "(774)690-5377x72950",
+        "servicePhone": "800462687"
+    },
+    "birthday": "1998-22-01",
+    "ip": "118.23.75.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Up Mrs month already meeting thank party ever.\nLand remain couple structure southern player chair stop. Box number force include.\nDecision upon religious project its.",
+        "bio": "To mean several responsibility guy husband. Decision letter fast along easy cup author."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
