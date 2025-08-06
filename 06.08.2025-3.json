@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Alvarez",
+    "age": 19,
+    "address": {
+        "street": "Fisher Squares",
+        "city": "North Leonard",
+        "state": "Ohio",
+        "zip": "80443"
+    },
+    "contact": {
+        "phone": "+1-621-977-3081",
+        "servicePhone": "800506788"
+    },
+    "birthday": "2006-22-08",
+    "ip": "7.145.127.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Take talk race from I. Treatment oil ability agent leave hand huge. At determine black reason until painting final.",
+        "bio": "Authority positive pattern similar lose scientist read. Moment ask drug also recently. Idea official save election dog."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
