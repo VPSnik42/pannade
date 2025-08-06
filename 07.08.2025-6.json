@@ -1,0 +1,25 @@
+{
+    "name": "Laura Nichols",
+    "age": 62,
+    "address": {
+        "street": "Rollins Course",
+        "city": "South Timothy",
+        "state": "Alaska",
+        "zip": "40824"
+    },
+    "contact": {
+        "phone": "001-490-345-6425",
+        "servicePhone": "800263866"
+    },
+    "birthday": "1963-30-08",
+    "ip": "41.151.107.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Civil science media away travel author. Fear subject high. Wide pull build democratic activity provide.\nLocal pick drive stage color husband amount. Visit probably painting foreign tax.",
+        "bio": "Condition something bag. Detail current education also pull else better. Behavior between tell fire."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
