@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Martinez",
+    "age": 89,
+    "address": {
+        "street": "Daniel Light",
+        "city": "Juanstad",
+        "state": "Maryland",
+        "zip": "34279"
+    },
+    "contact": {
+        "phone": "356-836-9835x243",
+        "servicePhone": "800430277"
+    },
+    "birthday": "1936-20-03",
+    "ip": "72.0.154.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Which address a. Fine although join heart behavior.\nSit at control million according stand. Future them suffer coach thing learn thus.",
+        "bio": "Improve note which attorney social cultural.\nDaughter sit surface. Boy field her fill message Democrat anything."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
