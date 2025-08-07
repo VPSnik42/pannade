@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Smith",
+    "age": 50,
+    "address": {
+        "street": "Nancy Drives",
+        "city": "Derekfurt",
+        "state": "North Dakota",
+        "zip": "85301"
+    },
+    "contact": {
+        "phone": "(569)997-1919x5562",
+        "servicePhone": "800586349"
+    },
+    "birthday": "1975-06-05",
+    "ip": "32.35.61.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Good town establish low commercial use administration. Much campaign sport bad newspaper. Tonight especially heart.\nSister never member. Break sense always college environmental work behind.",
+        "bio": "Ability positive no reality option between federal. They never court job would argue.\nFloor moment money in alone plant. From page teacher practice. Term free data."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
