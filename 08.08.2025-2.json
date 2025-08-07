@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Sanders",
+    "age": 12,
+    "address": {
+        "street": "Barr Fork",
+        "city": "South Carol",
+        "state": "Michigan",
+        "zip": "78471"
+    },
+    "contact": {
+        "phone": "001-927-451-0529",
+        "servicePhone": "800541551"
+    },
+    "birthday": "2013-31-08",
+    "ip": "185.126.215.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Western usually oil let poor agreement expect audience. Act approach room positive. Help entire bed create food across.",
+        "bio": "Street almost whom future around. System impact relationship newspaper example soon better skill.\nDo account they image accept necessary. Member exactly low."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
