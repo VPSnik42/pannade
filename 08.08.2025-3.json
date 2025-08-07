@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Mack",
+    "age": 45,
+    "address": {
+        "street": "Huang Meadow",
+        "city": "Morenoborough",
+        "state": "Louisiana",
+        "zip": "46744"
+    },
+    "contact": {
+        "phone": "317.300.1758x04317",
+        "servicePhone": "800402448"
+    },
+    "birthday": "1980-28-01",
+    "ip": "81.60.134.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Community sport moment kind case. Series similar from each teach or. Sense study human wide spend. Assume word thing law toward may notice.",
+        "bio": "Involve hundred live economy develop hope table. Must have office mention."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
