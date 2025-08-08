@@ -1,0 +1,25 @@
+{
+    "name": "Spencer Rodriguez",
+    "age": 46,
+    "address": {
+        "street": "Johnson Wells",
+        "city": "Stephaniestad",
+        "state": "Pennsylvania",
+        "zip": "40828"
+    },
+    "contact": {
+        "phone": "+1-672-791-3679",
+        "servicePhone": "800396810"
+    },
+    "birthday": "1979-30-08",
+    "ip": "159.173.186.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Magazine thing we president parent attorney not. Book those enjoy respond story.\nUnder floor while war rock experience defense over. Build tax reason challenge information ever buy.",
+        "bio": "Important big nice these degree TV. Resource threat current policy media really ball.\nTeach rise look see government medical."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
