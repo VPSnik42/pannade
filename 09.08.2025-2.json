@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Martin",
+    "age": 37,
+    "address": {
+        "street": "Brandy Avenue",
+        "city": "Port Carlosburgh",
+        "state": "Connecticut",
+        "zip": "05832"
+    },
+    "contact": {
+        "phone": "(824)988-1582x692",
+        "servicePhone": "800151931"
+    },
+    "birthday": "1988-25-07",
+    "ip": "190.175.204.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Glass security reality leg street people. Fear lot their face them arrive.\nAgree list participant necessary. Step clearly model. Nature order past this.",
+        "bio": "My else five address. Measure research mission wear likely tough politics. Board clearly or season those store."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
