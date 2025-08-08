@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Matthews",
+    "age": 12,
+    "address": {
+        "street": "Morgan Court",
+        "city": "North Michelleton",
+        "state": "Montana",
+        "zip": "60381"
+    },
+    "contact": {
+        "phone": "499-978-1075x6556",
+        "servicePhone": "800410759"
+    },
+    "birthday": "2013-28-05",
+    "ip": "147.34.196.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Order drive too stay. Usually standard weight finally glass. Consumer bank draw who sea reveal.",
+        "bio": "Suddenly chair I provide. Perform page box subject least green. Issue organization ask lead end rich. Necessary Congress major wrong fast."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
