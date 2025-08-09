@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Johnson",
+    "age": 32,
+    "address": {
+        "street": "Gardner Knolls",
+        "city": "Lake Williammouth",
+        "state": "Utah",
+        "zip": "65657"
+    },
+    "contact": {
+        "phone": "+1-326-984-3445x582",
+        "servicePhone": "800383352"
+    },
+    "birthday": "1993-16-05",
+    "ip": "6.2.6.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Human citizen huge pattern language. Practice read newspaper involve. Now popular bring lot realize hear report. Simple identify natural culture serve early.",
+        "bio": "Reveal American because democratic he image because. Meeting letter serious believe sit."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
