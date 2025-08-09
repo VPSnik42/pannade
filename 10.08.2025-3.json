@@ -1,0 +1,25 @@
+{
+    "name": "Mitchell Smith",
+    "age": 65,
+    "address": {
+        "street": "Christopher Pass",
+        "city": "East Christine",
+        "state": "South Dakota",
+        "zip": "62415"
+    },
+    "contact": {
+        "phone": "+1-711-210-8786x676",
+        "servicePhone": "800613288"
+    },
+    "birthday": "1960-20-12",
+    "ip": "82.184.246.231",
+    "foo": "bar",
+    "profile": {
+        "about": "As world however million open. Position just less exist positive identify growth care. As glass outside price seem.\nOur like young today. Avoid provide learn be.",
+        "bio": "Would structure whole various style statement leg. Blue color wide wrong."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
