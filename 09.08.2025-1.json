@@ -1,0 +1,25 @@
+{
+    "name": "Edward Gutierrez",
+    "age": 30,
+    "address": {
+        "street": "Wilson Hills",
+        "city": "Lake John",
+        "state": "North Dakota",
+        "zip": "04408"
+    },
+    "contact": {
+        "phone": "711-267-1635x04583",
+        "servicePhone": "800866068"
+    },
+    "birthday": "1995-05-02",
+    "ip": "10.87.128.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Arm mission possible college these make these. Whose like individual heavy young.\nChange drug white carry role finally. Though main I especially. Difficult position couple fish technology large.",
+        "bio": "See maybe baby. Red fight law area worry between by under."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
