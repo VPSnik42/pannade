@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Elliott",
+    "age": 76,
+    "address": {
+        "street": "David Pine",
+        "city": "Lake Jasmine",
+        "state": "Utah",
+        "zip": "39831"
+    },
+    "contact": {
+        "phone": "436-585-4273x0827",
+        "servicePhone": "800582878"
+    },
+    "birthday": "1949-14-04",
+    "ip": "88.57.146.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Door nothing say. Sound team standard record imagine every. Skin right less area interview state. Identify unit control election bill.",
+        "bio": "Happen him condition although long authority wonder. Activity daughter know trial which.\nSouth actually speak. Sign former firm by gun gas."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
