@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Cardenas",
+    "age": 35,
+    "address": {
+        "street": "Woods Fords",
+        "city": "Valerieshire",
+        "state": "New York",
+        "zip": "33428"
+    },
+    "contact": {
+        "phone": "+1-487-517-6239x112",
+        "servicePhone": "800838078"
+    },
+    "birthday": "1990-11-01",
+    "ip": "50.96.37.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Hard poor impact play. Pm return guy fish gun require official space.\nCamera quite nor best various so leader. Drug sound unit million.",
+        "bio": "Can response deep. Candidate network go condition. Natural property but follow material hospital mouth. Simple very foreign all partner former want."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
