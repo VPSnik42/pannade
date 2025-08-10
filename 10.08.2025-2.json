@@ -1,0 +1,25 @@
+{
+    "name": "John Robinson",
+    "age": 109,
+    "address": {
+        "street": "Scott Pike",
+        "city": "North Gordon",
+        "state": "Rhode Island",
+        "zip": "01408"
+    },
+    "contact": {
+        "phone": "(295)225-2086x7137",
+        "servicePhone": "800338217"
+    },
+    "birthday": "1916-22-06",
+    "ip": "15.110.43.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Economy purpose significant sound year region. Building early parent. Tell manager themselves myself break or.",
+        "bio": "Debate total or do. Season receive large film.\nOften day table senior letter artist. Action edge whether same hear collection matter explain."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
