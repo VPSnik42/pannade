@@ -1,0 +1,25 @@
+{
+    "name": "Justin Sosa",
+    "age": 42,
+    "address": {
+        "street": "Cruz Crossroad",
+        "city": "South Kelly",
+        "state": "Alaska",
+        "zip": "55768"
+    },
+    "contact": {
+        "phone": "200-409-9589",
+        "servicePhone": "800450272"
+    },
+    "birthday": "1983-15-05",
+    "ip": "179.26.230.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Radio behind fast bag. Bag community father sort yourself again power day. Activity since technology American respond human enjoy.",
+        "bio": "Seat point modern provide wife surface whose. Arrive level sell someone stock television."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
