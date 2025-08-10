@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Hernandez",
+    "age": 90,
+    "address": {
+        "street": "Nathaniel Shores",
+        "city": "East Markfort",
+        "state": "Virginia",
+        "zip": "18492"
+    },
+    "contact": {
+        "phone": "(643)955-3943x2607",
+        "servicePhone": "800382757"
+    },
+    "birthday": "1935-14-09",
+    "ip": "161.145.3.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Take performance stuff improve agent report collection. Resource discussion season boy. Usually sit ago example positive quite answer.",
+        "bio": "Say their himself or agent trade. Blood statement knowledge. Significant everything involve step they reduce.\nDrug personal not soldier shoulder thousand. Amount ahead year traditional rich give."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
