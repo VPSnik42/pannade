@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Haynes",
+    "age": 55,
+    "address": {
+        "street": "Lori Mall",
+        "city": "Wilsonland",
+        "state": "Indiana",
+        "zip": "47162"
+    },
+    "contact": {
+        "phone": "548.600.0720",
+        "servicePhone": "800756953"
+    },
+    "birthday": "1970-30-10",
+    "ip": "145.207.95.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Often fund form medical. Fund professional wish available.\nSave recently address far sit war same. They off on professor bar that within. Leg detail share west term high without around.",
+        "bio": "Industry see old artist section out. Avoid cut smile window add.\nCentury bit traditional itself. History politics possible executive three world. Child hot decide foreign."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
