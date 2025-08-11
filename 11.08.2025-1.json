@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Larsen",
+    "age": 76,
+    "address": {
+        "street": "Eric Inlet",
+        "city": "West Donna",
+        "state": "Virginia",
+        "zip": "92432"
+    },
+    "contact": {
+        "phone": "(361)292-0527",
+        "servicePhone": "800891448"
+    },
+    "birthday": "1949-14-04",
+    "ip": "5.53.121.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Common huge current however. Work something ready citizen trouble sure answer. Effort chance return one develop senior will.",
+        "bio": "Consumer of often wind although discuss certainly paper. Full operation manager though kitchen offer. Health similar administration phone young truth."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
