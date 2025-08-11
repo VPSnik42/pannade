@@ -1,0 +1,25 @@
+{
+    "name": "Walter Ramirez",
+    "age": 6,
+    "address": {
+        "street": "Mccarthy Light",
+        "city": "Port Mark",
+        "state": "Oregon",
+        "zip": "94287"
+    },
+    "contact": {
+        "phone": "001-937-917-5927",
+        "servicePhone": "800475926"
+    },
+    "birthday": "2019-08-02",
+    "ip": "92.226.105.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical may Mrs age make door. Sell dark development imagine treat.",
+        "bio": "Clearly food do memory. Floor hotel develop particular live claim unit. About smile near despite like avoid."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
