@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Gray",
+    "age": 68,
+    "address": {
+        "street": "Ramirez Extension",
+        "city": "Martinezburgh",
+        "state": "Missouri",
+        "zip": "67391"
+    },
+    "contact": {
+        "phone": "766.637.9603",
+        "servicePhone": "800939743"
+    },
+    "birthday": "1957-09-02",
+    "ip": "201.28.192.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Total alone environmental. Artist growth up sing center. Environment this common serve.\nClear year politics open ago account.",
+        "bio": "Politics region any wish security. Ability wait something similar could.\nStudent end matter already fish reality. Yeah morning environment message charge thus buy."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
