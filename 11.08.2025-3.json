@@ -1,0 +1,25 @@
+{
+    "name": "Craig Johnson",
+    "age": 3,
+    "address": {
+        "street": "Jordan Mount",
+        "city": "West Kristinstad",
+        "state": "Washington",
+        "zip": "67044"
+    },
+    "contact": {
+        "phone": "2679219545",
+        "servicePhone": "800044521"
+    },
+    "birthday": "2022-10-04",
+    "ip": "167.193.38.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Pick boy clear specific threat traditional. History idea report energy thank.",
+        "bio": "Let same seat government better film radio. Personal author side where indicate mother. South guy social method also."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
