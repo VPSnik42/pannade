@@ -1,0 +1,25 @@
+{
+    "name": "David Brooks",
+    "age": 11,
+    "address": {
+        "street": "Miller Manors",
+        "city": "Guzmantown",
+        "state": "Delaware",
+        "zip": "76531"
+    },
+    "contact": {
+        "phone": "358.656.7840x64377",
+        "servicePhone": "800001214"
+    },
+    "birthday": "2014-30-10",
+    "ip": "27.19.127.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago free sign. Yes play public decide.\nMajority list security true result. Almost painting win avoid friend line for. Gun beyond over soldier may top.",
+        "bio": "Low trouble understand state relationship change. Account book strategy exist.\nAvoid writer teacher wall account. Mind four tell quickly civil wall pull."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
