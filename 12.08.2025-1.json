@@ -1,0 +1,25 @@
+{
+    "name": "Rachael Williams",
+    "age": 90,
+    "address": {
+        "street": "White Rapids",
+        "city": "Lake William",
+        "state": "Minnesota",
+        "zip": "60062"
+    },
+    "contact": {
+        "phone": "991.778.1540x06132",
+        "servicePhone": "800178213"
+    },
+    "birthday": "1935-28-05",
+    "ip": "138.40.152.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Public hit answer pull however service lawyer. Level before role defense one measure north.\nHow word part among defense event list. Card need study dinner like light improve beat.",
+        "bio": "Economic find chair model trouble together huge your. Almost specific picture tonight plan than.\nWorker box trade. Tree involve official. From part various draw teach leave believe."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
