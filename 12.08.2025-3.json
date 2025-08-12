@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Sherry Cox",
+    "age": 84,
+    "address": {
+        "street": "Jeffery Junction",
+        "city": "Stephensville",
+        "state": "Texas",
+        "zip": "32818"
+    },
+    "contact": {
+        "phone": "+1-352-956-7992x74817",
+        "servicePhone": "800748331"
+    },
+    "birthday": "1941-10-05",
+    "ip": "28.50.112.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Several executive adult add have magazine. Economic nor avoid design measure later left.",
+        "bio": "Increase score worry stay word. Along black hospital PM film. Evening foot former direction shoulder."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
