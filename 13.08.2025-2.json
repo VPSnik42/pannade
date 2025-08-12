@@ -1,0 +1,25 @@
+{
+    "name": "Christy Hall",
+    "age": 105,
+    "address": {
+        "street": "Brown Glen",
+        "city": "Floydland",
+        "state": "Louisiana",
+        "zip": "12499"
+    },
+    "contact": {
+        "phone": "752-455-2068x5747",
+        "servicePhone": "800570637"
+    },
+    "birthday": "1920-29-05",
+    "ip": "19.214.249.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Involve pick argue different my last black. Rich investment budget article community. Floor no yes show TV.",
+        "bio": "Soon model build. Social per walk sit beyond citizen early.\nChance I full young. Important here director them million conference only. Check really model fast."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
