@@ -1,0 +1,25 @@
+{
+    "name": "Theresa Hansen",
+    "age": 25,
+    "address": {
+        "street": "Patrick Cove",
+        "city": "West Eric",
+        "state": "Nebraska",
+        "zip": "53920"
+    },
+    "contact": {
+        "phone": "001-966-811-9697x41475",
+        "servicePhone": "800893244"
+    },
+    "birthday": "2000-23-08",
+    "ip": "98.42.131.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Mission crime approach lot. Issue partner worker recently military include. Surface along various stock.",
+        "bio": "Box entire arm shake arm. Term no officer page by seven certain. Friend religious mouth easy."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
