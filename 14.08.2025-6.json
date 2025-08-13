@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Tapia",
+    "age": 42,
+    "address": {
+        "street": "Mary Corners",
+        "city": "Gonzalezland",
+        "state": "Pennsylvania",
+        "zip": "90159"
+    },
+    "contact": {
+        "phone": "983.513.4828",
+        "servicePhone": "800034078"
+    },
+    "birthday": "1983-24-05",
+    "ip": "119.253.14.7",
+    "foo": "bar",
+    "profile": {
+        "about": "But bed because through tell as thing. Nor scene involve owner computer hospital.\nLikely eight recently research often. Including civil water employee away.",
+        "bio": "Teach add coach official. Ten education score large find student. Alone little religious eye you sing tonight certain."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
