@@ -1,0 +1,25 @@
+{
+    "name": "Vicki Bailey",
+    "age": 37,
+    "address": {
+        "street": "David Glen",
+        "city": "South Beth",
+        "state": "Maine",
+        "zip": "32937"
+    },
+    "contact": {
+        "phone": "001-489-632-8900",
+        "servicePhone": "800780216"
+    },
+    "birthday": "1988-23-06",
+    "ip": "105.96.233.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Believe budget teacher always performance. Can thousand hotel prepare allow defense security sometimes. Near citizen necessary.",
+        "bio": "Group those first citizen Mr better. Truth after coach order street.\nMagazine investment stand blue against few. Yet stay he up. My will region himself back give."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
