@@ -1,0 +1,25 @@
+{
+    "name": "John Phillips",
+    "age": 61,
+    "address": {
+        "street": "Laurie Run",
+        "city": "South Amandatown",
+        "state": "Michigan",
+        "zip": "12271"
+    },
+    "contact": {
+        "phone": "(715)292-0270x568",
+        "servicePhone": "800598624"
+    },
+    "birthday": "1964-23-01",
+    "ip": "166.17.224.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Pick executive debate attention others.\nPhone teacher right. Impact feeling crime catch. Month thus interest within.",
+        "bio": "Republican ok unit seem across at economic east. Sea whose push most language true lead."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
