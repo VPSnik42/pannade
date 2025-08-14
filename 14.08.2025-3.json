@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Fernandez",
+    "age": 36,
+    "address": {
+        "street": "Miguel Spur",
+        "city": "Port Brian",
+        "state": "South Carolina",
+        "zip": "48381"
+    },
+    "contact": {
+        "phone": "361-855-8199",
+        "servicePhone": "800565752"
+    },
+    "birthday": "1989-21-01",
+    "ip": "122.100.86.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Through project less my. Part picture grow dream.\nBaby collection personal live. Hard box live as network traditional child.",
+        "bio": "Nearly form single. And however end east. Director common rather discuss need available rich.\nQuality station build dog site appear politics run. Color score trouble herself."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
