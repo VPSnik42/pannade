@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Strickland",
+    "age": 111,
+    "address": {
+        "street": "Jones Estate",
+        "city": "East Jennifer",
+        "state": "Idaho",
+        "zip": "00675"
+    },
+    "contact": {
+        "phone": "319.368.4495x2979",
+        "servicePhone": "800918166"
+    },
+    "birthday": "1914-05-01",
+    "ip": "180.62.81.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Feel hour politics age perhaps. Worker head western beautiful. Modern light physical baby national rock mean.\nCard day heart agreement need listen reflect sea. Different ok technology it carry kind.",
+        "bio": "Skin seek field doctor ahead catch.\nStuff discuss relationship four if finish. Soon very be interesting voice amount ok. Blood eight particular worry."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
