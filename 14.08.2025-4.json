@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Smith",
+    "age": 44,
+    "address": {
+        "street": "Thomas Village",
+        "city": "Sarahshire",
+        "state": "Utah",
+        "zip": "61580"
+    },
+    "contact": {
+        "phone": "001-718-385-0590x2498",
+        "servicePhone": "800434335"
+    },
+    "birthday": "1981-06-08",
+    "ip": "215.69.86.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Yes police support fact article. Service full camera show black recently.\nNew everyone of present real successful represent. Get show begin training. Marriage billion claim look.",
+        "bio": "Nor describe increase above like. Plant even soon sport also set star.\nWind artist news industry. Fill system something member Republican."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
