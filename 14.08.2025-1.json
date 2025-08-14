@@ -1,0 +1,25 @@
+{
+    "name": "Jason Cruz",
+    "age": 86,
+    "address": {
+        "street": "Sophia Pass",
+        "city": "Jefferyberg",
+        "state": "Oklahoma",
+        "zip": "13799"
+    },
+    "contact": {
+        "phone": "704-723-2655x7750",
+        "servicePhone": "800525377"
+    },
+    "birthday": "1939-23-02",
+    "ip": "50.72.120.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Up subject relationship. Read today then leg movement. Happen million also ask deal keep always action.\nOutside shake will concern position. Agree station always response age politics.",
+        "bio": "Recent way red large physical fear a century. Program fall food might send miss."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
