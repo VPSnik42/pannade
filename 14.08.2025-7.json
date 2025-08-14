@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth King",
+    "age": 94,
+    "address": {
+        "street": "Daniel River",
+        "city": "East Robertland",
+        "state": "Alabama",
+        "zip": "52837"
+    },
+    "contact": {
+        "phone": "809-337-6721",
+        "servicePhone": "800877385"
+    },
+    "birthday": "1931-23-04",
+    "ip": "105.74.84.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Top agent center. Visit manager star agent cup election standard despite.\nProtect between product drug. Sort letter fill detail film.",
+        "bio": "Ever because meet the region decade four sport. Detail long make travel artist serve none.\nFeel yet hold past. List sign listen turn example."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
