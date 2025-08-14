@@ -1,0 +1,25 @@
+{
+    "name": "Yvonne Gray",
+    "age": 74,
+    "address": {
+        "street": "Reed Track",
+        "city": "North Michelle",
+        "state": "Michigan",
+        "zip": "45602"
+    },
+    "contact": {
+        "phone": "+1-273-255-7911x958",
+        "servicePhone": "800420515"
+    },
+    "birthday": "1951-21-06",
+    "ip": "145.238.241.130",
+    "foo": "bar",
+    "profile": {
+        "about": "War second on say. Try part beautiful improve yourself. Red character ten.\nGame bed debate job everyone send everything. Voice inside bar weight now couple.",
+        "bio": "Measure six source. Doctor stand throughout.\nParticular reflect tend various back. Move series fund. Stay democratic education administration opportunity forget data."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
