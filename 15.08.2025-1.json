@@ -1,0 +1,25 @@
+{
+    "name": "Robert Moore",
+    "age": 51,
+    "address": {
+        "street": "Brown Island",
+        "city": "Nathanielfurt",
+        "state": "Idaho",
+        "zip": "72731"
+    },
+    "contact": {
+        "phone": "(888)874-3716x5406",
+        "servicePhone": "800035770"
+    },
+    "birthday": "1974-17-02",
+    "ip": "132.37.203.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing pressure single rich teach. Appear brother think decision room impact stuff. Guess ball personal maintain subject eat.\nPicture her group he month. Least watch allow good manage.",
+        "bio": "Follow show dinner final maintain may send action. Operation my notice economic."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
