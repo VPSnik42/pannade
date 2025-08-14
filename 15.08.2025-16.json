@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Brenda Matthews",
+    "age": 104,
+    "address": {
+        "street": "Turner Ridge",
+        "city": "Lake Robert",
+        "state": "Virginia",
+        "zip": "81652"
+    },
+    "contact": {
+        "phone": "(412)904-0777x60010",
+        "servicePhone": "800086603"
+    },
+    "birthday": "1921-07-10",
+    "ip": "70.149.138.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Blue finish face lose issue any. Decision stop yet idea. Agree ahead fill single many law put.",
+        "bio": "Or allow race opportunity. Have evening show.\nStrategy like head. Knowledge face person party past."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
