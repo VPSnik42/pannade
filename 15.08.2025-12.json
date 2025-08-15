@@ -1,0 +1,25 @@
+{
+    "name": "Destiny Jackson",
+    "age": 115,
+    "address": {
+        "street": "James Islands",
+        "city": "Wilkinsborough",
+        "state": "Alabama",
+        "zip": "82122"
+    },
+    "contact": {
+        "phone": "(745)590-2835",
+        "servicePhone": "800218514"
+    },
+    "birthday": "1910-13-08",
+    "ip": "5.180.62.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Name on provide scientist development. Market marriage including.\nLook more decide. Care party machine above political wife. Main example often for shake.",
+        "bio": "Star sense agreement white the campaign. Beyond feel national city measure team college. Early go attack personal fine."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
