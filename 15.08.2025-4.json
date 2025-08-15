@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Hayes",
+    "age": 79,
+    "address": {
+        "street": "Victoria Ridge",
+        "city": "Fishershire",
+        "state": "Texas",
+        "zip": "49474"
+    },
+    "contact": {
+        "phone": "001-454-507-6509x84108",
+        "servicePhone": "800742712"
+    },
+    "birthday": "1946-01-02",
+    "ip": "150.214.212.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Age service off with interest. Color large order here.\nGeneration heavy degree exactly certain both need. Community management among picture. Officer fire ask keep bank.",
+        "bio": "They candidate north after great reduce. Enough sit think sell air world dinner. Exist serious out coach part decide home."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
