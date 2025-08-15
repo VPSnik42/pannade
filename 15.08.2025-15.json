@@ -1,0 +1,25 @@
+{
+    "name": "Amber Ferguson",
+    "age": 81,
+    "address": {
+        "street": "Weber Causeway",
+        "city": "Jasonfurt",
+        "state": "Alaska",
+        "zip": "11843"
+    },
+    "contact": {
+        "phone": "(840)216-4976",
+        "servicePhone": "800262219"
+    },
+    "birthday": "1944-26-12",
+    "ip": "111.210.98.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Pick care character eye itself. Against top audience cell week.\nDay notice sure both even. Follow major board main my share guess. Huge activity know no.",
+        "bio": "Account example appear remember. Drive cut point pick save. These likely road already interesting television. Stage everyone officer coach may true.\nEffort election minute paper."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
