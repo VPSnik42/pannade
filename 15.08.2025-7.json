@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Fisher",
+    "age": 56,
+    "address": {
+        "street": "Craig Bridge",
+        "city": "Smithburgh",
+        "state": "West Virginia",
+        "zip": "80305"
+    },
+    "contact": {
+        "phone": "385.896.2056x31970",
+        "servicePhone": "800789492"
+    },
+    "birthday": "1969-28-05",
+    "ip": "146.1.168.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Too tough boy coach section. Fine nation suggest test ready tend wife. Seven operation whom especially clearly challenge human.",
+        "bio": "Before participant whatever between art second. National wish foot. President hospital guy team.\nImportant explain record name democratic. Myself toward dog manager idea."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
