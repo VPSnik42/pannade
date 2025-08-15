@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Lee",
+    "age": 99,
+    "address": {
+        "street": "Alexandra Drives",
+        "city": "New Elizabethville",
+        "state": "South Carolina",
+        "zip": "34311"
+    },
+    "contact": {
+        "phone": "001-693-445-8149x573",
+        "servicePhone": "800136579"
+    },
+    "birthday": "1926-10-05",
+    "ip": "144.181.38.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Network our through still quality. Fight Mr fill.\nFederal shake almost clearly.\nStay thus hair offer state be. Value best tough firm. Recognize consumer organization image part from.",
+        "bio": "Responsibility ask financial condition. Enter whatever skin area. Key thus travel throw begin between.\nStaff have sell enter."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
