@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Paul",
+    "age": 36,
+    "address": {
+        "street": "Guzman Village",
+        "city": "Matthewton",
+        "state": "Maine",
+        "zip": "79395"
+    },
+    "contact": {
+        "phone": "(942)290-3441x188",
+        "servicePhone": "800666261"
+    },
+    "birthday": "1989-24-05",
+    "ip": "135.120.69.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Nor I local good above record. Same home particular. Responsibility much nothing owner option deep seek.\nHeavy clearly five visit. Goal act economic game final under everything.",
+        "bio": "Firm put individual animal offer pull set move. Reflect investment entire hard provide rich subject play.\nIn least thing east. Water seem up drop less."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
