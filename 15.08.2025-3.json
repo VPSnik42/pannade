@@ -1,0 +1,25 @@
+{
+    "name": "Michael Harrington",
+    "age": 107,
+    "address": {
+        "street": "James Views",
+        "city": "Jasonstad",
+        "state": "Virginia",
+        "zip": "32291"
+    },
+    "contact": {
+        "phone": "001-484-283-5471x089",
+        "servicePhone": "800220441"
+    },
+    "birthday": "1918-11-03",
+    "ip": "115.110.228.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Itself task still simple learn energy prevent. Cold early hot professional financial program dream sort.\nKind now itself fly matter statement charge. Mention increase benefit computer program.",
+        "bio": "Alone method son marriage their. Though line goal along argue claim.\nHear character war far human. Fish nice federal learn general international."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
