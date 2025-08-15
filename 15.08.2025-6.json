@@ -1,0 +1,25 @@
+{
+    "name": "Terry Wright DDS",
+    "age": 15,
+    "address": {
+        "street": "Kim Lodge",
+        "city": "New Jessicaland",
+        "state": "Nebraska",
+        "zip": "89555"
+    },
+    "contact": {
+        "phone": "001-892-288-4432x017",
+        "servicePhone": "800505043"
+    },
+    "birthday": "2010-28-08",
+    "ip": "10.51.45.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting paper sit find time important. Friend style whatever such rise foreign record.",
+        "bio": "Ask hundred although seem half. Book serve especially once power agree deal.\nBack leader stay result tend poor. Lay finally just. Trip involve wind often."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
