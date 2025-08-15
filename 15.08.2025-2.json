@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Hubbard",
+    "age": 83,
+    "address": {
+        "street": "Katie Plain",
+        "city": "New Danielleton",
+        "state": "Rhode Island",
+        "zip": "05669"
+    },
+    "contact": {
+        "phone": "875-566-9878x83319",
+        "servicePhone": "800530968"
+    },
+    "birthday": "1942-10-07",
+    "ip": "34.147.191.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Do those magazine development new. See how eight religious. Fear born perhaps shoulder actually.",
+        "bio": "Throughout on break boy including blood. Course language himself want. Course central board condition middle. Contain town must store southern."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
