@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Parker",
+    "age": 9,
+    "address": {
+        "street": "Jackson Harbors",
+        "city": "East Elijah",
+        "state": "Hawaii",
+        "zip": "32722"
+    },
+    "contact": {
+        "phone": "+1-996-719-2986x607",
+        "servicePhone": "800567759"
+    },
+    "birthday": "2016-18-05",
+    "ip": "81.49.231.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Degree open begin man send. Since road cell day station herself.\nPurpose Democrat occur when save according. Throughout system improve factor.",
+        "bio": "Yet market film allow figure tax. Determine stand size least world at often window."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
