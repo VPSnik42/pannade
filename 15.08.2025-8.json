@@ -1,0 +1,25 @@
+{
+    "name": "Brandi Robinson",
+    "age": 14,
+    "address": {
+        "street": "Moore Lock",
+        "city": "Courtneyland",
+        "state": "Kansas",
+        "zip": "60422"
+    },
+    "contact": {
+        "phone": "2309493424",
+        "servicePhone": "800101507"
+    },
+    "birthday": "2011-17-02",
+    "ip": "104.161.171.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Every other son see hold. Forget budget why likely process per keep. Strong paper keep everything.\nContain international third majority close very. Use road act news test baby.",
+        "bio": "Along job as president system. Success a painting pull see hotel. Discover never check simple service."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
