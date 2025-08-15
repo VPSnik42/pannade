@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Hall",
+    "age": 108,
+    "address": {
+        "street": "George Ramp",
+        "city": "West Tanyafort",
+        "state": "Oregon",
+        "zip": "58407"
+    },
+    "contact": {
+        "phone": "(903)907-5592x837",
+        "servicePhone": "800850876"
+    },
+    "birthday": "1917-22-12",
+    "ip": "21.88.142.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy total pass investment much race act everything. Study factor model nearly simple minute house tell. Can manage question fire white ask see. Lead really common upon follow grow.",
+        "bio": "Only plant growth product. Miss its billion sing.\nOld serve item necessary during safe. Administration politics cold unit heavy. Central hospital perform avoid back student interesting every."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
