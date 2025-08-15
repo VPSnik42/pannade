@@ -1,0 +1,25 @@
+{
+    "name": "Michael Yates",
+    "age": 9,
+    "address": {
+        "street": "Jennifer Fords",
+        "city": "West Ashley",
+        "state": "Texas",
+        "zip": "93148"
+    },
+    "contact": {
+        "phone": "604.752.6041x35819",
+        "servicePhone": "800079557"
+    },
+    "birthday": "2016-22-10",
+    "ip": "164.96.89.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Role seek best everyone represent able matter. New behavior month indicate education. Control may plant safe industry American nearly.\nAge deal including exist practice.",
+        "bio": "Reflect media your hotel. Religious feeling ball appear. Recognize management woman might model build."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
