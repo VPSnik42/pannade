@@ -1,0 +1,25 @@
+{
+    "name": "Erica Reed",
+    "age": 48,
+    "address": {
+        "street": "Rebecca Loop",
+        "city": "North Samantha",
+        "state": "Tennessee",
+        "zip": "41061"
+    },
+    "contact": {
+        "phone": "880-657-0172x54772",
+        "servicePhone": "800153761"
+    },
+    "birthday": "1977-12-08",
+    "ip": "54.46.133.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Character face determine network Democrat over write. Dinner term share.\nEconomic choose lawyer save market. Although little arrive still central. Tv form bring evidence power.",
+        "bio": "Onto behind perform material. Either kind those alone station pass minute car. Avoid large film he both room improve."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
