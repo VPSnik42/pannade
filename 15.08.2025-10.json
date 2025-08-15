@@ -1,0 +1,25 @@
+{
+    "name": "Frederick Hayes",
+    "age": 70,
+    "address": {
+        "street": "Barrett Via",
+        "city": "Sandersshire",
+        "state": "Tennessee",
+        "zip": "18994"
+    },
+    "contact": {
+        "phone": "+1-259-453-8273",
+        "servicePhone": "800644406"
+    },
+    "birthday": "1955-15-11",
+    "ip": "194.228.16.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Back deep kind the message increase method. Industry close world discussion decision discussion beautiful.\nArticle who letter. Upon start policy we stand.",
+        "bio": "Along visit task audience player song. Instead staff something. Nor population despite walk.\nSing partner hair likely bar. Player remain these score."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
