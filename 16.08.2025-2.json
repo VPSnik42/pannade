@@ -1,0 +1,25 @@
+{
+    "name": "Adrian Montgomery",
+    "age": 7,
+    "address": {
+        "street": "Richardson Meadow",
+        "city": "Melissabury",
+        "state": "Kansas",
+        "zip": "79725"
+    },
+    "contact": {
+        "phone": "357-307-7201x529",
+        "servicePhone": "800183545"
+    },
+    "birthday": "2018-13-03",
+    "ip": "201.7.23.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Section cost nor daughter. Government stand guy painting. Class lay manager table lead among thousand.\nSound week their plant key for travel. Really company doctor everyone one under.",
+        "bio": "Drug letter place race skin. Dog too follow senior dream. If also Mrs send rate.\nStaff Mrs save. Trip throw professional debate. Response follow art believe thus."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
