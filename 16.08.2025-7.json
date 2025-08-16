@@ -1,0 +1,25 @@
+{
+    "name": "Anne Baker",
+    "age": 76,
+    "address": {
+        "street": "Emma Run",
+        "city": "East Brittany",
+        "state": "Georgia",
+        "zip": "17953"
+    },
+    "contact": {
+        "phone": "6267206616",
+        "servicePhone": "800594804"
+    },
+    "birthday": "1949-08-06",
+    "ip": "79.162.131.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Author central very machine bill single leader. Factor role middle news agree treat. Whose general poor hope myself.",
+        "bio": "With financial idea single want part light. Able school hour tell around air. Describe former later only. Strategy we sense single admit stay.\nThemselves actually difficult until listen tend left."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
