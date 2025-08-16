@@ -1,0 +1,25 @@
+{
+    "name": "Karen Adams",
+    "age": 54,
+    "address": {
+        "street": "Hernandez Lake",
+        "city": "Jonathonport",
+        "state": "Nevada",
+        "zip": "35129"
+    },
+    "contact": {
+        "phone": "(560)294-9729x356",
+        "servicePhone": "800159481"
+    },
+    "birthday": "1971-15-12",
+    "ip": "39.207.128.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Either thank beat right. Smile assume hundred total else art few wait.\nStage air site. Build national particular painting note. Answer physical mean work along.",
+        "bio": "Very region walk rest throughout here people inside. Court above official bill book property. Indicate by common old number fine.\nImpact other environment risk oil run former opportunity."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
