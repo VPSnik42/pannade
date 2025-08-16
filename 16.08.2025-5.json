@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Coleman",
+    "age": 13,
+    "address": {
+        "street": "Mcconnell Throughway",
+        "city": "Aliciafurt",
+        "state": "Alabama",
+        "zip": "80820"
+    },
+    "contact": {
+        "phone": "001-463-872-2724",
+        "servicePhone": "800462109"
+    },
+    "birthday": "2012-15-07",
+    "ip": "73.57.237.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Several first note scene Republican. Upon she reduce deal. Evening friend old.\nResponsibility their chance must fund bed. Author position draw down.",
+        "bio": "Ten his dream pay environment perhaps agree trade. Start parent know nice such.\nAllow us explain must administration late. Cold letter him strategy some deep. Approach a mean all study."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
