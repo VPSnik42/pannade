@@ -1,0 +1,25 @@
+{
+    "name": "Troy Young",
+    "age": 112,
+    "address": {
+        "street": "Steven Skyway",
+        "city": "Franciscoville",
+        "state": "Colorado",
+        "zip": "06957"
+    },
+    "contact": {
+        "phone": "778.720.8184x208",
+        "servicePhone": "800789596"
+    },
+    "birthday": "1913-06-02",
+    "ip": "106.13.58.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Show central resource year reason day commercial. Population southern dog girl cell build sister writer.",
+        "bio": "Page west type already baby former human meet. Own develop east time travel drop. Reality type build toward despite vote state."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
