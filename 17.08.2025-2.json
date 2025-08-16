@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Boyer",
+    "age": 94,
+    "address": {
+        "street": "Jesse Vista",
+        "city": "North Ashleyburgh",
+        "state": "Kentucky",
+        "zip": "65983"
+    },
+    "contact": {
+        "phone": "509-476-5890x48370",
+        "servicePhone": "800752293"
+    },
+    "birthday": "1931-04-03",
+    "ip": "169.18.129.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Industry color system heart letter. Standard officer memory anyone financial. Newspaper majority account.",
+        "bio": "Though better score position. Term fight wall watch. Mouth either appear offer city.\nIt movie talk audience various score job. Environment himself positive join. Left sit where million relate."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
