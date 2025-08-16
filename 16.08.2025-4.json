@@ -1,0 +1,25 @@
+{
+    "name": "Gabriel Bowen",
+    "age": 35,
+    "address": {
+        "street": "Ruth Curve",
+        "city": "North Claudia",
+        "state": "Nevada",
+        "zip": "47342"
+    },
+    "contact": {
+        "phone": "(813)217-4956",
+        "servicePhone": "800699518"
+    },
+    "birthday": "1990-14-03",
+    "ip": "74.177.5.154",
+    "foo": "bar",
+    "profile": {
+        "about": "About ok perhaps imagine growth clearly. Adult would support alone board star. Top respond election own rise fast general.",
+        "bio": "Believe change they power me else. North wrong air.\nBlack administration day major local group her. Parent read effort base. Voice allow indeed soon believe."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
