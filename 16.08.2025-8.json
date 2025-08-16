@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Kaiser",
+    "age": 16,
+    "address": {
+        "street": "Michael Locks",
+        "city": "North Robert",
+        "state": "North Carolina",
+        "zip": "82278"
+    },
+    "contact": {
+        "phone": "(223)565-5274x5375",
+        "servicePhone": "800052008"
+    },
+    "birthday": "2009-14-06",
+    "ip": "7.251.36.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Policy agreement law certainly. Seek hit report argue. Camera there begin season together story whom.",
+        "bio": "Space cost dinner including peace.\nKnow what computer help whom hard opportunity. There feeling yeah pass continue.\nProve whole much role. Beat save hour money company important may."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
