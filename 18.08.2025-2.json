@@ -1,0 +1,25 @@
+{
+    "name": "Michael Wu",
+    "age": 94,
+    "address": {
+        "street": "Rowe Street",
+        "city": "South Richard",
+        "state": "Pennsylvania",
+        "zip": "49643"
+    },
+    "contact": {
+        "phone": "530.857.5239",
+        "servicePhone": "800787670"
+    },
+    "birthday": "1931-20-03",
+    "ip": "132.171.18.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Find miss after visit respond set building. Senior drug issue structure.\nPrice ground pressure write student especially. Thus subject itself. Moment bed adult nor.",
+        "bio": "Agency heart health book name condition. Forget family son president lot same thank.\nImagine floor hair. Loss rule example evening network policy respond."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
