@@ -1,0 +1,25 @@
+{
+    "name": "Mark Jones",
+    "age": 35,
+    "address": {
+        "street": "Rios Isle",
+        "city": "North Stephenbury",
+        "state": "Idaho",
+        "zip": "03281"
+    },
+    "contact": {
+        "phone": "001-814-669-0652",
+        "servicePhone": "800948187"
+    },
+    "birthday": "1990-24-11",
+    "ip": "126.177.116.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget throughout believe remember first police. Position dog local claim memory.\nExecutive company best.\nReach place around fund. Method visit various increase. Former cup today avoid really term.",
+        "bio": "Certainly appear risk radio through character message. Watch position artist doctor."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
