@@ -1,0 +1,25 @@
+{
+    "name": "John Marsh",
+    "age": 111,
+    "address": {
+        "street": "Smith Course",
+        "city": "West Jessechester",
+        "state": "Iowa",
+        "zip": "23804"
+    },
+    "contact": {
+        "phone": "313.263.7514x693",
+        "servicePhone": "800713551"
+    },
+    "birthday": "1914-05-02",
+    "ip": "36.195.186.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Every learn manage entire Mr. Author through let society thousand state lose. Entire interview together account very record in.",
+        "bio": "Eye west evidence car. End level movement full take specific social.\nSeason less hit son remember truth. Mr while rise few cup."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
