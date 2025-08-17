@@ -1,0 +1,25 @@
+{
+    "name": "Ruth Cunningham",
+    "age": 45,
+    "address": {
+        "street": "Barr Trail",
+        "city": "East Crystal",
+        "state": "Delaware",
+        "zip": "80974"
+    },
+    "contact": {
+        "phone": "979.310.8311x2242",
+        "servicePhone": "800638621"
+    },
+    "birthday": "1980-26-02",
+    "ip": "64.149.40.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Industry fund free matter party executive well painting. Much evening though accept laugh evidence. Conference simple including. Current rise brother fish.",
+        "bio": "Lay physical beautiful media.\nAgainst manage even. Sea government after marriage knowledge economic. Land southern through participant."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
