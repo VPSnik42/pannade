@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Hughes",
+    "age": 79,
+    "address": {
+        "street": "Jeanette Springs",
+        "city": "Brentside",
+        "state": "Florida",
+        "zip": "24711"
+    },
+    "contact": {
+        "phone": "726-823-2849x904",
+        "servicePhone": "800982143"
+    },
+    "birthday": "1946-21-12",
+    "ip": "21.211.165.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Key country hold firm. Approach sit toward.\nWindow compare true wish. Director sell huge role speak old.",
+        "bio": "Eye performance bag close prevent that education. Decade speak without under stuff.\nSometimes every win imagine. Move mean travel speak how together air best."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
