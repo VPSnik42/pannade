@@ -1,0 +1,25 @@
+{
+    "name": "Miss Danielle Weaver",
+    "age": 51,
+    "address": {
+        "street": "Luis Bridge",
+        "city": "New Mariahmouth",
+        "state": "Ohio",
+        "zip": "77060"
+    },
+    "contact": {
+        "phone": "001-292-591-8514x173",
+        "servicePhone": "800322379"
+    },
+    "birthday": "1974-14-10",
+    "ip": "39.9.249.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Trip growth know whole after. Mention police glass early think significant why. About note role cover him stuff size alone. Most coach whole network blue story.\nEspecially of evidence cup ever age.",
+        "bio": "Maintain sign bad several skill. Team activity employee. Operation because nothing room detail image.\nTogether return young cell back state morning father. Entire lay enough rest improve."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
