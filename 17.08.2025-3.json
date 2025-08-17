@@ -1,0 +1,25 @@
+{
+    "name": "Jake Mitchell",
+    "age": 95,
+    "address": {
+        "street": "Adrian Way",
+        "city": "Davisstad",
+        "state": "Illinois",
+        "zip": "21287"
+    },
+    "contact": {
+        "phone": "200-619-8644",
+        "servicePhone": "800396430"
+    },
+    "birthday": "1930-23-03",
+    "ip": "24.31.39.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Child serve rest black organization. Exactly financial former authority father.\nFind stop pull attorney top nice east. Respond green whose nice conference else.",
+        "bio": "Heart allow fact. Land out one. Fight occur successful audience picture not. Build piece work coach interest.\nHit born north center person reach force total. Worry end federal although step."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
