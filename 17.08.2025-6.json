@@ -1,0 +1,25 @@
+{
+    "name": "Robert Jenkins",
+    "age": 89,
+    "address": {
+        "street": "Erin Mews",
+        "city": "West Stephenport",
+        "state": "Texas",
+        "zip": "00686"
+    },
+    "contact": {
+        "phone": "+1-821-551-3324x7870",
+        "servicePhone": "800611280"
+    },
+    "birthday": "1936-06-01",
+    "ip": "21.145.11.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Program close bed personal adult. Practice citizen two society.\nPower mind fire whole. Name he without treatment administration will. Outside data avoid large yet.",
+        "bio": "I finally response. Month institution upon direction.\nBenefit week character. Several cost option. Miss rather face score benefit physical piece election."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
