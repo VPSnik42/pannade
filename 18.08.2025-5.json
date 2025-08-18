@@ -1,0 +1,25 @@
+{
+    "name": "Scott Johnson",
+    "age": 41,
+    "address": {
+        "street": "Pierce Mills",
+        "city": "East Daniel",
+        "state": "Connecticut",
+        "zip": "13398"
+    },
+    "contact": {
+        "phone": "684.693.1650",
+        "servicePhone": "800628953"
+    },
+    "birthday": "1984-20-09",
+    "ip": "196.94.177.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Image how picture agreement him. Lay letter long smile lay create.\nMinute people thought debate. Speak bag trip reach season good newspaper.\nGood feeling whom.",
+        "bio": "Story to threat chance environmental play turn. Would tough street lose. Marriage behavior practice right claim career science."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
