@@ -1,0 +1,25 @@
+{
+    "name": "Eric Cortez",
+    "age": 78,
+    "address": {
+        "street": "Jackson Station",
+        "city": "North Whitneyview",
+        "state": "Washington",
+        "zip": "95635"
+    },
+    "contact": {
+        "phone": "(424)256-1526",
+        "servicePhone": "800415213"
+    },
+    "birthday": "1947-02-11",
+    "ip": "107.199.130.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Final without begin enter. Which approach lawyer white decision performance. Choice property relationship audience tend system world.",
+        "bio": "School moment right conference amount country production. Place reality stuff fire remain. Although she space her. According family main lawyer cup finally."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
