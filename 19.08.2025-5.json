@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Perry",
+    "age": 90,
+    "address": {
+        "street": "Yvette Points",
+        "city": "Brandonland",
+        "state": "Arizona",
+        "zip": "95458"
+    },
+    "contact": {
+        "phone": "7255144991",
+        "servicePhone": "800447804"
+    },
+    "birthday": "1935-19-09",
+    "ip": "113.95.98.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Newspaper audience sea three. Boy choice laugh wait. Century century dream either before.\nDark friend their. Serve because actually too impact. Beyond writer your actually mission page camera.",
+        "bio": "Type then quite word again situation card customer. At tell idea. Group what Congress receive."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
