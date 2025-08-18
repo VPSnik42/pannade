@@ -1,0 +1,25 @@
+{
+    "name": "Lindsey Lee",
+    "age": 106,
+    "address": {
+        "street": "Frey Courts",
+        "city": "North Steven",
+        "state": "Mississippi",
+        "zip": "67238"
+    },
+    "contact": {
+        "phone": "6104758899",
+        "servicePhone": "800969680"
+    },
+    "birthday": "1919-14-12",
+    "ip": "44.96.217.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Support forget career yeah try.\nEveryone option doctor image. Tax page tree charge left. Doctor property environmental ever can thought positive.",
+        "bio": "Party speak edge ago. Line cost manager mission apply research push. Modern order leader single wait nature.\nRealize low role politics."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
