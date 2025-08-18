@@ -1,0 +1,25 @@
+{
+    "name": "Steven Dominguez",
+    "age": 27,
+    "address": {
+        "street": "Ashley Coves",
+        "city": "Whitneyhaven",
+        "state": "Utah",
+        "zip": "71869"
+    },
+    "contact": {
+        "phone": "(530)296-5158",
+        "servicePhone": "800251120"
+    },
+    "birthday": "1998-16-11",
+    "ip": "94.2.148.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone try moment pattern really enjoy moment. Live because treat kitchen community heavy speech choose. Scientist hit community standard sure easy book.",
+        "bio": "Stage middle new know fund write. Measure occur bag interesting.\nListen blue raise clearly source important move executive. Everybody magazine stay."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
