@@ -1,0 +1,25 @@
+{
+    "name": "Michael Carson",
+    "age": 14,
+    "address": {
+        "street": "Ryan Parks",
+        "city": "Greenport",
+        "state": "South Carolina",
+        "zip": "16256"
+    },
+    "contact": {
+        "phone": "615.579.6119x32741",
+        "servicePhone": "800118218"
+    },
+    "birthday": "2011-22-12",
+    "ip": "189.113.115.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Follow sit main way political to whether. One word more. Across team effort work.",
+        "bio": "Throughout minute cup talk less never suggest see. End like cost method movie rich firm. Professor change task next great.\nHour those far reduce whether price. Animal kitchen time late possible hot."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
