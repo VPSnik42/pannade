@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Peterson",
+    "age": 64,
+    "address": {
+        "street": "Carl Extension",
+        "city": "Port Connie",
+        "state": "Washington",
+        "zip": "83039"
+    },
+    "contact": {
+        "phone": "+1-800-288-5728",
+        "servicePhone": "800273052"
+    },
+    "birthday": "1961-27-03",
+    "ip": "40.101.151.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Purpose computer nearly manage analysis individual position. Subject pattern hair. Business fire natural trip see data second.",
+        "bio": "Scene scene goal security also. Reach science general should.\nProduction city just age. Black inside sit identify debate trade kitchen."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
