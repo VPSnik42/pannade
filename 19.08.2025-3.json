@@ -1,0 +1,25 @@
+{
+    "name": "Harold King",
+    "age": 24,
+    "address": {
+        "street": "Jennifer Dale",
+        "city": "Fitzgeraldborough",
+        "state": "South Dakota",
+        "zip": "40496"
+    },
+    "contact": {
+        "phone": "497.262.0874",
+        "servicePhone": "800503023"
+    },
+    "birthday": "2001-18-06",
+    "ip": "57.225.231.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Fly until agency somebody. While over charge agree coach beyond. Determine growth discuss walk.\nAnd beat former simply free. Carry evidence growth question ask human.",
+        "bio": "Voice draw save value interest. Only wind hard offer mission PM PM surface. Much believe market national road common.\nPerhaps teacher opportunity cover tonight."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
