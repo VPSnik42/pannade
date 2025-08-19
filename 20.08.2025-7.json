@@ -1,0 +1,25 @@
+{
+    "name": "Norman Dominguez",
+    "age": 63,
+    "address": {
+        "street": "Olson Center",
+        "city": "Lake Jennifer",
+        "state": "Wyoming",
+        "zip": "27245"
+    },
+    "contact": {
+        "phone": "833-291-5207x221",
+        "servicePhone": "800084875"
+    },
+    "birthday": "1962-16-02",
+    "ip": "105.243.244.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Court TV rather network hair discover. Kitchen structure service if.\nCity world current charge fire son boy. Really single give today they so. He kitchen project ever.",
+        "bio": "Take staff operation avoid sing star. Scene far to floor not attention. Before others system remember.\nPay imagine teach who present face push. Leader positive discover south."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
