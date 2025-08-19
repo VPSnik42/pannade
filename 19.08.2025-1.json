@@ -1,0 +1,25 @@
+{
+    "name": "Mia Williams",
+    "age": 50,
+    "address": {
+        "street": "Keith Green",
+        "city": "Sherryland",
+        "state": "South Dakota",
+        "zip": "29089"
+    },
+    "contact": {
+        "phone": "400.287.6405",
+        "servicePhone": "800776921"
+    },
+    "birthday": "1975-01-06",
+    "ip": "43.135.214.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Wait finish place and day reach age. Bit artist to list accept Mr trip.\nMoney bring generation level wonder now fall. Step full focus staff quality sea.\nBlood everybody play value. Those mother bag.",
+        "bio": "Common bill wrong and yeah. Staff seek reason have require live.\nLive tough data look stuff. Gas writer thought radio. Assume option new against none."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
