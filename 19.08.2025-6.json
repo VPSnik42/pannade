@@ -1,0 +1,25 @@
+{
+    "name": "Steven Duran DVM",
+    "age": 42,
+    "address": {
+        "street": "Lewis Station",
+        "city": "West Chelseamouth",
+        "state": "Alaska",
+        "zip": "67494"
+    },
+    "contact": {
+        "phone": "+1-478-645-8758x90082",
+        "servicePhone": "800291652"
+    },
+    "birthday": "1983-11-04",
+    "ip": "221.58.117.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Scene agreement purpose challenge leg. Forget ready next five security consider set property. Season surface really raise.\nTotal military however growth his event.",
+        "bio": "Write until among later television sit total. Other reason should employee live law especially.\nGreat movement entire from. Act then point understand his material officer."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
