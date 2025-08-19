@@ -1,0 +1,25 @@
+{
+    "name": "Ariana Crawford",
+    "age": 95,
+    "address": {
+        "street": "Nunez Views",
+        "city": "Davidstad",
+        "state": "New Hampshire",
+        "zip": "58777"
+    },
+    "contact": {
+        "phone": "893-584-3269",
+        "servicePhone": "800432058"
+    },
+    "birthday": "1930-06-07",
+    "ip": "30.168.141.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture significant far. Art policy pretty country example question. Let note throw kid.\nSeason artist alone pick. Similar happy society investment control world usually.",
+        "bio": "Option bad partner seek art class. Likely blue network different control. Age president several everyone travel everything."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
