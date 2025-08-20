@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Dunlap",
+    "age": 113,
+    "address": {
+        "street": "Kevin Loaf",
+        "city": "Lamton",
+        "state": "Oregon",
+        "zip": "95393"
+    },
+    "contact": {
+        "phone": "(804)841-3887x860",
+        "servicePhone": "800358543"
+    },
+    "birthday": "1912-27-02",
+    "ip": "210.148.14.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Book animal major. Back number good record difference environmental miss.\nData under international natural instead.\nEnjoy resource exactly positive machine around. Look court avoid.",
+        "bio": "Month measure mean money nice field far. Where why event involve owner. Health he policy game building.\nOr than sure recent response agent. Success task seven little look."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
