@@ -1,0 +1,25 @@
+{
+    "name": "Johnny Nelson",
+    "age": 88,
+    "address": {
+        "street": "Sheila Forge",
+        "city": "Cunninghamville",
+        "state": "Nevada",
+        "zip": "78829"
+    },
+    "contact": {
+        "phone": "627.831.0053",
+        "servicePhone": "800001959"
+    },
+    "birthday": "1937-14-08",
+    "ip": "160.67.2.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Play peace audience western example reason book plan. Pretty could often agency. Finish understand law prove authority paper.\nAbout visit vote finally. Medical become since eat pull land.",
+        "bio": "International finally determine others join scene language. Us theory president economic task pretty they. Back out along site successful ago cause along. Through join and."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
