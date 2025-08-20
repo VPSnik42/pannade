@@ -1,0 +1,25 @@
+{
+    "name": "Brett Vasquez",
+    "age": 26,
+    "address": {
+        "street": "Hebert Squares",
+        "city": "East Brianna",
+        "state": "Indiana",
+        "zip": "59297"
+    },
+    "contact": {
+        "phone": "645.543.6865x3051",
+        "servicePhone": "800630471"
+    },
+    "birthday": "1999-07-09",
+    "ip": "103.82.93.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Say land skill expert area. Purpose establish five quickly thank quickly. Size approach group woman pressure walk up.",
+        "bio": "Want really individual relationship response. Effect center raise weight drop hope. Later fast network skin wait. Amount his also quality real my."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
