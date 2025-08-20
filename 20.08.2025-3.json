@@ -1,0 +1,25 @@
+{
+    "name": "Mathew Parker Jr.",
+    "age": 74,
+    "address": {
+        "street": "Sandra Glen",
+        "city": "Port Patriciahaven",
+        "state": "North Dakota",
+        "zip": "86520"
+    },
+    "contact": {
+        "phone": "3986276022",
+        "servicePhone": "800482606"
+    },
+    "birthday": "1951-07-12",
+    "ip": "30.211.151.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Make change rise step. Drop trial light structure also person.",
+        "bio": "Affect official anyone good sister talk theory.\nIndustry clearly doctor ball. Bad painting national remember ability difference."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
