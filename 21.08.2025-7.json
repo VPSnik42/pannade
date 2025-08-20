@@ -1,0 +1,25 @@
+{
+    "name": "Chad Wilson",
+    "age": 76,
+    "address": {
+        "street": "Chavez Pike",
+        "city": "Alvarezton",
+        "state": "Nevada",
+        "zip": "58557"
+    },
+    "contact": {
+        "phone": "(340)621-9796x781",
+        "servicePhone": "800329974"
+    },
+    "birthday": "1949-18-12",
+    "ip": "37.78.42.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Point quite act everything manage nothing. Work himself feel challenge few.\nLeast purpose like example job all. Expect system able our marriage.",
+        "bio": "Door second station worker listen teacher. Weight there my home. Interview simple difference continue turn again."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
