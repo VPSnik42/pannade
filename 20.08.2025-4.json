@@ -1,0 +1,25 @@
+{
+    "name": "Kaitlyn Pena",
+    "age": 104,
+    "address": {
+        "street": "Sean Springs",
+        "city": "North Michaelside",
+        "state": "New Jersey",
+        "zip": "80023"
+    },
+    "contact": {
+        "phone": "9596263925",
+        "servicePhone": "800781018"
+    },
+    "birthday": "1921-11-12",
+    "ip": "152.112.47.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Throw community American. Food these environmental. Nothing long cut room after deal. When who toward their.",
+        "bio": "Factor Congress upon mission forget white big. Out develop our table bit. Simple indeed successful late above.\nI environment base hotel. Institution three federal pretty mean store skin."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
