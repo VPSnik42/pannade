@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Flores",
+    "age": 96,
+    "address": {
+        "street": "Philip Summit",
+        "city": "North Joshua",
+        "state": "Kansas",
+        "zip": "34935"
+    },
+    "contact": {
+        "phone": "233.402.0844x5488",
+        "servicePhone": "800110956"
+    },
+    "birthday": "1929-22-04",
+    "ip": "168.87.255.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Program yes kid talk. Page thus policy second be particular. Hope gun team.\nFinal turn because page. Bill view season country scientist which. Happy finish vote own not near.",
+        "bio": "Measure woman history couple Republican kind. Minute television heart. Wall support president sometimes. Billion age source drug structure look government."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
