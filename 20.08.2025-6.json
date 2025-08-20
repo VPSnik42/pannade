@@ -1,0 +1,25 @@
+{
+    "name": "Deanna Rice",
+    "age": 28,
+    "address": {
+        "street": "Wells Plains",
+        "city": "Manuelland",
+        "state": "South Dakota",
+        "zip": "43073"
+    },
+    "contact": {
+        "phone": "337.723.4792x598",
+        "servicePhone": "800239762"
+    },
+    "birthday": "1997-15-04",
+    "ip": "123.235.223.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Fear floor significant admit south fill fine let. American scene air campaign deep game. Fire keep rather great poor give maintain story.",
+        "bio": "Huge evening five grow generation. Weight popular yourself reason sometimes politics cut know. Lawyer must stop public lawyer.\nAdult reduce let. Concern bring skill hair group wind join south."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
