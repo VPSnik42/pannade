@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Villarreal",
+    "age": 54,
+    "address": {
+        "street": "Wise Streets",
+        "city": "Woodchester",
+        "state": "Delaware",
+        "zip": "36627"
+    },
+    "contact": {
+        "phone": "(691)739-8264",
+        "servicePhone": "800110545"
+    },
+    "birthday": "1971-26-01",
+    "ip": "47.4.249.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Front in they key else might risk weight.\nHundred leave prove chair man guess.\nLaw police edge themselves. Computer appear surface feel agreement.",
+        "bio": "Game gun according million become third. Picture together eat interview best rich. Play hold public."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
