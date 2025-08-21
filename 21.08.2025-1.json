@@ -1,0 +1,25 @@
+{
+    "name": "Alice Robertson",
+    "age": 90,
+    "address": {
+        "street": "Knapp Route",
+        "city": "Hallhaven",
+        "state": "Alabama",
+        "zip": "19222"
+    },
+    "contact": {
+        "phone": "445.359.0181",
+        "servicePhone": "800046500"
+    },
+    "birthday": "1935-24-11",
+    "ip": "46.84.2.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Themselves reach all box treatment seem. Heart decision green help raise long.",
+        "bio": "Explain office expect PM camera. Instead soldier read food. Condition place available box.\nRoom ahead no lead."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
