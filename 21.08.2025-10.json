@@ -1,0 +1,25 @@
+{
+    "name": "Cameron Stewart",
+    "age": 35,
+    "address": {
+        "street": "Robert Centers",
+        "city": "Port Karenburgh",
+        "state": "Kansas",
+        "zip": "44107"
+    },
+    "contact": {
+        "phone": "946-976-9684x539",
+        "servicePhone": "800354720"
+    },
+    "birthday": "1990-12-04",
+    "ip": "148.46.89.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Audience budget building least prevent stuff. Medical guess degree north themselves represent.\nGet would yard before. Window begin Mrs like. Book sense maybe do should large.",
+        "bio": "Attention the bring officer poor spend sound while. Focus certain firm treat rate appear pay message.\nNever owner coach medical staff citizen. Him employee manage catch."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
