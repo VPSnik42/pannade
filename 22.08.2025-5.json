@@ -1,0 +1,25 @@
+{
+    "name": "Mark Wilson",
+    "age": 18,
+    "address": {
+        "street": "Smith Lakes",
+        "city": "Richmondton",
+        "state": "Maryland",
+        "zip": "58686"
+    },
+    "contact": {
+        "phone": "001-694-577-7023",
+        "servicePhone": "800488150"
+    },
+    "birthday": "2007-17-11",
+    "ip": "51.188.215.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Learn father work. Forward realize road image hope pick paper.\nLanguage moment economy thank charge fly. Painting cell record ago move white really.",
+        "bio": "Remain nothing walk entire small imagine improve. Should expect your life too sit.\nLawyer material agency take these up."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
