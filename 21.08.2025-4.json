@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Smith",
+    "age": 97,
+    "address": {
+        "street": "Griffin Mountains",
+        "city": "Amandaland",
+        "state": "Hawaii",
+        "zip": "66651"
+    },
+    "contact": {
+        "phone": "591-729-7782",
+        "servicePhone": "800137852"
+    },
+    "birthday": "1928-24-09",
+    "ip": "214.232.27.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Beyond address second long pull dog. Pass risk step discuss paper without if.\nIdea hot eight collection new read risk. Down base all trip. Institution rich drop time.",
+        "bio": "Matter trial next one there. Physical detail group weight what.\nMessage I girl others scientist worry environment current. Him very cup point.\nTend similar prepare middle approach concern cold."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
