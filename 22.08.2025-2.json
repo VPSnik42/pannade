@@ -1,0 +1,25 @@
+{
+    "name": "Robert Brown",
+    "age": 58,
+    "address": {
+        "street": "Adam Lakes",
+        "city": "Mckeeton",
+        "state": "Kentucky",
+        "zip": "81797"
+    },
+    "contact": {
+        "phone": "7173714694",
+        "servicePhone": "800967801"
+    },
+    "birthday": "1967-30-04",
+    "ip": "20.169.161.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Dream own me five customer seem. Beyond offer dark network or. Decade try economy.\nWhich necessary citizen large. Animal a price even among program which. Describe long order deal speak rich.",
+        "bio": "Worker my law per. Less will money necessary someone food. Activity father parent.\nSummer reach business inside born hold door simply. Already remain work film media yet meet."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
