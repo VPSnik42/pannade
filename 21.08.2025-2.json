@@ -1,0 +1,25 @@
+{
+    "name": "Gabriella Johnston",
+    "age": 111,
+    "address": {
+        "street": "Timothy Views",
+        "city": "New Brookeberg",
+        "state": "New Hampshire",
+        "zip": "22196"
+    },
+    "contact": {
+        "phone": "(807)458-4207x20465",
+        "servicePhone": "800357166"
+    },
+    "birthday": "1914-27-01",
+    "ip": "171.201.250.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Commercial third talk feel discuss major politics thus. Old receive other. Say whatever red save away cold ball. Single as wide white style.",
+        "bio": "Laugh almost reveal around probably end morning. Tree crime large. Machine soon management plant likely major discover. Ready husband care region where much company American."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
