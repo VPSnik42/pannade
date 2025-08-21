@@ -1,0 +1,25 @@
+{
+    "name": "Stephen West",
+    "age": 107,
+    "address": {
+        "street": "Pope Square",
+        "city": "Katrinaburgh",
+        "state": "North Dakota",
+        "zip": "01421"
+    },
+    "contact": {
+        "phone": "(967)847-4204",
+        "servicePhone": "800298938"
+    },
+    "birthday": "1918-02-06",
+    "ip": "189.222.20.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Pretty large by. Several thank sure my. Sure too increase page TV focus election cut.\nDrug force better important. Travel Republican take receive discuss yourself soon.",
+        "bio": "Almost until college win can. Pressure hour effort blood almost effort according.\nLikely outside forget old. Recognize under attention last learn although season."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
