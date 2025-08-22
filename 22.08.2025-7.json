@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Duran",
+    "age": 76,
+    "address": {
+        "street": "Tran Rapid",
+        "city": "North Eric",
+        "state": "Florida",
+        "zip": "89783"
+    },
+    "contact": {
+        "phone": "001-925-569-0757",
+        "servicePhone": "800324116"
+    },
+    "birthday": "1949-08-05",
+    "ip": "137.181.153.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Magazine even right recognize knowledge surface do. Wrong month recent condition fill decision.\nChild shake financial citizen since professional. Everybody over oil available put.",
+        "bio": "Keep set each yard. Majority herself will than gas kind.\nLand company inside. Police suddenly list.\nChallenge idea as physical theory. Really language official marriage. Sea truth focus born."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
