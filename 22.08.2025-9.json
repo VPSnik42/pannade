@@ -1,0 +1,25 @@
+{
+    "name": "Michael Butler",
+    "age": 8,
+    "address": {
+        "street": "Holland Walks",
+        "city": "North Jillian",
+        "state": "Nevada",
+        "zip": "80495"
+    },
+    "contact": {
+        "phone": "(538)945-6768x52220",
+        "servicePhone": "800104250"
+    },
+    "birthday": "2017-06-11",
+    "ip": "131.115.63.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Reality late write second soon. Effort hour debate prevent avoid land beat. Tv space particularly set center.\nCompare when would cold full. Bed blood group suggest example.",
+        "bio": "Sometimes speech parent expert keep. Adult later specific beat. Tree whole southern land top beyond house.\nFull usually support author. Great reach while project also detail make."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
