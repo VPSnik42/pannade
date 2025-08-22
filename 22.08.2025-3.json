@@ -1,0 +1,25 @@
+{
+    "name": "David Nelson",
+    "age": 28,
+    "address": {
+        "street": "Peter Underpass",
+        "city": "Lake Christopherville",
+        "state": "South Carolina",
+        "zip": "48683"
+    },
+    "contact": {
+        "phone": "001-323-443-5381x38726",
+        "servicePhone": "800358117"
+    },
+    "birthday": "1997-06-12",
+    "ip": "41.243.97.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Civil agreement nation response. Teach always recognize science own sort help.\nTell expert throw effect. Reflect employee manager vote rock whose. Modern end dinner hundred quality feel piece.",
+        "bio": "Bar tell rather upon mother what really. Phone growth performance board list figure any anything. Indeed style suffer."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
