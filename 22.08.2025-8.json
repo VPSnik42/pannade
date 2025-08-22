@@ -1,0 +1,25 @@
+{
+    "name": "Natalie Skinner",
+    "age": 70,
+    "address": {
+        "street": "Price Track",
+        "city": "Denisetown",
+        "state": "Idaho",
+        "zip": "39284"
+    },
+    "contact": {
+        "phone": "680-591-1377",
+        "servicePhone": "800115956"
+    },
+    "birthday": "1955-03-11",
+    "ip": "33.186.106.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Off north number people. Author idea nation. Food huge sea program whatever ever stay.",
+        "bio": "Practice guy including sound speech. Style clearly news prove. Eight spring must mind point economic."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
