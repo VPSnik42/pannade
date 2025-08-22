@@ -1,0 +1,25 @@
+{
+    "name": "Michael Walker",
+    "age": 51,
+    "address": {
+        "street": "Cynthia Roads",
+        "city": "New Jessica",
+        "state": "Florida",
+        "zip": "77833"
+    },
+    "contact": {
+        "phone": "727.623.9659",
+        "servicePhone": "800665309"
+    },
+    "birthday": "1974-23-10",
+    "ip": "70.129.137.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Perform example culture forward service card rather pattern. Talk hair whatever here right. Trade attention early. Fall theory civil around choice.",
+        "bio": "Paper attack work without others one onto. Whatever modern scientist baby. Summer truth firm trial society model budget."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
