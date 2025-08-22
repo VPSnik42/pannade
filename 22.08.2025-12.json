@@ -1,0 +1,25 @@
+{
+    "name": "Traci Terrell",
+    "age": 88,
+    "address": {
+        "street": "Mary Mount",
+        "city": "Maryfurt",
+        "state": "Rhode Island",
+        "zip": "79468"
+    },
+    "contact": {
+        "phone": "591.981.5204",
+        "servicePhone": "800798279"
+    },
+    "birthday": "1937-14-12",
+    "ip": "14.20.247.46",
+    "foo": "bar",
+    "profile": {
+        "about": "School country value determine civil Mrs manage. Good physical cell argue. Increase service but model season apply.",
+        "bio": "Long become attention note represent become. Call police end consider common. Do point car either event arm."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
