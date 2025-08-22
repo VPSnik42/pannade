@@ -1,0 +1,25 @@
+{
+    "name": "Felicia Daniel",
+    "age": 114,
+    "address": {
+        "street": "Bruce Union",
+        "city": "West Richard",
+        "state": "Arizona",
+        "zip": "29545"
+    },
+    "contact": {
+        "phone": "3917933350",
+        "servicePhone": "800551654"
+    },
+    "birthday": "1911-24-02",
+    "ip": "130.11.13.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Number will draw together letter. Her our federal such only site occur. Former have school more.\nVarious attorney buy. State interesting strategy then save.",
+        "bio": "Actually three hard small. Lose deal scientist catch pressure.\nBar successful television laugh. Partner feeling culture tell draw factor."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
