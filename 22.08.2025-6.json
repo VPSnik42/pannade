@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Schultz",
+    "age": 46,
+    "address": {
+        "street": "Jessica Summit",
+        "city": "New Jose",
+        "state": "Rhode Island",
+        "zip": "07706"
+    },
+    "contact": {
+        "phone": "804.494.7720x347",
+        "servicePhone": "800286752"
+    },
+    "birthday": "1979-20-06",
+    "ip": "108.133.69.15",
+    "foo": "bar",
+    "profile": {
+        "about": "At join pretty run. Mission environment lead security.\nGirl painting other black discuss. South issue lay where author character.",
+        "bio": "Agreement present happen community. Participant student old not.\nOnce have personal alone hot program. Population fall blue music small fly member short."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
