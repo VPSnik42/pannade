@@ -1,0 +1,25 @@
+{
+    "name": "John Hughes",
+    "age": 12,
+    "address": {
+        "street": "Dawson Terrace",
+        "city": "New Tasha",
+        "state": "Idaho",
+        "zip": "40630"
+    },
+    "contact": {
+        "phone": "739.708.8998",
+        "servicePhone": "800833340"
+    },
+    "birthday": "2013-20-03",
+    "ip": "160.174.218.74",
+    "foo": "bar",
+    "profile": {
+        "about": "House word government quite staff guy. Speak effect true. Sea east clear nature.\nMemory quality national yeah then. Really deal game spend perform impact.",
+        "bio": "Human day partner. Medical even learn prove apply girl who. Simply Republican record word worry establish."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
