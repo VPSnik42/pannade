@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Stewart",
+    "age": 108,
+    "address": {
+        "street": "Shannon Causeway",
+        "city": "Andreaburgh",
+        "state": "Mississippi",
+        "zip": "12099"
+    },
+    "contact": {
+        "phone": "800-400-2029x076",
+        "servicePhone": "800858780"
+    },
+    "birthday": "1917-22-10",
+    "ip": "162.170.143.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Rule camera better. Responsibility program important partner century partner tell.\nTrip cell site animal work owner party former. Authority sort we many billion next.",
+        "bio": "Positive play Congress loss amount. Him station front upon.\nList yes stage focus themselves growth skill. Once down deep indeed you result baby."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
