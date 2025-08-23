@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Tate",
+    "age": 97,
+    "address": {
+        "street": "Natalie Mountain",
+        "city": "New Lisaport",
+        "state": "Mississippi",
+        "zip": "69490"
+    },
+    "contact": {
+        "phone": "+1-621-297-5600",
+        "servicePhone": "800302212"
+    },
+    "birthday": "1928-30-05",
+    "ip": "96.86.49.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Remember responsibility network miss issue. Quality year whether question out.\nNeed we western ahead. Listen generation day language key everything. Treatment then example boy son usually executive.",
+        "bio": "Side poor Mr manager policy. Officer price present mind professional daughter because. Effect half compare as party."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
