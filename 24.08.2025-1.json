@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Diaz",
+    "age": 51,
+    "address": {
+        "street": "Carol Isle",
+        "city": "North John",
+        "state": "Wyoming",
+        "zip": "10356"
+    },
+    "contact": {
+        "phone": "3243091605",
+        "servicePhone": "800277125"
+    },
+    "birthday": "1974-26-07",
+    "ip": "180.220.119.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Believe Republican food me design amount both. Early able shoulder.\nInvestment maintain form fill. Hundred station certainly expert store she.",
+        "bio": "Term role tell day over character. Direction reach trouble program better. Discover effort military party."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
