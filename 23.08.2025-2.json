@@ -1,0 +1,25 @@
+{
+    "name": "Eric Stein",
+    "age": 12,
+    "address": {
+        "street": "Tina Mountains",
+        "city": "North Amyshire",
+        "state": "Oregon",
+        "zip": "66977"
+    },
+    "contact": {
+        "phone": "+1-343-471-3128",
+        "servicePhone": "800359684"
+    },
+    "birthday": "2013-05-10",
+    "ip": "60.209.83.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Me have traditional that message spend. Never small face represent account enjoy final. As three southern individual campaign happy through.",
+        "bio": "Read land he very land organization.\nReduce Congress five although machine week audience. Federal and budget require sure all. Wonder well air list."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
