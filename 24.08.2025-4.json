@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Bates",
+    "age": 99,
+    "address": {
+        "street": "Brian Locks",
+        "city": "Lake Jose",
+        "state": "Oregon",
+        "zip": "42487"
+    },
+    "contact": {
+        "phone": "410-489-4515x996",
+        "servicePhone": "800117228"
+    },
+    "birthday": "1926-19-02",
+    "ip": "75.187.100.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Study send enough no. Pass money someone present no much.\nService believe white practice movie suffer. One a sea get world.\nIdea compare scientist state. Between song base. Various him lay.",
+        "bio": "Else real glass foot.\nSpecific investment each provide. Hair second center action decide language laugh."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
