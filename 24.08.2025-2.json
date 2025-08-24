@@ -1,0 +1,25 @@
+{
+    "name": "Vincent Zamora",
+    "age": 11,
+    "address": {
+        "street": "Cobb Mount",
+        "city": "Port Christopher",
+        "state": "Georgia",
+        "zip": "97868"
+    },
+    "contact": {
+        "phone": "001-416-498-1211x197",
+        "servicePhone": "800351800"
+    },
+    "birthday": "2014-10-07",
+    "ip": "211.20.71.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Window impact former. Bit rule music.\nOut carry growth make action south join. Late toward around clear catch serve pass.",
+        "bio": "Activity free him including summer might buy minute. Wall light program it maintain rather sure. Until onto again woman water million.\nLike morning around including. Third mother close."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
