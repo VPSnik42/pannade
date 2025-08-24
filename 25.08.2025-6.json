@@ -1,0 +1,25 @@
+{
+    "name": "Robert Rogers",
+    "age": 81,
+    "address": {
+        "street": "Joseph Radial",
+        "city": "Lake Kevin",
+        "state": "Louisiana",
+        "zip": "88425"
+    },
+    "contact": {
+        "phone": "(857)230-8700",
+        "servicePhone": "800851217"
+    },
+    "birthday": "1944-25-10",
+    "ip": "41.153.77.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment through blue standard. Seek product else. Process save concern appear. Beat eat hour mother nice view.\nTrial anything present. Nature walk include buy that.",
+        "bio": "Price when thousand action eye buy marriage. Short unit career experience race question.\nCan receive weight support. Least prevent our conference drive standard quite."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
