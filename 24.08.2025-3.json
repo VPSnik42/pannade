@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hernandez",
+    "age": 101,
+    "address": {
+        "street": "Andrew Mission",
+        "city": "New Maurice",
+        "state": "Idaho",
+        "zip": "03562"
+    },
+    "contact": {
+        "phone": "+1-636-327-2851",
+        "servicePhone": "800395714"
+    },
+    "birthday": "1924-29-12",
+    "ip": "157.227.172.149",
+    "foo": "bar",
+    "profile": {
+        "about": "First within cost officer. Road education movement moment history fall industry.\nRecent apply interview expert. Special find must sometimes. Range trouble make chair fire fine far.",
+        "bio": "View above address your her continue. Participant place responsibility lead.\nFinally tough simple leave. Cover TV among generation find."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
