@@ -1,0 +1,25 @@
+{
+    "name": "Hannah Deleon",
+    "age": 70,
+    "address": {
+        "street": "William Corner",
+        "city": "South Jennifer",
+        "state": "Wisconsin",
+        "zip": "75471"
+    },
+    "contact": {
+        "phone": "001-613-541-9040x999",
+        "servicePhone": "800877929"
+    },
+    "birthday": "1955-12-09",
+    "ip": "29.216.145.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Reduce few act remember manager. Exactly relationship power.\nBlood student should unit pay. Report firm television anyone.",
+        "bio": "Artist hot learn wrong task. Movie feel court we ok goal. When finish light court something."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
