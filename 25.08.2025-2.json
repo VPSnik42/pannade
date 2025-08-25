@@ -1,0 +1,25 @@
+{
+    "name": "Brandy Alvarado",
+    "age": 107,
+    "address": {
+        "street": "Jeffrey Tunnel",
+        "city": "West Josephstad",
+        "state": "California",
+        "zip": "86721"
+    },
+    "contact": {
+        "phone": "525-459-2311",
+        "servicePhone": "800987384"
+    },
+    "birthday": "1918-30-04",
+    "ip": "192.2.148.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Special dinner act data.\nDinner care hear peace. As animal around yourself government.\nWoman state operation western teacher letter. Boy fine minute material cell.",
+        "bio": "Property conference particular interesting bring them care. Raise after stay watch fly. Realize serious debate listen."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
