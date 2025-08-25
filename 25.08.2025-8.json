@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Jackson",
+    "age": 24,
+    "address": {
+        "street": "Charles Manor",
+        "city": "East Brittanyton",
+        "state": "Nebraska",
+        "zip": "31287"
+    },
+    "contact": {
+        "phone": "967.739.6921",
+        "servicePhone": "800598556"
+    },
+    "birthday": "2001-28-12",
+    "ip": "207.91.94.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Admit seek size. Edge list be American work last rather age. Defense do room model official blood.",
+        "bio": "Run mean figure smile. Door to sport me none various democratic.\nPlace site whose mention not of. Region event already new case offer. Cell few article now."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
