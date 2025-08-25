@@ -1,0 +1,25 @@
+{
+    "name": "Sheryl Smith",
+    "age": 35,
+    "address": {
+        "street": "Katherine Trail",
+        "city": "Port Joan",
+        "state": "Nebraska",
+        "zip": "79806"
+    },
+    "contact": {
+        "phone": "(932)821-7077x706",
+        "servicePhone": "800214584"
+    },
+    "birthday": "1990-05-10",
+    "ip": "159.191.46.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Statement vote material article remember yard. Structure use style technology.",
+        "bio": "Bed rich capital break could recent. Population rock skin next. Art including resource rest technology notice both.\nGreat simple offer these. Million its program degree."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
