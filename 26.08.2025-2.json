@@ -1,0 +1,25 @@
+{
+    "name": "Linda George",
+    "age": 44,
+    "address": {
+        "street": "Collins Via",
+        "city": "Oneillborough",
+        "state": "Indiana",
+        "zip": "07602"
+    },
+    "contact": {
+        "phone": "(275)582-3419x1924",
+        "servicePhone": "800044174"
+    },
+    "birthday": "1981-09-06",
+    "ip": "53.146.219.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Trouble natural this threat soldier ok go because. President executive discover least difference agree. Rich because away learn.",
+        "bio": "Require source both edge. Bed whom its. Technology wide large thank recognize.\nYes interest require race second audience should. Through important likely control language east."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
