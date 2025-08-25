@@ -1,0 +1,25 @@
+{
+    "name": "Debra Rogers",
+    "age": 97,
+    "address": {
+        "street": "Steven Groves",
+        "city": "Port Andrewport",
+        "state": "New York",
+        "zip": "86964"
+    },
+    "contact": {
+        "phone": "+1-864-556-0902x0088",
+        "servicePhone": "800097088"
+    },
+    "birthday": "1928-12-06",
+    "ip": "9.26.153.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Point agreement hear visit. Middle teach executive hear.\nArticle break door activity large administration. Notice sign power shake. Certainly option tough painting near establish base finish.",
+        "bio": "City behavior compare itself. Important house party get by there ground. Evening high method billion.\nParent what use reduce. No them bit show yet forward. Tonight why same within."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
