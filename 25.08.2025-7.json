@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Wilson",
+    "age": 87,
+    "address": {
+        "street": "Jones Pines",
+        "city": "Lake Christina",
+        "state": "Hawaii",
+        "zip": "68079"
+    },
+    "contact": {
+        "phone": "512-420-0672x9181",
+        "servicePhone": "800381825"
+    },
+    "birthday": "1938-27-06",
+    "ip": "132.232.10.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Again Republican them. Economic author final rate generation current.\nOne someone they. Address leave become may.",
+        "bio": "Body life exactly southern show program staff. Magazine way five marriage behavior impact summer outside. Fight see happy.\nMother join official energy production spend continue."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
