@@ -1,0 +1,25 @@
+{
+    "name": "Justin Pennington",
+    "age": 20,
+    "address": {
+        "street": "Amanda Junction",
+        "city": "South Paulaburgh",
+        "state": "Nevada",
+        "zip": "81735"
+    },
+    "contact": {
+        "phone": "+1-264-398-9787x36381",
+        "servicePhone": "800421791"
+    },
+    "birthday": "2005-22-04",
+    "ip": "107.48.40.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Night life increase team agency resource food short. I key almost more break others. Moment ball pick politics popular firm.",
+        "bio": "Quality organization able option for remember. Color yet firm.\nGet oil current amount general. Price civil both apply. Charge about next look place."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
