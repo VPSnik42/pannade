@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Craig DDS",
+    "age": 26,
+    "address": {
+        "street": "Denise Village",
+        "city": "Katieview",
+        "state": "Wyoming",
+        "zip": "34276"
+    },
+    "contact": {
+        "phone": "600-417-6623x316",
+        "servicePhone": "800464283"
+    },
+    "birthday": "1999-29-10",
+    "ip": "117.172.3.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Then federal north rich. Wish discussion dinner option.\nListen compare production newspaper age during a. Health check carry report.\nThought ball tough in music. Everybody person fast.",
+        "bio": "Face share usually future pay. Throughout a public teacher long.\nResponse situation cut law peace. Sense soldier teacher follow plan long production. Peace city their at."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
