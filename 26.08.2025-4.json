@@ -1,0 +1,25 @@
+{
+    "name": "John Nguyen",
+    "age": 103,
+    "address": {
+        "street": "Angela Garden",
+        "city": "East Rebecca",
+        "state": "Massachusetts",
+        "zip": "87478"
+    },
+    "contact": {
+        "phone": "497-623-7637",
+        "servicePhone": "800709795"
+    },
+    "birthday": "1922-10-08",
+    "ip": "205.221.248.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Cultural result ahead entire wonder trial. Agreement successful task. Player serious reason serve.\nTree traditional member this idea.\nShoulder type somebody many defense. Card those third moment.",
+        "bio": "Remember item crime human college. Tree capital prepare show especially ready agree. Approach million heavy less letter."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
