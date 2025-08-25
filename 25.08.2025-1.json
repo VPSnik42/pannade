@@ -1,0 +1,25 @@
+{
+    "name": "James Meyers",
+    "age": 81,
+    "address": {
+        "street": "Navarro Motorway",
+        "city": "West Shane",
+        "state": "South Carolina",
+        "zip": "17120"
+    },
+    "contact": {
+        "phone": "9384849496",
+        "servicePhone": "800345797"
+    },
+    "birthday": "1944-12-09",
+    "ip": "128.54.155.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Special word carry right. Fish rule end suffer brother happen the. At artist source rate break.\nIt have green piece hear. High practice water kid. Lose especially national someone fund fast.",
+        "bio": "Cut unit particularly citizen need nation skill. Rate rise those million carry never later. Address finish defense ask on federal.\nSouth once participant which home another low free."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
