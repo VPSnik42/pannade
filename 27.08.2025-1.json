@@ -1,0 +1,25 @@
+{
+    "name": "Brian Bolton",
+    "age": 22,
+    "address": {
+        "street": "Gwendolyn Common",
+        "city": "West Russellburgh",
+        "state": "Vermont",
+        "zip": "50915"
+    },
+    "contact": {
+        "phone": "(413)684-5998x329",
+        "servicePhone": "800576373"
+    },
+    "birthday": "2003-30-01",
+    "ip": "76.54.117.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Image least teacher white. Bag manager help tree positive moment. Student course board offer indeed friend laugh. Air behind white everyone build true attack.",
+        "bio": "Rate member radio resource arrive buy. Adult brother paper social.\nFinally plan yeah design direction yeah she. Suddenly near hold where. Bed system different."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
