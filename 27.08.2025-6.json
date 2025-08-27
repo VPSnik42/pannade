@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Chase Sweeney",
+    "age": 17,
+    "address": {
+        "street": "Franco Parks",
+        "city": "West Manuelville",
+        "state": "Louisiana",
+        "zip": "90682"
+    },
+    "contact": {
+        "phone": "272-981-2600",
+        "servicePhone": "800255964"
+    },
+    "birthday": "2008-15-04",
+    "ip": "114.65.29.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Theory her child return language. Under much source reach spring official forget include.\nEast take unit money reach employee. Compare range Mrs commercial source visit commercial. Notice hope road.",
+        "bio": "Issue life address present place nor not. Unit effort concern minute rule people system.\nOften show expect nor. Name special society feel. Speak star minute modern five every relate scientist."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
