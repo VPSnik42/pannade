@@ -1,0 +1,25 @@
+{
+    "name": "Steven Buchanan",
+    "age": 37,
+    "address": {
+        "street": "Beth Plains",
+        "city": "South Kimberlyview",
+        "state": "Georgia",
+        "zip": "95083"
+    },
+    "contact": {
+        "phone": "296-244-6977x5049",
+        "servicePhone": "800728845"
+    },
+    "birthday": "1988-30-08",
+    "ip": "81.192.168.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Father question guess husband organization. Involve order cultural light purpose standard.\nTask professor either prevent computer purpose. Network respond building join many manager.",
+        "bio": "Focus black court up land case. Get argue range happy positive. Site laugh game federal.\nWhy son bring meeting worker. Continue most mean set thus whole."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
