@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Gill",
+    "age": 63,
+    "address": {
+        "street": "Melanie Ways",
+        "city": "Davidburgh",
+        "state": "Texas",
+        "zip": "15065"
+    },
+    "contact": {
+        "phone": "001-363-293-0393x5669",
+        "servicePhone": "800590783"
+    },
+    "birthday": "1962-16-11",
+    "ip": "212.183.160.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Must think your forget spring quite possible. Statement detail trade trip trial value.",
+        "bio": "Tell where put group. Position politics nearly art again.\nMagazine blue how which. Lot adult light. Maintain movie generation thus suffer tell television."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
