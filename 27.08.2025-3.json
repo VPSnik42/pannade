@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Gregory",
+    "age": 28,
+    "address": {
+        "street": "Jones Village",
+        "city": "West Christopher",
+        "state": "West Virginia",
+        "zip": "77510"
+    },
+    "contact": {
+        "phone": "509-379-5073",
+        "servicePhone": "800337537"
+    },
+    "birthday": "1997-15-11",
+    "ip": "150.106.93.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Skill across possible find challenge real. For blue Congress treatment get line career ask. Else approach realize interesting huge sometimes nation administration. Card no box discuss.",
+        "bio": "Message safe appear office fund protect marriage. All material police husband style even. Series door who agency."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
