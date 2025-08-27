@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Schroeder",
+    "age": 16,
+    "address": {
+        "street": "Oliver Station",
+        "city": "Wisebury",
+        "state": "Indiana",
+        "zip": "74572"
+    },
+    "contact": {
+        "phone": "+1-537-839-3479",
+        "servicePhone": "800656906"
+    },
+    "birthday": "2009-18-03",
+    "ip": "205.246.216.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Difference affect task indeed main question. After debate lot back book watch. Family production four respond.",
+        "bio": "Time give key commercial member draw memory free. Cultural wish go military despite effect. Air guess dinner. Our turn center nothing body what trouble."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
