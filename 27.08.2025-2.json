@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Jones",
+    "age": 59,
+    "address": {
+        "street": "Ward Terrace",
+        "city": "Haleytown",
+        "state": "North Dakota",
+        "zip": "91641"
+    },
+    "contact": {
+        "phone": "(661)688-3925",
+        "servicePhone": "800829759"
+    },
+    "birthday": "1966-30-04",
+    "ip": "184.91.70.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Lead shoulder interest near head hard government traditional. Bank process seek clearly beautiful arrive.\nForget per down dream employee lawyer. Hot within close far.",
+        "bio": "Eight thus media product interesting. Charge trial week treat by degree. Local throughout challenge everything agent including talk get. Turn car person pass."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
