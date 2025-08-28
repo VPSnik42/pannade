@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Tran",
+    "age": 35,
+    "address": {
+        "street": "Roach Union",
+        "city": "Port Tyler",
+        "state": "South Dakota",
+        "zip": "55754"
+    },
+    "contact": {
+        "phone": "296-668-2865",
+        "servicePhone": "800682473"
+    },
+    "birthday": "1990-08-12",
+    "ip": "151.38.143.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Score citizen prevent market protect.\nReveal financial key degree unit indicate million vote. Happen war manage last majority future.",
+        "bio": "International we anything summer include act. Show stock tax fear. New also season color. Itself scene himself."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
