@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Walker",
+    "age": 2,
+    "address": {
+        "street": "Luis Forges",
+        "city": "New Karen",
+        "state": "Rhode Island",
+        "zip": "79414"
+    },
+    "contact": {
+        "phone": "001-630-230-5587x14104",
+        "servicePhone": "800301720"
+    },
+    "birthday": "2023-25-12",
+    "ip": "71.160.155.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Media box when week foot enter. Enjoy number others little speak. Catch life several back.\nTest behind your. Former born produce program consumer. Fear level series.",
+        "bio": "Single fight what member surface. In practice college night throw store.\nPart site even south cold sea. Few discussion section pay area now. Stop performance different wear return then."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
