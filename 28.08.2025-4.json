@@ -1,0 +1,25 @@
+{
+    "name": "Scott George",
+    "age": 94,
+    "address": {
+        "street": "Phillips Isle",
+        "city": "Colleenview",
+        "state": "North Dakota",
+        "zip": "91169"
+    },
+    "contact": {
+        "phone": "+1-397-994-4366x960",
+        "servicePhone": "800301130"
+    },
+    "birthday": "1931-25-05",
+    "ip": "74.177.204.203",
+    "foo": "bar",
+    "profile": {
+        "about": "There none since prevent admit often source. Office big win it maintain capital. Citizen himself too natural writer.",
+        "bio": "Coach upon will example standard eat. Position pick alone year to front growth often. Measure party store onto happen.\nTime party voice. Give occur major."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
