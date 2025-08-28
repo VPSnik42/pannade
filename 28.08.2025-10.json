@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Acosta",
+    "age": 28,
+    "address": {
+        "street": "Jeffrey Village",
+        "city": "New Kristinbury",
+        "state": "Massachusetts",
+        "zip": "13539"
+    },
+    "contact": {
+        "phone": "347.857.2482",
+        "servicePhone": "800586694"
+    },
+    "birthday": "1997-08-08",
+    "ip": "176.251.158.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Be rule true American operation. Middle national positive provide everyone. Answer reveal somebody five.",
+        "bio": "Drop day special rest smile. Happen worker impact police hot.\nUnder market land nothing difficult author. Occur pretty environmental."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
