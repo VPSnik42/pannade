@@ -1,0 +1,25 @@
+{
+    "name": "William Mills",
+    "age": 102,
+    "address": {
+        "street": "Bates Plain",
+        "city": "Amandaview",
+        "state": "Alabama",
+        "zip": "11045"
+    },
+    "contact": {
+        "phone": "+1-274-931-4703x055",
+        "servicePhone": "800091238"
+    },
+    "birthday": "1923-07-02",
+    "ip": "179.99.234.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Paper their general purpose here wide. Few leave remember expect different doctor light.\nDeep with summer case. Half home sort stuff produce half by nation. Painting bit draw huge clearly night rock.",
+        "bio": "Body until special foot. Interesting foreign every.\nMaterial message oil however money view radio. Wish season worry region."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
