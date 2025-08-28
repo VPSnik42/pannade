@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Rodriguez",
+    "age": 48,
+    "address": {
+        "street": "Eric Motorway",
+        "city": "West Natalieview",
+        "state": "Michigan",
+        "zip": "30173"
+    },
+    "contact": {
+        "phone": "+1-888-288-5696",
+        "servicePhone": "800319349"
+    },
+    "birthday": "1977-23-08",
+    "ip": "74.154.185.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Second wrong win. South mean box. Feel American picture must dream place low.\nFact do ground until. Mr upon certainly eight true.",
+        "bio": "Responsibility avoid operation money war. Western worker throw by through reflect. Everybody car until something."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
