@@ -1,0 +1,25 @@
+{
+    "name": "Yvonne Hubbard",
+    "age": 38,
+    "address": {
+        "street": "Darrell Brooks",
+        "city": "Rodrigueztown",
+        "state": "Nebraska",
+        "zip": "33660"
+    },
+    "contact": {
+        "phone": "(595)929-1153",
+        "servicePhone": "800169392"
+    },
+    "birthday": "1987-29-11",
+    "ip": "85.251.20.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Happy election middle foreign modern. Her enter summer actually fear admit authority. Case practice worker ten. Leader million increase form late state mother.",
+        "bio": "Beyond land response sea best. Late summer common reality tell again any. Analysis turn course less."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
