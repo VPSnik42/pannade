@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Lee",
+    "age": 28,
+    "address": {
+        "street": "Martin Plaza",
+        "city": "Carlamouth",
+        "state": "Nevada",
+        "zip": "17937"
+    },
+    "contact": {
+        "phone": "(687)725-7689",
+        "servicePhone": "800711967"
+    },
+    "birthday": "1997-09-12",
+    "ip": "28.104.4.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Box owner could interesting place. Can official debate everything.",
+        "bio": "Enough experience war suddenly sell. Fill moment goal involve project drive investment. Officer whatever movement risk late finally quite. Accept send forget job."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
