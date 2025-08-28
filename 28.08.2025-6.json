@@ -1,0 +1,25 @@
+{
+    "name": "Eric Perez",
+    "age": 18,
+    "address": {
+        "street": "Karen Key",
+        "city": "West Timothychester",
+        "state": "Pennsylvania",
+        "zip": "44598"
+    },
+    "contact": {
+        "phone": "+1-202-957-7041",
+        "servicePhone": "800504724"
+    },
+    "birthday": "2007-04-11",
+    "ip": "89.99.125.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Begin join others film west bring because. You wish attorney notice wind then detail. National soon room board fill.",
+        "bio": "Prove minute blood role particular pretty blue.\nOthers manager camera ready. Republican partner church.\nNone billion attorney those. Crime head white pass maintain. Hand human program support."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
