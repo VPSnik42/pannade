@@ -1,0 +1,25 @@
+{
+    "name": "Mitchell Horton",
+    "age": 9,
+    "address": {
+        "street": "Holland Streets",
+        "city": "West Jacobport",
+        "state": "Maine",
+        "zip": "02583"
+    },
+    "contact": {
+        "phone": "+1-432-551-8685x7468",
+        "servicePhone": "800812811"
+    },
+    "birthday": "2016-30-12",
+    "ip": "87.201.181.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Machine discussion record page reality onto. Professor like kind ability arm health board. Whose hotel news very forward.",
+        "bio": "Wait effect skin anyone health guy agree. Might learn program. Mean other significant art inside.\nAsk staff coach cell else. Could message single series service international."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
