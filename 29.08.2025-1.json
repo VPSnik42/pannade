@@ -1,0 +1,25 @@
+{
+    "name": "David Lee",
+    "age": 22,
+    "address": {
+        "street": "Hernandez Land",
+        "city": "Andersonfurt",
+        "state": "Ohio",
+        "zip": "05590"
+    },
+    "contact": {
+        "phone": "756.633.8799x725",
+        "servicePhone": "800834161"
+    },
+    "birthday": "2003-20-12",
+    "ip": "76.104.186.118",
+    "foo": "bar",
+    "profile": {
+        "about": "South explain region area rate class. One man many enter. Generation director speak hot rule show two.\nScience official decade statement. Soon education phone do far.\nElse mouth father by.",
+        "bio": "Allow total memory black too simple civil. Term learn nice of. Another sing stuff people.\nRisk store smile seven catch anyone. Who goal month important."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
