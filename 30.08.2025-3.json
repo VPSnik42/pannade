@@ -1,0 +1,25 @@
+{
+    "name": "William Peterson",
+    "age": 58,
+    "address": {
+        "street": "Kelly Ford",
+        "city": "North Ryanborough",
+        "state": "Nebraska",
+        "zip": "17755"
+    },
+    "contact": {
+        "phone": "001-686-509-9762x206",
+        "servicePhone": "800163007"
+    },
+    "birthday": "1967-22-08",
+    "ip": "19.235.61.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Memory follow owner toward strategy simply. Chair growth lead model give clear individual hotel. Reality claim feel foreign finally do.",
+        "bio": "Growth method Democrat administration.\nUse test worry positive keep event throw. Chance this important forward take computer.\nOther white next grow. Maintain according control animal sister charge."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
