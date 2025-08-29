@@ -1,0 +1,25 @@
+{
+    "name": "Danny Moyer",
+    "age": 62,
+    "address": {
+        "street": "Eric Corner",
+        "city": "Chelseaburgh",
+        "state": "Maine",
+        "zip": "93120"
+    },
+    "contact": {
+        "phone": "457-355-9788x2132",
+        "servicePhone": "800467255"
+    },
+    "birthday": "1963-23-06",
+    "ip": "216.173.125.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Step voice simple value movie. Attention among realize you. Significant alone cut traditional stay write size.\nStage picture far tax. Movement single relate pull.\nTurn sister stay need.",
+        "bio": "Room performance soon big and member matter. Career bed growth single.\nDown describe poor plant act after.\nExplain in American let show because talk. Tree magazine religious perhaps."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
