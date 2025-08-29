@@ -1,0 +1,25 @@
+{
+    "name": "Wyatt Obrien",
+    "age": 30,
+    "address": {
+        "street": "Morris Isle",
+        "city": "Lake Shane",
+        "state": "Arizona",
+        "zip": "36092"
+    },
+    "contact": {
+        "phone": "001-522-889-3538x88547",
+        "servicePhone": "800681762"
+    },
+    "birthday": "1995-03-06",
+    "ip": "27.102.246.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Surface player notice power instead agency easy. Boy himself hotel responsibility.\nSimple as my media. Lay owner feeling go.",
+        "bio": "Else ten nation class science model exactly. Note learn have usually care red.\nPossible couple toward human through. Age talk or direction sure whatever."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
