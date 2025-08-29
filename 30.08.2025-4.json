@@ -1,0 +1,25 @@
+{
+    "name": "Corey Hughes",
+    "age": 20,
+    "address": {
+        "street": "Young Ports",
+        "city": "Whitetown",
+        "state": "Mississippi",
+        "zip": "87564"
+    },
+    "contact": {
+        "phone": "(897)825-8546x06735",
+        "servicePhone": "800732027"
+    },
+    "birthday": "2005-23-04",
+    "ip": "211.131.131.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Really compare thousand land explain attorney. Walk weight word alone team leave. Thing head lot my she.",
+        "bio": "Traditional technology same star. These only one machine ready reason professor. Little sport middle.\nCold hear federal. Lay shoulder a bring type instead put."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
