@@ -1,0 +1,25 @@
+{
+    "name": "Diane Park",
+    "age": 21,
+    "address": {
+        "street": "Shawn Fields",
+        "city": "Gabrielfort",
+        "state": "California",
+        "zip": "84455"
+    },
+    "contact": {
+        "phone": "782-238-7004x4383",
+        "servicePhone": "800325599"
+    },
+    "birthday": "2004-08-05",
+    "ip": "43.211.136.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Concern six standard up. Field after never human focus.\nMedia wall pressure month open. Skill work daughter across now sit. Life own young particular along occur movie.",
+        "bio": "Southern discover game mouth audience threat.\nElection else heavy now piece from. Material purpose he. Our cold tell far.\nSuccess body early. Hot table church."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
