@@ -1,0 +1,25 @@
+{
+    "name": "Laura Mason",
+    "age": 98,
+    "address": {
+        "street": "Wilson Port",
+        "city": "New Angela",
+        "state": "Illinois",
+        "zip": "97319"
+    },
+    "contact": {
+        "phone": "001-560-930-8040",
+        "servicePhone": "800523143"
+    },
+    "birthday": "1927-26-05",
+    "ip": "195.99.165.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother offer left four lay attention. Pm table participant live level person.",
+        "bio": "Fly upon memory someone dark art successful. Concern few part according truth. Administration hour employee.\nPiece action sort. Quality challenge area probably new garden program."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
