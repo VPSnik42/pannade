@@ -1,0 +1,25 @@
+{
+    "name": "Miss Melanie Martinez",
+    "age": 64,
+    "address": {
+        "street": "Brown Dam",
+        "city": "New Alisha",
+        "state": "Illinois",
+        "zip": "33027"
+    },
+    "contact": {
+        "phone": "281-605-1891x4619",
+        "servicePhone": "800775176"
+    },
+    "birthday": "1961-24-05",
+    "ip": "15.151.209.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Certainly front note.\nBefore again list world let. Address media this begin. Democratic article financial company past.",
+        "bio": "Learn crime option argue president yet. More tonight large one few behind way past. Through car exist right guess."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
