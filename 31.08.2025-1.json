@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Gomez",
+    "age": 61,
+    "address": {
+        "street": "Shaw Road",
+        "city": "Port Carrie",
+        "state": "Mississippi",
+        "zip": "44624"
+    },
+    "contact": {
+        "phone": "(894)207-5516",
+        "servicePhone": "800316647"
+    },
+    "birthday": "1964-29-02",
+    "ip": "8.225.19.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Mind gas ability bit huge population security. Gas nation cold behind. Expert relate amount cultural author player task.",
+        "bio": "Medical find speak Congress create story. If goal billion other. Know finally follow tree mention.\nImpact field officer measure stop. Production student identify debate edge total term."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
