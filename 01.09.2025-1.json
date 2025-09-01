@@ -1,0 +1,25 @@
+{
+    "name": "Gina Berry",
+    "age": 29,
+    "address": {
+        "street": "Ronald Throughway",
+        "city": "Port Donnamouth",
+        "state": "Alaska",
+        "zip": "75132"
+    },
+    "contact": {
+        "phone": "230.372.3792x323",
+        "servicePhone": "800638127"
+    },
+    "birthday": "1996-22-06",
+    "ip": "202.135.217.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Where bit senior our task. Material me past marriage material group.\nPhysical news choose understand. Company story commercial hotel. Different speak me. Clear mean central soldier power word happen.",
+        "bio": "Prevent first similar drug fly during. Place back attorney open heart. Cause name customer program.\nPerformance moment somebody senior discover join manage. Place should dream window more."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
