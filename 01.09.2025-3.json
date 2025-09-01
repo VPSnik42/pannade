@@ -1,0 +1,25 @@
+{
+    "name": "Jason Williams",
+    "age": 74,
+    "address": {
+        "street": "Wilson Unions",
+        "city": "Stephanieberg",
+        "state": "Virginia",
+        "zip": "04459"
+    },
+    "contact": {
+        "phone": "(956)442-3934",
+        "servicePhone": "800101218"
+    },
+    "birthday": "1951-27-01",
+    "ip": "185.6.68.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Soon huge source around they yes lawyer. Require nothing most every.\nTrade human goal early.\nRead suddenly heavy stock management entire glass part. Push measure couple office look.",
+        "bio": "Forget good various worry school soon rock. Continue step paper nearly billion act prove.\nCitizen process carry sea time. Green approach continue act. Go doctor money he series brother because."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
