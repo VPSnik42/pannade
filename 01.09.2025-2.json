@@ -1,0 +1,25 @@
+{
+    "name": "Molly White DVM",
+    "age": 88,
+    "address": {
+        "street": "David Creek",
+        "city": "West Gregory",
+        "state": "Minnesota",
+        "zip": "58881"
+    },
+    "contact": {
+        "phone": "317-268-8080x196",
+        "servicePhone": "800651607"
+    },
+    "birthday": "1937-18-09",
+    "ip": "221.12.21.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Guess attack program before today. Plant later short single.\nMean various nation Mr. Character state cell heart fire if.",
+        "bio": "And director study cold current lose. List authority Congress crime wear player media. Rather particular always close through yard scene. Store particularly fill approach minute."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
