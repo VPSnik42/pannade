@@ -1,0 +1,25 @@
+{
+    "name": "Calvin Ramirez",
+    "age": 12,
+    "address": {
+        "street": "Kristopher Summit",
+        "city": "New Michaelville",
+        "state": "Delaware",
+        "zip": "90149"
+    },
+    "contact": {
+        "phone": "8708148744",
+        "servicePhone": "800759588"
+    },
+    "birthday": "2013-05-05",
+    "ip": "118.147.180.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Make employee after approach on meet during. Seem despite bank machine.\nDiscuss share fear show though than hand. Whatever rock despite effect girl result population.",
+        "bio": "Surface building describe recently cup. Yard buy would hear light. Kid voice young herself consider trip.\nHear candidate car go reduce only address. Them probably meeting health position."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
