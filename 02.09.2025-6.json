@@ -1,0 +1,25 @@
+{
+    "name": "Ricky Tate",
+    "age": 12,
+    "address": {
+        "street": "King Mountains",
+        "city": "Hodgeston",
+        "state": "Maine",
+        "zip": "37348"
+    },
+    "contact": {
+        "phone": "853.621.8153",
+        "servicePhone": "800349248"
+    },
+    "birthday": "2013-18-08",
+    "ip": "33.2.22.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Apply certain me building. Fall let base around.\nCertainly generation because data. Point prevent win baby. Senior the theory field turn.",
+        "bio": "Inside image opportunity health professor hospital throw here. Whole determine each theory radio never describe. Among such fall beyond trade."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
