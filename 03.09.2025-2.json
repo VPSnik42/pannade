@@ -1,0 +1,25 @@
+{
+    "name": "Austin Berry",
+    "age": 81,
+    "address": {
+        "street": "Cardenas Track",
+        "city": "Colonburgh",
+        "state": "Tennessee",
+        "zip": "34418"
+    },
+    "contact": {
+        "phone": "737.416.6801x7244",
+        "servicePhone": "800390955"
+    },
+    "birthday": "1944-18-01",
+    "ip": "34.233.194.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Approach himself lawyer front late phone. Same democratic thank.\nRepresent future tend indeed though. Trouble most ago. True professional thousand onto people.",
+        "bio": "Detail she seek. Between entire whom bring. Your both much."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
