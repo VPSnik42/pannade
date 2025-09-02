@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Sanford",
+    "age": 80,
+    "address": {
+        "street": "Golden Brooks",
+        "city": "South Daniel",
+        "state": "Tennessee",
+        "zip": "52117"
+    },
+    "contact": {
+        "phone": "001-824-710-4873x567",
+        "servicePhone": "800018102"
+    },
+    "birthday": "1945-11-02",
+    "ip": "186.231.181.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Song step air nice could idea. Base listen somebody major total ok. Artist spring former policy.\nExperience west five style. Present thus bill window responsibility base study.",
+        "bio": "Road television upon way bring. Report live consider reveal ok remain.\nTo interesting also institution check. Study government determine sit."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
