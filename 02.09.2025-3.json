@@ -1,0 +1,25 @@
+{
+    "name": "Mary Paul",
+    "age": 82,
+    "address": {
+        "street": "Makayla Shoals",
+        "city": "Sanchezmouth",
+        "state": "California",
+        "zip": "09980"
+    },
+    "contact": {
+        "phone": "(674)801-7832",
+        "servicePhone": "800608464"
+    },
+    "birthday": "1943-04-04",
+    "ip": "108.58.83.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Until full sit happy painting. Million idea whose help house their field education. Drive decade skill everything hope off section.",
+        "bio": "Detail concern look bag parent top start officer. Side toward into two.\nSimilar official language Mr give politics guy read. About it tree enter."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
