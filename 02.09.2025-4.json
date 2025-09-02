@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Johnston",
+    "age": 112,
+    "address": {
+        "street": "Cannon Centers",
+        "city": "East Johnhaven",
+        "state": "Maine",
+        "zip": "05587"
+    },
+    "contact": {
+        "phone": "001-385-556-8301x30927",
+        "servicePhone": "800803394"
+    },
+    "birthday": "1913-13-05",
+    "ip": "211.123.250.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Ground ability forget. Model position option various. Husband sport southern drug paper drop pick.",
+        "bio": "Be quality appear culture walk somebody. Table job glass worker tough. Spend cost share technology could gas knowledge. Door group opportunity single character."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
