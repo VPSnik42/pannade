@@ -1,0 +1,25 @@
+{
+    "name": "Michael Holloway",
+    "age": 27,
+    "address": {
+        "street": "Ashley Turnpike",
+        "city": "Lake Christina",
+        "state": "Florida",
+        "zip": "30523"
+    },
+    "contact": {
+        "phone": "4847055002",
+        "servicePhone": "800820783"
+    },
+    "birthday": "1998-20-07",
+    "ip": "67.224.143.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Language child kid before treatment until. Dream city find market how minute assume. Key prevent region.\nMaterial discussion foot fact smile ahead cup.",
+        "bio": "Build later authority meet fire listen. Establish her tell put for attention. Property challenge rate represent."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
