@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Ortega",
+    "age": 15,
+    "address": {
+        "street": "Greer Port",
+        "city": "Jeffreyberg",
+        "state": "Pennsylvania",
+        "zip": "71624"
+    },
+    "contact": {
+        "phone": "202.486.2179x36070",
+        "servicePhone": "800845750"
+    },
+    "birthday": "2010-23-09",
+    "ip": "21.185.134.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Finally century pattern bill third organization. Although various expect even. Especially stage reflect.\nUs coach culture job. Television key dog direction trouble answer.",
+        "bio": "Main light truth. Bank people wonder capital read yard I. Happy before me."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
