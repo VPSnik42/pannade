@@ -1,0 +1,25 @@
+{
+    "name": "Scott Kennedy",
+    "age": 51,
+    "address": {
+        "street": "Rachel Valley",
+        "city": "South John",
+        "state": "Texas",
+        "zip": "55551"
+    },
+    "contact": {
+        "phone": "(762)203-7220x31383",
+        "servicePhone": "800188319"
+    },
+    "birthday": "1974-25-11",
+    "ip": "175.33.205.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Early government woman leader center common.\nStory fall day water include. Positive each system chance. Both soon owner begin poor.",
+        "bio": "Near Congress western room tax civil card. Event many what return.\nView special indicate material. Event brother east around different."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
