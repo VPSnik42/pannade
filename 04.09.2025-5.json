@@ -1,0 +1,25 @@
+{
+    "name": "Frank Santos",
+    "age": 53,
+    "address": {
+        "street": "Frye Circle",
+        "city": "Nathantown",
+        "state": "New York",
+        "zip": "96994"
+    },
+    "contact": {
+        "phone": "001-487-859-0331x32692",
+        "servicePhone": "800985729"
+    },
+    "birthday": "1972-18-06",
+    "ip": "83.251.26.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Debate color enter network focus drug direction. According almost whole remember easy far. Clear senior piece put plant speak from.",
+        "bio": "Range Congress everything before lose. Election big industry night yard government type.\nCommon one sister network too. One side among society ten avoid always one. All adult team various."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
