@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Barnes",
+    "age": 85,
+    "address": {
+        "street": "Wilson Fords",
+        "city": "North Linda",
+        "state": "Oklahoma",
+        "zip": "95869"
+    },
+    "contact": {
+        "phone": "+1-844-203-8247",
+        "servicePhone": "800544302"
+    },
+    "birthday": "1940-12-02",
+    "ip": "88.151.141.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Ball raise edge bring control career opportunity. Test city interview huge. Fund young nature guess.\nTrade power alone many laugh hair. Toward set perform no rest school. Study rate day.",
+        "bio": "Him dinner new suddenly onto suddenly walk. Scientist hair together population mouth very past. Form drive politics so politics idea less store."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
