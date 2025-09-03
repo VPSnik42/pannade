@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Robertson PhD",
+    "age": 6,
+    "address": {
+        "street": "Johnson Crescent",
+        "city": "Thorntonbury",
+        "state": "Alaska",
+        "zip": "52210"
+    },
+    "contact": {
+        "phone": "498-402-7207x7242",
+        "servicePhone": "800617576"
+    },
+    "birthday": "2019-20-03",
+    "ip": "136.51.12.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Street forget different value political.\nYourself fear just. Event from rock tonight.\nRemain receive sure talk cover drive. Cost pull know listen suddenly rich eye.",
+        "bio": "Realize reach onto respond situation wide.\nSecurity commercial position record generation focus. Still role media pattern world public compare detail. My decision job foot stock call at."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
