@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Williams",
+    "age": 100,
+    "address": {
+        "street": "Ray Rapids",
+        "city": "East Marvin",
+        "state": "New Hampshire",
+        "zip": "27651"
+    },
+    "contact": {
+        "phone": "5523259467",
+        "servicePhone": "800362995"
+    },
+    "birthday": "1925-02-06",
+    "ip": "57.226.230.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Since media specific yard notice. Begin room indicate chair. Travel develop hundred attention effort side sea.",
+        "bio": "Million take to firm good act. Across more heart subject heavy machine PM lawyer.\nBorn control industry pretty between imagine several."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
