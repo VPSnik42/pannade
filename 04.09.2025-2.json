@@ -1,0 +1,25 @@
+{
+    "name": "Denise Carpenter",
+    "age": 106,
+    "address": {
+        "street": "Herrera Pine",
+        "city": "New Roy",
+        "state": "Missouri",
+        "zip": "08938"
+    },
+    "contact": {
+        "phone": "001-435-547-4469x097",
+        "servicePhone": "800014601"
+    },
+    "birthday": "1919-01-07",
+    "ip": "201.96.14.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Brother join democratic foot hard reflect attention until. Door office leader line anyone wear life. Trouble any walk off tell.\nWhether we lot arm. Choose this store alone act.",
+        "bio": "Least thought challenge ago. Later store value my study. Leader local may choose moment know statement.\nAir contain body hard. Pattern foreign program message."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
