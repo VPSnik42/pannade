@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Howard",
+    "age": 65,
+    "address": {
+        "street": "Mary Park",
+        "city": "Obrienville",
+        "state": "Missouri",
+        "zip": "94775"
+    },
+    "contact": {
+        "phone": "+1-775-599-1023x788",
+        "servicePhone": "800521683"
+    },
+    "birthday": "1960-05-02",
+    "ip": "73.58.16.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Fight be thousand bad condition stand project. If responsibility mean short share send television. Prove report minute yet.",
+        "bio": "Strategy your occur four.\nI it rise note enough. Own finish partner tonight describe later. Sell performance argue baby sign."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
