@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Deleon",
+    "age": 60,
+    "address": {
+        "street": "Woods Squares",
+        "city": "Payneborough",
+        "state": "Indiana",
+        "zip": "39984"
+    },
+    "contact": {
+        "phone": "367.345.8556x9674",
+        "servicePhone": "800499778"
+    },
+    "birthday": "1965-02-07",
+    "ip": "150.216.66.248",
+    "foo": "bar",
+    "profile": {
+        "about": "True recently name could street. Raise identify add western may wrong.\nSkill pretty minute whom. All education hospital entire home which indicate woman. World else either image.",
+        "bio": "Analysis drop food leg record with author friend. Big moment since win improve water information Democrat. Still choose fund such this former."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
