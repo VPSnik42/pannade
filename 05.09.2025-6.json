@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Wood",
+    "age": 50,
+    "address": {
+        "street": "Walker Corner",
+        "city": "Lake Kennethstad",
+        "state": "Washington",
+        "zip": "73306"
+    },
+    "contact": {
+        "phone": "419-275-0177",
+        "servicePhone": "800738073"
+    },
+    "birthday": "1975-28-02",
+    "ip": "156.130.1.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Would management within stuff. Magazine involve carry our member discover statement represent.\nChange a event term stock catch.",
+        "bio": "Artist certainly us lawyer expert even. Identify fly crime position. Actually again behavior image tough central.\nSeem figure figure food question. Likely including information."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
