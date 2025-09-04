@@ -1,0 +1,25 @@
+{
+    "name": "Ronnie Beck",
+    "age": 57,
+    "address": {
+        "street": "Jonathan Squares",
+        "city": "Anntown",
+        "state": "Rhode Island",
+        "zip": "68247"
+    },
+    "contact": {
+        "phone": "(330)367-4791x3376",
+        "servicePhone": "800920597"
+    },
+    "birthday": "1968-29-02",
+    "ip": "41.55.250.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Side morning doctor happy school whole western office. Entire and alone support face. Do camera prove building light.\nSection than war. Young both color discussion edge consumer.",
+        "bio": "Various prove respond together trial reality big. At practice laugh should third. Six wear eye."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
