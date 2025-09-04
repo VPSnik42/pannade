@@ -1,0 +1,25 @@
+{
+    "name": "Natalie White",
+    "age": 54,
+    "address": {
+        "street": "Barnett Tunnel",
+        "city": "Ambermouth",
+        "state": "Pennsylvania",
+        "zip": "57099"
+    },
+    "contact": {
+        "phone": "562-941-9823x96976",
+        "servicePhone": "800629276"
+    },
+    "birthday": "1971-15-09",
+    "ip": "116.107.145.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Hard sea watch pull tend. Type care true operation. Organization rule first growth. Effect late me perform indicate discover speech.",
+        "bio": "Just indicate four oil good couple however newspaper. Machine life film recognize research personal. Choose significant game entire investment local partner. Let study throughout fight own."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
