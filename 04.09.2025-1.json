@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Mendez",
+    "age": 26,
+    "address": {
+        "street": "Jackson Ways",
+        "city": "Kennethland",
+        "state": "Hawaii",
+        "zip": "54273"
+    },
+    "contact": {
+        "phone": "001-994-738-8088",
+        "servicePhone": "800513833"
+    },
+    "birthday": "1999-30-08",
+    "ip": "112.134.23.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Activity learn work. Beat guy drop four speak. Be or serve imagine inside garden can.\nNews four enter power. Mean different should moment else. East box early section serve sort.",
+        "bio": "Certainly store sort well message sort officer minute. Into thing carry challenge.\nAgency in deal play off mother. Participant middle your close sea describe. Foot pressure clear."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
