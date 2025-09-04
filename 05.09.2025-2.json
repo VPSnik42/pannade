@@ -1,0 +1,25 @@
+{
+    "name": "Caleb Zamora",
+    "age": 52,
+    "address": {
+        "street": "Young Knoll",
+        "city": "Parkstown",
+        "state": "Wisconsin",
+        "zip": "49553"
+    },
+    "contact": {
+        "phone": "+1-729-768-0960",
+        "servicePhone": "800709477"
+    },
+    "birthday": "1973-08-01",
+    "ip": "139.104.230.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic nothing report decide health character argue. Cut team animal country late son above. Community opportunity source blue plan contain cover building.",
+        "bio": "Personal management raise approach goal go.\nOwn safe concern no. Lot question side a drive dinner worker picture. Them war detail city consider really go. Throw spring generation have identify adult."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
