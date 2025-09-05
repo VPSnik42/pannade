@@ -1,0 +1,25 @@
+{
+    "name": "Betty Grant",
+    "age": 7,
+    "address": {
+        "street": "Gonzalez Throughway",
+        "city": "Lake Michaelfort",
+        "state": "Ohio",
+        "zip": "76155"
+    },
+    "contact": {
+        "phone": "(325)574-7488",
+        "servicePhone": "800586751"
+    },
+    "birthday": "2018-01-03",
+    "ip": "120.9.232.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Play nature whose rate sort. Kitchen receive energy clearly why body fly majority.\nHerself budget anything heart movement affect. Group type growth age old provide.",
+        "bio": "Wait end room outside pattern hospital.\nDifference require able country society just. Staff them TV interesting range whose. Likely individual miss reflect."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
