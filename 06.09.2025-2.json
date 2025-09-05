@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Flynn",
+    "age": 36,
+    "address": {
+        "street": "Parker Course",
+        "city": "Nicoleport",
+        "state": "Idaho",
+        "zip": "34994"
+    },
+    "contact": {
+        "phone": "301.406.1743",
+        "servicePhone": "800606345"
+    },
+    "birthday": "1989-01-09",
+    "ip": "153.250.255.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Approach blue develop least scientist section world. Five challenge successful TV beyond place reality. Administration understand break address effect everybody wear.",
+        "bio": "What animal charge station establish bar. Shake lay writer already. Strategy skill kitchen reason play.\nHard believe summer beyond around machine site. Air day operation also."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
