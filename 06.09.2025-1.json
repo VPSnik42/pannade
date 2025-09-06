@@ -1,0 +1,25 @@
+{
+    "name": "Colleen Franklin",
+    "age": 15,
+    "address": {
+        "street": "William Village",
+        "city": "Donton",
+        "state": "South Dakota",
+        "zip": "63807"
+    },
+    "contact": {
+        "phone": "355.516.7452x489",
+        "servicePhone": "800171122"
+    },
+    "birthday": "2010-15-08",
+    "ip": "184.29.32.199",
+    "foo": "bar",
+    "profile": {
+        "about": "So large develop onto PM arm. Recently enough a dark. Pm send life. Provide describe stage learn ready shake.",
+        "bio": "Consider budget this everyone name practice visit. Financial hot later between degree nice inside. However piece group realize soldier among collection."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
