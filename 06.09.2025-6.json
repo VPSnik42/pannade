@@ -1,0 +1,25 @@
+{
+    "name": "Erica Ward",
+    "age": 56,
+    "address": {
+        "street": "Kim Haven",
+        "city": "New Carl",
+        "state": "South Dakota",
+        "zip": "90498"
+    },
+    "contact": {
+        "phone": "741-892-7483x6308",
+        "servicePhone": "800754122"
+    },
+    "birthday": "1969-11-02",
+    "ip": "99.233.140.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Able kitchen level speech important everyone. Onto paper two five level. Rise dinner find many amount need.",
+        "bio": "Page listen child. Often now edge ball. Side spend project of.\nRepublican born religious ever. Billion sense peace party. News activity together yet white."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
