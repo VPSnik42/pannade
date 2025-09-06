@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Wiggins",
+    "age": 6,
+    "address": {
+        "street": "Thompson Hollow",
+        "city": "Lake Zachary",
+        "state": "Vermont",
+        "zip": "76945"
+    },
+    "contact": {
+        "phone": "732.361.0218",
+        "servicePhone": "800814396"
+    },
+    "birthday": "2019-06-06",
+    "ip": "161.136.15.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Check common old. Ok job term approach eye.",
+        "bio": "Executive significant environmental city imagine mean. Quickly consider blue opportunity concern course catch. Strategy sign organization modern statement agree itself."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
