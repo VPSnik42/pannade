@@ -1,0 +1,25 @@
+{
+    "name": "James Gardner",
+    "age": 36,
+    "address": {
+        "street": "Erin Trail",
+        "city": "Lake Michaelhaven",
+        "state": "Virginia",
+        "zip": "74430"
+    },
+    "contact": {
+        "phone": "+1-814-551-4780",
+        "servicePhone": "800274368"
+    },
+    "birthday": "1989-26-05",
+    "ip": "217.2.60.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Enjoy side scientist dream. Significant rich draw paper.\nAfter fact real pull value. Situation customer another name maybe tonight ground. Economy clear boy suddenly thus cup travel.",
+        "bio": "Respond wife Republican reach responsibility animal edge. Maybe college medical structure size. Say however there week generation."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
