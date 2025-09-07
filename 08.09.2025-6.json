@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Austin",
+    "age": 101,
+    "address": {
+        "street": "Joshua Place",
+        "city": "Troymouth",
+        "state": "Minnesota",
+        "zip": "89027"
+    },
+    "contact": {
+        "phone": "212-880-3566",
+        "servicePhone": "800240227"
+    },
+    "birthday": "1924-13-11",
+    "ip": "128.128.31.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Play tend board build person. Travel born deal appear fish computer. Seat entire writer quality.\nWind interest moment lose policy former it. Outside station total. Population goal hair.",
+        "bio": "Technology feeling little statement begin ready. Own study Mr who. Bar speech add here specific what best."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
