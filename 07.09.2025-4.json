@@ -1,0 +1,25 @@
+{
+    "name": "Eric Hamilton",
+    "age": 38,
+    "address": {
+        "street": "Campbell Causeway",
+        "city": "Johnsonfort",
+        "state": "Alaska",
+        "zip": "85011"
+    },
+    "contact": {
+        "phone": "789-385-9830",
+        "servicePhone": "800201680"
+    },
+    "birthday": "1987-26-08",
+    "ip": "199.178.198.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Social sea allow week determine quickly. Pay image sell population factor child.\nPlace fly reach husband under many artist. Special raise property together most learn threat.",
+        "bio": "Design admit cover answer. North want condition keep option soldier player full."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
