@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Boyd",
+    "age": 11,
+    "address": {
+        "street": "Walsh Fort",
+        "city": "Davisshire",
+        "state": "Oregon",
+        "zip": "97707"
+    },
+    "contact": {
+        "phone": "200.547.4947",
+        "servicePhone": "800511244"
+    },
+    "birthday": "2014-06-11",
+    "ip": "81.177.34.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Capital me determine color city. Cup student lawyer important especially including international positive.\nOnto training strong physical behind night edge. Her factor fill themselves.",
+        "bio": "Usually single this leg. During ability me speak region card. Act not it three fish both top. Anything picture to nation state maybe."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
