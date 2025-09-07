@@ -1,0 +1,25 @@
+{
+    "name": "Beth Hernandez",
+    "age": 15,
+    "address": {
+        "street": "Scott Harbor",
+        "city": "New Adamchester",
+        "state": "Nevada",
+        "zip": "11881"
+    },
+    "contact": {
+        "phone": "+1-245-720-5653",
+        "servicePhone": "800319316"
+    },
+    "birthday": "2010-25-10",
+    "ip": "103.229.17.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Choice trip discussion save bill. Financial study paper good interesting. Present past assume.",
+        "bio": "Change deal improve out. Decade throughout five ask your or.\nCertain though father memory break. Hot investment participant rule.\nKey thousand bar rather class."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
