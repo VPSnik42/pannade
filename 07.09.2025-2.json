@@ -1,0 +1,25 @@
+{
+    "name": "Nichole Joseph",
+    "age": 65,
+    "address": {
+        "street": "Deanna Throughway",
+        "city": "Terrymouth",
+        "state": "Ohio",
+        "zip": "22393"
+    },
+    "contact": {
+        "phone": "+1-540-256-1185x8566",
+        "servicePhone": "800394775"
+    },
+    "birthday": "1960-09-01",
+    "ip": "36.43.152.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Why modern point training number south. Both party life subject special public sound.\nImagine behavior would president vote story.",
+        "bio": "Why sister modern sound ahead.\nYoung arrive put order these. Black cut necessary white concern. Computer score science size hour would.\nSuccess event among type. Owner call arrive easy."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
