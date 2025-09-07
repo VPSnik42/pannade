@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Little",
+    "age": 112,
+    "address": {
+        "street": "Sullivan Skyway",
+        "city": "North Davidmouth",
+        "state": "Illinois",
+        "zip": "72760"
+    },
+    "contact": {
+        "phone": "211.518.5944x6298",
+        "servicePhone": "800346867"
+    },
+    "birthday": "1913-16-02",
+    "ip": "157.149.253.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Dog catch fund evening throughout himself. Indicate yourself physical past sit read teacher. Debate book hear along tree discover could.",
+        "bio": "Social interest safe court election program arm. Few for southern protect region. Join present why focus customer nothing."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
