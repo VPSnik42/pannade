@@ -1,0 +1,25 @@
+{
+    "name": "Jenna Chavez",
+    "age": 59,
+    "address": {
+        "street": "Jose Drives",
+        "city": "Stokesmouth",
+        "state": "New York",
+        "zip": "18630"
+    },
+    "contact": {
+        "phone": "(467)871-3197x496",
+        "servicePhone": "800936922"
+    },
+    "birthday": "1966-10-11",
+    "ip": "20.102.173.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Our ability trial their recognize play high. Fight learn identify hear teach answer family.",
+        "bio": "Would figure myself sell level simple choose person. Phone test clear knowledge. Reason item throughout."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
