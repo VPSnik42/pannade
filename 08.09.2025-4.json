@@ -1,0 +1,25 @@
+{
+    "name": "Emily Collins",
+    "age": 104,
+    "address": {
+        "street": "Butler Lake",
+        "city": "Nicoleburgh",
+        "state": "Ohio",
+        "zip": "09555"
+    },
+    "contact": {
+        "phone": "(248)408-0942x052",
+        "servicePhone": "800800875"
+    },
+    "birthday": "1921-19-06",
+    "ip": "132.96.124.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Line many everyone indeed. Window idea thank attack. Involve movement structure mind style.",
+        "bio": "Ago thought us weight public role benefit.\nEvening indeed building. Democratic positive base option worry. Respond inside quality third explain understand campaign."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
