@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Tyler",
+    "age": 40,
+    "address": {
+        "street": "Scott Orchard",
+        "city": "South Bonnie",
+        "state": "Michigan",
+        "zip": "07279"
+    },
+    "contact": {
+        "phone": "5448677678",
+        "servicePhone": "800932211"
+    },
+    "birthday": "1985-09-07",
+    "ip": "6.44.147.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Home end protect executive they where project. Gun one let sister.\nCentury walk claim. Statement statement little alone.",
+        "bio": "Which continue kid feeling present trip want mind. Establish smile attention five similar Congress. Notice adult let body increase long scientist woman. Lead dog in strong heavy man."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
