@@ -1,0 +1,25 @@
+{
+    "name": "Erika Thompson",
+    "age": 13,
+    "address": {
+        "street": "Brown Port",
+        "city": "Ambershire",
+        "state": "Iowa",
+        "zip": "62397"
+    },
+    "contact": {
+        "phone": "+1-216-406-2699",
+        "servicePhone": "800878396"
+    },
+    "birthday": "2012-24-09",
+    "ip": "48.49.80.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Story left source mother. Both story fight throughout customer talk available. Garden discover air eye analysis identify way.",
+        "bio": "Health notice between cause beat nor. Administration general later professor soldier with. Price social TV current spring.\nReflect him detail pass top station."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
