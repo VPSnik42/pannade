@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Conner",
+    "age": 39,
+    "address": {
+        "street": "Elizabeth Land",
+        "city": "Joanfort",
+        "state": "Texas",
+        "zip": "31819"
+    },
+    "contact": {
+        "phone": "466-222-3819x092",
+        "servicePhone": "800663198"
+    },
+    "birthday": "1986-09-05",
+    "ip": "88.110.45.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Decide kitchen information full despite business. Some cover year cup. People quality significant fund let.",
+        "bio": "Enough get push keep as. Wall including structure increase.\nThis method soon back. Structure beyond dinner too detail person sport. Job place election Republican environment practice training."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
