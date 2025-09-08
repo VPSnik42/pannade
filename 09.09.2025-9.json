@@ -1,0 +1,25 @@
+{
+    "name": "Connie Francis",
+    "age": 110,
+    "address": {
+        "street": "Lee Village",
+        "city": "Robertsport",
+        "state": "Kansas",
+        "zip": "01867"
+    },
+    "contact": {
+        "phone": "(342)891-3590x532",
+        "servicePhone": "800668533"
+    },
+    "birthday": "1915-15-05",
+    "ip": "16.24.7.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Best bar focus put meet military which.\nAct check amount. Thus watch experience which join. Foot for apply pattern lead most national share.",
+        "bio": "Law degree look blue. Up house employee area memory. Instead attack trouble high feeling member push. Evening what worker budget provide pass.\nInvolve open eye door. Save campaign watch moment."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
