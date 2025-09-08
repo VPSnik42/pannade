@@ -1,0 +1,25 @@
+{
+    "name": "Robert Hamilton",
+    "age": 85,
+    "address": {
+        "street": "Lauren Stream",
+        "city": "Lake Matthewmouth",
+        "state": "West Virginia",
+        "zip": "28792"
+    },
+    "contact": {
+        "phone": "4239051669",
+        "servicePhone": "800685933"
+    },
+    "birthday": "1940-18-05",
+    "ip": "19.10.140.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Letter free positive out. Across admit far share question why particular idea. Effort collection war local. How shoulder system interesting finish color.",
+        "bio": "Quality international suggest western whom. Night million before watch.\nEverything step might model staff data. Recently glass often month economic. Simple popular take reduce chance all think."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
