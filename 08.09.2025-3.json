@@ -1,0 +1,25 @@
+{
+    "name": "Terri Reid",
+    "age": 104,
+    "address": {
+        "street": "Andrea Mill",
+        "city": "West Jerrystad",
+        "state": "Washington",
+        "zip": "63554"
+    },
+    "contact": {
+        "phone": "001-709-326-6310x54510",
+        "servicePhone": "800813181"
+    },
+    "birthday": "1921-11-02",
+    "ip": "25.35.26.61",
+    "foo": "bar",
+    "profile": {
+        "about": "No claim goal reach care my. Too back teacher tell race no. Maintain floor audience adult energy himself action doctor.\nPosition down avoid hot heart out country. Budget until law onto city.",
+        "bio": "Follow put away middle beautiful. Role democratic story exist consumer community."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
