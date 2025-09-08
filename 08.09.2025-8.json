@@ -1,0 +1,25 @@
+{
+    "name": "Craig Walker",
+    "age": 5,
+    "address": {
+        "street": "Rhonda Tunnel",
+        "city": "Mcintoshtown",
+        "state": "Arkansas",
+        "zip": "45766"
+    },
+    "contact": {
+        "phone": "(480)265-2998",
+        "servicePhone": "800710967"
+    },
+    "birthday": "2020-15-06",
+    "ip": "13.80.12.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Sort measure interview hear. Keep spring church enjoy may top. Something into hear hit.\nHold coach perform. Worker plan them issue. Art relationship front argue become study.",
+        "bio": "National TV maybe sound bed. Research almost admit deep hour in such."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
