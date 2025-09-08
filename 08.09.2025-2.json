@@ -1,0 +1,25 @@
+{
+    "name": "Maria Williams",
+    "age": 34,
+    "address": {
+        "street": "Timothy Mount",
+        "city": "South Gail",
+        "state": "Washington",
+        "zip": "10024"
+    },
+    "contact": {
+        "phone": "(356)853-3667x95165",
+        "servicePhone": "800713002"
+    },
+    "birthday": "1991-26-05",
+    "ip": "74.119.124.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Just we important various task. So discover born through. Popular computer subject city.",
+        "bio": "Few at them large standard. Cost represent PM as threat affect student.\nSkin no as her long. View administration generation from."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
