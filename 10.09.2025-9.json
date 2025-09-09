@@ -1,0 +1,25 @@
+{
+    "name": "Haley Romero",
+    "age": 43,
+    "address": {
+        "street": "Joseph Haven",
+        "city": "Belindachester",
+        "state": "Rhode Island",
+        "zip": "09362"
+    },
+    "contact": {
+        "phone": "657-899-0740x62119",
+        "servicePhone": "800334567"
+    },
+    "birthday": "1982-18-10",
+    "ip": "148.172.184.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Anything development matter kind build.\nMy company goal look bring.\nExpert produce chance machine thus. Building its type whether whole maybe structure off. Join low drive school.",
+        "bio": "Task seem identify technology travel ever wall. Health night pattern. Boy instead suddenly watch."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
