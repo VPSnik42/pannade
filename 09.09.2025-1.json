@@ -1,0 +1,25 @@
+{
+    "name": "Megan Alvarez",
+    "age": 110,
+    "address": {
+        "street": "Wilson Street",
+        "city": "East Kimberlybury",
+        "state": "Massachusetts",
+        "zip": "72963"
+    },
+    "contact": {
+        "phone": "522-814-8488x8624",
+        "servicePhone": "800418668"
+    },
+    "birthday": "1915-24-12",
+    "ip": "146.150.19.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Music population watch that personal least. Wide style color.",
+        "bio": "Role member activity. Chance clearly bank fly nor. Customer activity read me.\nBetween to you game. Toward enjoy guess community. Very age subject check field."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
