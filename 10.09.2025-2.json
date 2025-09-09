@@ -1,0 +1,25 @@
+{
+    "name": "Jeff Brown",
+    "age": 16,
+    "address": {
+        "street": "Danielle Ridges",
+        "city": "Kirstenmouth",
+        "state": "Arizona",
+        "zip": "08252"
+    },
+    "contact": {
+        "phone": "518-217-4623",
+        "servicePhone": "800799706"
+    },
+    "birthday": "2009-21-12",
+    "ip": "28.112.74.236",
+    "foo": "bar",
+    "profile": {
+        "about": "South heavy identify age test own. Card white shake stage once green positive still.\nSave without sister expert much in recent. Play top break kind.",
+        "bio": "Choose sit can ok need. Southern range budget science.\nDifference red institution picture resource then."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
