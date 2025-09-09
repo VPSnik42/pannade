@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Madden",
+    "age": 7,
+    "address": {
+        "street": "Chad Canyon",
+        "city": "North Erin",
+        "state": "Maryland",
+        "zip": "24235"
+    },
+    "contact": {
+        "phone": "695-695-3891",
+        "servicePhone": "800516254"
+    },
+    "birthday": "2018-15-11",
+    "ip": "42.199.16.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Election exactly order enjoy. Continue leg increase yet then.\nAffect control picture reason.",
+        "bio": "Benefit system court of account hear. Skin three history popular machine. Imagine send meet in report image site environmental."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
