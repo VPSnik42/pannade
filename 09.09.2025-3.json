@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Kim",
+    "age": 11,
+    "address": {
+        "street": "James Way",
+        "city": "Jordanside",
+        "state": "Montana",
+        "zip": "62263"
+    },
+    "contact": {
+        "phone": "+1-806-488-1413",
+        "servicePhone": "800242238"
+    },
+    "birthday": "2014-01-03",
+    "ip": "221.12.229.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Cup training deep page. Every nothing near remember. Direction test than.\nThing government pay page sign. Final thought beat fill black bad family.",
+        "bio": "Management speak main property throughout owner from. Then voice trade want soon enough data."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
