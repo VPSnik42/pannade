@@ -1,0 +1,25 @@
+{
+    "name": "Kelsey Lopez",
+    "age": 41,
+    "address": {
+        "street": "Sanchez Glen",
+        "city": "Karenchester",
+        "state": "Vermont",
+        "zip": "40254"
+    },
+    "contact": {
+        "phone": "+1-365-354-1804x76214",
+        "servicePhone": "800614715"
+    },
+    "birthday": "1984-03-08",
+    "ip": "5.89.46.68",
+    "foo": "bar",
+    "profile": {
+        "about": "College catch edge condition. Financial have mother explain. Sing name blue heart. Investment speak teach tough hope direction.",
+        "bio": "Lead wait lot during range point represent. Before trip decade size. Significant staff available less.\nKitchen always discuss yet. Than anyone these make nor."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
