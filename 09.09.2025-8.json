@@ -1,0 +1,25 @@
+{
+    "name": "April Hernandez",
+    "age": 21,
+    "address": {
+        "street": "Jennifer Brooks",
+        "city": "East Holly",
+        "state": "Arkansas",
+        "zip": "78702"
+    },
+    "contact": {
+        "phone": "965.466.8262x038",
+        "servicePhone": "800048017"
+    },
+    "birthday": "2004-15-08",
+    "ip": "196.90.176.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Item serve sport successful could director thing. Color interesting fund director probably. Foot word instead right choice institution side international.",
+        "bio": "But open address let trip. Set necessary work. Analysis and process gun house.\nNatural certain size travel truth. Still next cause. Generation life friend hard."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
