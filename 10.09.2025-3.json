@@ -1,0 +1,25 @@
+{
+    "name": "William Taylor",
+    "age": 59,
+    "address": {
+        "street": "Cheryl Manors",
+        "city": "Port Julie",
+        "state": "South Carolina",
+        "zip": "38477"
+    },
+    "contact": {
+        "phone": "(949)728-9627x468",
+        "servicePhone": "800202727"
+    },
+    "birthday": "1966-02-07",
+    "ip": "126.182.226.253",
+    "foo": "bar",
+    "profile": {
+        "about": "West move need charge film effort fire suggest. Action thus moment building teacher or here leader.\nFirm box become painting agree appear. Less technology chair different late medical which.",
+        "bio": "Keep look successful computer. Pay southern guess argue. Dinner type thought share."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
