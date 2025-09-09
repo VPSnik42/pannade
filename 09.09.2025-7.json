@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Lambert",
+    "age": 2,
+    "address": {
+        "street": "Andrew Road",
+        "city": "Ariasville",
+        "state": "Rhode Island",
+        "zip": "78217"
+    },
+    "contact": {
+        "phone": "001-931-584-4593",
+        "servicePhone": "800924852"
+    },
+    "birthday": "2023-07-09",
+    "ip": "198.36.218.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Person about while surface consider. Live ask suddenly price small. Seat weight thing color move value century.",
+        "bio": "They win win accept tonight wish. Positive hot up reality turn opportunity. Already interview education wife agency should.\nHistory agency material ever. Particularly hundred capital send bad focus."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
