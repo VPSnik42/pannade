@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Black",
+    "age": 11,
+    "address": {
+        "street": "William Park",
+        "city": "Williammouth",
+        "state": "Alaska",
+        "zip": "99121"
+    },
+    "contact": {
+        "phone": "553-805-1393x23215",
+        "servicePhone": "800946304"
+    },
+    "birthday": "2014-31-10",
+    "ip": "29.160.118.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound pull parent cultural. Let feel let tough human mind possible actually.\nProvide sometimes change for reach language.",
+        "bio": "Trouble third value indeed stage significant particular fast. Reduce street fire ask just race always."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
