@@ -1,0 +1,25 @@
+{
+    "name": "Mark Jones",
+    "age": 100,
+    "address": {
+        "street": "Stokes Mission",
+        "city": "South Lauren",
+        "state": "California",
+        "zip": "73362"
+    },
+    "contact": {
+        "phone": "936-989-1177",
+        "servicePhone": "800088210"
+    },
+    "birthday": "1925-05-03",
+    "ip": "20.108.144.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Save Democrat add smile draw.\nAnimal eat set. Imagine nearly deep grow.\nOil program and president effect five strong goal. Ago director anyone me situation.",
+        "bio": "Your cut it seat beyond left daughter. Week yard relate similar state than.\nOfficer industry hot hope upon seem. Information yeah television way."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
