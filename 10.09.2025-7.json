@@ -1,0 +1,25 @@
+{
+    "name": "David Townsend",
+    "age": 77,
+    "address": {
+        "street": "Stanley Radial",
+        "city": "Robertostad",
+        "state": "Virginia",
+        "zip": "37164"
+    },
+    "contact": {
+        "phone": "594-267-6607",
+        "servicePhone": "800625844"
+    },
+    "birthday": "1948-04-03",
+    "ip": "32.199.174.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Course identify as quite such maybe. Community just treatment market Democrat seven enough goal.\nDream toward process talk key. Car job east. Goal reality point shake wear.",
+        "bio": "His gun floor before mission raise bad. Address physical feeling culture road live goal. Listen way physical clearly."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
