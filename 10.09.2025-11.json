@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Heath",
+    "age": 28,
+    "address": {
+        "street": "Amber Shore",
+        "city": "Colleenville",
+        "state": "Vermont",
+        "zip": "69717"
+    },
+    "contact": {
+        "phone": "647.520.2274x7406",
+        "servicePhone": "800831803"
+    },
+    "birthday": "1997-12-08",
+    "ip": "3.112.154.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain sometimes establish end clearly fly drug. Assume successful significant partner them case commercial. Bank forward hope risk.",
+        "bio": "Perform economy shake raise teach fall. Consider loss image sometimes issue. Entire now strong energy yard now account. True simply plant bad see soldier."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
