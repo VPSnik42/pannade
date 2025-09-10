@@ -1,0 +1,25 @@
+{
+    "name": "Charles Gray",
+    "age": 59,
+    "address": {
+        "street": "Gonzales Avenue",
+        "city": "Zacharymouth",
+        "state": "Missouri",
+        "zip": "56905"
+    },
+    "contact": {
+        "phone": "910-292-8623x3719",
+        "servicePhone": "800793108"
+    },
+    "birthday": "1966-28-09",
+    "ip": "119.122.141.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Week fill surface contain perform. Most need along military he specific. Rock respond cost serve ground mention choice.",
+        "bio": "Message wide enough company. Way community strong contain. Pull able force important analysis.\nSource PM bank yard poor seek practice. Government itself in their."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
