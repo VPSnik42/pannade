@@ -1,0 +1,25 @@
+{
+    "name": "Don Ray",
+    "age": 106,
+    "address": {
+        "street": "Melissa Road",
+        "city": "Garciachester",
+        "state": "New Hampshire",
+        "zip": "56558"
+    },
+    "contact": {
+        "phone": "+1-999-586-2407x6953",
+        "servicePhone": "800620451"
+    },
+    "birthday": "1919-28-03",
+    "ip": "56.90.208.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Himself girl every ready west. Response north lead mention. Various public often character cut.\nResearch general spring. Check tell until rock.",
+        "bio": "City same reflect social.\nNews walk night body energy able. Drug rather teacher first from. Source safe while instead couple difference beautiful."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
