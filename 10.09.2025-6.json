@@ -1,0 +1,25 @@
+{
+    "name": "Erik Carr",
+    "age": 75,
+    "address": {
+        "street": "Ramsey Lake",
+        "city": "New Chad",
+        "state": "New Hampshire",
+        "zip": "47350"
+    },
+    "contact": {
+        "phone": "937-760-1996",
+        "servicePhone": "800811573"
+    },
+    "birthday": "1950-28-12",
+    "ip": "2.87.32.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Like history majority identify she build. Condition free music interview majority single. Although treat nice subject game table future.",
+        "bio": "The figure listen wrong write customer goal.\nPart individual rock Congress wide summer consumer my. Rich fear position water east future people. Purpose plan public result line plant future head."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
