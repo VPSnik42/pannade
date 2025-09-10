@@ -1,0 +1,25 @@
+{
+    "name": "Steven Ortega",
+    "age": 107,
+    "address": {
+        "street": "Brooks Centers",
+        "city": "Bennettborough",
+        "state": "California",
+        "zip": "62278"
+    },
+    "contact": {
+        "phone": "(487)746-1786x947",
+        "servicePhone": "800133742"
+    },
+    "birthday": "1918-21-03",
+    "ip": "38.74.7.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Inside participant real loss officer. Fact popular offer president technology everyone. Perform ask listen as adult human number.",
+        "bio": "If full image current. Simply social off bring ability.\nExpert team relationship choice seven. Management government one city real prevent few. Protect member peace."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
