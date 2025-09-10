@@ -1,0 +1,25 @@
+{
+    "name": "Mr. David Stuart",
+    "age": 75,
+    "address": {
+        "street": "Carey Path",
+        "city": "Angelahaven",
+        "state": "Wyoming",
+        "zip": "40732"
+    },
+    "contact": {
+        "phone": "+1-242-946-6847x933",
+        "servicePhone": "800439972"
+    },
+    "birthday": "1950-18-08",
+    "ip": "11.140.215.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Image rest either call guess. Add religious civil alone someone under. Short party too door natural know tend.",
+        "bio": "Firm reality doctor. Building remain hair gas in home. Possible history while hotel television expect.\nCamera require way under democratic face or. Imagine should full that."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
