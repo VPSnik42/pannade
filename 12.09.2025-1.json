@@ -1,0 +1,25 @@
+{
+    "name": "Mckenzie Adkins",
+    "age": 31,
+    "address": {
+        "street": "Ruiz Corners",
+        "city": "Fergusontown",
+        "state": "New Mexico",
+        "zip": "76542"
+    },
+    "contact": {
+        "phone": "327.576.7508",
+        "servicePhone": "800093978"
+    },
+    "birthday": "1994-19-04",
+    "ip": "207.138.182.168",
+    "foo": "bar",
+    "profile": {
+        "about": "My view federal third only compare lawyer. Wear right experience expert investment wife.\nDiscover community ready data. Sport policy nothing trade quality decide instead.",
+        "bio": "Few enter quality he lead nor require grow. Catch including to general star drug. Practice recent themselves interview hope.\nMuch someone director."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
