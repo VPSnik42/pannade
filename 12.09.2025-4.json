@@ -1,0 +1,25 @@
+{
+    "name": "John Kelly",
+    "age": 38,
+    "address": {
+        "street": "Hall Plain",
+        "city": "East Robert",
+        "state": "South Dakota",
+        "zip": "28225"
+    },
+    "contact": {
+        "phone": "(801)703-9407",
+        "servicePhone": "800798389"
+    },
+    "birthday": "1987-26-02",
+    "ip": "19.229.114.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Leader wear street. Investment including child always future scene performance. Experience heart race sort.",
+        "bio": "Information us performance bad. Such culture as few report rate method event.\nEat game great plant project. Throughout point say east."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
