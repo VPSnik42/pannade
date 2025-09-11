@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Hartman",
+    "age": 9,
+    "address": {
+        "street": "Brandon Estate",
+        "city": "Nicoleshire",
+        "state": "Wisconsin",
+        "zip": "83645"
+    },
+    "contact": {
+        "phone": "+1-244-733-3823x119",
+        "servicePhone": "800882318"
+    },
+    "birthday": "2016-24-07",
+    "ip": "148.182.242.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Break six security. Let scene energy why single while.\nData use open affect everyone action. Somebody scientist watch mention.",
+        "bio": "Nearly floor partner high sport college. Woman oil movie strategy for fine. Activity sign degree apply anything check blood life."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
