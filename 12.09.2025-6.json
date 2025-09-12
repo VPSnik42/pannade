@@ -1,0 +1,25 @@
+{
+    "name": "Michele Myers",
+    "age": 109,
+    "address": {
+        "street": "Thornton Knolls",
+        "city": "Julieberg",
+        "state": "California",
+        "zip": "31632"
+    },
+    "contact": {
+        "phone": "984-418-9384",
+        "servicePhone": "800635957"
+    },
+    "birthday": "1916-26-05",
+    "ip": "155.25.1.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder staff degree share rule. Face human make more. Billion western three long marriage prove. Position throughout wrong.",
+        "bio": "Concern next hope stop. Less believe dream sport experience game general event. Federal garden see wait other.\nNor sure woman difficult process."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
