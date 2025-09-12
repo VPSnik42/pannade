@@ -1,0 +1,25 @@
+{
+    "name": "Mary Carlson",
+    "age": 18,
+    "address": {
+        "street": "Williams Village",
+        "city": "North Tina",
+        "state": "Illinois",
+        "zip": "48522"
+    },
+    "contact": {
+        "phone": "(730)723-1524",
+        "servicePhone": "800291927"
+    },
+    "birthday": "2007-10-10",
+    "ip": "205.227.104.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Consider thousand southern office represent. Everything during red whatever physical maintain.\nActually arrive stuff he gas face compare. Plant person imagine dog attack face yet expert.",
+        "bio": "Deep method nor spend write case cost. Media president wonder group sea all.\nNational seem computer employee result bad responsibility room. Collection behavior fire drug. Director move lawyer."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
