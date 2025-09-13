@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Greene",
+    "age": 32,
+    "address": {
+        "street": "Katherine Circle",
+        "city": "Chambersborough",
+        "state": "California",
+        "zip": "91947"
+    },
+    "contact": {
+        "phone": "673.258.8165x0763",
+        "servicePhone": "800140746"
+    },
+    "birthday": "1993-02-01",
+    "ip": "185.82.130.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Tv campaign class like respond. Idea bag coach federal magazine consumer western.",
+        "bio": "Company site stop later make. Mind responsibility total beat hard. Eat inside catch offer lawyer. Business occur identify very number star."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
