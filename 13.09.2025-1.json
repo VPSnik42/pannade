@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Wolf",
+    "age": 72,
+    "address": {
+        "street": "Louis Streets",
+        "city": "New Rileyport",
+        "state": "Utah",
+        "zip": "34672"
+    },
+    "contact": {
+        "phone": "257.748.0649x0939",
+        "servicePhone": "800187792"
+    },
+    "birthday": "1953-13-11",
+    "ip": "203.247.63.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Yet father dark too sometimes sound suddenly. Thank rock group energy program friend. Notice drug free.",
+        "bio": "Kitchen foreign seat save service figure. Practice reason easy impact front old field wife.\nBecause amount seat ask hear no age. Read federal market just.\nUpon citizen include almost."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
