@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Carter",
+    "age": 42,
+    "address": {
+        "street": "Madison Crescent",
+        "city": "Heathermouth",
+        "state": "Kentucky",
+        "zip": "41018"
+    },
+    "contact": {
+        "phone": "001-430-871-1642x648",
+        "servicePhone": "800391207"
+    },
+    "birthday": "1983-24-02",
+    "ip": "185.128.158.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Once fight before situation process necessary. Blood interest similar economic represent age off. Late affect physical.",
+        "bio": "Sell ball energy. Or ask for entire.\nSomething dark trouble party answer man huge. Win song everything share."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
