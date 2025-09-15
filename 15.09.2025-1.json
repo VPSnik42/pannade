@@ -1,0 +1,25 @@
+{
+    "name": "Eric Gomez",
+    "age": 27,
+    "address": {
+        "street": "Diane Grove",
+        "city": "Grossborough",
+        "state": "Alabama",
+        "zip": "27096"
+    },
+    "contact": {
+        "phone": "654.984.8725",
+        "servicePhone": "800956152"
+    },
+    "birthday": "1998-05-12",
+    "ip": "23.40.198.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Speak between senior fact say want let real. Morning nature recognize low week catch animal.",
+        "bio": "Go act available future section character southern history. Democrat most wind these. Music scene though single thank surface hair."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
