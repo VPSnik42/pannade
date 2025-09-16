@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Ford",
+    "age": 115,
+    "address": {
+        "street": "Weber Unions",
+        "city": "Smithmouth",
+        "state": "Nebraska",
+        "zip": "22976"
+    },
+    "contact": {
+        "phone": "942.848.3459",
+        "servicePhone": "800851419"
+    },
+    "birthday": "1910-24-08",
+    "ip": "112.251.60.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Easy current difference task. Interest do order prepare toward sell. List of support force.",
+        "bio": "Fight guess available. Treatment stand TV top.\nLand foreign level big.\nChurch kid miss the animal. Husband ago TV subject."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
