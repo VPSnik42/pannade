@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Wright",
+    "age": 19,
+    "address": {
+        "street": "Sara Meadows",
+        "city": "East Lindseytown",
+        "state": "Virginia",
+        "zip": "42114"
+    },
+    "contact": {
+        "phone": "+1-523-763-9562x565",
+        "servicePhone": "800003708"
+    },
+    "birthday": "2006-29-12",
+    "ip": "28.68.160.172",
+    "foo": "bar",
+    "profile": {
+        "about": "However knowledge hotel dream item high simply. Subject wrong well hear child future per body. Help case name enter. Debate they drug center audience who.",
+        "bio": "Kind cut later. Mind growth dark tonight only cut remain. Guy rock girl operation. Game itself trouble father."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
