@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Lee",
+    "age": 21,
+    "address": {
+        "street": "Shannon Shore",
+        "city": "Markside",
+        "state": "Connecticut",
+        "zip": "45656"
+    },
+    "contact": {
+        "phone": "4448139588",
+        "servicePhone": "800317290"
+    },
+    "birthday": "2004-20-02",
+    "ip": "118.100.3.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Body way long. Significant want believe focus trouble.\nYoung mother arrive piece seven hand. Top improve wish fund.\nDecade method care perhaps. Debate with young candidate.",
+        "bio": "Send under sing together foot move.\nAbility minute campaign training hand peace. Hair address white move maintain pretty long. Have begin health rich."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
