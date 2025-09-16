@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Hodge",
+    "age": 18,
+    "address": {
+        "street": "Fowler Glens",
+        "city": "Wheelertown",
+        "state": "New Mexico",
+        "zip": "42555"
+    },
+    "contact": {
+        "phone": "(911)650-2454",
+        "servicePhone": "800762772"
+    },
+    "birthday": "2007-21-09",
+    "ip": "215.155.209.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Range series per strategy then personal shoulder. Decide political edge brother worry.\nAgain inside be fact financial school TV.",
+        "bio": "Fire ask same something about stuff beautiful many. Onto analysis require friend make challenge discover.\nResult crime market determine rest street. Sometimes use population Mrs."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
