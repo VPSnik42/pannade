@@ -1,0 +1,25 @@
+{
+    "name": "Cory Mcmahon",
+    "age": 21,
+    "address": {
+        "street": "Emily Plains",
+        "city": "Shelbybury",
+        "state": "Nebraska",
+        "zip": "87624"
+    },
+    "contact": {
+        "phone": "001-384-651-2850x6347",
+        "servicePhone": "800222313"
+    },
+    "birthday": "2004-16-09",
+    "ip": "50.83.101.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Seat spend south same above. Community behavior understand.",
+        "bio": "Although authority visit. Weight special serve alone.\nWestern weight treatment happen finish sort race produce. Many base safe quite better save left."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
