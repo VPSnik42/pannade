@@ -1,0 +1,25 @@
+{
+    "name": "Jason Adams",
+    "age": 26,
+    "address": {
+        "street": "Robert Dale",
+        "city": "Murrayfurt",
+        "state": "Oklahoma",
+        "zip": "68075"
+    },
+    "contact": {
+        "phone": "343.330.7473x79112",
+        "servicePhone": "800766973"
+    },
+    "birthday": "1999-18-09",
+    "ip": "189.193.230.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother show subject action. Main machine follow operation avoid too.",
+        "bio": "Type security remember lot candidate skin. Environment church draw so. Able force agency bring vote heart next."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
