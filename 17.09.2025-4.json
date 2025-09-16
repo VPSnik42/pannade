@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Warner",
+    "age": 26,
+    "address": {
+        "street": "Barrett Dale",
+        "city": "Johnport",
+        "state": "Arkansas",
+        "zip": "07054"
+    },
+    "contact": {
+        "phone": "2666124656",
+        "servicePhone": "800002980"
+    },
+    "birthday": "1999-25-06",
+    "ip": "2.117.109.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Live size law loss admit majority movement. Rich option traditional century.\nDinner prepare eat wish leave authority. North figure may move act. American trade artist open final miss.",
+        "bio": "Present positive should structure network once computer. Leader chance early compare every environment not. Actually ball chair certainly beautiful imagine."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
