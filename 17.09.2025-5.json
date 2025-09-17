@@ -1,0 +1,25 @@
+{
+    "name": "Kathy Hall",
+    "age": 52,
+    "address": {
+        "street": "Mcgee Drive",
+        "city": "North Christopherhaven",
+        "state": "Indiana",
+        "zip": "15432"
+    },
+    "contact": {
+        "phone": "+1-590-462-4967x854",
+        "servicePhone": "800390423"
+    },
+    "birthday": "1973-26-10",
+    "ip": "165.181.152.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Million song current card. Worker box trip city southern. Class prepare where food.\nBaby both job particularly. Seem view Mr room.\nAllow west less them top their. Least matter recent learn.",
+        "bio": "Loss physical left age she term season. None represent step.\nPhone tax drive guy future college group. Star that thank budget.\nPeace me middle discuss word. Visit local organization."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
