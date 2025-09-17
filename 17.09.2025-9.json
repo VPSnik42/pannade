@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Thompson",
+    "age": 26,
+    "address": {
+        "street": "Louis Crescent",
+        "city": "Fowlerhaven",
+        "state": "Nebraska",
+        "zip": "94296"
+    },
+    "contact": {
+        "phone": "001-946-372-3962x27579",
+        "servicePhone": "800119031"
+    },
+    "birthday": "1999-19-11",
+    "ip": "145.143.235.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Around laugh tell three small fill. Staff rate claim under. Parent try so sound expect save good.\nNear appear traditional carry green. Yourself also into too. Small view machine stage three camera.",
+        "bio": "Worry line such half. Class certain Republican product federal order. Car son mention talk check stock condition.\nSuddenly quite hour to professor treatment lead."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
