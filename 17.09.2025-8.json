@@ -1,0 +1,25 @@
+{
+    "name": "Laurie Charles",
+    "age": 21,
+    "address": {
+        "street": "Jennifer Drive",
+        "city": "Gonzalezhaven",
+        "state": "Ohio",
+        "zip": "66550"
+    },
+    "contact": {
+        "phone": "001-689-516-0055x5327",
+        "servicePhone": "800009874"
+    },
+    "birthday": "2004-13-01",
+    "ip": "154.28.182.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Generation machine amount federal increase bring. Threat free agent.\nMention research significant day.\nSkill south already. Political past four whole participant protect.",
+        "bio": "Bit send cold degree western your. Certain force watch baby.\nCentral record exist toward nice.\nToo no ago cultural image forward investment."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
