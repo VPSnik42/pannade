@@ -1,0 +1,25 @@
+{
+    "name": "Zachary King",
+    "age": 81,
+    "address": {
+        "street": "Paul Ford",
+        "city": "Jenniferstad",
+        "state": "Illinois",
+        "zip": "93251"
+    },
+    "contact": {
+        "phone": "2922680904",
+        "servicePhone": "800779316"
+    },
+    "birthday": "1944-11-12",
+    "ip": "207.194.83.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Last store forget at.\nAttention oil total smile figure cold within. Much not pattern kid quickly teacher. Reduce ability item career floor color. Music mind check politics we be.",
+        "bio": "Education people modern way as. Evidence indicate happen however. Bill newspaper than line under outside cut.\nFederal choice interest first effort. So stay when watch far organization."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
