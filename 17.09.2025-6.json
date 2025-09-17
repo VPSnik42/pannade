@@ -1,0 +1,25 @@
+{
+    "name": "Peter Webb",
+    "age": 9,
+    "address": {
+        "street": "Andrews Inlet",
+        "city": "East Amyburgh",
+        "state": "Louisiana",
+        "zip": "60972"
+    },
+    "contact": {
+        "phone": "846.248.8320x13866",
+        "servicePhone": "800892673"
+    },
+    "birthday": "2016-23-04",
+    "ip": "144.81.241.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank check like run sort.\nNecessary spend will let. Score any it hotel bill sport day.\nOr indicate four age decision fire maintain. Kitchen the rest point community order both.",
+        "bio": "His say fish. Smile speak whatever week resource. Enter important another me amount make late.\nSay clear after music. Break fly international who claim. Today receive amount effect."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
