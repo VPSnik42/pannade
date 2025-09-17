@@ -1,0 +1,25 @@
+{
+    "name": "Anne Mejia",
+    "age": 51,
+    "address": {
+        "street": "Donna Camp",
+        "city": "Susanmouth",
+        "state": "New Hampshire",
+        "zip": "63099"
+    },
+    "contact": {
+        "phone": "811.862.4043x850",
+        "servicePhone": "800959045"
+    },
+    "birthday": "1974-12-09",
+    "ip": "141.54.226.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Mission land modern term. Stand same media whatever board. Remember break eight friend.\nArrive conference campaign top. Occur family mother training.",
+        "bio": "Focus enter though. Tonight book but various board space ever reveal.\nNot plan each center education leave term. Ten past future identify. Partner her live live camera six."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
