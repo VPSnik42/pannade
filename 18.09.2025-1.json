@@ -1,0 +1,25 @@
+{
+    "name": "Lawrence Brown",
+    "age": 88,
+    "address": {
+        "street": "Hall Corner",
+        "city": "East James",
+        "state": "Maryland",
+        "zip": "02638"
+    },
+    "contact": {
+        "phone": "+1-750-777-3895",
+        "servicePhone": "800282545"
+    },
+    "birthday": "1937-05-02",
+    "ip": "207.23.77.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Look wind travel although. Bring wind exist.\nFall exist town. Rule society red evidence rock effort about.",
+        "bio": "Inside toward operation her. Trade impact leg middle why majority.\nDrop marriage fish about themselves. Meeting law true benefit shoulder during."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
