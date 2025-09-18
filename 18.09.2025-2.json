@@ -1,0 +1,25 @@
+{
+    "name": "Richard Bishop",
+    "age": 26,
+    "address": {
+        "street": "Mccoy Parkways",
+        "city": "Jimenezchester",
+        "state": "South Carolina",
+        "zip": "02743"
+    },
+    "contact": {
+        "phone": "(757)544-6863x55883",
+        "servicePhone": "800465933"
+    },
+    "birthday": "1999-28-10",
+    "ip": "25.120.197.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Again television story job strong. Growth drop service there various arm prove. Star couple reduce experience third.\nSkill why wait recent color piece. Protect specific tonight inside.",
+        "bio": "Door apply form growth effort. Start three according."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
