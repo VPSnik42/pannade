@@ -1,0 +1,25 @@
+{
+    "name": "Mario Mueller",
+    "age": 14,
+    "address": {
+        "street": "Paul Inlet",
+        "city": "Murphyborough",
+        "state": "South Carolina",
+        "zip": "42886"
+    },
+    "contact": {
+        "phone": "(537)647-1820",
+        "servicePhone": "800790080"
+    },
+    "birthday": "2011-14-03",
+    "ip": "38.179.236.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Reveal mouth human road all may friend. War there program. School moment away effort interest draw entire.\nBeautiful able push go. Those themselves fact approach side pressure eat.",
+        "bio": "Arrive expert resource event. If make watch plant offer way. Agree later stand truth go service.\nTeam speech letter never kid region. Site teacher despite step what."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
