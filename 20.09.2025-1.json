@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Myers",
+    "age": 110,
+    "address": {
+        "street": "Ashley Mill",
+        "city": "New Nancystad",
+        "state": "Indiana",
+        "zip": "46824"
+    },
+    "contact": {
+        "phone": "(249)744-0758x921",
+        "servicePhone": "800821502"
+    },
+    "birthday": "1915-28-10",
+    "ip": "28.88.114.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Officer section magazine message in. Eat base open professional wear particular.\nSister discover drive already point always. Team through mission perform.",
+        "bio": "Cold born deep city area small because. Travel thus try education identify paper. Too enough fine describe perform. Later process arm someone now condition responsibility."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
