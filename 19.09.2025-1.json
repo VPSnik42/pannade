@@ -1,0 +1,25 @@
+{
+    "name": "Edward Coleman",
+    "age": 67,
+    "address": {
+        "street": "Martin Prairie",
+        "city": "Kyleton",
+        "state": "Maine",
+        "zip": "40215"
+    },
+    "contact": {
+        "phone": "+1-205-495-3379",
+        "servicePhone": "800125491"
+    },
+    "birthday": "1958-22-04",
+    "ip": "149.81.65.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Ask nice article difference president during. Necessary nearly company meet create which once. Conference enough factor enjoy real structure structure.",
+        "bio": "Though expert different individual week protect item.\nEvidence factor public course ever institution stock. Year us station part four. Evidence first long professor."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
