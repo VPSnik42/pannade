@@ -1,0 +1,25 @@
+{
+    "name": "Adrienne Ruiz",
+    "age": 111,
+    "address": {
+        "street": "Smith Views",
+        "city": "South Stephanie",
+        "state": "Ohio",
+        "zip": "74569"
+    },
+    "contact": {
+        "phone": "(269)495-8774x42017",
+        "servicePhone": "800057930"
+    },
+    "birthday": "1914-14-12",
+    "ip": "95.43.151.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Commercial community despite dinner board mind. Police himself move assume pretty.\nEven avoid them fact she course hair. Avoid international I.",
+        "bio": "Economy trouble others deal.\nWork college leg. Well son just manage spend particularly summer. Theory opportunity fast.\nContain learn each significant all everyone."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
