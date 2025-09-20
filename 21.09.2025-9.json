@@ -1,0 +1,25 @@
+{
+    "name": "James Knapp",
+    "age": 31,
+    "address": {
+        "street": "Nathan Island",
+        "city": "New Timothy",
+        "state": "Georgia",
+        "zip": "18090"
+    },
+    "contact": {
+        "phone": "001-389-947-9498x3010",
+        "servicePhone": "800873056"
+    },
+    "birthday": "1994-12-01",
+    "ip": "166.226.15.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Give financial probably network. Central author because.\nYet avoid suddenly government approach while project. Through bring interesting treat.",
+        "bio": "Decade market wait state. Available air military beat current later collection.\nLate plant bed television. Subject check officer. Conference maybe me feel of size."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
