@@ -1,0 +1,25 @@
+{
+    "name": "Adam Andrews",
+    "age": 91,
+    "address": {
+        "street": "Richardson Shores",
+        "city": "Morenomouth",
+        "state": "Missouri",
+        "zip": "22053"
+    },
+    "contact": {
+        "phone": "+1-976-344-2217",
+        "servicePhone": "800613274"
+    },
+    "birthday": "1934-15-03",
+    "ip": "39.18.94.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Right will step threat star side. Nice or understand concern can section speak determine.",
+        "bio": "Although administration information.\nImage take skill cause food bag better.\nUsually accept authority feeling range see way. Miss final senior heavy."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
