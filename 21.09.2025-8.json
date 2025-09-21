@@ -1,0 +1,25 @@
+{
+    "name": "Marissa Williams",
+    "age": 81,
+    "address": {
+        "street": "Roberts Estates",
+        "city": "Turnerberg",
+        "state": "Maryland",
+        "zip": "63389"
+    },
+    "contact": {
+        "phone": "001-330-298-8120x81871",
+        "servicePhone": "800073898"
+    },
+    "birthday": "1944-16-06",
+    "ip": "3.217.242.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Current theory just new tend official. Run laugh perform offer sign actually.",
+        "bio": "Look hour develop meet strategy but car. Either tree concern teacher gas onto issue. World direction difficult rise none bar. Morning speak message."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
