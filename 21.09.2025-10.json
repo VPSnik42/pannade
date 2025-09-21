@@ -1,0 +1,25 @@
+{
+    "name": "Krista Moreno",
+    "age": 15,
+    "address": {
+        "street": "Baxter Fall",
+        "city": "Christopherside",
+        "state": "Arkansas",
+        "zip": "09594"
+    },
+    "contact": {
+        "phone": "8636127757",
+        "servicePhone": "800764061"
+    },
+    "birthday": "2010-16-02",
+    "ip": "195.101.209.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Reality rest ago assume issue task. Standard hit change sense move. Each nothing lawyer explain player mean. Prevent defense detail third Democrat human table.",
+        "bio": "Start ahead push point. Character coach rate feeling.\nFinancial improve blood various central growth. Tv exist environment near."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
