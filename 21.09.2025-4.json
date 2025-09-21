@@ -1,0 +1,25 @@
+{
+    "name": "Gregory George",
+    "age": 111,
+    "address": {
+        "street": "Rodriguez Loop",
+        "city": "Kramerchester",
+        "state": "Colorado",
+        "zip": "03098"
+    },
+    "contact": {
+        "phone": "(240)641-8231x83398",
+        "servicePhone": "800559630"
+    },
+    "birthday": "1914-11-09",
+    "ip": "164.186.199.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Science whose at generation. Western necessary reduce adult fish.\nOffice north term six that put. Science money contain specific goal whole story.",
+        "bio": "Work arrive mind less step leg movement. Easy how those in per. Arrive range record cut practice.\nProtect know him piece. Off traditional Mrs happen ok to process. Site factor base whether maybe."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
