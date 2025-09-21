@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Oconnell",
+    "age": 43,
+    "address": {
+        "street": "Jones Creek",
+        "city": "New Kristastad",
+        "state": "Maryland",
+        "zip": "37669"
+    },
+    "contact": {
+        "phone": "001-319-769-7998x734",
+        "servicePhone": "800296240"
+    },
+    "birthday": "1982-13-05",
+    "ip": "47.84.107.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Size difference media participant. We let direction majority finally want us enjoy.",
+        "bio": "Create operation already behavior their PM.\nNearly peace dog I itself heavy. Tend whose knowledge sense and discuss according meet. Yourself always free people second heavy big."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
