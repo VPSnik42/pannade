@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Clinton Gentry MD",
+    "age": 83,
+    "address": {
+        "street": "Williams Hollow",
+        "city": "Lake Jesse",
+        "state": "Iowa",
+        "zip": "40159"
+    },
+    "contact": {
+        "phone": "654-425-1581x073",
+        "servicePhone": "800481559"
+    },
+    "birthday": "1942-14-07",
+    "ip": "81.8.122.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Dog science civil improve five special. Option clearly important white clear.\nWhatever kitchen talk that age president name child.",
+        "bio": "Door marriage wall sure require. World short drop southern physical rise two almost. Car six possible arrive summer.\nDiscuss address already. We six two treat send."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
