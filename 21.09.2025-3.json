@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Rodriguez",
+    "age": 107,
+    "address": {
+        "street": "Byrd Circle",
+        "city": "Watsonfurt",
+        "state": "Maryland",
+        "zip": "87602"
+    },
+    "contact": {
+        "phone": "(390)422-1427x184",
+        "servicePhone": "800196036"
+    },
+    "birthday": "1918-26-10",
+    "ip": "18.117.250.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Million here stay meet. Quite center beyond hope.\nGet eight necessary course sport hold. Man party natural she ago allow.",
+        "bio": "Million piece new garden before. Final culture animal trouble. Material here large month."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
