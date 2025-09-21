@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Williams",
+    "age": 53,
+    "address": {
+        "street": "Daniel Garden",
+        "city": "Stevenhaven",
+        "state": "Montana",
+        "zip": "02390"
+    },
+    "contact": {
+        "phone": "+1-566-596-8370",
+        "servicePhone": "800625605"
+    },
+    "birthday": "1972-04-03",
+    "ip": "205.150.233.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Between certainly truth full away peace old service. Four sing often store. Me glass hotel also address.\nOffer focus difference never drop first seat. Bank lose space risk race plant almost.",
+        "bio": "Agent measure book ability provide. Public community make blood east. After drug number off. Feel training window."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
