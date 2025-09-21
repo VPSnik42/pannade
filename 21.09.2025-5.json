@@ -1,0 +1,25 @@
+{
+    "name": "Dana Jordan",
+    "age": 91,
+    "address": {
+        "street": "Blankenship Stravenue",
+        "city": "Port Diana",
+        "state": "North Carolina",
+        "zip": "43042"
+    },
+    "contact": {
+        "phone": "650.464.8351x3874",
+        "servicePhone": "800658123"
+    },
+    "birthday": "1934-04-04",
+    "ip": "38.216.249.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Unit place pay. Mean down course who. Camera early detail evening thousand involve.\nFinal recent order lose nation present become. Across man region.",
+        "bio": "Computer form open shoulder kitchen statement. Government use network.\nHowever maybe apply local recently personal item. Serve ability someone test into into tend."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
