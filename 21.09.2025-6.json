@@ -1,0 +1,25 @@
+{
+    "name": "Emily Martin",
+    "age": 81,
+    "address": {
+        "street": "Rodriguez Spring",
+        "city": "Mikechester",
+        "state": "California",
+        "zip": "37803"
+    },
+    "contact": {
+        "phone": "001-962-837-3506x61480",
+        "servicePhone": "800485895"
+    },
+    "birthday": "1944-14-03",
+    "ip": "154.151.13.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Maybe charge someone way last. Quality tend moment glass probably special win.\nAssume produce exactly pull.",
+        "bio": "Much drop write ready imagine. His right news test with foreign.\nAs too discover artist test. Relationship recognize east yeah."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
