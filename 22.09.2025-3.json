@@ -1,0 +1,25 @@
+{
+    "name": "Mark Hughes",
+    "age": 100,
+    "address": {
+        "street": "Thompson Knoll",
+        "city": "Brownview",
+        "state": "Nevada",
+        "zip": "25567"
+    },
+    "contact": {
+        "phone": "711-383-8377",
+        "servicePhone": "800842855"
+    },
+    "birthday": "1925-24-04",
+    "ip": "26.55.250.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Why popular large box of. Order star world any well ok.\nTv money way third certainly. Born theory television likely Mrs doctor.\nImagine drop democratic start child.",
+        "bio": "Cup sound opportunity act box employee. Business defense senior. Always always major she front guy find."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
