@@ -1,0 +1,25 @@
+{
+    "name": "Garrett Dominguez",
+    "age": 40,
+    "address": {
+        "street": "Jones Gardens",
+        "city": "East Philip",
+        "state": "Minnesota",
+        "zip": "76263"
+    },
+    "contact": {
+        "phone": "(324)280-5468x389",
+        "servicePhone": "800254490"
+    },
+    "birthday": "1985-14-01",
+    "ip": "108.123.178.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Performance case none few it time. Population father establish accept movement truth form. Reason process security brother.",
+        "bio": "Across smile news from sit.\nWonder team character bit lot culture that. Arrive list reveal daughter produce. Seek live word thousand support.\nAnd anything plant."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
