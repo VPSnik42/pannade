@@ -1,0 +1,25 @@
+{
+    "name": "Anna Cardenas",
+    "age": 113,
+    "address": {
+        "street": "Sean Circle",
+        "city": "North Stephanie",
+        "state": "Massachusetts",
+        "zip": "76968"
+    },
+    "contact": {
+        "phone": "238-218-7002",
+        "servicePhone": "800593884"
+    },
+    "birthday": "1912-26-08",
+    "ip": "110.213.204.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Somebody fine can ready school million foreign. Into husband question hotel stuff game music window. Consider lose subject spring drug dark ago past. Lawyer represent public point.",
+        "bio": "With civil quality sport happy next billion. Everyone election door morning. Improve growth before remain situation hair.\nStage author significant rate to plant try expect. Law audience leg memory."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
