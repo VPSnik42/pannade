@@ -1,0 +1,25 @@
+{
+    "name": "Jared Johnson",
+    "age": 54,
+    "address": {
+        "street": "Black Forge",
+        "city": "Davidstad",
+        "state": "Mississippi",
+        "zip": "91220"
+    },
+    "contact": {
+        "phone": "+1-826-333-4211x3596",
+        "servicePhone": "800122858"
+    },
+    "birthday": "1971-23-06",
+    "ip": "144.164.171.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Boy show wide above major image. Upon dinner project region.",
+        "bio": "Past ahead success identify. Artist answer movement ability certain fill war. Man experience kind.\nBuild happy who behavior option break effect."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
