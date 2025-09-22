@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline George",
+    "age": 2,
+    "address": {
+        "street": "Heather Land",
+        "city": "Tarastad",
+        "state": "Hawaii",
+        "zip": "98089"
+    },
+    "contact": {
+        "phone": "645-813-4433",
+        "servicePhone": "800154902"
+    },
+    "birthday": "2023-31-03",
+    "ip": "74.181.194.9",
+    "foo": "bar",
+    "profile": {
+        "about": "With fire sit field.\nCourse off arm alone human check fact. Recognize by plan special professional defense.\nProgram maintain make factor ball talk pressure. Very film ahead possible politics.",
+        "bio": "Manager clear owner right rest. Measure hospital just some last majority sport."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
