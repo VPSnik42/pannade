@@ -1,0 +1,25 @@
+{
+    "name": "Harold Wolfe",
+    "age": 7,
+    "address": {
+        "street": "Crystal Fork",
+        "city": "Nathanfort",
+        "state": "North Dakota",
+        "zip": "90837"
+    },
+    "contact": {
+        "phone": "(841)773-8809x88916",
+        "servicePhone": "800301683"
+    },
+    "birthday": "2018-05-09",
+    "ip": "36.213.166.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake politics wonder good beyond job role police. Most resource lead meeting mouth poor born.\nLevel cultural anyone car beat over clearly. Month on record and this market garden.",
+        "bio": "Inside according each oil onto eight draw.\nPractice if western news. White tree scene ok admit enough research.\nBusiness military call shoulder huge people. Still heavy physical."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
