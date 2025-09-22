@@ -1,0 +1,25 @@
+{
+    "name": "Robert Gordon",
+    "age": 110,
+    "address": {
+        "street": "Molly Mountains",
+        "city": "West Dorothytown",
+        "state": "Arizona",
+        "zip": "28978"
+    },
+    "contact": {
+        "phone": "7284131950",
+        "servicePhone": "800003388"
+    },
+    "birthday": "1915-18-12",
+    "ip": "54.199.84.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Specific something wait realize rest. Finally head today. Determine begin generation happy middle beat agency.\nChurch goal image. Eye subject hard bar shoulder choose news. Social just few term high.",
+        "bio": "Grow often which situation. Show born decision challenge should. Grow then fund doctor central church.\nSomething seem answer black somebody expect traditional laugh. Arm surface increase important."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
