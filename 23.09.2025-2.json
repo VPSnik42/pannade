@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Tara Nelson",
+    "age": 47,
+    "address": {
+        "street": "Stacey Isle",
+        "city": "Wilsonhaven",
+        "state": "Virginia",
+        "zip": "62431"
+    },
+    "contact": {
+        "phone": "752.525.2421",
+        "servicePhone": "800302696"
+    },
+    "birthday": "1978-25-05",
+    "ip": "129.199.235.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Institution specific clearly measure. Employee necessary continue property piece wear simply certainly.",
+        "bio": "Above act either director. Toward guess order a. Impact fire condition himself.\nBreak audience but cell. See concern image. Let of black audience road such really."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
