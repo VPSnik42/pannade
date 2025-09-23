@@ -1,0 +1,25 @@
+{
+    "name": "Lindsey Gardner",
+    "age": 94,
+    "address": {
+        "street": "Crawford Locks",
+        "city": "Thompsonhaven",
+        "state": "Utah",
+        "zip": "44573"
+    },
+    "contact": {
+        "phone": "+1-541-376-2297",
+        "servicePhone": "800516364"
+    },
+    "birthday": "1931-20-09",
+    "ip": "39.148.172.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Onto language range a other thought reflect suggest.\nFine side leg remember which hand. Everybody idea sometimes just huge organization lay. Window mission gas know. Phone yard move discover.",
+        "bio": "Offer sister require challenge man hour institution. Player part apply quickly."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
