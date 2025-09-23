@@ -1,0 +1,25 @@
+{
+    "name": "Grace Cobb",
+    "age": 37,
+    "address": {
+        "street": "Holmes Trafficway",
+        "city": "Davidside",
+        "state": "Indiana",
+        "zip": "47236"
+    },
+    "contact": {
+        "phone": "9317734497",
+        "servicePhone": "800705768"
+    },
+    "birthday": "1988-02-06",
+    "ip": "164.92.224.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Meet time ability organization off wind weight. Before ten spring wind herself condition with. Father already require property.",
+        "bio": "Mr where pick teach tell say treat hand. Pick anything protect performance whether.\nThrough life deal win produce. Too fine book quickly. Available over role senior morning meet."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
