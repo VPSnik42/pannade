@@ -1,0 +1,25 @@
+{
+    "name": "Frances Flores",
+    "age": 63,
+    "address": {
+        "street": "Rowland Throughway",
+        "city": "West Michael",
+        "state": "West Virginia",
+        "zip": "03042"
+    },
+    "contact": {
+        "phone": "912-451-6680",
+        "servicePhone": "800880964"
+    },
+    "birthday": "1962-25-12",
+    "ip": "44.222.88.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Well value computer course school. Suggest year course try. List security consumer game tree.\nCommunity difficult window actually feel yet. Can consider produce money our bad door.",
+        "bio": "Foot bar perhaps impact. Others then threat. May great century TV clear."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
