@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Davidson",
+    "age": 78,
+    "address": {
+        "street": "Barron Avenue",
+        "city": "Lake Brooke",
+        "state": "Arkansas",
+        "zip": "99949"
+    },
+    "contact": {
+        "phone": "(983)896-6147x55622",
+        "servicePhone": "800073838"
+    },
+    "birthday": "1947-17-07",
+    "ip": "185.232.253.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Would long various summer white director but. Court wind difficult consumer argue.\nMe sign weight visit medical. Form what thousand add hard water federal past. Win right financial resource.",
+        "bio": "Buy garden this language Mr myself side. Art tree chair matter. New type however summer. Wrong your pressure a key light grow.\nWe several fight director edge involve he until."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
