@@ -1,0 +1,25 @@
+{
+    "name": "David King",
+    "age": 113,
+    "address": {
+        "street": "Michael Court",
+        "city": "West Crystalbury",
+        "state": "Mississippi",
+        "zip": "01018"
+    },
+    "contact": {
+        "phone": "(825)951-0556x729",
+        "servicePhone": "800795173"
+    },
+    "birthday": "1912-01-08",
+    "ip": "31.56.112.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Dream indeed economic ability before top state. Serve staff quite my. Never former child while perform hand.",
+        "bio": "Kitchen whatever side nothing rest. Middle maybe stuff there natural give believe movement.\nReligious of first wall able ability. Fill should west. Life although wind beautiful smile suggest."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
