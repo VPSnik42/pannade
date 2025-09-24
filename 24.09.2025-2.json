@@ -1,0 +1,25 @@
+{
+    "name": "William Riggs",
+    "age": 26,
+    "address": {
+        "street": "Daniel Viaduct",
+        "city": "North Christopher",
+        "state": "Arizona",
+        "zip": "05031"
+    },
+    "contact": {
+        "phone": "4705459327",
+        "servicePhone": "800789028"
+    },
+    "birthday": "1999-17-03",
+    "ip": "18.245.223.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Ability especially scene fight sport gun. Thing war fight. Remain subject own recent old friend. Physical yourself teach southern friend.\nMust also class decide.",
+        "bio": "Close focus sure. Seem as of I land decade sign each.\nMyself sit change sea. Around up if practice."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
