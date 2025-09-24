@@ -1,0 +1,25 @@
+{
+    "name": "Lacey Sims",
+    "age": 88,
+    "address": {
+        "street": "Mario Pass",
+        "city": "Frankborough",
+        "state": "California",
+        "zip": "41457"
+    },
+    "contact": {
+        "phone": "001-919-762-8671",
+        "servicePhone": "800050500"
+    },
+    "birthday": "1937-08-06",
+    "ip": "126.44.181.143",
+    "foo": "bar",
+    "profile": {
+        "about": "And mouth here sister. Cost appear risk act investment receive learn guess. Benefit bit set it.",
+        "bio": "Thought industry hit night. Discover he born newspaper determine even. Board order should indicate new member.\nI cell major build daughter ahead financial. Especially feeling floor."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
