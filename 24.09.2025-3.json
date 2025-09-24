@@ -1,0 +1,25 @@
+{
+    "name": "David Martin",
+    "age": 11,
+    "address": {
+        "street": "Bonnie Mountain",
+        "city": "North Juanton",
+        "state": "Idaho",
+        "zip": "83764"
+    },
+    "contact": {
+        "phone": "(216)742-5632",
+        "servicePhone": "800120722"
+    },
+    "birthday": "2014-07-04",
+    "ip": "40.220.224.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone all theory five strong before head wide. Social world hospital. Affect until other until way sign specific.\nFamily economy perhaps soon want for step class. As administration cause between.",
+        "bio": "Against land party education. General whatever though night.\nAgain could occur thus yes heart newspaper. Establish left through expect."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
