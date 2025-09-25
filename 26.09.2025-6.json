@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Johnson",
+    "age": 4,
+    "address": {
+        "street": "Rivera Burg",
+        "city": "Shepardfort",
+        "state": "Louisiana",
+        "zip": "41808"
+    },
+    "contact": {
+        "phone": "(239)717-9435",
+        "servicePhone": "800586394"
+    },
+    "birthday": "2021-26-11",
+    "ip": "82.169.79.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Recently example kind want son adult but music.\nSpend recent behavior official attack pay because. Cover in agent ground particular effect.",
+        "bio": "Remember half magazine simple. Relate class respond likely music. Care course pass above heart."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
