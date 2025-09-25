@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Miller",
+    "age": 2,
+    "address": {
+        "street": "Phillips Fields",
+        "city": "Laneport",
+        "state": "Rhode Island",
+        "zip": "63736"
+    },
+    "contact": {
+        "phone": "592-659-3901x5119",
+        "servicePhone": "800368704"
+    },
+    "birthday": "2023-23-01",
+    "ip": "26.227.56.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Fund on us field future TV. Down girl political. Story notice herself.\nSuddenly single improve yes material detail leg. Arm management result couple six against. Would traditional couple.",
+        "bio": "Already seat effort success wife time consumer. Mean treat walk senior central painting choose. Walk become physical project marriage anyone color daughter. Whatever song stop job north pretty."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
