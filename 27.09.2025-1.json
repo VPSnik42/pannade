@@ -1,0 +1,25 @@
+{
+    "name": "Richard Cole",
+    "age": 99,
+    "address": {
+        "street": "Wu Squares",
+        "city": "East Melissa",
+        "state": "North Carolina",
+        "zip": "49344"
+    },
+    "contact": {
+        "phone": "(226)269-6757",
+        "servicePhone": "800910759"
+    },
+    "birthday": "1926-16-06",
+    "ip": "43.20.156.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Voice big authority set agent. That character share gas simply buy. Continue room hotel.",
+        "bio": "Break property draw catch summer why. Drive staff everyone represent candidate behavior."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
