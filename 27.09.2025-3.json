@@ -1,0 +1,25 @@
+{
+    "name": "Angelica Williams",
+    "age": 96,
+    "address": {
+        "street": "Lawson Groves",
+        "city": "West Patriciaburgh",
+        "state": "Michigan",
+        "zip": "48839"
+    },
+    "contact": {
+        "phone": "(648)439-0001",
+        "servicePhone": "800016325"
+    },
+    "birthday": "1929-12-09",
+    "ip": "135.120.109.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Play argue hair least recent real. Hundred eat letter fall. And environmental buy very specific box.\nMonth seat account benefit recent.",
+        "bio": "Significant hope without community by. Will kid our throughout begin letter.\nTurn right them. Value say their strong level enough various.\nHappen but must necessary. Pull often find think trial."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
