@@ -1,0 +1,25 @@
+{
+    "name": "Gerald Banks",
+    "age": 13,
+    "address": {
+        "street": "Wesley Prairie",
+        "city": "Aaronbury",
+        "state": "Montana",
+        "zip": "27650"
+    },
+    "contact": {
+        "phone": "(356)515-7481",
+        "servicePhone": "800875163"
+    },
+    "birthday": "2012-26-10",
+    "ip": "186.147.13.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Surface bank win recently. Already style bit talk fast. Order wind stay just painting young.\nHundred white personal two realize time forget. Clearly thought nearly dark. When policy hot carry worker.",
+        "bio": "Investment huge benefit weight late. Outside force truth church any.\nDebate heavy group pass book poor consider staff. Report agent somebody language evening who."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
