@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Tucker",
+    "age": 72,
+    "address": {
+        "street": "Gilmore Wall",
+        "city": "North Annmouth",
+        "state": "Hawaii",
+        "zip": "17975"
+    },
+    "contact": {
+        "phone": "897-654-6011x4014",
+        "servicePhone": "800995405"
+    },
+    "birthday": "1953-30-10",
+    "ip": "156.19.107.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Baby white population home music open. Wish month church reflect difference close.\nManagement top find less.",
+        "bio": "Cup amount huge crime ahead not coach. Then discussion seem. Decision ready consumer reality appear size reduce."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
