@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Fuller",
+    "age": 25,
+    "address": {
+        "street": "Mcgee Burg",
+        "city": "Lake Ryan",
+        "state": "Connecticut",
+        "zip": "08558"
+    },
+    "contact": {
+        "phone": "+1-636-590-6887x3476",
+        "servicePhone": "800185019"
+    },
+    "birthday": "2000-21-06",
+    "ip": "182.85.239.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Tree push administration case perform if. State everyone anyone impact husband affect experience. Home wife speech plant consumer indicate letter show.",
+        "bio": "Figure ok issue third. Expect themselves political performance authority film. Since understand major protect."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
