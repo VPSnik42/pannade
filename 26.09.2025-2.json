@@ -1,0 +1,25 @@
+{
+    "name": "Jose Ball",
+    "age": 113,
+    "address": {
+        "street": "Christine Wells",
+        "city": "Walkerbury",
+        "state": "New Jersey",
+        "zip": "85198"
+    },
+    "contact": {
+        "phone": "001-248-200-5566x1288",
+        "servicePhone": "800632994"
+    },
+    "birthday": "1912-07-07",
+    "ip": "176.252.68.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly kitchen new story difficult boy. Structure charge off responsibility kitchen.\nPeople young style drug rock factor.",
+        "bio": "Leader culture yes later follow feeling black. Language once remain.\nRaise especially include dark notice arrive. Edge evidence become within professional summer.\nBeyond environment money thing must."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
