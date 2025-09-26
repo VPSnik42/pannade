@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Mills",
+    "age": 98,
+    "address": {
+        "street": "Amy Gateway",
+        "city": "East Ann",
+        "state": "Texas",
+        "zip": "29710"
+    },
+    "contact": {
+        "phone": "+1-925-427-7736x4024",
+        "servicePhone": "800587314"
+    },
+    "birthday": "1927-10-02",
+    "ip": "11.179.187.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Recognize time order of late energy my. Interest say country almost seek. Have paper interest finish. Conference such task system weight turn various.",
+        "bio": "Southern away ago reach recent dinner environment. Company enter particularly during stop. Finally good or prevent."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
