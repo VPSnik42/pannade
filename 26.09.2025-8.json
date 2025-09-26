@@ -1,0 +1,25 @@
+{
+    "name": "Steven Baldwin",
+    "age": 29,
+    "address": {
+        "street": "Barber Ranch",
+        "city": "Micheleland",
+        "state": "West Virginia",
+        "zip": "85257"
+    },
+    "contact": {
+        "phone": "604-800-9216x34810",
+        "servicePhone": "800955365"
+    },
+    "birthday": "1996-05-10",
+    "ip": "215.245.23.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Prove nearly lawyer figure forward. Scientist surface expect important much agent after.",
+        "bio": "Draw call court decide avoid seem. Mind commercial will necessary wait food none high. Mouth message affect commercial rock economy night.\nThan nearly spring thank."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
