@@ -1,0 +1,25 @@
+{
+    "name": "Paul Bryan",
+    "age": 4,
+    "address": {
+        "street": "Mallory Courts",
+        "city": "Kennethtown",
+        "state": "California",
+        "zip": "98657"
+    },
+    "contact": {
+        "phone": "370-260-7595x306",
+        "servicePhone": "800507478"
+    },
+    "birthday": "2021-05-08",
+    "ip": "10.127.220.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Environmental member itself region like. Beat order rock instead later next audience. Five key career. Clearly beat southern Democrat pressure teach view always.",
+        "bio": "First energy gas hundred let expect environment.\nLocal knowledge real beat particular school. Ability item program feel. Receive effect time water new small herself."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
