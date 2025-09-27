@@ -1,0 +1,25 @@
+{
+    "name": "Robert Gonzalez",
+    "age": 22,
+    "address": {
+        "street": "Duarte Brooks",
+        "city": "Port Michael",
+        "state": "Rhode Island",
+        "zip": "99117"
+    },
+    "contact": {
+        "phone": "583-404-0881",
+        "servicePhone": "800870239"
+    },
+    "birthday": "2003-08-05",
+    "ip": "5.79.29.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Out TV lawyer least hard Mrs. These blue sure program chance responsibility education.\nMean me audience area. Later hold radio minute. Newspaper mission will beyond discussion necessary each.",
+        "bio": "Wonder police wife team daughter hair turn each. Well news audience walk significant itself.\nRequire American front great weight pass. American travel really."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
