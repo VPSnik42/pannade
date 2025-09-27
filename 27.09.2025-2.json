@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Taylor",
+    "age": 92,
+    "address": {
+        "street": "Allen Islands",
+        "city": "West Michaelfurt",
+        "state": "Florida",
+        "zip": "78323"
+    },
+    "contact": {
+        "phone": "544-985-8473x56244",
+        "servicePhone": "800608324"
+    },
+    "birthday": "1933-26-07",
+    "ip": "52.92.199.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Wait member reality certain statement. Prevent civil now machine already. Surface performance culture strong task present.",
+        "bio": "Yard establish college scene everybody TV. Claim would anyone ever. What hold seek bring.\nSea which everybody side population Mr. Thus little knowledge specific two help."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
